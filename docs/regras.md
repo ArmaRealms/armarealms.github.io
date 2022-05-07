@@ -97,7 +97,7 @@ A staff não devolve itens "roubados" de proteções.
 {% endhint %}
 
 {% hint style="danger" %}
-[Saiba o tempo offline para perca da proteção clicando aqui!](protecao/perca.md)
+[Saiba o tempo offline para perca da proteção clicando aqui!]
 {% endhint %}
 
 ### Regra 3.1 - Destruir o Mapa ou Construções! (Griefing) <a href="#3.1" id="3.1"></a>
