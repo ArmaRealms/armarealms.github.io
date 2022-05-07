@@ -38,7 +38,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'wiki Armageddon',
+        title: 'Wiki Armageddon',
         logo: {
           alt: 'armamc icon',
           src: 'img/logo.png',
