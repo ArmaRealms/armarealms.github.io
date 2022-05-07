@@ -4,8 +4,8 @@
   <ShortName>Wiki Armageddon</ShortName>
   <Description>Search Wiki Armageddon</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://site.armamc.com/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://site.armamc.com/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://site.armamc.com/opensearch.xml" />
-  <moz:SearchForm>https://site.armamc.com/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://wiki.armamc.com.br/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://wiki.armamc.com.br/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://wiki.armamc.com.br/opensearch.xml" />
+  <moz:SearchForm>https://wiki.armamc.com.br/</moz:SearchForm>
 </OpenSearchDescription>
