@@ -17,6 +17,16 @@ const config = {
   projectName: 'armageddonmc.github.io', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
+  i18n: {
+    defaultLocale: 'pt-BR',
+    locales: ['pt-BR'],
+    localeConfigs: {
+      en: {
+        label: 'Português do Brasil',
+        direction: 'ltr',
+        htmlLang: 'pt-BR',
+        calendar: 'gregory',
+    },
 
   presets: [
     [
