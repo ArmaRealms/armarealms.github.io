@@ -18,9 +18,8 @@ Use a barra de pesquisa da página para encontrar ajuda.
 * `/forum` - Listar o Fórum do servidor;
 * `/regras` - Listar link com as regras do servidor;
 * `/site` - Listar todos os sites do servidor;
-* `/vip` - Site da loja onde vende VIP, chave e outros produtos; 
+* `/vip` - Site da loja onde vende VIP, chave e outros produtos;
 * `/wiki` - Listar a Wiki do servidor;
-
 * `/vote` - Listar o site para votar no server;
 * `/votos` - Listar a quantidades de votos que você possui;
 * `/topvotos (página)` - Listar os jogadores que mais votaram no server;
@@ -47,7 +46,6 @@ Use a barra de pesquisa da página para encontrar ajuda.
 ## **Chat** <a id="chat"></a>
 
 #### Mensagem privada entre jogadores
-
 * `/m [jogador] [sua mensagem]` - Envie mensagens privadas para outro jogador;
 * `/m [jogador]` - Travar ou destravar mensagens privadas com outro jogador;
 * `/r [mensagem]` - Responda a última mensagem privada recebida;
@@ -61,7 +59,6 @@ Use a barra de pesquisa da página para encontrar ajuda.
 
 #### Mensagens para todo o servidor ou local
 * `/g [mensagem]` - Envie mensagem no canal global estando no chat local; 
-
 * `/l [mensagem]` - Envie mensagem no chat local estando no chat global;
 * `/join global` - Entre no chat global;
 * `/join local` - Entre no chat local (sua mensagem aparecerá apenas para jogadores que estiverem a 200 blocos);
@@ -69,9 +66,7 @@ Use a barra de pesquisa da página para encontrar ajuda.
 ## Proteção <a id="protecao"></a>
 
 #### Comandos principais
-
 * `/prot` ou `/plot` - Comandos para abrir o menu de proteção; 
-
 * `/claim (tamanho)` - Criar uma proteção no local que você estiver. Caso nenhum valor seja usado a proteção terá o tamanho de 10 blocos;
   * `/claim 10` - Protege 10 blocos para cada lado, tamanho de 21x21; 
 * `/extendclaim [tamanho]` - Aumentar o tamanho da proteção;
@@ -111,18 +106,15 @@ Use a barra de pesquisa da página para encontrar ajuda.
 * `/givepet [jogador]` - Doe seu animal de estimação para outro jogador.
 
 ## Teleporte <a id="teleporte"></a>
-
 * `/spawn` - Teleporte para o inicio do server;
 * `/wild` - Teleporte para um lugar aleatório do mapa;
 
 #### Definir sua casa no mapa
-
 * `/sethome [nome-da-home]` - Defina uma home;
 * `/home [nome-da-home]` - Teleporte para a home definida;
 * `/delhome [nome-da-home]` - Apague sua home; 
 
 #### Teleporte entre jogadores
-
 * `/tpa [jogador]` - Solicite a outro jogador teleporte até ele;
 * `/tpacancel` - Cancele a solicitação de teleporte enviada por você;
 * `/tpaccept` - Aceite solicitação de teleporte até você;
@@ -130,13 +122,11 @@ Use a barra de pesquisa da página para encontrar ajuda.
 * `/tptoggle` - Ative ou desative solicitações de teleporte até você;
 
 #### Warps do servidor <a id="warp"></a>
-
 * `/fps` - Teleporte para a arena FPS. \(mcMMO desativado\);
 * `/arena` - Teleporte para a arena. \(mcMMO ativado\);
 * `/camarote` - Teleporte para o camarote de eventos; 
 
 ## Warp de Jogadores <a id="pwarp"></a>
-
 * `/pwarp [warp]` - Teleportar para a warp de um jogador.
 * `/pwarp abrir [categoria]` - Abrir as warps da categoria.
 * `/pwarp ajuda` - Listar comandos do sistema de warp.
@@ -167,7 +157,6 @@ Use a barra de pesquisa da página para encontrar ajuda.
 * `/topsaldo (página)` - Liste os jogadores mais ricos do server;
 
 #### Comandos para acessar lojas <a id="loja"></a>
-
 * `/loja` ou `/shop`- Abra o menu de lojas do servidor, neste menu você acessa a loja do server e a loja dos jogadores;
 * `/sell hand [quantia]` - Vender a quantidade definida do item na mão;
 * `/sell handall` - Vender todos os itens do inventário igual ao item na mão; 
@@ -181,7 +170,6 @@ Use a barra de pesquisa da página para encontrar ajuda.
 * `/loteria toggleremindmsg` - Alterar notificações de sorteios da loteria.
 
 ## **Habilidades do mcMMO** <a id="mcmmo"></a>
-
 * `/[habilidade] ? (página)` - Abre o guia uma habilidade especifica;
   * `/acrobacia ? 1` - Abre o guia para a habilidade de acrobacia. 
 * `/[habilidade]` - Lista as estatísticas de uma habilidade especifica;
@@ -201,7 +189,6 @@ Use a barra de pesquisa da página para encontrar ajuda.
   * `/mmoxpbar show [habilidade]` - Visualizar a barra de XP de uma habilidade;
 
 ## Equipe do mcMMO <a id="equipe"></a>
-
 * `/p [on|off]` - Ativa ou desativa o chat da equipe;
   * `/p` - Alterna entre on e off o chat da equipe;
   * `/p [msg]` - Envie mensagens no chat da equipe sem entrar no chat.
@@ -219,25 +206,19 @@ Use a barra de pesquisa da página para encontrar ajuda.
 * `/party xpshare` - Para compatilhar XP com membros da equipe; 
 
 ## VIP <a id="vip"></a>
-
 * `/vipmenu` - Saiba o status do seu VIP;
-
 * `/kit mast` - Receber o KIT semanal Master;
 * `/kit prem` - Receber o KIT semanal Premium;
 * `/kit ulti` - Receber o KIT semanal Ultimate;
-
 * `/nick [novo-nick]` - Altere seu nick \(apenas cores, use /cores para listar todos os códigos\);
 * `/nick off` - Remover o nick alterado anteriormente; 
-
 * `/wb` - Abrir a bancada de trabalho virtual.
 * `/ec` - Abrir o baú do fim virtual;
 * `/craft` - Abrir o Super Craft virtual;
 * `/crafttoggle` - Ativar ou Desativa o Super Craft.
 * `/hat` - Colocar o bloco na mão no lugar do capacete; 
-
 * `/cor` - Abrir o menu de cores do chat;
 * `/cores` - Listar códigos de cores;
-
 * `/bloco` - Transformar itens em blocos. Apenas aqueles que possam ser transformados em itens novamente.
 * `/bloco (hand)`- Transforma o item que você estiver segundando em blocos;
 * `/bloco (inventory)` - Transforma todos os itens compatíveis do inventário em blocos.  

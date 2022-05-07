@@ -6,14 +6,19 @@ sidebar_position: 2
 
 # Regras
 
-{% hint style="danger" %}
-**Aceitamos Clientes Alternativos!** (TLauncher e Shiginima e etc..)\
-Se você possuir conta original e realizar a alteração do nome de perfil (nick) no site da mojang, você perderá todo o progresso realizado com o nick antigo nos servidores Armageddon, tome cuidado antes de alterar o seu nome de perfil!
-{% endhint %}
+:::danger Atenção!
 
-{% hint style="danger" %}
+**Aceitamos Clientes Alternativos!** (TLauncher e Shiginima e etc..)
+
+Se você possuir conta original e realizar a alteração do nome de perfil (nick) no site da mojang, você perderá todo o progresso realizado com o nick antigo nos servidores Armageddon, tome cuidado antes de alterar o seu nome de perfil!
+
+:::
+
+:::caution Aviso!
+
 Caso o jogador tente burlar uma punição a próxima punição será aplicada. Exemplos: Utilizar conta secundária durante tempo de punição, escrever em placa, livros e etc caso esteja silenciado e etc.
-{% endhint %}
+
+:::
 
 ## Regra 1 - Proibido Desrespeitar a Staff ou outros Membros! <a href="#1" id="1"></a>
 
@@ -21,9 +26,11 @@ Para que todos se divirtam, é essencial o respeito entre todos os jogadores e s
 
 > **Cyberbullying** é um tipo de **violência** praticada contra alguém **através da internet** ou de outras tecnologias relacionadas. Praticar _cyberbullying_ significa usar o espaço virtual para intimidar e hostilizar uma pessoa difamando, insultando ou atacando covardemente.
 
-{% hint style="warning" %}
-A staff se reserva ao direito de julgar o que será tratado como xingamento, bullying, racismo, homofobia, apologia a crimes e desrespeito a staff.
-{% endhint %}
+:::danger Atenção!
+
+ staff se reserva ao direito de julgar o que será tratado como xingamento, bullying, racismo, homofobia, apologia a crimes e desrespeito a staff.
+
+:::
 
 ### Regra 1.1 - Enviar Xingamentos e Bullyng entre Membros! <a href="#1.1" id="1.1"></a>
 
@@ -90,15 +97,18 @@ Programas ou qualquer meio para ganhar dinheiro ou itens de forma automática, g
 
 ## Regra 3 - Proibido Destruir Construções! <a href="#3" id="3"></a>
 
-{% hint style="warning" %}
+:::caution Aviso!
+
 Não será considerado "griefing" caso o jogador possua permissão na proteção.
 
 A staff não devolve itens "roubados" de proteções.
-{% endhint %}
+:::
 
-{% hint style="danger" %}
+:::danger Atenção!
+
 [Saiba o tempo offline para perca da proteção clicando aqui!]
-{% endhint %}
+
+:::
 
 ### Regra 3.1 - Destruir o Mapa ou Construções! (Griefing) <a href="#3.1" id="3.1"></a>
 
@@ -160,11 +170,13 @@ Exemplo: Envio de coins de baixo valor, pedidos de teleporte e diversos outros c
 
 Para evitar problemas futuros como por exemplo não conseguir expandir construções ou desentendimento entre jogadores, não construa perto de outro jogador sem permissão, sempre mantenha uma distância de uma construção a outra de 20 blocos ou assuma o risco de que se o jogador que construiu primeiro no local abrir ticket você terá sua proteção removida. Use `/trustnear <jogador>` para permitir que seu amigo crie proteções próximas da sua.
 
-{% hint style="info" %}
+:::info Info!
+
 Qualquer proteção a 20 blocos de distância de outra proteção será considerada próxima e poderá ser removida.
 
 Será levado em consideração na hora da avaliação do ticket a construção e não a proteção mais antiga no local.
-{% endhint %}
+
+:::
 
 #### Lista de Punições
 
@@ -208,9 +220,11 @@ Use o bom senso e tenha a menor quantidade de animais possível!
 
 Exclusão de entidades a cada dois minutos de forma automática.
 
-{% hint style="info" %}
+:::info Info!
+
 A remoção de animais, monstros e aldeões e geradores listados acima é realizada de forma automática e removerá também animais ou monstros renomeados e/ou domesticados. O sistema escolhe de forma aleatória qual entidade (animais, monstros e aldeões) em locais com excesso será removida.
-{% endhint %}
+
+:::
 
 ## Regra 7 - Proibido Abusar de Circuitos de Redstone! <a href="#7" id="7"></a>
 
@@ -226,10 +240,12 @@ Não utilize circuitos que abusam de bugs do minecraft para duplicar itens e etc
 * Ejetor e Liberador (20 por chunk);
 * Repetidor e Comparador (20 por chunk).
 
-{% hint style="info" %}
+:::info Info!
+
 Faça sistemas em locais separados para não carregar vários sistemas simultaneamente e lagar o servidor
 Para visualizar 1 chunk use F3+G (Tamanho de 16x16 blocos)
-{% endhint %}
+
+:::
 
 #### Lista de Punições
 
@@ -241,10 +257,12 @@ Para visualizar 1 chunk use F3+G (Tamanho de 16x16 blocos)
 
 > Cuidado ao enviar ou aceitar pedidos de teleporte!
 
-{% hint style="danger" %}
+:::danger Atenção!
+
 O servidor não se responsabiliza por compra ou venda de VIP, Chaves, TAG's e outros por coins realizadas entre jogadores fora da loja oficial.\
 Acesse a loja oficial em [https://loja.armamc.com](https://loja.armamc.com)
-{% endhint %}
+
+:::
 
 ### Regra 8.1 - Fazer Armadilha ou Enviar Chat Falso para Matar Jogadores! <a href="#8.1" id="8.1"></a>
 
@@ -304,8 +322,10 @@ Utilizar skins com conteúdo pornográfico ou pertubador não é permitido.
 1. Expulsão com aviso sobre skin inapropriada.
 2. Banimento permanente.
 
-{% hint style="info" %}
+:::info Info!
+
 **Todas as punições temporárias terão prazo de 90 dias.**
 
 Exemplo: Jogador silenciado por 2 horas ao realizar flood, caso não sofra nenhuma punição dentro dos próximos 90 dias, essa punição não será levada em conta nas próximas aplicações de punições.
-{% endhint %}
+
+:::
