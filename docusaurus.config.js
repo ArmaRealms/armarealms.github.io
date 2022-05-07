@@ -17,6 +17,18 @@ const config = {
   projectName: 'armageddonmc.github.io', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
+  i18n: {
+    defaultLocale: 'pt',
+    locales: ['pt'],
+    localeConfigs: {
+      pt: {
+        label: 'Português do Brasil',
+        direction: 'ltr',
+        htmlLang: 'pt-BR',
+        calendar: 'gregory',
+      },
+    },
+  },
 
   presets: [
     [
@@ -61,7 +73,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       algolia: {
-        apiKey: '5e7a6f28e2d32983fbe2900e1ead4239',
+        apiKey: '02fd6b5998c6f36763798105f37c5259',
         indexName: 'wiki',
         appId: '9T80JXEJKC', // Optional, if you run the DocSearch crawler on your own
         algoliaOptions: {} // Optional, if provided by Algolia
