@@ -61,7 +61,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       algolia: {
-        apiKey: '02fd6b5998c6f36763798105f37c5259',
+        apiKey: '5e7a6f28e2d32983fbe2900e1ead4239',
         indexName: 'wiki',
         appId: '9T80JXEJKC', // Optional, if you run the DocSearch crawler on your own
         algoliaOptions: {} // Optional, if provided by Algolia
