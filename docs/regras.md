@@ -7,17 +7,12 @@ sidebar_position: 2
 # Regras
 
 :::danger Atenção!
-
 **Aceitamos Clientes Alternativos!** (TLauncher e Shiginima e etc..)
-
 Se você possuir conta original e realizar a alteração do nome de perfil (nick) no site da mojang, você perderá todo o progresso realizado com o nick antigo nos servidores Armageddon, tome cuidado antes de alterar o seu nome de perfil!
-
 :::
 
 :::caution Aviso!
-
 Caso o jogador tente burlar uma punição a próxima punição será aplicada. Exemplos: Utilizar conta secundária durante tempo de punição, escrever em placa, livros e etc caso esteja silenciado e etc.
-
 :::
 
 ## Regra 1 - Proibido Desrespeitar a Staff ou outros Membros! <a href="#1" id="1"></a>
@@ -27,9 +22,7 @@ Para que todos se divirtam, é essencial o respeito entre todos os jogadores e s
 > **Cyberbullying** é um tipo de **violência** praticada contra alguém **através da internet** ou de outras tecnologias relacionadas. Praticar _cyberbullying_ significa usar o espaço virtual para intimidar e hostilizar uma pessoa difamando, insultando ou atacando covardemente.
 
 :::danger Atenção!
-
- staff se reserva ao direito de julgar o que será tratado como xingamento, bullying, racismo, homofobia, apologia a crimes e desrespeito a staff.
-
+A Staff se reserva ao direito de julgar o que será tratado como xingamento, bullying, racismo, homofobia, apologia a crimes e desrespeito a staff.
 :::
 
 ### Regra 1.1 - Enviar Xingamentos e Bullyng entre Membros! <a href="#1.1" id="1.1"></a>
@@ -98,16 +91,12 @@ Programas ou qualquer meio para ganhar dinheiro ou itens de forma automática, g
 ## Regra 3 - Proibido Destruir Construções! <a href="#3" id="3"></a>
 
 :::caution Aviso!
-
 Não será considerado "griefing" caso o jogador possua permissão na proteção.
-
-A staff não devolve itens "roubados" de proteções.
+A staff não devolve itens "roubados" dentro de proteções.
 :::
 
 :::danger Atenção!
-
-[Saiba o tempo offline para perca da proteção clicando aqui!]
-
+[Saiba o tempo offline para perca da proteção clicando aqui!](https://wiki.armamc.com.br/protecao/perca.md)
 :::
 
 ### Regra 3.1 - Destruir o Mapa ou Construções! (Griefing) <a href="#3.1" id="3.1"></a>
@@ -171,11 +160,8 @@ Exemplo: Envio de coins de baixo valor, pedidos de teleporte e diversos outros c
 Para evitar problemas futuros como por exemplo não conseguir expandir construções ou desentendimento entre jogadores, não construa perto de outro jogador sem permissão, sempre mantenha uma distância de uma construção a outra de 20 blocos ou assuma o risco de que se o jogador que construiu primeiro no local abrir ticket você terá sua proteção removida. Use `/trustnear <jogador>` para permitir que seu amigo crie proteções próximas da sua.
 
 :::info Info!
-
 Qualquer proteção a 20 blocos de distância de outra proteção será considerada próxima e poderá ser removida.
-
 Será levado em consideração na hora da avaliação do ticket a construção e não a proteção mais antiga no local.
-
 :::
 
 #### Lista de Punições
@@ -191,8 +177,6 @@ Será levado em consideração na hora da avaliação do ticket a construção e
 Devido a vários problemas com performance das versões atuais, não é possível acumular animais, mobs e aldeões em excesso na proteção!
 Use o bom senso e tenha a menor quantidade de animais possível!
 
-##### Lista de Limites
-
 **Limite de Aldeões**
 * Qualquer profissão e nível de troca = 10 a cada 30 blocos de distância
 * A distância de 30 blocos é ignorada na camada Y, ou seja, não é possível colocar 10 aldeões na camada 0 e 10 aldeões na camada 30.
@@ -207,10 +191,10 @@ Use o bom senso e tenha a menor quantidade de animais possível!
 * Papagaio e Axolote = 6 a cada 10 blocos de distância
 
 **Limites de Animais Passivos**
-* Abelhas = 4 a cada 5 blocos de distância
 * Galinha, Vaca, Porco, Ovelha e Coguvaca = 10 a cada 10 blocos de distância
-* Peixe Tropical, salmão, Bacalhau e Baiacu = 10 a cada 10 blocos de distância
-* Raposa, Panda e Urso Polar = 4 a cada 10 blocos de distância
+* Peixe Tropical, Salmão, Bacalhau e Baiacu = 10 a cada 10 blocos de distância
+* Raposa, Panda e Urso Polar = 6 a cada 10 blocos de distância
+* Abelhas = 4 a cada 5 blocos de distância
 * Golem de Ferro e Golem de Neve = 2 a cada 10 blocos de distância
 
 **Lista de Monstros**
@@ -221,9 +205,7 @@ Use o bom senso e tenha a menor quantidade de animais possível!
 Exclusão de entidades a cada dois minutos de forma automática.
 
 :::info Info!
-
 A remoção de animais, monstros e aldeões e geradores listados acima é realizada de forma automática e removerá também animais ou monstros renomeados e/ou domesticados. O sistema escolhe de forma aleatória qual entidade (animais, monstros e aldeões) em locais com excesso será removida.
-
 :::
 
 ## Regra 7 - Proibido Abusar de Circuitos de Redstone! <a href="#7" id="7"></a>
@@ -241,28 +223,19 @@ Não utilize circuitos que abusam de bugs do minecraft para duplicar itens e etc
 * Repetidor e Comparador (20 por chunk).
 
 :::info Info!
-
 Faça sistemas em locais separados para não carregar vários sistemas simultaneamente e lagar o servidor
 Para visualizar 1 chunk use F3+G (Tamanho de 16x16 blocos)
-
 :::
 
 #### Lista de Punições
 
-1.  Aviso permanente + Construção apagada;
+1. Aviso permanente + Construção apagada;
 2. Banimento temporário de 15 dias + Construção apagada;
 3. Banimento permanente.
 
 ## Regra 8 - Proibido Fazer Armadilha ou Chat Falso! <a href="#8" id="8"></a>
 
 > Cuidado ao enviar ou aceitar pedidos de teleporte!
-
-:::danger Atenção!
-
-O servidor não se responsabiliza por compra ou venda de VIP, Chaves, TAG's e outros por coins realizadas entre jogadores fora da loja oficial.\
-Acesse a loja oficial em [https://loja.armamc.com](https://loja.armamc.com)
-
-:::
 
 ### Regra 8.1 - Fazer Armadilha ou Enviar Chat Falso para Matar Jogadores! <a href="#8.1" id="8.1"></a>
 
@@ -288,6 +261,11 @@ Também é considerado chat falso qualquer mensagem que prejudique outro jogador
 Venda ou compra ou de conta, coins, itens vendidos pela loja ou itens dentro do jogo **por dinheiro real** é proibido e não deve ser realizado dentro do servidor em hipótese alguma.
 Caso a Administração descubra que ocorreu venda de itens por dinheiro real dentro do servidor, ambas as contas envolvidas serão banidas permanentemente.
 A punição de silenciamento acima é aplicada apenas em casos de divulgação dentro dos servidores.
+
+:::danger Atenção!
+O servidor não se responsabiliza por compra ou venda de VIP, Chaves, TAG's e outros por coins realizadas entre jogadores fora da loja oficial.
+Acesse a loja oficial em [https://loja.armamc.com](https://loja.armamc.com)
+:::
 
 #### Lista de Punições
 
@@ -323,9 +301,6 @@ Utilizar skins com conteúdo pornográfico ou pertubador não é permitido.
 2. Banimento permanente.
 
 :::info Info!
-
 **Todas as punições temporárias terão prazo de 90 dias.**
-
 Exemplo: Jogador silenciado por 2 horas ao realizar flood, caso não sofra nenhuma punição dentro dos próximos 90 dias, essa punição não será levada em conta nas próximas aplicações de punições.
-
 :::
