@@ -26,7 +26,9 @@ const config = {
         direction: 'ltr',
         htmlLang: 'pt-BR',
         calendar: 'gregory',
-    },
+      }
+    }
+  },
 
   presets: [
     [
