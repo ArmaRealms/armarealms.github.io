@@ -1,4 +1,14 @@
 {
-    "label": "Proteção",
-    "position": 6
-}
+    "position": 6,
+    "label": "protecao",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "red",
+    "link": {
+      "type": "protecao",
+      "title": "Proteção"
+    },
+    "customProps": {
+      "description": "Categoria para explicar como proteger terrenos no servidor"
+    }
+  }
