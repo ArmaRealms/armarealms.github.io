@@ -21,7 +21,6 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 **Desrespeitos entre membros** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para outros jogadores (mesmo que sendo seu "amigo").
 
 #### Lista de Punições
-
 1. Silenciamento temporário de 2 horas;
 2. Silenciamento temporário de 2 dias;
 3. Silenciamento temporário de 5 dias;
@@ -34,7 +33,6 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 **Desrespeitos com a Staff** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para a Staff.
 
 #### Lista de Punições
-
 1. Silenciamento temporário de 7 dias;
 2. Banimento temporário de 30 dias;
 3. Banimento permanente.
@@ -42,7 +40,6 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 ### Regra 1.3 - Racismo, Homofobia, Apologia a Crimes! {#1-3}
 
 #### Lista de Punições
-
 1. Banimento permanente. **(Sem direito a compra de UNBAN)**
 
 :::danger Atenção!
@@ -62,7 +59,6 @@ Utilização de programas ou qualquer forma para realizar tarefas automáticas �
 Programas ou mods para voar, correr mirar ou atacar mais rápido do que o normal, texturas para encontrar minérios e outros blocos e etc..
 
 #### Lista de Punições
-
 1. Banimento permanente.
 
 ### Regra 2.2 - Usar Métodos Ilegais para Aumentar Habilidades! {#2-2}
@@ -70,7 +66,6 @@ Programas ou mods para voar, correr mirar ou atacar mais rápido do que o normal
 Programas ou qualquer meio para aumentar habilidades de forma automática, geralmente utilizando sistema ant-afk e macro/auto-clicker.
 
 #### Lista de Punições
-
 1. Resete da habilidade + Banimento temporário de 7 dias;
 2. Resete da habilidade + Banimento permanente.
 
@@ -79,7 +74,6 @@ Programas ou qualquer meio para aumentar habilidades de forma automática, geral
 Programas ou qualquer meio para ganhar dinheiro ou itens de forma automática, geralmente utilizando sistema ant-afk e macro/auto-clicker.
 
 #### Lista de Punições
-
 1. Resete do saldo + Banimento temporário de 7 dias;
 2. Resete do saldo + Banimento permanente.
 
@@ -102,7 +96,6 @@ Não é permitido quebrar construções de outros jogadores, colocar ou remover 
 > Ao encontrar terrenos sem proteção é permitido pegar itens de baús, fornalhas, shulkerbox's e etc, é permitido quebrar blocos de alto valor como sinalizador, shulkerbox's, blocos de minérios, spawners e etc..
 
 #### Lista de Punições
-
 1. Banimento temporário de 7 dias;
 2. Banimento permanente.
 
@@ -111,7 +104,6 @@ Não é permitido quebrar construções de outros jogadores, colocar ou remover 
 Não é permitido fazer mapas ou construções obscenas.
 
 #### Lista de Punições
-
 1. Banimento permanente.
 
 ## Regra 4 - Proibido Fazer Spam ou Flood! {#4}
@@ -127,7 +119,6 @@ Qualquer método para incitar flood em massa por todos os jogadores é passivo d
 Exemplo: Primeiro jogador que enviar X no chat ganha Y de prêmio.
 
 #### Lista de Punições
-
 1. Silenciamento temporário de 30 minutos;
 2. Silenciamento temporário de 2 horas;
 3. Silenciamento temporário de 2 dias;
@@ -140,7 +131,6 @@ Enviar comandos com objetivo de floodar o chat de outro jogador é contra as reg
 Exemplo: Envio de coins de baixo valor, pedidos de teleporte e diversos outros comandos.
 
 #### Lista de Punições
-
 1. Silenciamento temporário de 30 minutos;
 2. Silenciamento temporário de 2 horas;
 3. Silenciamento temporário de 2 dias;
@@ -149,7 +139,6 @@ Exemplo: Envio de coins de baixo valor, pedidos de teleporte e diversos outros c
 ### Regra 4.3 - Divulgar outros servidores! {#4-3}
 
 #### Lista de Punições
-
 1. Banimento Permanente
 
 ## Regra 5 - Proibido Construir Próximo a outro Jogador! {#5}
@@ -165,11 +154,8 @@ Será levado em consideração na hora da avaliação do ticket a construção e
 :::
 
 #### Lista de Punições
-
 1. Aviso permanente + Proteção e construção apagada;
-
 2. Banimento temporário de 7 dias + Proteção e construções apagadas;
-
 3. Banimento permanente + Proteção e construções apagadas;
 
 ## Regra 6 - Proibido Acumular Entidades em Excesso! {#6}
@@ -215,7 +201,6 @@ Não faça circuitos de redstone que utilizem grande quantidade de redstone, pis
 Não utilize circuitos que abusam de bugs do minecraft para duplicar itens e etc.
 
 #### Lista de Limites
-
 * Pistão e Pistão Grudento (20 por chunk);
 * Funil (20 por chunk);
 * Observador (20 por chunk);
@@ -229,7 +214,6 @@ Para visualizar 1 chunk use F3+G (Tamanho de 16x16 blocos)
 :::
 
 #### Lista de Punições
-
 1. Aviso permanente + Construção apagada;
 2. Banimento temporário de 15 dias + Construção apagada;
 3. Banimento permanente.
@@ -243,7 +227,6 @@ Para visualizar 1 chunk use F3+G (Tamanho de 16x16 blocos)
 Armadilha ou _trap_ é todo sistema que não dê chance de defesa ao oponente.
 
 #### Lista de Punições
-
 1. Banimento temporário de 7 dias;
 2. Banimento permanente.
 
@@ -254,7 +237,6 @@ Chat falso ou _fake chat_ é toda ação para enganar ou persuadir um jogador a 
 Também é considerado chat falso qualquer mensagem que prejudique outro jogador onde ocorre perca de itens ou coins.
 
 #### Lista de Punições
-
 1. Banimento temporário de 7 dias;
 2. Banimento permanente.
 
@@ -273,7 +255,6 @@ Acesse a loja oficial em [https://loja.armamc.com](https://loja.armamc.com)
 :::
 
 #### Lista de Punições
-
 1. Silenciamento temporário de 2 dias;
 2. Banimento permanente de ambas as contas.
 
@@ -290,7 +271,6 @@ Exemplos: Utilizar conta secundária durante tempo de punição, escrever em pla
 Utilizar conta secundária para burlar uma punição ou quebrar a regra de forma intencional não é permitido.
 
 #### Lista de Punições
-
 1. Banimento permanente de ambas as contas.
 
 ### Regra 9.2 - Utilizar Nickname Inapropriado! {#9-2}
@@ -298,7 +278,6 @@ Utilizar conta secundária para burlar uma punição ou quebrar a regra de forma
 Utilizar nickname inapropriado não é permitido.
 
 #### Lista de Punições
-
 1. Expulsão com aviso sobre nickname inapropriado.
 2. Banimento permanente.
 
@@ -307,7 +286,6 @@ Utilizar nickname inapropriado não é permitido.
 Utilizar skins com conteúdo pornográfico ou pertubador não é permitido.
 
 #### Lista de Punições
-
 1. Expulsão com aviso sobre skin inapropriada.
 2. Banimento permanente.
 
