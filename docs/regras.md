@@ -7,23 +7,14 @@ sidebar_position: 2
 # Regras
 
 :::danger Atenção!
-**Aceitamos Clientes Alternativos!** (TLauncher e Shiginima e etc..)\
-Se você possuir conta original e realizar a alteração do nome de perfil (nick) no site da mojang, você perderá todo o progresso realizado com o nick antigo nos servidores Armageddon, tome cuidado antes de alterar o seu nome de perfil!
-:::
+**Aceitamos Clientes Alternativos!** (TLauncher e Shiginima e etc..)
 
-:::caution Aviso!
-Caso o jogador tente burlar uma punição a próxima punição será aplicada. Exemplos: Utilizar conta secundária durante tempo de punição, escrever em placa, livros e etc caso esteja silenciado e etc.
+Se você possuir conta original e realizar a alteração do nome de perfil (nick) no site da mojang, você perderá todo o progresso realizado com o nick antigo nos servidores Armageddon, tome cuidado antes de alterar o seu nome de perfil!
 :::
 
 ## Regra 1 - Proibido Desrespeitar a Staff ou outros Membros! {#1}
 
-Para que todos se divirtam, é essencial o respeito entre todos os jogadores e staff. 
-
 > **Cyberbullying** é um tipo de **violência** praticada contra alguém **através da internet** ou de outras tecnologias relacionadas. Praticar _cyberbullying_ significa usar o espaço virtual para intimidar e hostilizar uma pessoa difamando, insultando ou atacando covardemente.
-
-:::danger Atenção!
-A Staff se reserva ao direito de julgar o que será tratado como xingamento, bullying, racismo, homofobia, apologia a crimes e desrespeito a staff.
-:::
 
 ### Regra 1.1 - Enviar Xingamentos e Bullyng entre Membros! {#1-1}
 
@@ -53,6 +44,10 @@ A Staff se reserva ao direito de julgar o que será tratado como xingamento, bul
 #### Lista de Punições
 
 1. Banimento permanente. **(Sem direito a compra de UNBAN)**
+
+:::danger Atenção!
+A Staff se reserva ao direito de julgar o que será tratado como xingamento, bullying, racismo, homofobia, apologia a crimes e desrespeito a staff.
+:::
 
 ## Regra 2 - Proibido Usar Métodos Ilegais para Vantagens Gerais! {#2}
 
@@ -92,11 +87,12 @@ Programas ou qualquer meio para ganhar dinheiro ou itens de forma automática, g
 
 :::caution Aviso!
 Não será considerado "griefing" caso o jogador possua permissão na proteção.
+
 A staff não devolve itens "roubados" dentro de proteções.
 :::
 
-:::danger Atenção!
-[Saiba o tempo offline para perca da proteção clicando aqui!](https://wiki.armamc.com.br/protecao/perca.md)
+:::danger [Saiba o tempo offline para perca da proteção clicando aqui!](https://wiki.armamc.com.br/protecao/perca.md)
+
 :::
 
 ### Regra 3.1 - Destruir o Mapa ou Construções! (Griefing) {#3-1}
@@ -124,8 +120,10 @@ Não é permitido fazer mapas ou construções obscenas.
 
 ### Regra 4.1 - Fazer Flood ou Spam por Mensagem! {#4-1}
 
-Enviar a mesma mensagem várias vezes no chat dentro de um curto espaço de tempo não é permitido!\
-Qualquer método para incitar flood em massa por todos os jogadores é passivo de punição!\
+Enviar a mesma mensagem várias vezes no chat dentro de um curto espaço de tempo não é permitido!
+
+Qualquer método para incitar flood em massa por todos os jogadores é passivo de punição!
+
 Exemplo: Primeiro jogador que enviar X no chat ganha Y de prêmio.
 
 #### Lista de Punições
@@ -137,7 +135,8 @@ Exemplo: Primeiro jogador que enviar X no chat ganha Y de prêmio.
 
 ### Regra 4.2 - Fazer Flood ou Spam por Comando! {#4-2}
 
-Enviar comandos com objetivo de floodar o chat de outro jogador é contra as regras.\
+Enviar comandos com objetivo de floodar o chat de outro jogador é contra as regras.
+
 Exemplo: Envio de coins de baixo valor, pedidos de teleporte e diversos outros comandos.
 
 #### Lista de Punições
@@ -161,6 +160,7 @@ Para evitar problemas futuros como por exemplo não conseguir expandir construç
 
 :::info Info!
 Qualquer proteção a 20 blocos de distância de outra proteção será considerada próxima e poderá ser removida.
+
 Será levado em consideração na hora da avaliação do ticket a construção e não a proteção mais antiga no local.
 :::
 
@@ -223,7 +223,8 @@ Não utilize circuitos que abusam de bugs do minecraft para duplicar itens e etc
 * Repetidor e Comparador (20 por chunk).
 
 :::info Info!
-Faça sistemas em locais separados para não carregar vários sistemas simultaneamente e lagar o servidor
+Faça sistemas em locais separados para não carregar vários sistemas simultaneamente e lagar o servidor.
+
 Para visualizar 1 chunk use F3+G (Tamanho de 16x16 blocos)
 :::
 
@@ -249,6 +250,7 @@ Armadilha ou _trap_ é todo sistema que não dê chance de defesa ao oponente.
 ### Regra 8.2 - Enviar Chat Falso para Prejudicar Jogadores! {#8-2}
 
 Chat falso ou _fake chat_ é toda ação para enganar ou persuadir um jogador a aceitar ou enviar um pedido de teleporte e em seguida matá-lo.
+
 Também é considerado chat falso qualquer mensagem que prejudique outro jogador onde ocorre perca de itens ou coins.
 
 #### Lista de Punições
@@ -259,11 +261,14 @@ Também é considerado chat falso qualquer mensagem que prejudique outro jogador
 ### Regra 8.3 - Divulgação e ou Venda de Contas ou Itens por Dinheiro Real! {#8-3}
 
 Venda ou compra ou de conta, coins, itens vendidos pela loja ou itens dentro do jogo **por dinheiro real** é proibido e não deve ser realizado dentro do servidor em hipótese alguma.
+
 Caso a Administração descubra que ocorreu venda de itens por dinheiro real dentro do servidor, ambas as contas envolvidas serão banidas permanentemente.
+
 A punição de silenciamento acima é aplicada apenas em casos de divulgação dentro dos servidores.
 
 :::danger Atenção!
 O servidor não se responsabiliza por compra ou venda de VIP, Chaves, TAG's e outros por coins realizadas entre jogadores fora da loja oficial.
+
 Acesse a loja oficial em [https://loja.armamc.com](https://loja.armamc.com)
 :::
 
@@ -273,6 +278,12 @@ Acesse a loja oficial em [https://loja.armamc.com](https://loja.armamc.com)
 2. Banimento permanente de ambas as contas.
 
 ## Regra 9 - Burlar Punição, Utilizar Nickname ou Skin Inapropriada! {#9}
+
+:::caution Aviso!
+Caso o jogador tente burlar uma punição a próxima punição será aplicada.
+
+Exemplos: Utilizar conta secundária durante tempo de punição, escrever em placa, livros e etc caso esteja silenciado e etc.
+:::
 
 ### Regra 9.1 - Utilizar Conta Falsa para Burlar Punição! {#9-1}
 
@@ -302,5 +313,6 @@ Utilizar skins com conteúdo pornográfico ou pertubador não é permitido.
 
 :::info Info!
 **Todas as punições temporárias terão prazo de 90 dias.**
+
 Exemplo: Jogador silenciado por 2 horas ao realizar flood, caso não sofra nenhuma punição dentro dos próximos 90 dias, essa punição não será levada em conta nas próximas aplicações de punições.
 :::
