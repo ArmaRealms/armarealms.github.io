@@ -25,7 +25,7 @@ Para que todos se divirtam, é essencial o respeito entre todos os jogadores e s
 A Staff se reserva ao direito de julgar o que será tratado como xingamento, bullying, racismo, homofobia, apologia a crimes e desrespeito a staff.
 :::
 
-### Regra 1.1 - Enviar Xingamentos e Bullyng entre Membros! {#1.1}
+### Regra 1.1 - Enviar Xingamentos e Bullyng entre Membros! {#1-1}
 
 **Desrespeitos entre membros** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para outros jogadores (mesmo que sendo seu "amigo").
 
@@ -38,7 +38,7 @@ A Staff se reserva ao direito de julgar o que será tratado como xingamento, bul
 5. Banimento temporário de 15 dias;
 6. Banimento permanente.
 
-### Regra 1.2 - Enviar Xingamentos e Desrespeito a Staff! {#1.2}
+### Regra 1.2 - Enviar Xingamentos e Desrespeito a Staff! {#1-2}
 
 **Desrespeitos com a Staff** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para a Staff.
 
@@ -48,7 +48,7 @@ A Staff se reserva ao direito de julgar o que será tratado como xingamento, bul
 2. Banimento temporário de 30 dias;
 3. Banimento permanente.
 
-### Regra 1.3 - Racismo, Homofobia, Apologia a Crimes! {#1.3}
+### Regra 1.3 - Racismo, Homofobia, Apologia a Crimes! {#1-3}
 
 #### Lista de Punições
 
@@ -62,7 +62,7 @@ O uso de clientes, programas, modificações (mods) ou texturas para voar, encon
 
 Utilização de programas ou qualquer forma para realizar tarefas automáticas é proibido incluindo colocar ou remover blocos, burlar sistema ant-AFK, macro/auto-clicker em mouses sendo eles por software, hardware, elásticos, pesos, alteração de tecla para atacar e etc.
 
-### Regra 2.1 - Usar Métodos Ilegais para Vantagens Gerais! {#2.1}
+### Regra 2.1 - Usar Métodos Ilegais para Vantagens Gerais! {#2-1}
 
 Programas ou mods para voar, correr mirar ou atacar mais rápido do que o normal, texturas para encontrar minérios e outros blocos e etc..
 
@@ -70,7 +70,7 @@ Programas ou mods para voar, correr mirar ou atacar mais rápido do que o normal
 
 1. Banimento permanente.
 
-### Regra 2.2 - Usar Métodos Ilegais para Aumentar Habilidades! {#2.2}
+### Regra 2.2 - Usar Métodos Ilegais para Aumentar Habilidades! {#2-2}
 
 Programas ou qualquer meio para aumentar habilidades de forma automática, geralmente utilizando sistema ant-afk e macro/auto-clicker.
 
@@ -79,7 +79,7 @@ Programas ou qualquer meio para aumentar habilidades de forma automática, geral
 1. Resete da habilidade + Banimento temporário de 7 dias;
 2. Resete da habilidade + Banimento permanente.
 
-### Regra 2.3 - Usar Métodos Ilegais para Ganhar Dinheiro ou Itens! {#2.3}
+### Regra 2.3 - Usar Métodos Ilegais para Ganhar Dinheiro ou Itens! {#2-3}
 
 Programas ou qualquer meio para ganhar dinheiro ou itens de forma automática, geralmente utilizando sistema ant-afk e macro/auto-clicker.
 
@@ -99,7 +99,7 @@ A staff não devolve itens "roubados" dentro de proteções.
 [Saiba o tempo offline para perca da proteção clicando aqui!](https://wiki.armamc.com.br/protecao/perca.md)
 :::
 
-### Regra 3.1 - Destruir o Mapa ou Construções! (Griefing) {#3.1}
+### Regra 3.1 - Destruir o Mapa ou Construções! (Griefing) {#3-1}
 
 Não é permitido quebrar construções de outros jogadores, colocar ou remover blocos aleatórios pelo mapa, colocar lava ou água pelo mapa de forma aleatória com o objetivo de destruir o mapa.
 
@@ -110,7 +110,7 @@ Não é permitido quebrar construções de outros jogadores, colocar ou remover 
 1. Banimento temporário de 7 dias;
 2. Banimento permanente.
 
-### Regra 3.2 - Construir MapArts ou Construções Obscenas! {#3.2}
+### Regra 3.2 - Construir MapArts ou Construções Obscenas! {#3-2}
 
 Não é permitido fazer mapas ou construções obscenas.
 
@@ -122,7 +122,7 @@ Não é permitido fazer mapas ou construções obscenas.
 
 > Floodar vem da palavra em inglês: flood que significa enchente, mas na internet significa encher um chat online com a mesma mensagem repetidamente várias vezes seguidas.
 
-### Regra 4.1 - Fazer Flood ou Spam por Mensagem! {#4.1}
+### Regra 4.1 - Fazer Flood ou Spam por Mensagem! {#4-1}
 
 Enviar a mesma mensagem várias vezes no chat dentro de um curto espaço de tempo não é permitido!\
 Qualquer método para incitar flood em massa por todos os jogadores é passivo de punição!\
@@ -135,7 +135,7 @@ Exemplo: Primeiro jogador que enviar X no chat ganha Y de prêmio.
 3. Silenciamento temporário de 2 dias;
 4. Banimento temporário de 7 dias;
 
-### Regra 4.2 - Fazer Flood ou Spam por Comando! {#4.2}
+### Regra 4.2 - Fazer Flood ou Spam por Comando! {#4-2}
 
 Enviar comandos com objetivo de floodar o chat de outro jogador é contra as regras.\
 Exemplo: Envio de coins de baixo valor, pedidos de teleporte e diversos outros comandos.
@@ -147,7 +147,7 @@ Exemplo: Envio de coins de baixo valor, pedidos de teleporte e diversos outros c
 3. Silenciamento temporário de 2 dias;
 4. Banimento temporário de 7 dias;
 
-### Regra 4.3 - Divulgar outros servidores! {#4.3}
+### Regra 4.3 - Divulgar outros servidores! {#4-3}
 
 #### Lista de Punições
 
@@ -237,7 +237,7 @@ Para visualizar 1 chunk use F3+G (Tamanho de 16x16 blocos)
 
 > Cuidado ao enviar ou aceitar pedidos de teleporte!
 
-### Regra 8.1 - Fazer Armadilha ou Enviar Chat Falso para Matar Jogadores! {#8.1}
+### Regra 8.1 - Fazer Armadilha ou Enviar Chat Falso para Matar Jogadores! {#8-1}
 
 Armadilha ou _trap_ é todo sistema que não dê chance de defesa ao oponente.
 
@@ -246,7 +246,7 @@ Armadilha ou _trap_ é todo sistema que não dê chance de defesa ao oponente.
 1. Banimento temporário de 7 dias;
 2. Banimento permanente.
 
-### Regra 8.2 - Enviar Chat Falso para Prejudicar Jogadores! {#8.2}
+### Regra 8.2 - Enviar Chat Falso para Prejudicar Jogadores! {#8-2}
 
 Chat falso ou _fake chat_ é toda ação para enganar ou persuadir um jogador a aceitar ou enviar um pedido de teleporte e em seguida matá-lo.
 Também é considerado chat falso qualquer mensagem que prejudique outro jogador onde ocorre perca de itens ou coins.
@@ -256,7 +256,7 @@ Também é considerado chat falso qualquer mensagem que prejudique outro jogador
 1. Banimento temporário de 7 dias;
 2. Banimento permanente.
 
-### Regra 8.3 - Divulgação e ou Venda de Contas ou Itens por Dinheiro Real! {#8.3}
+### Regra 8.3 - Divulgação e ou Venda de Contas ou Itens por Dinheiro Real! {#8-3}
 
 Venda ou compra ou de conta, coins, itens vendidos pela loja ou itens dentro do jogo **por dinheiro real** é proibido e não deve ser realizado dentro do servidor em hipótese alguma.
 Caso a Administração descubra que ocorreu venda de itens por dinheiro real dentro do servidor, ambas as contas envolvidas serão banidas permanentemente.
@@ -274,7 +274,7 @@ Acesse a loja oficial em [https://loja.armamc.com](https://loja.armamc.com)
 
 ## Regra 9 - Burlar Punição, Utilizar Nickname ou Skin Inapropriada! {#9}
 
-### Regra 9.1 - Utilizar Conta Falsa para Burlar Punição! {#9.1}
+### Regra 9.1 - Utilizar Conta Falsa para Burlar Punição! {#9-1}
 
 Utilizar conta secundária para burlar uma punição ou quebrar a regra de forma intencional não é permitido.
 
@@ -282,7 +282,7 @@ Utilizar conta secundária para burlar uma punição ou quebrar a regra de forma
 
 1. Banimento permanente de ambas as contas.
 
-### Regra 9.2 - Utilizar Nickname Inapropriado! {#9.2}
+### Regra 9.2 - Utilizar Nickname Inapropriado! {#9-2}
 
 Utilizar nickname inapropriado não é permitido.
 
@@ -291,7 +291,7 @@ Utilizar nickname inapropriado não é permitido.
 1. Expulsão com aviso sobre nickname inapropriado.
 2. Banimento permanente.
 
-### Regra 9.3 - Utilizar Skin  Inapropriada! {#9.3}
+### Regra 9.3 - Utilizar Skin  Inapropriada! {#9-3}
 
 Utilizar skins com conteúdo pornográfico ou pertubador não é permitido.
 
