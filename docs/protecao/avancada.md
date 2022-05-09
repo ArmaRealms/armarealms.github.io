@@ -16,9 +16,9 @@ Exemplo: `/claim 10` - Protegerá 10 blocos para cada lado onde você estiver.
 
 Digite `/claimexpand <tamanho>` virado para a direção que deseja expandir.
 
-Exemplo 1: `/claimexpand 10` - Expandirá 10 blocos para a direção que você estiver olhando.
+Exemplo 1: `/claimexpand 10` - Expande em 10 blocos para a direção que você estiver olhando.
 
-Exemplo 2: `/claimexpand -5` - Diminuirá em 5 blocos a proteção na direção que você estiver olhando.
+Exemplo 2: `/claimexpand -5` - Diminui em 5 blocos a proteção na direção que você estiver olhando.
 
 ## **Excluir Sub-Proteção**
 

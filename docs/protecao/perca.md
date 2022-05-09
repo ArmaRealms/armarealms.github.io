@@ -60,7 +60,7 @@ sidebar_position: 4
   * O tempo pode variar por motivos de força maior.
 
 #### **Motivo**
-:::danger [Regra 5 - Proibido Construir Próximo a outro Jogador!](/docs/regras.md)
+:::danger [Regra 5 - Proibido Construir Próximo a outro Jogador!](../regras.md)
 ```
 Não construa próximo a outro jogador. Para evitar problemas futuros como por exemplo expansões da proteção ou desentendimento entre jogadores, não construa perto de outro jogador sem permissão. Você poderá ter seu terreno ou construções apagadas a qualquer momento.
 ```
