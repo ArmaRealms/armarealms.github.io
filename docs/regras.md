@@ -2,6 +2,7 @@
 title: Regras
 description: Regras básicas para que você se divirta o máximo possível!
 sidebar_position: 2
+hide_table_of_contents: true
 ---
 
 # Regras
