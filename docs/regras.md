@@ -85,7 +85,7 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 A staff não devolve itens "roubados" dentro de proteções.
 :::
 
-:::danger [Saiba o tempo offline para perca da proteção clicando aqui!](../protecao/perca.md)
+:::danger [Saiba o tempo offline para perca da proteção clicando aqui!](/protecao/perca)
 
 :::
 
