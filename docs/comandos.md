@@ -10,7 +10,7 @@ Argumentos entre \[ \] são obrigatórios - Argumentos entre \( \) são opcionai
 
 Use a barra de pesquisa da página para encontrar ajuda.
 
-## **Diversos** <a id="diversos"></a>
+## **Diversos**
 
 #### Links com informações
 * `/ajuda` - Listar comandos do servidor;
@@ -43,7 +43,7 @@ Use a barra de pesquisa da página para encontrar ajuda.
 * `/skin clear` - Remove sua skin;
 * `/skin update` - Atualiza sua skin; 
 
-## **Chat** <a id="chat"></a>
+## **Chat**
 
 #### Mensagem privada entre jogadores
 * `/m [jogador] [sua mensagem]` - Envie mensagens privadas para outro jogador;
@@ -63,7 +63,7 @@ Use a barra de pesquisa da página para encontrar ajuda.
 * `/join global` - Entre no chat global;
 * `/join local` - Entre no chat local (sua mensagem aparecerá apenas para jogadores que estiverem a 200 blocos);
 
-## Proteção <a id="protecao"></a>
+## Proteção
 
 #### Comandos principais
 * `/prot` ou `/plot` - Comandos para abrir o menu de proteção; 
@@ -105,9 +105,12 @@ Use a barra de pesquisa da página para encontrar ajuda.
 * `/claimexplosions` - Alterna a proteção contra explosões nos terrenos protegidos; 
 * `/givepet [jogador]` - Doe seu animal de estimação para outro jogador.
 
-## Teleporte <a id="teleporte"></a>
+## Teleporte  <a id="teleporte"></a>
 * `/spawn` - Teleporte para o inicio do server;
 * `/wild` - Teleporte para um lugar aleatório do mapa;
+* `/fps` - Teleporte para a arena FPS. \(mcMMO desativado\);
+* `/arena` - Teleporte para a arena. \(mcMMO ativado\);
+* `/camarote` - Teleporte para o camarote de eventos; 
 
 #### Definir sua casa no mapa
 * `/sethome [nome-da-home]` - Defina uma home;
@@ -121,12 +124,7 @@ Use a barra de pesquisa da página para encontrar ajuda.
 * `/tpdeny` - Negue solicitação de teleporte até você; 
 * `/tptoggle` - Ative ou desative solicitações de teleporte até você;
 
-#### Warps do servidor <a id="warp"></a>
-* `/fps` - Teleporte para a arena FPS. \(mcMMO desativado\);
-* `/arena` - Teleporte para a arena. \(mcMMO ativado\);
-* `/camarote` - Teleporte para o camarote de eventos; 
-
-## Warp de Jogadores <a id="pwarp"></a>
+## Warps
 * `/pwarp [warp]` - Teleportar para a warp de um jogador.
 * `/pwarp abrir [categoria]` - Abrir as warps da categoria.
 * `/pwarp ajuda` - Listar comandos do sistema de warp.
@@ -147,7 +145,7 @@ Use a barra de pesquisa da página para encontrar ajuda.
 * `/pwarp senha set/remove [warp] [senha]` - Senha de uma warp.
 * `/pwarp travar [warp]` - Travar ou Destravar uma warp.
 
-## Economia <a id="economia"></a>
+## Economia
 
 #### Comandos para gerenciar seu saldo em coins
 * `/pay [jogador] [valor]` - Transfira dinheiro para outro jogador;
@@ -169,7 +167,7 @@ Use a barra de pesquisa da página para encontrar ajuda.
 * `/loteria togglebuymsg` - Alterar notificações de compras na loteria.
 * `/loteria toggleremindmsg` - Alterar notificações de sorteios da loteria.
 
-## **Habilidades do mcMMO** <a id="mcmmo"></a>
+## **Habilidades**
 * `/[habilidade] ? (página)` - Abre o guia uma habilidade especifica;
   * `/acrobacia ? 1` - Abre o guia para a habilidade de acrobacia. 
 * `/[habilidade]` - Lista as estatísticas de uma habilidade especifica;
@@ -188,7 +186,7 @@ Use a barra de pesquisa da página para encontrar ajuda.
   * `/mmoxpbar reset` - Limpa todas as configurações anteriores. 
   * `/mmoxpbar show [habilidade]` - Visualizar a barra de XP de uma habilidade;
 
-## Equipe do mcMMO <a id="equipe"></a>
+## Equipe
 * `/p [on|off]` - Ativa ou desativa o chat da equipe;
   * `/p` - Alterna entre on e off o chat da equipe;
   * `/p [msg]` - Envie mensagens no chat da equipe sem entrar no chat.
@@ -205,7 +203,7 @@ Use a barra de pesquisa da página para encontrar ajuda.
 * `/party unlock` - Para desbloquear uma equipe;
 * `/party xpshare` - Para compatilhar XP com membros da equipe; 
 
-## VIP <a id="vip"></a>
+## VIP
 * `/vipmenu` - Saiba o status do seu VIP;
 * `/kit mast` - Receber o KIT semanal Master;
 * `/kit prem` - Receber o KIT semanal Premium;
