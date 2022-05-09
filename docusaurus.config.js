@@ -60,6 +60,11 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       algolia: {
         apiKey: '02fd6b5998c6f36763798105f37c5259',
         indexName: 'wiki',

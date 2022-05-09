@@ -15,13 +15,13 @@ sidebar_position: 4
   * ↳ Jogador offline a 60 dias diretos;
 
 *   **Proteção entre 10.000 a 22.499 mil blocos de proteção.**
-    * ↳ Jogador offline a 90 dias diretos;
+  * ↳ Jogador offline a 90 dias diretos;
 
 *   **Proteção entre 22.500 a 62.499 mil blocos de proteção.**
-    * ↳ Jogador offline a 120 dias diretos;
+  * ↳ Jogador offline a 120 dias diretos;
 
 *   **Proteção com mais de 62.500 mil blocos de proteção.**
-    * ↳ Jogador offline a 150 dias diretos;
+  * ↳ Jogador offline a 150 dias diretos;
 
 * **Proteção próxima a sua:** Dentro de 7 dias após abertura de ticket;\
 
@@ -60,7 +60,7 @@ sidebar_position: 4
   * O tempo pode variar por motivos de força maior.
 
 #### **Motivo**
-:::danger [Regra 5 - Proibido Construir Próximo a outro Jogador!](./regras.md)
+:::danger [Regra 5 - Proibido Construir Próximo a outro Jogador!](/docs/regras.md)
 ```
 Não construa próximo a outro jogador. Para evitar problemas futuros como por exemplo expansões da proteção ou desentendimento entre jogadores, não construa perto de outro jogador sem permissão. Você poderá ter seu terreno ou construções apagadas a qualquer momento.
 ```
