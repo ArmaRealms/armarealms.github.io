@@ -11,14 +11,16 @@ sidebar_position: 4
   * ↳ Jogador offline a 30 dias diretos;
 * **Proteção entre 1.000 a 9.999 mil blocos de proteção:**
   * ↳ Jogador offline a 60 dias diretos;
-*   **Proteção entre 10.000 a 22.499 mil blocos de proteção:**
+* **Proteção entre 10.000 a 22.499 mil blocos de proteção:**
   * ↳ Jogador offline a 90 dias diretos;
-*   **Proteção entre 22.500 a 62.499 mil blocos de proteção:**
+* **Proteção entre 22.500 a 62.499 mil blocos de proteção:**
   * ↳ Jogador offline a 120 dias diretos;
-*   **Proteção com mais de 62.500 mil blocos de proteção:**
+* **Proteção com mais de 62.500 mil blocos de proteção:**
   * ↳ Jogador offline a 150 dias diretos;
-* **Proteção próxima a sua:** Dentro de 7 dias após abertura de ticket;\
-* **Proteções de jogador banido:** Segue as regras acima.
+* **Proteção próxima a sua:**
+  * ↳ Dentro de 7 dias após abertura de ticket;
+* **Proteções de jogador banido:**
+  * ↳ Segue as regras acima.
 
 ## Proteções Abandonadas
 
