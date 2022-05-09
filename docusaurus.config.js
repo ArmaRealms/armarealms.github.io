@@ -64,6 +64,7 @@ const config = {
         apiKey: '02fd6b5998c6f36763798105f37c5259',
         indexName: 'wiki',
         appId: '9T80JXEJKC', // Optional, if you run the DocSearch crawler on your own
+        contextualSearch: false,
         algoliaOptions: {} // Optional, if provided by Algolia
       },
     }),
