@@ -17,7 +17,7 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 
 ### Regra 1.1 - Enviar Xingamentos e Bullyng entre Membros! {#1-1}
 
-**Desrespeitos entre membros** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para outros jogadores (mesmo que sendo seu "amigo").
+> **Desrespeitos entre membros** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para outros jogadores (mesmo que sendo seu "amigo").
 
 #### Lista de Punições
 1. Silenciamento temporário de 2 horas;
@@ -29,7 +29,7 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 
 ### Regra 1.2 - Enviar Xingamentos e Desrespeito a Staff! {#1-2}
 
-**Desrespeitos com a Staff** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para a Staff.
+> **Desrespeitos com a Staff** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para a Staff.
 
 #### Lista de Punições
 1. Silenciamento temporário de 7 dias;
@@ -76,9 +76,8 @@ A Staff se reserva ao direito de julgar o que será tratado como xingamento, bul
 
 ## Regra 3 - Proibido Destruir Construções! {#3}
 
-:::caution Aviso!
+:::caution A staff não devolve itens "roubados" dentro de proteções.
 Não será considerado "griefing" caso o jogador possua permissão na proteção.  
-A staff não devolve itens "roubados" dentro de proteções.
 :::
 
 :::danger [Saiba o tempo offline para perca da proteção clicando aqui!](/protecao/perca.md)
@@ -136,7 +135,8 @@ A staff não devolve itens "roubados" dentro de proteções.
 ## Regra 5 - Proibido Construir Próximo a outro Jogador! {#5}
 
 > **Não construa próximo a outro jogador sem permissão.**  
-> Para evitar problemas futuros como por exemplo não conseguir expandir construções ou desentendimento entre jogadores, não construa perto de outro jogador sem permissão, sempre mantenha uma distância de uma construção a outra de 20 blocos ou assuma o risco de que se o jogador que construiu primeiro no local abrir ticket você terá sua proteção removida. Use `/trustnear <jogador>` para permitir que seu amigo crie proteções próximas da sua.
+> Para evitar problemas futuros como por exemplo não conseguir expandir construções ou desentendimento entre jogadores, não construa perto de outro jogador sem permissão, sempre mantenha uma distância de uma construção a outra de 20 blocos ou assuma o risco de que se o jogador que construiu primeiro no local abrir ticket você terá sua proteção removida.  
+> Use `/trustnear <jogador>` para permitir que seu amigo crie proteções próximas da sua.
 
 :::info Info!
 Qualquer proteção a 20 blocos de distância de outra proteção será considerada próxima e poderá ser removida.  
@@ -196,9 +196,8 @@ A remoção de animais, monstros e aldeões e geradores listados acima é realiz
 * Ejetor e Liberador (20 por chunk);
 * Repetidor e Comparador (20 por chunk).
 
-:::info Info!
+:::info Para visualizar 1 chunk use F3+G (Tamanho de 16x16 blocos)
 Faça sistemas em locais separados para não carregar vários sistemas simultaneamente e lagar o servidor.  
-Para visualizar 1 chunk use F3+G (Tamanho de 16x16 blocos)
 :::
 
 #### Lista de Punições
@@ -233,9 +232,8 @@ Para visualizar 1 chunk use F3+G (Tamanho de 16x16 blocos)
 > Caso a Administração descubra que ocorreu venda de itens por dinheiro real dentro do servidor, ambas as contas envolvidas serão banidas permanentemente.  
 > A punição de silenciamento acima é aplicada apenas em casos de divulgação dentro dos servidores.
 
-:::danger Atenção!
+:::danger Acesse a loja oficial em [https://loja.armamc.com](https://loja.armamc.com)
 O servidor não se responsabiliza por compra ou venda de VIP, Chaves, TAG's e outros por coins realizadas entre jogadores fora da loja oficial.  
-Acesse a loja oficial em [https://loja.armamc.com](https://loja.armamc.com)
 :::
 
 #### Lista de Punições
@@ -244,8 +242,7 @@ Acesse a loja oficial em [https://loja.armamc.com](https://loja.armamc.com)
 
 ## Regra 9 - Burlar Punição, Utilizar Nickname ou Skin Inapropriada! {#9}
 
-:::caution Aviso!
-Caso o jogador tente burlar uma punição a próxima punição será aplicada.  
+:::caution Caso o jogador tente burlar uma punição a próxima punição será aplicada.  
 Exemplos: Utilizar conta secundária durante tempo de punição, escrever em placa, livros e etc caso esteja silenciado e etc.
 :::
 
@@ -272,7 +269,6 @@ Exemplos: Utilizar conta secundária durante tempo de punição, escrever em pla
 1. Expulsão com aviso sobre skin inapropriada.
 2. Banimento permanente.
 
-:::info Info!
-**Todas as punições temporárias terão prazo de 90 dias.**  
+:::info Todas as punições temporárias terão prazo de 90 dias.
 Exemplo: Jogador silenciado por 2 horas ao realizar flood, caso não sofra nenhuma punição dentro dos próximos 90 dias, essa punição não será levada em conta nas próximas aplicações de punições.
 :::
