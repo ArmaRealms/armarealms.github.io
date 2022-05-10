@@ -1,10 +1,10 @@
 ---
-title: Lojas
-description: Tudo sobre o sistema de lojas do servidor.
-sidebar_position: 9
+title: Leilão Virtual dos Jogadores
+description: Tudo sobre o leilão virtual do jogador.
+sidebar_position: 3
 ---
 
-# Loja Virtual do Servidor
+# Leilão Virtual dos Jogadores
 
 ## Comprar Itens do Servidor
 1. Acesse a loja com `/sloja` ou `/sshop`;
@@ -43,7 +43,7 @@ A quantidade do item que você utilizar ao criar a loja será definida como a qu
 :::danger Atenção!
 Lojas são protegidas pelo sistema de proteção de terrenos!
 
-[Saiba como criar uma proteção clicando aqui!](./protecao/basica.md)
+[Saiba como criar uma proteção clicando aqui!](../docs/protecao/basica.md)
 :::
 
 ## Alterar o Item da Loja
