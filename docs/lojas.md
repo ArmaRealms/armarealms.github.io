@@ -1,9 +1,7 @@
 ---
 title: Lojas
-sidebar_position: 9
----
----
 description: Tudo sobre o sistema de lojas do servidor.
+sidebar_position: 9
 ---
 
 # Loja Virtual do Servidor
@@ -14,13 +12,6 @@ description: Tudo sobre o sistema de lojas do servidor.
 4. Clique com o **botão direito** do mouse no item que deseja comprar.
 
 ## Como Vender Itens para o Servidor
-
-### Usando o Menu
-1. Acesse a loja com `/sloja` ou `/sshop`;
-2. Clique na categoria do item que deseja vender;
-4. Clique com o **botão esquerdo** do mouse no item que deseja vender.
-
-### Usando Comandos
 * `/sellgui` - Abrir o menu onde você pode colocar itens que deseja vender, ao fechar o menu os itens são vendidos.
 * `/sellall` - Vende todos os itens do inventário de qualquer categoria.
 * `/sellall <categoria>` - Vende todos os itens do inventário que sejam da categoria blocos.
@@ -39,18 +30,16 @@ Lojas são protegidas pelo sistema de proteção de terrenos!
 
 ## Quantidade de Lojas Físicas por Rank
 
-|   Rank   | Lojas Físicas |
-| :------: | :-----------: |
-|  Membro  |       20      |
-|  Premium |       50      |
-|  Master  |      100      |
-| Ultimate |      200      |
+|   Rank   | Quantidade de Lojas Físicas |
+| :------: | :-------------------------: |
+|  Membro  |       20                    |
+|  Premium |       50                    |
+|  Master  |      100                    |
+| Ultimate |      200                    |
 
 ## Abrir uma Loja de Venda
 
-:::info INFO!
-Criar uma loja custa $100,00.
-:::
+Criar uma loja custa $100 coins.
 
 Com o item que deseja vender ou comprar na mão, segure **shift** e clique com o **botão esquerdo** no baú. Em seguida envie o valor de venda ou compra no chat.
 
@@ -66,56 +55,53 @@ Olhando para a loja que deseja alterar e com o novo item na mão, envie o comand
 
 ## Alterar o Modo da Loja
 
-### Usando o Painel de Controle
+**Usando o Painel de Controle:**
 
 Clique com o **botão direito** na loja para acessar o painel de controle e clique em **\[Mudar]** ao lado de Modo.
 
-### Usando Comando
+**Usando Comando:**
 
 Olhando para a loja que deseja alterar o modo, envie:
-
 * `/ploja buy` - Comando para **COMPRAR** itens na loja.
 * `/ploja sell` - Comando para **VENDER** itens na loja.
 
 ## Alterar o Valor da Loja
 
-:::info Info!
-Alterar o valor de uma loja custa $50,00.
-:::
+Alterar o valor de uma loja custa $50 coins
 
-### Usando Painel de Controle
+
+**Usando o Painel de Controle:**
 
 Clique com o **botão direito** na loja para acessar o painel de controle e clique em **\[Mudar]** ao lado de Preço:
 
-### Usando Comando:
+**Usando Comando:**
 
 Olhando para a loja que deseja alterar o valor, envie o comando:
 
 * `/ploja price [novo-preço]`
-  * Exemplo: `/ploja price 200`
+  * `/ploja price 200`
 
 ## Alterar o Stack da loja
 
-### Usando o Painel de Controle
+**Usando o Painel de Controle:**
 
 Clique com o **botão direito** na loja para acessar o painel de controle e clique em **\[Mudar]** ao lado de Stack:
 
-### Usando Comando
+**Usando Comando:**
 
 Olhando para a loja que deseja alterar a quantidade do stack, envie:
 
 * `/ploja size [quantidade]`
-  * Exemplo: `/qs size 64`
+  * `/ploja size 64`
 
 ## Remover uma Loja
 
-### Usando o Painel de Controle
+**Usando o Painel de Controle:**
 
 Clique com o **botão direito** na loja para acessar o painel de controle e clique em **\[Remover Loja]**:
 
-### Usando Comando
+**Usando Comando:**
 
 Olhando para a loja que deseja remover, envie o comando:
 
 * `/ploja remove`
-
