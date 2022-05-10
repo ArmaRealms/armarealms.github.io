@@ -10,7 +10,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ## **Diversos**
 
-#### Links com informações
+### Links com informações
 * `/ajuda` - Listar comandos do servidor;
 * `/discord` - Listar o Discord do servidor;
 * `/forum` - Listar o Fórum do servidor;
@@ -22,20 +22,20 @@ Use a barra de pesquisa da página para encontrar comandos.
 * `/votos` - Listar a quantidades de votos que você possui;
 * `/topvotos (página)` - Listar os jogadores que mais votaram no server;
 
-#### Sistemas para melhoria do jogo
+### Sistemas para melhoria do jogo
 * `/auto` - Ativar e desativar o recolhimento de itens direto para o inventário;
 * `/gps` - Lista jogadores próximos;
 * `/lixo` - Abrir a lixeira para descartar itens;
 * `/original` - Ative o login automático se você tiver minecraft original; 
 
-#### Sistema de kits com itens
+### Sistema de kits com itens
 * `/kits` - Abra o menu de kits.
 * `/kit [nome-do-kit]` - Receba o kit solicitado.
   * `/kit fome` - Receba o kit com pães;
   * `/kit prot` - Receba o kit de proteção;
   * `/kit pvp` - Receba o kit de PVP \(custa $500\); 
 
-## Skins
+### Sistema de Skins
 * `/skin set [nick]` - Altere sua skin usando uma conta original;
 * `/skin set [https://site.com/final.png]` - Altere sua skin usando uma imagem;
 * `/skin clear` - Remove sua skin;
@@ -43,19 +43,19 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ## **Chat**
 
-#### Mensagem privada entre jogadores
+### Mensagem privada entre jogadores
 * `/m [jogador] [sua mensagem]` - Envie mensagens privadas para outro jogador;
 * `/m [jogador]` - Travar ou destravar mensagens privadas com outro jogador;
 * `/r [mensagem]` - Responda a última mensagem privada recebida;
 
-#### Configuração do seu chat privado
+### Configuração do seu chat privado
 
 * `/ignore [jogador]` - Ignora/Designora um jogador;
 * `/ignore list` - Listar jogadores ignorados;
 * `/msgnotify` - Ativa ou desativa notificações ao receber mensagens;
 * `/msgtoggle` - Ativa ou desativa o recebimento de mensagens privadas;
 
-#### Mensagens para todo o servidor ou local
+### Mensagens para todo o servidor
 * `/g [mensagem]` - Envie mensagem no canal global estando no chat local; 
 * `/l [mensagem]` - Envie mensagem no chat local estando no chat global;
 * `/join global` - Entre no chat global;
@@ -63,7 +63,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ## Proteção
 
-#### Comandos principais
+### Comandos principais
 * `/prot` ou `/plot` - Comandos para abrir o menu de proteção; 
 * `/claim (tamanho)` - Criar uma proteção no local que você estiver. Caso nenhum valor seja usado a proteção terá o tamanho de 10 blocos;
   * `/claim 10` - Protege 10 blocos para cada lado, tamanho de 21x21; 
@@ -71,7 +71,7 @@ Use a barra de pesquisa da página para encontrar comandos.
   * `/extendclaim 10` - Expande a proteção 10 blocos na sua direção; 
 * `/claimslist` - Liste as informações das proteções; 
 
-#### Gerenciar permissões de outros jogadores
+### Gerenciar permissões de outros jogadores
 * `/trust [jogador]` - Permite acesso a sua proteção para outro jogador;
 * `/accesstrust [jogador]` - Permite o jogador acessar sua proteção e utilizar sua cama;
 * `/containertrust [jogador]` - Permita outro jogador acessar o baú, animais, cama, botões e alavancas, plantações na sua proteção;
@@ -79,43 +79,43 @@ Use a barra de pesquisa da página para encontrar comandos.
 * `/untrust [jogador]` - Remova o acesso do jogador a sua proteção. 
 * `/trustlist` - Lista as permissões da proteção que você está;
 
-#### Excluir uma proteção ou sub-proteção
+### Excluir uma proteção ou sub-proteção
 * `/abandonallclaims` - Apague todas as suas proteções no server; 
 * `/abandonclaim` - Apague a proteção em que você está localizado;
 * `/abandontoplevelclaim` - Apague uma proteção e todas suas subdivisões;
 
-#### Banir, desbanir ou expulsar jogadores da proteção
+### Banir, desbanir ou expulsar jogadores da proteção
 * `/claimban [jogador]` - Banir outro jogador da proteção;
 * `/claimunban [jogador]` - Desbanir outro jogador da proteção;
 * `/claimbanall` - Banir todos os jogadoresjogador da proteção;
 * `/claimbanlist` - Listar jogadores banidos da sua proteção.
 
-#### Criar sub-proteções dentro da sua proteção
+### Criar sub-proteções dentro da sua proteção
 * `/subdivideclaims` - Altere a pá de ouro para o modo de subdivisão de proteções, usado para dividir suas proteções;
 * `/restrictsubclaim` - Restrinja a subdivisão para que ela não herde as permissões da proteção principal; 
 * `/basicclaims` - Altere a pá de ouro para o modo básico de proteção;
 
-#### Comprar ou vender blocos de proteção
+### Comprar ou vender blocos de proteção
 * `/buyclaimblocks [quantia]` - Compre blocos de proteção com dinheiro virtual;
 * `/sellclaimblocks [quantia]` - Venda seus blocos de proteção para o servidor; 
 
-#### Outros comandos relacionado a proteção
+### Outros comandos relacionado a proteção
 * `/claimexplosions` - Alterna a proteção contra explosões nos terrenos protegidos; 
 * `/givepet [jogador]` - Doe seu animal de estimação para outro jogador.
 
-## Teleporte  <a id="teleporte"></a>
+## Teleporte
 * `/spawn` - Teleporte para o inicio do server;
 * `/wild` - Teleporte para um lugar aleatório do mapa;
 * `/fps` - Teleporte para a arena FPS. \(mcMMO desativado\);
 * `/arena` - Teleporte para a arena. \(mcMMO ativado\);
 * `/camarote` - Teleporte para o camarote de eventos; 
 
-#### Definir sua casa no mapa
+### Definir sua casa no mapa
 * `/sethome [nome-da-home]` - Defina uma home;
 * `/home [nome-da-home]` - Teleporte para a home definida;
 * `/delhome [nome-da-home]` - Apague sua home; 
 
-#### Teleporte entre jogadores
+### Teleporte entre jogadores
 * `/tpa [jogador]` - Solicite a outro jogador teleporte até ele;
 * `/tpacancel` - Cancele a solicitação de teleporte enviada por você;
 * `/tpaccept` - Aceite solicitação de teleporte até você;
@@ -145,27 +145,27 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ## Economia
 
-#### Comandos para gerenciar seu saldo em coins
+### Comandos para gerenciar saldo
 * `/pay [jogador] [valor]` - Transfira dinheiro para outro jogador;
 * `/payconfirmtoggle` - Ative e desative a confirmação de pagamento;
 * `/paytoggle` - Ative e desative o recebimento de dinheiro;
 * `/saldo (jogador)` - Visualize seu saldo ou de outro jogador no banco;
 * `/topsaldo (página)` - Liste os jogadores mais ricos do server;
 
-#### Comandos para acessar lojas <a id="loja"></a>
+### Comandos para acessar lojas
 * `/loja` ou `/shop`- Abra o menu de lojas do servidor, neste menu você acessa a loja do server e a loja dos jogadores;
 * `/sell hand [quantia]` - Vender a quantidade definida do item na mão;
 * `/sell handall` - Vender todos os itens do inventário igual ao item na mão; 
 * `/sloja` ou `/sshop` - Abra o menu da loja do servidor; `/sell all` - Venda todos os itens do seu inventário;
 
-#### Comandos para gerenciar a loteria <a id="loteria"></a>
+### Comandos para gerenciar a loteria
 * `/lot buy [quantia]` - Comprar bilhetes da loteria;
 * `/lot status` - Visualizar status do sorteio atual;
 * `/lot` ou `/loteria` - Abra o menu da loteria para realizar apostas;
 * `/loteria togglebuymsg` - Alterar notificações de compras na loteria.
 * `/loteria toggleremindmsg` - Alterar notificações de sorteios da loteria.
 
-## **Habilidades**
+## Habilidades
 * `/[habilidade] ? (página)` - Abre o guia uma habilidade especifica;
   * `/acrobacia ? 1` - Abre o guia para a habilidade de acrobacia. 
 * `/[habilidade]` - Lista as estatísticas de uma habilidade especifica;
