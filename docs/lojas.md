@@ -12,23 +12,17 @@ sidebar_position: 9
 4. Clique com o **botão direito** do mouse no item que deseja comprar.
 
 ## Como Vender Itens para o Servidor
-* `/sellgui` - Abrir o menu onde você pode colocar itens que deseja vender, ao fechar o menu os itens são vendidos.
+* `/sellgui` - Abrir o menu onde você pode colocar itens que deseja vender, ao fechar o menu os itens serão vendidos.
 * `/sellall` - Vende todos os itens do inventário de qualquer categoria.
 * `/sellall <categoria>` - Vende todos os itens do inventário que sejam da categoria blocos.
-  * Exemplo: `/sellall blocos` - vender todos os itens da categoria blocos que estiver no seu inventário.
+  * `/sellall blocos` - Vender todos os itens da categoria blocos que estiver no inventário.
 * `/sell hand [quantia]` - Vender a quantidade especificada do item que estiver segurando;
-  * Exemplo: `/sell hand 32` - Vende 32 itens que estiverem na sua mão.
+  * `/sell hand 32` - Vende 32 itens que estiverem na sua mão.
 * `/sell handall` - Vender todos os itens do inventário que seja igual ao que estiver segurando;
 
-# Loja Física do Jogador
+## Loja Física do Jogador
 
-:::danger Atenção!
-Lojas são protegidas pelo sistema de proteção de terrenos!
-
-[Saiba como criar uma proteção clicando aqui!](./protecao/basica.md)
-:::
-
-## Quantidade de Lojas Físicas por Rank
+**Quantidade de Lojas Físicas por Rank**
 
 |   Rank   | Quantidade de Lojas Físicas |
 | :------: | :-------------------------: |
@@ -39,13 +33,17 @@ Lojas são protegidas pelo sistema de proteção de terrenos!
 
 ## Abrir uma Loja de Venda
 
-Criar uma loja custa $100 coins.
-
-Com o item que deseja vender ou comprar na mão, segure **shift** e clique com o **botão esquerdo** no baú. Em seguida envie o valor de venda ou compra no chat.
+Com o item que deseja vender ou comprar na mão, segure **shift** e clique com o **botão esquerdo** no baú. Em seguida envie o valor de venda ou compra no chat. Criar uma loja custa $100 coins.
 
 Toda loja será aberta no modo de venda, você poderá alterar o modo da loja após a sua criação por comando ou usando o painel de controle da loja.
 
 A quantidade do item que você utilizar ao criar a loja será definida como a quantidade do stack que será vendido.
+
+:::danger Atenção!
+Lojas são protegidas pelo sistema de proteção de terrenos!
+
+[Saiba como criar uma proteção clicando aqui!](./protecao/basica.md)
+:::
 
 ## Alterar o item da Loja
 
