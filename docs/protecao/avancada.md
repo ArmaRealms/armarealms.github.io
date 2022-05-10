@@ -8,9 +8,11 @@ sidebar_position: 3
 
 ## Criar uma Sub-Proteção
 
-Digite `/claim <tamanho>` para proteger o local onde você estiver.
+Digite `/subdivideclaim` para entrar no modo de sub-proteção.
 
-Exemplo: `/claim 10` - Protegerá 10 blocos para cada lado onde você estiver.
+Segurando a pá de ouro e dentro da sua proteção, clique em duas quinas para criar a sub-proteção.
+
+Digite `/restrictsubclaim` para que a sub-proteção não herde permissões da proteção principal.
 
 ## **Expandir Sub-Proteção**
 
