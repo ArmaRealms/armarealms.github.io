@@ -6,10 +6,8 @@ sidebar_position: 7
 
 # Liga de Clãs Mensal
 
-Liga é um sistema de pontuação dos clãs de acordo com as atividades de cada jogador no servidor.
-
-Toda pontuação ganhada ou perdida pelos jogadores é somada e no final de cada temporada os três clãs com maiores pontuações são premiados.
-
+Liga é um sistema de pontuação dos clãs de acordo com as atividades de cada jogador no servidor.  
+Toda pontuação ganhada ou perdida pelos jogadores é somada e no final de cada temporada os três clãs com maiores pontuações são premiados.  
 Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês. No final da temporada a pontuação é resetada.
 
 ## Comandos
@@ -66,16 +64,13 @@ Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês.
 
 #### Exemplo de pontuação negativa:
 
-Clã com jogador silenciado por 2 dias perderá um total de 80 pontos.
-
+Clã com jogador silenciado por 2 dias perderá um total de 80 pontos.  
 50 pontos pela punição e 20 pontos pelos 2 dias silenciado.
 
 ## Premiação
 
-O líder de cada clã deverá entrar em contato através do discord para ativar o VIP.
-
-Ao abrir o ticket selecione a opção `Falar apenas com o Admin.`
-
+O líder de cada clã deverá entrar em contato através do discord para ativar o VIP.  
+Ao abrir o ticket selecione a opção `Falar apenas com o Admin.`  
 Prêmio em coins será entregue direto no banco do clã.
 
 ### Primeiro Lugar

@@ -6,16 +6,16 @@ sidebar_position: 2
 
 # Loja Física do Jogador
 
-**Quantidade de Lojas Físicas por Rank**
+**Quantidade de Lojas por Rank:**
 
-|   Rank   | Quantidade de Lojas Físicas |
-| :------: | :-------------------------: |
-|  Membro  |       20                    |
-|  Premium |       50                    |
-|  Master  |      100                    |
-| Ultimate |      200                    |
+|   Rank   | Quantidade de Lojas |
+| :------: | :-----------------: |
+|  Membro  |       20            |
+|  Premium |       50            |
+|  Master  |      100            |
+| Ultimate |      200            |
 
-## Criar uma Loja Física
+## Criar uma Loja
 
 1. Coloque o item e a quantidade que deseja comprar ou vender na mão
 2. Segure **shift** e clique com o **botão esquerdo** no baú.
@@ -24,7 +24,7 @@ sidebar_position: 2
 :::info
 1. Criar uma loja custa $100 coins. 
 2. Toda loja será aberta no modo de venda, você poderá alterar o modo da loja após a sua criação por comando ou usando o painel de controle da loja. 
-3. A quantidade do item que você utilizar ao criar a loja será definida como a quantidade do stack que será vendido. 
+3. A quantidade do item que você utilizar ao criar a loja será definida como a quantidade do stack que será comprado ou vendido. 
 4. [Lojas são protegidas pelo sistema de proteção de terrenos!](../protecao/basica.md)
 :::
 

@@ -47,22 +47,20 @@ A Staff se reserva ao direito de julgar o que será tratado como xingamento, bul
 
 ## Regra 2 - Proibido Usar Métodos Ilegais para Vantagens Gerais! {#2}
 
-Qualquer cliente, programa, modificação (mod) ou textura que dê vantagens desleais é proibido!
-
-O uso de clientes, programas, modificações (mods) ou texturas para voar, encontrar minérios e outros blocos, bater mais rápido, aumentar o dano de ataque, não receber dano, correr mais rápido do que o normal, visualizar informações de jogadores invisíveis e etc não são permitidos!
-
-Utilização de programas ou qualquer forma para realizar tarefas automáticas é proibido incluindo colocar ou remover blocos, burlar sistema ant-AFK, macro/auto-clicker em mouses sendo eles por software, hardware, elásticos, pesos, alteração de tecla para atacar e etc.
+> Qualquer cliente, programa, modificação (mod) ou textura que dê vantagens desleais é proibido!  
+> O uso de clientes, programas, modificações (mods) ou texturas para voar, encontrar minérios e outros blocos, bater mais rápido, aumentar o dano de ataque, não receber dano, correr mais rápido do que o normal, visualizar informações de jogadores invisíveis e etc não são permitidos!  
+> Utilização de programas ou qualquer forma para realizar tarefas automáticas é proibido incluindo colocar ou remover blocos, burlar sistema ant-AFK, macro/auto-clicker em mouses sendo eles por software, hardware, elásticos, pesos, alteração de tecla para atacar e etc.
 
 ### Regra 2.1 - Usar Métodos Ilegais para Vantagens Gerais! {#2-1}
 
-Programas ou mods para voar, correr mirar ou atacar mais rápido do que o normal, texturas para encontrar minérios e outros blocos e etc..
+> Programas ou mods para voar, correr mirar ou atacar mais rápido do que o normal, texturas para encontrar minérios e outros blocos e etc..
 
 #### Lista de Punições
 1. Banimento permanente.
 
 ### Regra 2.2 - Usar Métodos Ilegais para Aumentar Habilidades! {#2-2}
 
-Programas ou qualquer meio para aumentar habilidades de forma automática, geralmente utilizando sistema ant-afk e macro/auto-clicker.
+> Programas ou qualquer meio para aumentar habilidades de forma automática, geralmente utilizando sistema ant-afk e macro/auto-clicker.
 
 #### Lista de Punições
 1. Resete da habilidade + Banimento temporário de 7 dias;
@@ -70,7 +68,7 @@ Programas ou qualquer meio para aumentar habilidades de forma automática, geral
 
 ### Regra 2.3 - Usar Métodos Ilegais para Ganhar Dinheiro ou Itens! {#2-3}
 
-Programas ou qualquer meio para ganhar dinheiro ou itens de forma automática, geralmente utilizando sistema ant-afk e macro/auto-clicker.
+> Programas ou qualquer meio para ganhar dinheiro ou itens de forma automática, geralmente utilizando sistema ant-afk e macro/auto-clicker.
 
 #### Lista de Punições
 1. Resete do saldo + Banimento temporário de 7 dias;
@@ -79,8 +77,7 @@ Programas ou qualquer meio para ganhar dinheiro ou itens de forma automática, g
 ## Regra 3 - Proibido Destruir Construções! {#3}
 
 :::caution Aviso!
-Não será considerado "griefing" caso o jogador possua permissão na proteção.
-
+Não será considerado "griefing" caso o jogador possua permissão na proteção.  
 A staff não devolve itens "roubados" dentro de proteções.
 :::
 
@@ -90,8 +87,7 @@ A staff não devolve itens "roubados" dentro de proteções.
 
 ### Regra 3.1 - Destruir o Mapa ou Construções! (Griefing) {#3-1}
 
-Não é permitido quebrar construções de outros jogadores, colocar ou remover blocos aleatórios pelo mapa, colocar lava ou água pelo mapa de forma aleatória com o objetivo de destruir o mapa.
-
+> Não é permitido quebrar construções de outros jogadores, colocar ou remover blocos aleatórios pelo mapa, colocar lava ou água pelo mapa de forma aleatória com o objetivo de destruir o mapa.  
 > Ao encontrar terrenos sem proteção é permitido pegar itens de baús, fornalhas, shulkerbox's e etc, é permitido quebrar blocos de alto valor como sinalizador, shulkerbox's, blocos de minérios, spawners e etc..
 
 #### Lista de Punições
@@ -100,7 +96,7 @@ Não é permitido quebrar construções de outros jogadores, colocar ou remover 
 
 ### Regra 3.2 - Construir MapArts ou Construções Obscenas! {#3-2}
 
-Não é permitido fazer mapas ou construções obscenas.
+> Não é permitido fazer mapas ou construções obscenas.
 
 #### Lista de Punições
 1. Banimento permanente.
@@ -111,11 +107,9 @@ Não é permitido fazer mapas ou construções obscenas.
 
 ### Regra 4.1 - Fazer Flood ou Spam por Mensagem! {#4-1}
 
-Enviar a mesma mensagem várias vezes no chat dentro de um curto espaço de tempo não é permitido!
-
-Qualquer método para incitar flood em massa por todos os jogadores é passivo de punição!
-
-Exemplo: Primeiro jogador que enviar X no chat ganha Y de prêmio.
+> Enviar a mesma mensagem várias vezes no chat dentro de um curto espaço de tempo não é permitido!  
+> Qualquer método para incitar flood em massa por todos os jogadores é passivo de punição!  
+> Exemplo: Primeiro jogador que enviar X no chat ganha Y de prêmio.
 
 #### Lista de Punições
 1. Silenciamento temporário de 30 minutos;
@@ -125,9 +119,8 @@ Exemplo: Primeiro jogador que enviar X no chat ganha Y de prêmio.
 
 ### Regra 4.2 - Fazer Flood ou Spam por Comando! {#4-2}
 
-Enviar comandos com objetivo de floodar o chat de outro jogador é contra as regras.
-
-Exemplo: Envio de coins de baixo valor, pedidos de teleporte e diversos outros comandos.
+> Enviar comandos com objetivo de floodar o chat de outro jogador é contra as regras.  
+> Exemplo: Envio de coins de baixo valor, pedidos de teleporte e diversos outros comandos.
 
 #### Lista de Punições
 1. Silenciamento temporário de 30 minutos;
@@ -142,13 +135,11 @@ Exemplo: Envio de coins de baixo valor, pedidos de teleporte e diversos outros c
 
 ## Regra 5 - Proibido Construir Próximo a outro Jogador! {#5}
 
-> **Não construa próximo a outro jogador sem permissão.**
-
-Para evitar problemas futuros como por exemplo não conseguir expandir construções ou desentendimento entre jogadores, não construa perto de outro jogador sem permissão, sempre mantenha uma distância de uma construção a outra de 20 blocos ou assuma o risco de que se o jogador que construiu primeiro no local abrir ticket você terá sua proteção removida. Use `/trustnear <jogador>` para permitir que seu amigo crie proteções próximas da sua.
+> **Não construa próximo a outro jogador sem permissão.**  
+> Para evitar problemas futuros como por exemplo não conseguir expandir construções ou desentendimento entre jogadores, não construa perto de outro jogador sem permissão, sempre mantenha uma distância de uma construção a outra de 20 blocos ou assuma o risco de que se o jogador que construiu primeiro no local abrir ticket você terá sua proteção removida. Use `/trustnear <jogador>` para permitir que seu amigo crie proteções próximas da sua.
 
 :::info Info!
-Qualquer proteção a 20 blocos de distância de outra proteção será considerada próxima e poderá ser removida.
-
+Qualquer proteção a 20 blocos de distância de outra proteção será considerada próxima e poderá ser removida.  
 Será levado em consideração na hora da avaliação do ticket a construção e não a proteção mais antiga no local.
 :::
 
@@ -159,8 +150,8 @@ Será levado em consideração na hora da avaliação do ticket a construção e
 
 ## Regra 6 - Proibido Acumular Entidades em Excesso! {#6}
 
-Devido a vários problemas com performance das versões atuais, não é possível acumular animais, mobs e aldeões em excesso na proteção!
-Use o bom senso e tenha a menor quantidade de animais possível!
+> Devido a vários problemas com performance das versões atuais, não é possível acumular animais, mobs e aldeões em excesso na proteção!  
+> Use o bom senso e tenha a menor quantidade de animais possível!
 
 **Limite de Aldeões**
 * Qualquer profissão e nível de troca = 10 a cada 30 blocos de distância
@@ -195,9 +186,8 @@ A remoção de animais, monstros e aldeões e geradores listados acima é realiz
 
 ## Regra 7 - Proibido Abusar de Circuitos de Redstone! {#7}
 
-Não faça circuitos de redstone que utilizem grande quantidade de redstone, pistões, observadores e funis para que não atrapalhe o desempenho do servidor.
-
-Não utilize circuitos que abusam de bugs do minecraft para duplicar itens e etc.
+> Não faça circuitos de redstone que utilizem grande quantidade de redstone, pistões, observadores e funis para que não atrapalhe o desempenho do servidor.  
+> Não utilize circuitos que abusam de bugs do minecraft para duplicar itens e etc.
 
 #### Lista de Limites
 * Pistão e Pistão Grudento (20 por chunk);
@@ -207,8 +197,7 @@ Não utilize circuitos que abusam de bugs do minecraft para duplicar itens e etc
 * Repetidor e Comparador (20 por chunk).
 
 :::info Info!
-Faça sistemas em locais separados para não carregar vários sistemas simultaneamente e lagar o servidor.
-
+Faça sistemas em locais separados para não carregar vários sistemas simultaneamente e lagar o servidor.  
 Para visualizar 1 chunk use F3+G (Tamanho de 16x16 blocos)
 :::
 
@@ -223,7 +212,7 @@ Para visualizar 1 chunk use F3+G (Tamanho de 16x16 blocos)
 
 ### Regra 8.1 - Fazer Armadilha ou Enviar Chat Falso para Matar Jogadores! {#8-1}
 
-Armadilha ou _trap_ é todo sistema que não dê chance de defesa ao oponente.
+> Armadilha ou _trap_ é todo sistema que não dê chance de defesa ao oponente.
 
 #### Lista de Punições
 1. Banimento temporário de 7 dias;
@@ -231,9 +220,8 @@ Armadilha ou _trap_ é todo sistema que não dê chance de defesa ao oponente.
 
 ### Regra 8.2 - Enviar Chat Falso para Prejudicar Jogadores! {#8-2}
 
-Chat falso ou _fake chat_ é toda ação para enganar ou persuadir um jogador a aceitar ou enviar um pedido de teleporte e em seguida matá-lo.
-
-Também é considerado chat falso qualquer mensagem que prejudique outro jogador onde ocorre perca de itens ou coins.
+> Chat falso ou _fake chat_ é toda ação para enganar ou persuadir um jogador a aceitar ou enviar um pedido de teleporte e em seguida matá-lo.  
+> Também é considerado chat falso qualquer mensagem que prejudique outro jogador onde ocorre perca de itens ou coins.
 
 #### Lista de Punições
 1. Banimento temporário de 7 dias;
@@ -241,15 +229,12 @@ Também é considerado chat falso qualquer mensagem que prejudique outro jogador
 
 ### Regra 8.3 - Divulgação e ou Venda de Contas ou Itens por Dinheiro Real! {#8-3}
 
-Venda ou compra ou de conta, coins, itens vendidos pela loja ou itens dentro do jogo **por dinheiro real** é proibido e não deve ser realizado dentro do servidor em hipótese alguma.
-
-Caso a Administração descubra que ocorreu venda de itens por dinheiro real dentro do servidor, ambas as contas envolvidas serão banidas permanentemente.
-
-A punição de silenciamento acima é aplicada apenas em casos de divulgação dentro dos servidores.
+> Venda ou compra ou de conta, coins, itens vendidos pela loja ou itens dentro do jogo **por dinheiro real** é proibido e não deve ser realizado dentro do servidor em hipótese alguma.  
+> Caso a Administração descubra que ocorreu venda de itens por dinheiro real dentro do servidor, ambas as contas envolvidas serão banidas permanentemente.  
+> A punição de silenciamento acima é aplicada apenas em casos de divulgação dentro dos servidores.
 
 :::danger Atenção!
-O servidor não se responsabiliza por compra ou venda de VIP, Chaves, TAG's e outros por coins realizadas entre jogadores fora da loja oficial.
-
+O servidor não se responsabiliza por compra ou venda de VIP, Chaves, TAG's e outros por coins realizadas entre jogadores fora da loja oficial.  
 Acesse a loja oficial em [https://loja.armamc.com](https://loja.armamc.com)
 :::
 
@@ -260,21 +245,20 @@ Acesse a loja oficial em [https://loja.armamc.com](https://loja.armamc.com)
 ## Regra 9 - Burlar Punição, Utilizar Nickname ou Skin Inapropriada! {#9}
 
 :::caution Aviso!
-Caso o jogador tente burlar uma punição a próxima punição será aplicada.
-
+Caso o jogador tente burlar uma punição a próxima punição será aplicada.  
 Exemplos: Utilizar conta secundária durante tempo de punição, escrever em placa, livros e etc caso esteja silenciado e etc.
 :::
 
 ### Regra 9.1 - Utilizar Conta Falsa para Burlar Punição! {#9-1}
 
-Utilizar conta secundária para burlar uma punição ou quebrar a regra de forma intencional não é permitido.
+> Utilizar conta secundária para burlar uma punição ou quebrar a regra de forma intencional não é permitido.
 
 #### Lista de Punições
 1. Banimento permanente de ambas as contas.
 
 ### Regra 9.2 - Utilizar Nickname Inapropriado! {#9-2}
 
-Utilizar nickname inapropriado não é permitido.
+> Utilizar nickname inapropriado não é permitido.
 
 #### Lista de Punições
 1. Expulsão com aviso sobre nickname inapropriado.
@@ -282,14 +266,13 @@ Utilizar nickname inapropriado não é permitido.
 
 ### Regra 9.3 - Utilizar Skin  Inapropriada! {#9-3}
 
-Utilizar skins com conteúdo pornográfico ou pertubador não é permitido.
+> Utilizar skins com conteúdo pornográfico ou pertubador não é permitido.
 
 #### Lista de Punições
 1. Expulsão com aviso sobre skin inapropriada.
 2. Banimento permanente.
 
 :::info Info!
-**Todas as punições temporárias terão prazo de 90 dias.**
-
+**Todas as punições temporárias terão prazo de 90 dias.**  
 Exemplo: Jogador silenciado por 2 horas ao realizar flood, caso não sofra nenhuma punição dentro dos próximos 90 dias, essa punição não será levada em conta nas próximas aplicações de punições.
 :::
