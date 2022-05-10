@@ -6,12 +6,12 @@ sidebar_position: 9
 
 # Loja Virtual do Servidor
 
-## Como Comprar Itens do Servidor
+## Comprar Itens do Servidor
 1. Acesse a loja com `/sloja` ou `/sshop`;
 2. Clique na categoria do item que deseja comprar;
 4. Clique com o **botão direito** do mouse no item que deseja comprar.
 
-## Como Vender Itens para o Servidor
+## Vender Itens para o Servidor
 * `/sellgui` - Abrir o menu onde você pode colocar itens que deseja vender, ao fechar o menu os itens serão vendidos.
 * `/sellall` - Vende todos os itens do inventário de qualquer categoria.
 * `/sellall <categoria>` - Vende todos os itens do inventário que sejam da categoria blocos.
@@ -20,7 +20,7 @@ sidebar_position: 9
   * `/sell hand 32` - Vende 32 itens que estiverem na sua mão.
 * `/sell handall` - Vender todos os itens do inventário que seja igual ao que estiver segurando;
 
-## Loja Física do Jogador
+# Loja Física do Jogador
 
 **Quantidade de Lojas Físicas por Rank**
 
@@ -45,10 +45,9 @@ Lojas são protegidas pelo sistema de proteção de terrenos!
 [Saiba como criar uma proteção clicando aqui!](./protecao/basica.md)
 :::
 
-## Alterar o item da Loja
+## Alterar o Item da Loja
 
 Olhando para a loja que deseja alterar e com o novo item na mão, envie o comando:
-
 * `/ploja item`
 
 ## Alterar o Modo da Loja
@@ -75,7 +74,6 @@ Clique com o **botão direito** na loja para acessar o painel de controle e cliq
 **Usando Comando:**
 
 Olhando para a loja que deseja alterar o valor, envie o comando:
-
 * `/ploja price [novo-preço]`
   * `/ploja price 200`
 
@@ -88,7 +86,6 @@ Clique com o **botão direito** na loja para acessar o painel de controle e cliq
 **Usando Comando:**
 
 Olhando para a loja que deseja alterar a quantidade do stack, envie:
-
 * `/ploja size [quantidade]`
   * `/ploja size 64`
 
@@ -101,5 +98,4 @@ Clique com o **botão direito** na loja para acessar o painel de controle e cliq
 **Usando Comando:**
 
 Olhando para a loja que deseja remover, envie o comando:
-
 * `/ploja remove`
