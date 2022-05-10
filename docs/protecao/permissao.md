@@ -41,10 +41,9 @@ Permissão para usar botões, alavancas, camas, mesa de trabalho, **baús**, for
 
 ## Permissão PermissionTrust
 
-> **Permissão para gerenciar sua proteção.**
+> **Permissão para gerenciar permissões na sua proteção.**
 
-Jogador poderá dar permissões que ele possui para outros jogadores.  
-Exemplo: O jogador que tenha a permissão `PermissionTrust` e `Trust` poderá dar a permissão `Trust` para outros jogadores.
+Jogador poderá dar permissões que ele possui para outros jogadores. Exemplo: O jogador que tenha a permissão `PermissionTrust` e `Trust` poderá dar ou remover a permissão `Trust` a outros jogadores. Ele não poderá dar a permissão `PermissionTrust` para outros jogadores.
 * `/permissiontrust [jogador]`  
   * `/permissiontrust ThiagoROX`
 
@@ -56,7 +55,7 @@ Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, forn
 * `/trust [jogador]`  
   * `/trust ThiagoROX`
 
-## Listar jogadores com permissão na proteção
+## Listar jogadores com permissão
 
 **Comando para listar jogadores com permissão na proteção.**  
 * `/trustlist`
