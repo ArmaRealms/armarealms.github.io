@@ -25,34 +25,34 @@ Exemplo: **/accesstrust public** ou **/containertrust public**
 
 ## Permissão AccessTrust
 
-**Permissão para acessar sua proteção.**  
-Permissão para usar botões, alavancas, camas e definir `/home` na sua proteção ou sub-proteção.  
+> **Permissão para acessar sua proteção.**
+
+Permissão para usar botões, alavancas, camas e definir `/home` na sua proteção ou sub-proteção.
 * `/accesstrust [jogador]`  
   * `/accesstrust ThiagoROX`
 
 ## Permissão ContainerTrust
 
-**Permissão para acessar baús na sua proteção.**  
+> **Permissão para acessar baús na sua proteção.**
+
 Permissão para usar botões, alavancas, camas, mesa de trabalho, **baús**, fornalhas, animais e aldeões na sua proteção ou sub-proteção.  
 * `/containertrust [jogador]`  
   * `/containertrust ThiagoROX`
 
-:::info Acesso ao Baú do Fim!
-A utilização de baú do fim não precisa de permissão.
-:::
-
 ## Permissão PermissionTrust
 
-> **Permissão para gerenciar sua proteção.**  
+> **Permissão para gerenciar sua proteção.**
+
 Jogador poderá dar permissões que ele possui para outros jogadores.  
-O jogador que tenha a permissão `PermissionTrust` e `Trust` poderá dar a permissão `Trust` para outros jogadores.  
+Exemplo: O jogador que tenha a permissão `PermissionTrust` e `Trust` poderá dar a permissão `Trust` para outros jogadores.
 * `/permissiontrust [jogador]`  
   * `/permissiontrust ThiagoROX`
 
 ## Permissão Trust
 
-> **Permissão para construir na sua proteção.**  
-Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, fornalhas, animais e aldeões **e construir** na sua proteção ou sub-proteção.  
+> **Permissão para construir na sua proteção.**
+
+Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, fornalhas, animais e aldeões **e construir** na sua proteção ou sub-proteção.
 * `/trust [jogador]`  
   * `/trust ThiagoROX`
 
@@ -66,4 +66,3 @@ Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, forn
 **Comando para remover permissões de um jogador na sua proteção.**  
 * `/untrust [jogador]`  
   * `/untrust ThiagoROX`
-

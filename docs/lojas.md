@@ -14,9 +14,10 @@ sidebar_position: 9
 ## Vender Itens para o Servidor
 * `/sellgui` - Abrir o menu onde você pode colocar itens que deseja vender, ao fechar o menu os itens serão vendidos.
 * `/sellall` - Vende todos os itens do inventário de qualquer categoria.
-* `/sellall <categoria>` - Vende todos os itens do inventário que sejam da categoria blocos.
+* `/sellall (categoria)` - Vende todos os itens do inventário que sejam da categoria blocos.
   * `/sellall blocos` - Vender todos os itens da categoria blocos que estiver no inventário.
-* `/sell hand [quantia]` - Vender a quantidade especificada do item que estiver segurando;
+* `/sell hand ` - Vender o item que estiver segunrando;
+* `/sell hand (quantia)` - Vender a quantidade especificada do item que estiver segurando;
   * `/sell hand 32` - Vende 32 itens que estiverem na sua mão.
 * `/sell handall` - Vender todos os itens do inventário que seja igual ao que estiver segurando;
 

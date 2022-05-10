@@ -6,9 +6,7 @@ sidebar_position: 4
 
 # Lista de Comandos
 
-Argumentos entre \[ \] são obrigatórios - Argumentos entre \( \) são opcionais.
-
-Use a barra de pesquisa da página para encontrar ajuda.
+Use a barra de pesquisa da página para encontrar comandos.
 
 ## **Diversos**
 

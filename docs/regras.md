@@ -7,8 +7,7 @@ sidebar_position: 2
 # Regras
 
 :::danger Atenção!
-**Aceitamos Clientes Alternativos!** (TLauncher e Shiginima e etc..)
-
+**Aceitamos Clientes Alternativos!** (TLauncher e Shiginima e etc..)  
 Se você possuir conta original e realizar a alteração do nome de perfil (nick) no site da mojang, você perderá todo o progresso realizado com o nick antigo nos servidores Armageddon, tome cuidado antes de alterar o seu nome de perfil!
 :::
 
