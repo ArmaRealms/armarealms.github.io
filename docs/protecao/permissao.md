@@ -9,7 +9,7 @@ sidebar_position: 2
 Argumentos entre \[ \] são obrigatórios - Argumentos entre \( \) são opcionais.
 
 :::tip Permissão em todas as proteções!
-Para adicionar ou remover permissões em **todas** as suas proteções basta **ficar fora da proteção** e executar os comandos abaixo.
+Para adicionar ou remover permissões em **todas** as suas proteções com um único comando basta **ficar fora da proteção** e executar os comandos abaixo.
 :::
 
 :::tip Permissão para membros do clã!
@@ -57,11 +57,11 @@ Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, forn
 
 ## Listar jogadores com permissão
 
-**Comando para listar jogadores com permissão na proteção.**  
+> **Comando para listar jogadores com permissão na proteção.**  
 * `/trustlist`
 
 ## Remover permissões de jogadores
 
-**Comando para remover permissões de um jogador na sua proteção.**  
+> **Comando para remover permissões de um jogador na sua proteção.**  
 * `/untrust [jogador]`  
   * `/untrust ThiagoROX`
