@@ -12,29 +12,29 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ### Links com informações
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/ajuda` | Listar comandos do servidor |
 | `/discord` | Listar o Discord do servidor |
 | `/forum` | Listar o Fórum do servidor |
 | `/regras` | Listar link com as regras do servidor |
 | `/site` | Listar todos os sites do servidor |
+| `/topvotos` | Listar os jogadores que mais votaram no server |
 | `/vip` | Site da loja onde vende VIP, chave e outros produtos |
-| `/wiki` | Listar a Wiki do servidor |
 | `/vote` | Listar o site para votar no server |
 | `/votos` | Listar a quantidades de votos que você possui |
-| `/topvotos (página)` | Listar os jogadores que mais votaram no server |
+| `/wiki` | Listar a Wiki do servidor |
 
-### Sistemas para melhoria do jogo
+### Comandos para Melhorias
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/auto` | Ativar e desativar o recolhimento de itens direto para o inventário |
 | `/gps` | Lista jogadores próximos |
 | `/lixo` | Abrir a lixeira para descartar itens |
 | `/original` | Ative o login automático se você tiver minecraft original | 
 
-### Sistema de kits com itens
+### Comandos de Kit
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/kits` | Abra o menu de kits |
 | `/kit [nome-do-kit]` | Receba o kit solicitado |
 | `/kit fome` | Receba o kit com pães |
@@ -43,32 +43,32 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ### Sistema de Skins
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/skin set [nick]` | Altere sua skin usando uma conta original |
-| `/skin set [https://site |com/final |png]` | Altere sua skin usando uma imagem |
+| `/skin set [https://site.com/final.png]` | Altere sua skin usando uma imagem |
 | `/skin clear` | Remove sua skin |
 | `/skin update` | Atualiza sua skin | 
 
 ## **Chat**
 
-### Mensagem privada entre jogadores
+### Mensagem Privada
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/m [jogador] [sua mensagem]` | Envie mensagens privadas para outro jogador |
 | `/m [jogador]` | Travar ou destravar mensagens privadas com outro jogador |
 | `/r [mensagem]` | Responda a última mensagem privada recebida |
 
-### Configuração do seu chat privado
+### Configuração do Chat Privado
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/ignore [jogador]` | Ignora/Designora um jogador |
 | `/ignore list` | Listar jogadores ignorados |
 | `/msgnotify` | Ativa ou desativa notificações ao receber mensagens |
 | `/msgtoggle` | Ativa ou desativa o recebimento de mensagens privadas |
 
-### Mensagens para todo o servidor
+### Mensagem no Chat Global ou Local
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/g [mensagem]` | Envie mensagem no canal global estando no chat local | 
 | `/l [mensagem]` | Envie mensagem no chat local estando no chat global |
 | `/join global` | Entre no chat global |
@@ -78,7 +78,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ### Comandos principais
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/prot` ou `/plot` | Comandos para abrir o menu de proteção | 
 | `/claim (tamanho)` | Criar uma proteção no local que você estiver | Caso nenhum valor seja usado a proteção terá o tamanho de 10 blocos |
 | `/claim 10` | Protege 10 blocos para cada lado, tamanho de 21x21 | 
@@ -86,9 +86,9 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/extendclaim 10` | Expande a proteção 10 blocos na sua direção | 
 | `/claimslist` | Liste as informações das proteções | 
 
-### Gerenciar permissões de outros jogadores
+### Gerenciamento de Permissões
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/trust [jogador]` | Permite acesso a sua proteção para outro jogador |
 | `/accesstrust [jogador]` | Permite o jogador acessar sua proteção e utilizar sua cama |
 | `/containertrust [jogador]` | Permita outro jogador acessar o baú, animais, cama, botões e alavancas, plantações na sua proteção |
@@ -96,59 +96,59 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/untrust [jogador]` | Remova o acesso do jogador a sua proteção | 
 | `/trustlist` | Lista as permissões da proteção que você está |
 
-### Excluir uma proteção ou sub-proteção
+### Excluir Proteção ou Sub-Proteção
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/abandonallclaims` | Apague todas as suas proteções no server | 
 | `/abandonclaim` | Apague a proteção em que você está localizado |
 | `/abandontoplevelclaim` | Apague uma proteção e todas suas subdivisões |
 
-### Banir, desbanir ou expulsar jogadores da proteção
+### Gerenciar Banimento da Proteção
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/claimban [jogador]` | Banir outro jogador da proteção |
 | `/claimunban [jogador]` | Desbanir outro jogador da proteção |
 | `/claimbanall` | Banir todos os jogadoresjogador da proteção |
 | `/claimbanlist` | Listar jogadores banidos da sua proteção |
 
-### Criar sub-proteções dentro da sua proteção
+### Criar Sub-Proteção
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/subdivideclaims` | Altere a pá de ouro para o modo de subdivisão de proteções, usado para dividir suas proteções |
 | `/restrictsubclaim` | Restrinja a subdivisão para que ela não herde as permissões da proteção principal | 
 | `/basicclaims` | Altere a pá de ouro para o modo básico de proteção |
 
-### Comprar ou vender blocos de proteção
+### Compra ou Venda de Blocos de Proteção
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/buyclaimblocks [quantia]` | Compre blocos de proteção com dinheiro virtual |
 | `/sellclaimblocks [quantia]` | Venda seus blocos de proteção para o servidor | 
 
-### Outros comandos relacionado a proteção
+### Outros Comandos de Proteção
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/claimexplosions` | Alterna a proteção contra explosões nos terrenos protegidos | 
 | `/givepet [jogador]` | Doe seu animal de estimação para outro jogador |
 
 ## Teleporte
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/spawn` | Teleporte para o inicio do server |
 | `/wild` | Teleporte para um lugar aleatório do mapa |
 | `/fps` | Teleporte para a arena FPS | \(mcMMO desativado\) |
 | `/arena` | Teleporte para a arena | \(mcMMO ativado\) |
 | `/camarote` | Teleporte para o camarote de eventos | 
 
-### Definir sua casa no mapa
+### Definir Casa no Mapa
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/sethome [nome-da-home]` | Defina uma home |
 | `/home [nome-da-home]` | Teleporte para a home definida |
 | `/delhome [nome-da-home]` | Apague sua home | 
 
-### Teleporte entre jogadores
+### Teleporte entre Jogadores
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/tpa [jogador]` | Solicite a outro jogador teleporte até ele |
 | `/tpacancel` | Cancele a solicitação de teleporte enviada por você |
 | `/tpaccept` | Aceite solicitação de teleporte até você |
@@ -157,59 +157,56 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ## Warps
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/pwarp [warp]` | Teleportar para a warp de um jogador |
 | `/pwarp abrir [categoria]` | Abrir as warps da categoria |
 | `/pwarp ajuda` | Listar comandos do sistema de warp |
 | `/pwarp avaliar [warp] [valor]` | Avaliar uma warp |
-| `/pwarp avaliar SuperWarp 5` | Valor de avaliação entre 1 e 5 | 
 | `/pwarp categoria [warp] [categoria]` | Definir a categoria da warp | 
 | `/pwarp definir [warp]` | Definir uma warp Na localização atual |
-| `/pwarp desc remove SuperWarp`  
-| `/pwarp desc set SuperWarp Super Warp do Servidor |`
-| `/pwarp desc set/remove [warp] [desc]` | Descrição de uma warp |
+| `/pwarp descricao definir [warp] [desc]` | Definir descrição de uma warp |
+| `/pwarp descricao remover [warp]` | Remvoer descrição de uma warp |
 | `/pwarp listar` | Listar todas warps disponíveis |
 | `/pwarp quantia` | Visualizar quantas warps você possui |
 | `/pwarp redefinir [warp]` | Redefinir a localização de uma warp |
 | `/pwarp remover [warp]` | Remover uma warp | 
 | `/pwarp renomear [warp] [nome]` | Renomear uma warp | 
-| `/pwarp senha remove SuperWarp`
-| `/pwarp senha set SuperWarp 12345`
-| `/pwarp senha set/remove [warp] [senha]` | Senha de uma warp |
+| `/pwarp senha definir [warp] [senha]` | Definir senha de uma warp |
+| `/pwarp senha remover [warp]` | Remover senha de uma warp |
 | `/pwarp travar [warp]` | Travar ou Destravar uma warp |
 
 ## Economia
 
-### Comandos para gerenciar saldo
+### Comandos para Gerenciar Saldo
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/pay [jogador] [valor]` | Transfira dinheiro para outro jogador |
 | `/payconfirmtoggle` | Ative e desative a confirmação de pagamento |
 | `/paytoggle` | Ative e desative o recebimento de dinheiro |
 | `/saldo (jogador)` | Visualize seu saldo ou de outro jogador no banco |
 | `/topsaldo (página)` | Liste os jogadores mais ricos do server |
 
-### Comandos para acessar lojas
+### Comandos para Acessar Lojas
 | Comando | Descrição |
-| :-----: | :-------: |
-| `/loja` ou `/shop`- Abra o menu de lojas do servidor, neste menu você acessa a loja do server e a loja dos jogadores |
+| ----- | ------- |
+| `/loja` ou `/shop`| Abra o menu de lojas do servidor, neste menu você acessa a loja do server e a loja dos jogadores |
 | `/sell hand [quantia]` | Vender a quantidade definida do item na mão |
 | `/sell handall` | Vender todos os itens do inventário igual ao item na mão | 
 | `/sloja` ou `/sshop` | Abra o menu da loja do servidor |
 | `/sell all` | Venda todos os itens do seu inventário |
 
-### Comandos para gerenciar a loteria
+### Comandos para Gerenciar a Loteria
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
+| `/lot` ou `/loteria` | Abra o menu da loteria para realizar apostas |
 | `/lot buy [quantia]` | Comprar bilhetes da loteria |
 | `/lot status` | Visualizar status do sorteio atual |
-| `/lot` ou `/loteria` | Abra o menu da loteria para realizar apostas |
 | `/loteria togglebuymsg` | Alterar notificações de compras na loteria |
 | `/loteria toggleremindmsg` | Alterar notificações de sorteios da loteria |
 
 ## Habilidades
 | Comando | Descrição |
-| :-----: | :-------: |
+| ----- | ------- |
 | `/[habilidade] ? (página)` | Abre o guia uma habilidade especifica |
 | `/acrobacia ? 1` | Abre o guia para a habilidade de acrobacia | 
 | `/[habilidade]` | Lista as estatísticas de uma habilidade especifica |
@@ -230,8 +227,8 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ## Equipe
 | Comando | Descrição |
-| :-----: | :-------: |
-| `/p [on|off]` | Ativa ou desativa o chat da equipe |
+| ----- | ------- |
+| `/p [on/off]` | Ativa ou desativa o chat da equipe |
 | `/p` | Alterna entre on e off o chat da equipe |
 | `/p [msg]` | Envie mensagens no chat da equipe sem entrar no chat |
 | `/party create [nome] (senha)` | Para criar um equipe |
@@ -249,52 +246,40 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ## VIP
 | Comando | Descrição |
-| :-----: | :-------: |
-| `/bloco (hand)`- Transforma o item que você estiver segundando em blocos |
+| ----- | ------- |
+| `/auto baus` | Ativar ou desativar o recolhimento automatico de itens ao quebrar baús |
+| `/auto blocos` | Ativar ou desativar o recolhimento automatico de itens ao quebrar blocos |
+| `/auto mobs` | Ativar ou desativar o recolhimento automatico de itens ao matar mobs  |
+| `/auto pesca` | Ativar ou desativar o recolhimento automatico ao pescar |
+| `/bancada` | Abrir o menu de bancadas virtual |
+| `/bigorna` | Abrir a bigorna virtual |
+| `/bloco (hand)`| Transforma o item que você estiver segundando em blocos |
 | `/bloco (inventory)` | Transforma todos os itens compatíveis do inventário em blocos |  
 | `/bloco (item ou id)` | Transforma o item especificado no comando em blocos |
 | `/bloco` | Transformar itens em blocos | Apenas aqueles que possam ser transformados em itens novamente |
+| `/cartografia` | Abrir a bancada de cartografia virtual |
 | `/cor` | Abrir o menu de cores do chat |
 | `/cores` | Listar códigos de cores |
+| `/cortador` | Abrir o cartador virtual |
 | `/craft` | Abrir o Super Craft virtual |
 | `/crafttoggle` | Ativar ou Desativa o Super Craft |
 | `/ec` | Abrir o baú do fim virtual |
+| `/ferraria` | abrir a bancada de ferreiro virtual |
 | `/hat` | Colocar o bloco na mão no lugar do capacete | 
+| `/isort` | Organizar apenas os itens no seu inventário  |
+| `/isortall` | Organizar itens do seu inventário e da sua hotbar |
+| `/isorthotbar` | Organizar apenas os itens da sua hotbar |
+| `/isorttoggle` | Ativar ou desativar a organização de inventário automaticamente |
 | `/kit mast` | Receber o KIT semanal Master |
 | `/kit prem` | Receber o KIT semanal Premium |
 | `/kit ulti` | Receber o KIT semanal Ultimate |
+| `/luz` | Ativar oud esativar visão noturna |
 | `/nick [novo-nick]` | Altere seu nick \(apenas cores, use /cores para listar todos os códigos\) |
 | `/nick off` | Remover o nick alterado anteriormente | 
-| `/vipmenu` | Saiba o status do seu VIP |
+| `/rebolo` | Abrir bancada do rebolo virtual |
+| `/tear` | Abrir bancada do tear virtual |
+| `/v [mensagem]` | Enviar mensagens no chat VIP |
+| `/vipconfig` | Abrir menu de configurações VIP |
+| `/viploja` | Abrir loja VIP. |
+| `/vipmenu` | Abri o menu principal do VIP |
 | `/wb` | Abrir a bancada de trabalho virtual |
-| `/auto baus` |  |
-| `/auto blocos` |  |
-| `/auto mobs` |  |
-| `/auto pesca` |  |
-| `/bancada` |  |
-| `/bigorna` |  |
-| `/bloco` |  |
-| `/cartografia` |  |
-| `/cor` |  |
-| `/cortador` |  |
-| `/craft` |  |
-| `/crafttoggle` |  |
-| `/ec` |  |
-| `/ferraria` |  |
-| `/hat` |  |
-| `/isort` |  |
-| `/isortall` |  |
-| `/isorthotbar` |  |
-| `/isorttoggle` |  |
-| `/luz` |  |
-| `/nick` |  |
-| `/rebolo` |  |
-| `/tear` |  |
-| `/v` |  |
-| `/vipconfig` |  |
-| `/viploja` |  |
-| `/vipmenu` |  |
-| `/wb` |  |
-| `/kit prem` |  |
-| `/kit mast` |  |
-| `/kit ulti ` |  |

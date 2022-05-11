@@ -3,6 +3,7 @@ title: VIP
 description: Lista de benefícios ao ser VIP.
 sidebar_position: 20
 ---
+
 # Sistema de VIP
 
 :::info Duração do VIP!
@@ -24,7 +25,7 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | TRIDENTE ARMAGEDDON - Todos os encamentamentos               | ❌         | ❌         | ✔️           |
 | ÉLITROS ARMAGEDDON - Todos os encamentamentos                | ❌         | ❌         | ✔️           |
 | SINALIZADOR (BEACON)                                         | ❌         | ❌         | ✔️           |
-| MAÇA ENCANTADA                                               | 16         | 24          | 48            |
+| MAÇÃ ENCANTADA                                               | 16         | 24          | 48            |
 
 ## Kit Semanal
 - VIP Premium = `/kit prem` - Receber o Kit Premium Semanal
@@ -73,39 +74,39 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 
 ## Comandos
 
-| **COMANDOS**              | **PREMIUM** | **MASTER** | **ULTIMATE** |
-| :-----------------------: | :---------: | :--------: | :----------: |
-| `/auto baus`                | ✔️          | ✔️        | ✔️           |
-| `/auto blocos`              | ✔️          | ✔️        | ✔️           |
-| `/auto mobs`                | ✔️          | ✔️        | ✔️           |
-| `/auto pesca`               | ✔️          | ✔️        | ✔️           |
-| `/bancada`                  | ✔️          | ✔️        | ✔️           |
-| `/bigorna`                  | ✔️          | ✔️        | ✔️           |
-| `/bloco`                    | ✔️          | ✔️        | ✔️           |
-| `/cartografia`              | ✔️          | ✔️        | ✔️           |
-| `/cor`                      | ✔️          | ✔️        | ✔️           |
-| `/cortador`                 | ✔️          | ✔️        | ✔️           |
-| `/craft`                    | ✔️          | ✔️        | ✔️           |
-| `/crafttoggle`              | ✔️          | ✔️        | ✔️           |
-| `/ec`                       | ✔️          | ✔️        | ✔️           |
-| `/ferraria`                 | ✔️          | ✔️        | ✔️           |
-| `/hat`                      | ✔️          | ✔️        | ✔️           |
-| `/isort`                    | ✔️          | ✔️        | ✔️           |
-| `/isortall`                 | ✔️          | ✔️        | ✔️           |
-| `/isorthotbar`              | ✔️          | ✔️        | ✔️           |
-| `/isorttoggle`              | ✔️          | ✔️        | ✔️           |
-| `/luz`                      | ✔️          | ✔️        | ✔️           |
-| `/nick`                     | ✔️          | ✔️        | ✔️           |
-| `/rebolo`                   | ✔️          | ✔️        | ✔️           |
-| `/tear`                     | ✔️          | ✔️        | ✔️           |
-| `/v`                        | ✔️          | ✔️        | ✔️           |
-| `/vipconfig`                | ✔️          | ✔️        | ✔️           |
-| `/viploja`                  | ✔️          | ✔️        | ✔️           |
-| `/vipmenu`                  | ✔️          | ✔️        | ✔️           |
-| `/wb`                       | ✔️          | ✔️        | ✔️           |
-| `/kit prem`                 | ✔️          | ❌        | ❌           |
-| `/kit mast`                 | ❌          | ✔️        | ❌           |
-| `/kit ulti `                | ❌          | ❌        | ✔️           |
+| **COMANDOS**   | **DESCRIÇÃO DO COMANDO**                  | **PREMIUM** | **MASTER** | **ULTIMATE** |
+| :------------: | :---------------------------------------: | :---------: | :--------: | :----------: |
+| `/auto baus`   | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/auto blocos` | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/auto mobs`   | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/auto pesca`  | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/bancada`     | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/bigorna`     | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/bloco`       | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/cartografia` | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/cor`         | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/cortador`    | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/craft`       | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/crafttoggle` | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/ec`          | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/ferraria`    | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/hat`         | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/isort`       | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/isortall`    | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/isorthotbar` | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/isorttoggle` | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/luz`         | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/nick`        | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/rebolo`      | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/tear`        | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/v`           | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/vipconfig`   | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/viploja`     | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/vipmenu`     | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/wb`          | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/kit prem`    | [Descrição do comando](./comandos.md#vip) | ✔️          | ❌        | ❌           |
+| `/kit mast`    | [Descrição do comando](./comandos.md#vip) | ❌          | ✔️        | ❌           |
+| `/kit ulti `   | [Descrição do comando](./comandos.md#vip) | ❌          | ❌        | ✔️           |
 
 ## Chat e TAB
 
@@ -122,6 +123,6 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | **DIVERSOS**                                                      | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :---------------------------------------------------------------: | :---------: | :--------: | :----------: |
 | BLOCOS DE PROTEÇÃO                                                | 5.000       | 10.000     | 20.000       |
-| CHANCE DE DROP DE SPAWNER - `Apenas no servidor Gênesis`          | 30%         | 40%        | 50%          |
+| CHANCE DE QUEBRAR SPAWNER - `Apenas no servidor Gênesis`          | 30%         | 40%        | 50%          |
 | BÔNUS DE COINS AO MATAR MOB                                       | 10%         | 15%        | 20%          |
 | PRIORIDADE NA LISTA DE ESPERA                                     | ✔️          | ✔️        | ✔️           |
