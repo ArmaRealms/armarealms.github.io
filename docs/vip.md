@@ -10,24 +10,26 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 :::
 
 ## Kit Ativação
-
 | **KIT DE ATIVAÇÃO**                                          | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :----------------------------------------------------------: | :---------: | :--------: | :----------: |
-| CAPACETE ARMAGEDDON                                          | ✔️         | ✔️         | ✔️           |
-| PEITORAL ARAMGEDDON                                          | ✔️         | ✔️         | ✔️           |
-| CALÇA ARMAGEDDON                                             | ✔️         | ✔️         | ✔️           |
-| BOTAS ARMAGEDDON                                             | ✔️         | ✔️         | ✔️           |
-| PICARETA ARMAGEDDON                                          | ✔️         | ✔️         | ✔️           |
-| SPAWNER DE ZUMBI - Apenas no servidor Gênesis                | ✔️         | ✔️         | ✔️           |
-| MACHADO ARMAGEDDON                                           | ❌         | ✔️         | ✔️           |
-| PÁ ARMAGEDDON                                                | ❌         | ✔️         | ✔️           |
-| SPAWNER DE ESQUELETO - Apenas no servidor Gênesis            | ❌         | ✔️         | ✔️           |
-| TRIDENTE ARMAGEDDON                                          | ❌         | ❌         | ✔️           |
-| ÉLITROS ARMAGEDDON                                           | ❌         | ❌         | ✔️           |
+| CAPACETE ARMAGEDDON - Todos os encamentamentos               | ✔️         | ✔️         | ✔️           |
+| PEITORAL ARAMGEDDON - Todos os encamentamentos               | ✔️         | ✔️         | ✔️           |
+| CALÇA ARMAGEDDON - Todos os encamentamentos                  | ✔️         | ✔️         | ✔️           |
+| BOTAS ARMAGEDDON - Todos os encamentamentos                  | ✔️         | ✔️         | ✔️           |
+| PICARETA ARMAGEDDON - Todos os encamentamentos               | ✔️         | ✔️         | ✔️           |
+| SPAWNER DE ZUMBI - `Apenas no servidor Gênesis`              | ✔️         | ✔️         | ✔️           |
+| MACHADO ARMAGEDDON - Todos os encamentamentos                | ❌         | ✔️         | ✔️           |
+| PÁ ARMAGEDDON - Todos os encamentamentos                     | ❌         | ✔️         | ✔️           |
+| SPAWNER DE ESQUELETO - `Apenas no servidor Gênesis`          | ❌         | ✔️         | ✔️           |
+| TRIDENTE ARMAGEDDON - Todos os encamentamentos               | ❌         | ❌         | ✔️           |
+| ÉLITROS ARMAGEDDON - Todos os encamentamentos                | ❌         | ❌         | ✔️           |
 | SINALIZADOR (BEACON)                                         | ❌         | ❌         | ✔️           |
 | MAÇA ENCANTADA                                               | 16         | 24          | 48            |
 
 ## Kit Semanal
+- VIP Premium = `/kit prem` - Receber o Kit Premium Semanal
+- VIP Master = `/kit mast` - Receber o Kit Master Semanal
+- VIP Ultimate = `/kit ulti` - Receber o Kit Ultimate Semanal
 
 | **KIT SEMANAL**      | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :------------------: | :---------: | :--------: | :----------: |
@@ -38,7 +40,8 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | PICARETA DE DIAMANTE | ✔️          | ✔️        |✔️            |
 | MACHADO DE DIAMANTE  | ✔️          | ✔️        |✔️            |
 | PÁ DE DIAMANTE       | ✔️          | ✔️        |✔️            |
-| DIAMANTES            | 16           | 32        | 64            |
+| DIAMANTE             | 16           | 32        | 64            |
+| NETHERITE            | 01           | 02        | 03            |
 | MAÇA ENCANTADA       | 04           | 08        | 32            |
 
 ## Boost mcMMO
@@ -56,31 +59,53 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | :----------------------------------------------------------: | :---------: | :--------: | :----------: |
 | RECEBIMENTO DE COINS NO JOGO                                 | $50.000     | $100.000   | $200.000     |
 | DESCONTO NA /SLOJA                                           | 10%         | 15%        | 20%          |
-| QUANTIDADE DE LOJAS - Membros possui 20 lojas                | 50          | 100        | 200          |
-| QUANTIDADE DE LEILÕES - Membros possui 10 leilões            | 20          | 30         | 50           |
+| QUANTIDADE DE LOJAS - Membros possui 20 lojas                | 50 lojas    | 100 lojas  | 200 lojas    |
+| QUANTIDADE DE LEILÕES - Membros possui 02 itens              | 05 itens    | 10 itens   | 15 itens     |
+| TEMPO DOS LEILÕES - Membros possui 02 dias                   | 04 dias     | 07 dias    | 10 dias      |
 
 ## Teleporte
 
 | **TELEPORTE**                                   | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :---------------------------------------------: | :---------: | :--------: | :----------: |
-| QUANTIDADE DE HOMES - Membro possui 5 homes.    | 20          | 50         | 150          |
-| QUANTIDADE DE WARPS - Membro possui 1 warp.     | 2           | 3          | 5​            |
+| QUANTIDADE DE HOMES - Membro possui 5 homes.    | 20 homes    | 50 homes   | 150 homes    |
+| QUANTIDADE DE WARPS - Membro possui 1 warp.     | 2 warps     | 3 warps    | 5​ warps      |
 | SEM TEMPO DE ESPERA - Membro espera 3 segundos. | ✔️          | ✔️        | ✔️           |
 
 ## Comandos
 
 | **COMANDOS**              | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :-----------------------: | :---------: | :--------: | :----------: |
-| /ec                       | ✔️          | ✔️        | ✔️           |
-| /craft                    | ✔️          | ✔️        | ✔️           |
-| /wb                       | ✔️          | ✔️        | ✔️           |
-| /hat                      | ✔️          | ✔️        | ✔️           |
-| /nick                     | ✔️          | ✔️        | ✔️           |
-| /cor                      | ✔️          | ✔️        | ✔️           |
-| /bloco                    | ✔️          | ✔️        | ✔️           |
-| /kit prem                 | ✔️          | ❌        | ❌           |
-| /kit mast                 | ❌          | ✔️        | ❌           |
-| /kit ulti                 | ❌          | ❌        | ✔️           |
+| `/auto baus`                | ✔️          | ✔️        | ✔️           |
+| `/auto blocos`              | ✔️          | ✔️        | ✔️           |
+| `/auto mobs`                | ✔️          | ✔️        | ✔️           |
+| `/auto pesca`               | ✔️          | ✔️        | ✔️           |
+| `/bancada`                  | ✔️          | ✔️        | ✔️           |
+| `/bigorna`                  | ✔️          | ✔️        | ✔️           |
+| `/bloco`                    | ✔️          | ✔️        | ✔️           |
+| `/cartografia`              | ✔️          | ✔️        | ✔️           |
+| `/cor`                      | ✔️          | ✔️        | ✔️           |
+| `/cortador`                 | ✔️          | ✔️        | ✔️           |
+| `/craft`                    | ✔️          | ✔️        | ✔️           |
+| `/crafttoggle`              | ✔️          | ✔️        | ✔️           |
+| `/ec`                       | ✔️          | ✔️        | ✔️           |
+| `/ferraria`                 | ✔️          | ✔️        | ✔️           |
+| `/hat`                      | ✔️          | ✔️        | ✔️           |
+| `/isort`                    | ✔️          | ✔️        | ✔️           |
+| `/isortall`                 | ✔️          | ✔️        | ✔️           |
+| `/isorthotbar`              | ✔️          | ✔️        | ✔️           |
+| `/isorttoggle`              | ✔️          | ✔️        | ✔️           |
+| `/luz`                      | ✔️          | ✔️        | ✔️           |
+| `/nick`                     | ✔️          | ✔️        | ✔️           |
+| `/rebolo`                   | ✔️          | ✔️        | ✔️           |
+| `/tear`                     | ✔️          | ✔️        | ✔️           |
+| `/v`                        | ✔️          | ✔️        | ✔️           |
+| `/vipconfig`                | ✔️          | ✔️        | ✔️           |
+| `/viploja`                  | ✔️          | ✔️        | ✔️           |
+| `/vipmenu`                  | ✔️          | ✔️        | ✔️           |
+| `/wb`                       | ✔️          | ✔️        | ✔️           |
+| `/kit prem`                 | ✔️          | ❌        | ❌           |
+| `/kit mast`                 | ❌          | ✔️        | ❌           |
+| `/kit ulti `                | ❌          | ❌        | ✔️           |
 
 ## Chat e TAB
 
@@ -97,6 +122,6 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | **DIVERSOS**                                                      | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :---------------------------------------------------------------: | :---------: | :--------: | :----------: |
 | BLOCOS DE PROTEÇÃO                                                | 5.000       | 10.000     | 20.000       |
-| CHANCE DE DROP DE SPAWNER - Apenas no servidor Gênesis            | 30%         | 40%        | 50%          |
+| CHANCE DE DROP DE SPAWNER - `Apenas no servidor Gênesis`          | 30%         | 40%        | 50%          |
 | BÔNUS DE COINS AO MATAR MOB                                       | 10%         | 15%        | 20%          |
 | PRIORIDADE NA LISTA DE ESPERA                                     | ✔️          | ✔️        | ✔️           |
