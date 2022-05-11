@@ -6,19 +6,17 @@ sidebar_position: 2
 
 # Permissões na Proteção
 
-Argumentos entre \[ \] são obrigatórios - Argumentos entre \( \) são opcionais.
-
-:::tip Permissão em todas as proteções!
+:::note Permissão em todas as proteções!
 Para adicionar ou remover permissões em **todas** as suas proteções com um único comando basta **ficar fora da proteção** e executar os comandos abaixo.
 :::
 
-:::tip Permissão para membros do clã!
+:::note Permissão para membros do clã!
 Use **group.\[tag-do-clã\]** para adicionar ou remover permissões de todos os membros do clã.  
 Exemplo: **/accesstrust group.cdl** ou **/containertrust group.cdl**  
 Permissão para todos os membros do clã com TAG **CDL**.
 :::
 
-:::tip Permissão para todos os jogadores
+:::note Permissão para todos os jogadores
 Use **public** para dar permissão a todos os jogadores.  
 Exemplo: **/accesstrust public** ou **/containertrust public**
 :::
@@ -55,13 +53,29 @@ Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, forn
 * `/trust [jogador]`  
   * `/trust ThiagoROX`
 
-## Listar jogadores com permissão
+## Permissão TrustNear
+
+> **Permissão para que outro jogador possa criar proteções perto da sua.**
+
+* `/trustnear [jogador]`  
+  * `/trustnear ThiagoROX`
+
+## Remover Permissão TrustNear
+
+> **Remover permissão para que outro jogador possa criar proteções perto da sua.**
+
+* `/untrustnear [jogador]`  
+  * `/untrustnear ThiagoROX`
+
+## Listar Jogadores com Permissão
 
 > **Comando para listar jogadores com permissão na proteção.**  
+
 * `/trustlist`
 
-## Remover permissões de jogadores
+## Remover Permissão de Jogadores
 
 > **Comando para remover permissões de um jogador na sua proteção.**  
+
 * `/untrust [jogador]`  
   * `/untrust ThiagoROX`
