@@ -41,7 +41,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/kit prot` | Receba o kit de proteção |
 | `/kit pvp` | Receba o kit de PVP \(custa $500\) | 
 
-### Sistema de Skins
+### Comandos de Skins
 | Comando | Descrição |
 | ----- | ------- |
 | `/skin set [nick]` | Altere sua skin usando uma conta original |
@@ -66,13 +66,18 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/msgnotify` | Ativa ou desativa notificações ao receber mensagens |
 | `/msgtoggle` | Ativa ou desativa o recebimento de mensagens privadas |
 
-### Mensagem no Chat Global ou Local
+### Mensagem Global
 | Comando | Descrição |
 | ----- | ------- |
-| `/g [mensagem]` | Envie mensagem no canal global estando no chat local | 
-| `/l [mensagem]` | Envie mensagem no chat local estando no chat global |
-| `/join global` | Entre no chat global |
-| `/join local` | Entre no chat local (sua mensagem aparecerá apenas para jogadores que estiverem a 200 blocos) |
+| `/g [mensagem]` | Enviar mensagem no chat global |
+| `/g` ou `/global` | Entrar no chat global |
+| `/leave global` | Sair do chat global |
+
+### Mensagem Local
+| Comando | Descrição |
+| ----- | ------- |
+| `/l [mensagem]` | Envie mensagem no chat local, sua mensagem aparecerá apenas para quem estiver a 200 blocos|
+| `/l` ou `/local` | Entrar no chat local |
 
 ## Proteção
 
@@ -155,7 +160,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/tpdeny` | Negue solicitação de teleporte até você | 
 | `/tptoggle` | Ative ou desative solicitações de teleporte até você |
 
-## Warps
+### Warps de Jogadores
 | Comando | Descrição |
 | ----- | ------- |
 | `/pwarp [warp]` | Teleportar para a warp de um jogador |
