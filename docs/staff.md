@@ -8,44 +8,44 @@ sidebar_position: 5
 
 ## Admin
 
-#### Função
+### Função
 * Manter o servidor e seus sistemas atualizados;
 * Tirar dúvidas de jogadores realizadas por tickets ou chat;
 * Realizar eventos ou julgar eventos de construção;
 * Corrigir erros e bugs causados pelos sistemas do servidor;
 * Aprovar, reprovar e implementar sugestões de jogadores.
 
-#### Lista de Admin
+### Lista de Admin
 * ThiagoROX
 
 ## Moderador
 
-#### Função
+### Função
 * Tirar dúvidas de jogadores realizadas por tickets ou chat;
 * Realizar eventos ou julgar eventos de construção;
 * Reportar bugs ou erros ao admin;
 
-#### Lista de Moderadores
+### Lista de Moderadores
 * Ddougras
 * FreiraDaNight
 * ZzThiagoZz
 
 ## Mod-GC
 
-#### Função
+### Função
 * Verificar se jogadores estão utilizando programas ou mods Hackers!
 
-#### Lista de Mod-GC
+### Lista de Mod-GC
 * Nenhum
 
 ## Construtor
 
-#### Função
+### Função
 * Construir estruturas para eventos dos servidores;
 * Atualizar construções existentes nos servidores;
 * Possui modo de jogo criativo apenas no servidor **Armageddon Carbon**.
 
-#### Lista de Construtores
+### Lista de Construtores
 * Nenhum
 
 ## Ajudante
