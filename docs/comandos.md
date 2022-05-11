@@ -85,7 +85,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | Comando | Descrição |
 | ----- | ------- |
 | `/prot` ou `/plot` | Comandos para abrir o menu de proteção | 
-| `/claim (tamanho)` | Criar uma proteção no local que você estiver | Caso nenhum valor seja usado a proteção terá o tamanho de 10 blocos |
+| `/claim (tamanho)` | Criar uma proteção no local que você estiver |
 | `/claim 10` | Protege 10 blocos para cada lado, tamanho de 21x21 | 
 | `/extendclaim [tamanho]` | Aumentar o tamanho da proteção |
 | `/extendclaim 10` | Expande a proteção 10 blocos na sua direção | 
@@ -94,12 +94,12 @@ Use a barra de pesquisa da página para encontrar comandos.
 ### Gerenciamento de Permissões
 | Comando | Descrição |
 | ----- | ------- |
-| `/trust [jogador]` | Permite acesso a sua proteção para outro jogador |
-| `/accesstrust [jogador]` | Permite o jogador acessar sua proteção e utilizar sua cama |
-| `/containertrust [jogador]` | Permita outro jogador acessar o baú, animais, cama, botões e alavancas, plantações na sua proteção |
-| `/permissiontrust [jogador]` | Permita outro jogador dar permissões que ele tenha na sua proteção para outro jogador |
-| `/untrust [jogador]` | Remova o acesso do jogador a sua proteção | 
-| `/trustlist` | Lista as permissões da proteção que você está |
+| `/trust [jogador]` | Permitir acesso a construir na sua proteção |
+| `/accesstrust [jogador]` | Permitir acesso a cama, portas e etc.. na sua proteção |
+| `/containertrust [jogador]` | Permitir acesso a baús na sua proteção |
+| `/permissiontrust [jogador]` | Permitir gerenciamento de permissões na sua proteção |
+| `/untrust [jogador]` | Remover a permissão do jogador na sua proteção | 
+| `/trustlist` | Listar as permissões da proteção que você está |
 
 ### Excluir Proteção ou Sub-Proteção
 | Comando | Descrição |
@@ -194,7 +194,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 ### Comandos para Acessar Lojas
 | Comando | Descrição |
 | ----- | ------- |
-| `/loja` ou `/shop`| Abra o menu de lojas do servidor, neste menu você acessa a loja do server e a loja dos jogadores |
+| `/loja` ou `/shop`| Abra o menu de lojas do servidor |
 | `/sell hand [quantia]` | Vender a quantidade definida do item na mão |
 | `/sell handall` | Vender todos os itens do inventário igual ao item na mão | 
 | `/sloja` ou `/sshop` | Abra o menu da loja do servidor |
@@ -209,28 +209,38 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/loteria togglebuymsg` | Alterar notificações de compras na loteria |
 | `/loteria toggleremindmsg` | Alterar notificações de sorteios da loteria |
 
-## Habilidades
+## mcMMO
+
+### Comandos de Habilidades
 | Comando | Descrição |
 | ----- | ------- |
-| `/[habilidade] ? (página)` | Abre o guia uma habilidade especifica |
-| `/acrobacia ? 1` | Abre o guia para a habilidade de acrobacia | 
 | `/[habilidade]` | Lista as estatísticas de uma habilidade especifica |
 | `/acrobacia` | Lista as estatísticas de acrobacia |
-| `/inspect [jogador]` | Inspecione o nível de habilidade de outro jogador |
+| `/[habilidade] ? (página)` | Abre o guia uma habilidade especifica |
+| `/acrobacia ? 1` | Abre o guia para a habilidade de acrobacia | 
+
+### Configuração de Habilidades
+| Comando | Descrição |
+| ----- | ------- |
 | `/mcability` | Ativa ou desativa a super habilidade \(ativada com botão direito\) |
 | `/mccooldown` | Exiba o placar de tempo de recarga de super habilidades |
 | `/mcnotify` | Ativa ou desativa notificações de habilidades |
+| `/mmoxpbar` | Configurar a barra de XP do mcMMO |
+| `/mmoxpbar hide [habilidade]` |  Esconder a barra de XP de uma habilidade |
+| `/mmoxpbar show [habilidade]` | Visualizar a barra de XP de uma habilidade |
+| `/mmoxpbar reset` | Limpa todas as configurações anteriores | 
+
+### Informação de Habilidades
+| Comando | Descrição |
+| ----- | ------- |
+| `/topmcmmo` ou `/mctop` | Lista os top jogadores gerais das habilidades do mcMMO |
+| `/inspect [jogador]` | Inspecione o nível de habilidade de outro jogador |
 | `/mcrank` | Lista seu ranking em cada habilidade |
 | `/mcstats` | Lista estatísticas de todas as habilidades | 
 | `/mctop [habilitade]` | Lista os top jogadores numa habilidade especifica |
 | `/mctop acrobacia` | Lista os top jogadores na habilidade acrobacia | 
-| `/mctop` | Lista os top jogadores gerais das habilidades do mcMMO |
-| `/mmoxpbar` | Configurar a barra de XP do mcMMO |
-| `/mmoxpbar hide [habilidade]` |  Esconder a barra de XP de uma habilidade |
-| `/mmoxpbar reset` | Limpa todas as configurações anteriores | 
-| `/mmoxpbar show [habilidade]` | Visualizar a barra de XP de uma habilidade |
 
-## Equipe
+### Comandos de Equipe
 | Comando | Descrição |
 | ----- | ------- |
 | `/p [on/off]` | Ativa ou desativa o chat da equipe |
