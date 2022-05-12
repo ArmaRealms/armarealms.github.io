@@ -13,17 +13,17 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 ## Kit Ativação
 | **KIT DE ATIVAÇÃO**                                          | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :----------------------------------------------------------: | :---------: | :--------: | :----------: |
-| CAPACETE ARMAGEDDON - Todos os encamentamentos               | ✔️         | ✔️         | ✔️           |
-| PEITORAL ARAMGEDDON - Todos os encamentamentos               | ✔️         | ✔️         | ✔️           |
-| CALÇA ARMAGEDDON - Todos os encamentamentos                  | ✔️         | ✔️         | ✔️           |
-| BOTAS ARMAGEDDON - Todos os encamentamentos                  | ✔️         | ✔️         | ✔️           |
-| PICARETA ARMAGEDDON - Todos os encamentamentos               | ✔️         | ✔️         | ✔️           |
-| SPAWNER DE ZUMBI - `Apenas no servidor Gênesis`              | ✔️         | ✔️         | ✔️           |
-| MACHADO ARMAGEDDON - Todos os encamentamentos                | ❌         | ✔️         | ✔️           |
-| PÁ ARMAGEDDON - Todos os encamentamentos                     | ❌         | ✔️         | ✔️           |
-| SPAWNER DE ESQUELETO - `Apenas no servidor Gênesis`          | ❌         | ✔️         | ✔️           |
-| TRIDENTE ARMAGEDDON - Todos os encamentamentos               | ❌         | ❌         | ✔️           |
-| ÉLITROS ARMAGEDDON - Todos os encamentamentos                | ❌         | ❌         | ✔️           |
+| CAPACETE ARMAGEDDON <p>Todos os encamentamentos<p>           | ✔️         | ✔️         | ✔️           |
+| PEITORAL ARAMGEDDON <p>Todos os encamentamentos<p>           | ✔️         | ✔️         | ✔️           |
+| CALÇA ARMAGEDDON <p>Todos os encamentamentos<p>              | ✔️         | ✔️         | ✔️           |
+| BOTAS ARMAGEDDON <p>Todos os encamentamentos<p>              | ✔️         | ✔️         | ✔️           |
+| PICARETA ARMAGEDDON <p>Todos os encamentamentos<p>           | ✔️         | ✔️         | ✔️           |
+| SPAWNER DE ZUMBI  <p>`Apenas no servidor Gênesis`</p>        | ✔️         | ✔️         | ✔️           |
+| MACHADO ARMAGEDDON <p>Todos os encamentamentos<p>            | ❌         | ✔️         | ✔️           |
+| PÁ ARMAGEDDON <p>Todos os encamentamentos<p>                 | ❌         | ✔️         | ✔️           |
+| SPAWNER DE ESQUELETO  <p>`Apenas no servidor Gênesis`</p>    | ❌         | ✔️         | ✔️           |
+| TRIDENTE ARMAGEDDON <p>Todos os encamentamentos<p>           | ❌         | ❌         | ✔️           |
+| ÉLITROS ARMAGEDDON <p>Todos os encamentamentos<p>            | ❌         | ❌         | ✔️           |
 | SINALIZADOR (BEACON)                                         | ❌         | ❌         | ✔️           |
 | MAÇÃ ENCANTADA                                               | 16         | 24          | 48            |
 
@@ -123,6 +123,6 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | **DIVERSOS**                                                      | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :---------------------------------------------------------------: | :---------: | :--------: | :----------: |
 | BLOCOS DE PROTEÇÃO                                                | 5.000       | 10.000     | 20.000       |
-| CHANCE DE QUEBRAR SPAWNER<p>`Apenas no servidor Gênesis`</p>      | 30%         | 40%        | 50%          |
+| CHANCE DE QUEBRAR SPAWNER <p>`Apenas no servidor Gênesis`</p>      | 30%         | 40%        | 50%          |
 | BÔNUS DE COINS AO MATAR MOB                                       | 10%         | 15%        | 20%          |
 | PRIORIDADE NA LISTA DE ESPERA                                     | ✔️          | ✔️        | ✔️           |

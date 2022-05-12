@@ -1,5 +1,5 @@
 ---
-title: Loja Física dos Jogadores
+title: Loja de Jogadores
 description: Tudo sobre a loja física dos jogadores.
 sidebar_position: 2
 ---

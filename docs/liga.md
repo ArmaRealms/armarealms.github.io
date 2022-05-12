@@ -6,12 +6,14 @@ sidebar_position: 7
 
 # Liga de Clãs Mensal
 
-Liga é um sistema de pontuação dos clãs de acordo com as atividades de cada jogador no servidor.  
-Toda pontuação ganhada ou perdida pelos jogadores é somada e no final de cada temporada os três clãs com maiores pontuações são premiados.  
+Liga é um sistema de pontuação dos clãs de acordo com as atividades de cada jogador no servidor.
+
+Toda pontuação ganhada ou perdida pelos jogadores é somada e no final de cada temporada os três clãs com maiores pontuações são premiados.
+
 Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês. No final da temporada a pontuação é resetada.
 
 ## Comandos
-* `/liga top` ou `/topclans` - Listar os TOP 10 clãs com maior pontuação.
+* `/liga top` ou `/topliga` - Listar os TOP 10 clãs com maior pontuação.
 * `/liga status [tag-do-clã]` - Listar informações sobre o clã selecionado.
 
 ## Pontuação Positiva

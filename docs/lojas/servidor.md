@@ -1,5 +1,5 @@
 ---
-title: Loja Virtual do Servidor
+title: Loja do Servidor
 description: Tudo sobre a loja virtual do servidor.
 sidebar_position: 1
 ---
