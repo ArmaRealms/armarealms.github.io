@@ -7,7 +7,7 @@ sidebar_position: 3
 # Vote
 
 :::info Vote e receba chaves para abrir caixas na warp /caixa.
-Quanto mais você votar mais prêmios e chaves você pode ganhar:
+Quanto mais você votar mais prêmios e chaves você pode ganhar:  
 A cada **`10 votos`** você recebe uma chave **`comum`**.  
 A cada **`20 votos`** você recebe uma chave **`rara`**.  
 A cada **`80 votos`** você recebe uma chave **`lendária`**.
