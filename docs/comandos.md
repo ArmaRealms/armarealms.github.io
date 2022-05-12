@@ -8,7 +8,7 @@ sidebar_position: 4
 
 Use a barra de pesquisa da página para encontrar comandos.
 
-## **Diversos**
+## Diversos
 
 ### Informações
 | Comando | Descrição |
@@ -49,7 +49,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/skin clear` | Remove sua skin |
 | `/skin update` | Atualiza sua skin | 
 
-## **Chat**
+## Chat
 
 ### Mensagem Privada
 | Comando | Descrição |
@@ -187,7 +187,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/saldo (jogador)` | Visualize seu saldo ou de outro jogador no banco |
 | `/topsaldo (página)` | Liste os jogadores mais ricos do server |
 
-### Lojas
+### Loja do Servidor
 | Comando | Descrição |
 | ----- | ------- |
 | `/loja` ou `/shop`| Abra o menu de lojas do servidor |
@@ -200,8 +200,6 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/sellall (categoria)` | Vende todos os itens do inventário que sejam da categoria blocos |
 | `/sellall blocos` | Vender todos os itens da categoria blocos que estiver no inventário |
 
-
-
 ### Loteria
 | Comando | Descrição |
 | ----- | ------- |
@@ -213,7 +211,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ## mcMMO
 
-### Informação
+### Habilidades
 | Comando | Descrição |
 | ----- | ------- |
 | `/[habilidade]` | Lista as estatísticas de uma habilidade especifica |

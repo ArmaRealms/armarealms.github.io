@@ -76,6 +76,7 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 
 | **COMANDOS**   | **DESCRIÇÃO DO COMANDO**                  | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :------------: | :---------------------------------------: | :---------: | :--------: | :----------: |
+| `/afk`         | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
 | `/auto baus`   | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
 | `/auto blocos` | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
 | `/auto mobs`   | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |

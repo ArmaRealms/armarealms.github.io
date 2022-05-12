@@ -6,17 +6,17 @@ sidebar_position: 2
 
 # Permissões na Proteção
 
-:::note Permissão em todas as proteções!
+:::info Permissão em todas as proteções!
 Para adicionar ou remover permissões em **todas** as suas proteções com um único comando basta **ficar fora da proteção** e executar os comandos abaixo.
 :::
 
-:::note Permissão para membros do clã!
+:::info Permissão para membros do clã!
 Use **group.\[tag-do-clã\]** para adicionar ou remover permissões de todos os membros do clã.  
 Exemplo: **/accesstrust group.cdl** ou **/containertrust group.cdl**  
 Permissão para todos os membros do clã com TAG **CDL**.
 :::
 
-:::note Permissão para todos os jogadores
+:::info Permissão para todos os jogadores
 Use **public** para dar permissão a todos os jogadores.  
 Exemplo: **/accesstrust public** ou **/containertrust public**
 :::
@@ -59,8 +59,6 @@ Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, forn
 
 * `/trustnear [jogador]`  
   * `/trustnear ThiagoROX`
-
-## Remover Permissão TrustNear
 
 > **Remover permissão para que outro jogador possa criar proteções perto da sua.**
 

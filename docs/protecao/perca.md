@@ -39,7 +39,7 @@ sidebar_position: 4
 * Verificar o tempo offline do jogador dono da proteção através do graveto.
 * **A proteção será removida dentro de algumas horas após tempo necessário.**
 
-### **Motivo**
+### Motivo
 * Proteção com até 999 blocos de proteção: 30 dias offline
 * Proteção entre 1.000 a 9.999 blocos de proteção: 60 dias offline;
 * Proteção entre 10.000 a 22.499 blocos de proteção: 90 dias offline;
@@ -60,7 +60,7 @@ sidebar_position: 4
 * O ticket será resolvido dentro de 7 dias após sua abertura.
   * O tempo pode variar por motivos de força maior.
 
-### **Motivo**
+### Motivo
 :::danger [Regra 5 - Proibido Construir Próximo a outro Jogador!](../regras.md)
 Não construa próximo a outro jogador. Para evitar problemas futuros como por exemplo expansões da proteção ou desentendimento entre jogadores, não construa perto de outro jogador sem permissão. Você poderá ter seu terreno ou construções apagadas a qualquer momento.
 :::
