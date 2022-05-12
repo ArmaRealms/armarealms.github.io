@@ -1,6 +1,6 @@
 ---
 title: Comandos
-description: Todos os comandos disponíveis no servidor
+description: Todos os comandos disponíveis no servidor.
 sidebar_position: 4
 ---
 
@@ -10,7 +10,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ## **Diversos**
 
-### Links com informações
+### Informações
 | Comando | Descrição |
 | ----- | ------- |
 | `/ajuda` | Listar comandos do servidor |
@@ -24,7 +24,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/votos` | Listar a quantidades de votos que você possui |
 | `/wiki` | Listar a Wiki do servidor |
 
-### Comandos para Melhorias
+### Melhorias
 | Comando | Descrição |
 | ----- | ------- |
 | `/auto` | Ativar e desativar o recolhimento de itens direto para o inventário |
@@ -32,7 +32,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/lixo` | Abrir a lixeira para descartar itens |
 | `/original` | Ative o login automático se você tiver minecraft original | 
 
-### Comandos de Kit
+### Kits
 | Comando | Descrição |
 | ----- | ------- |
 | `/kits` | Abra o menu de kits |
@@ -41,7 +41,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/kit prot` | Receba o kit de proteção |
 | `/kit pvp` | Receba o kit de PVP \(custa $500\) | 
 
-### Comandos de Skins
+### Skins
 | Comando | Descrição |
 | ----- | ------- |
 | `/skin set [nick]` | Altere sua skin usando uma conta original |
@@ -57,10 +57,6 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/m [jogador] [sua mensagem]` | Envie mensagens privadas para outro jogador |
 | `/m [jogador]` | Travar ou destravar mensagens privadas com outro jogador |
 | `/r [mensagem]` | Responda a última mensagem privada recebida |
-
-### Configuração do Chat Privado
-| Comando | Descrição |
-| ----- | ------- |
 | `/ignore [jogador]` | Ignora/Designora um jogador |
 | `/ignore list` | Listar jogadores ignorados |
 | `/msgnotify` | Ativa ou desativa notificações ao receber mensagens |
@@ -81,7 +77,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ## Proteção
 
-### Comandos principais
+### Criar Proteções
 | Comando | Descrição |
 | ----- | ------- |
 | `/prot` ou `/plot` | Comandos para abrir o menu de proteção | 
@@ -91,7 +87,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/extendclaim 10` | Expande a proteção 10 blocos na sua direção | 
 | `/claimslist` | Liste as informações das proteções | 
 
-### Gerenciamento de Permissões
+### Permissões
 | Comando | Descrição |
 | ----- | ------- |
 | `/trust [jogador]` | Permitir acesso a construir na sua proteção |
@@ -101,14 +97,14 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/untrust [jogador]` | Remover a permissão do jogador na sua proteção | 
 | `/trustlist` | Listar as permissões da proteção que você está |
 
-### Excluir Proteção ou Sub-Proteção
+### Excluir Proteção
 | Comando | Descrição |
 | ----- | ------- |
 | `/abandonallclaims` | Apague todas as suas proteções no server | 
 | `/abandonclaim` | Apague a proteção em que você está localizado |
 | `/abandontoplevelclaim` | Apague uma proteção e todas suas subdivisões |
 
-### Gerenciar Banimento da Proteção
+### Banimento da Proteção
 | Comando | Descrição |
 | ----- | ------- |
 | `/claimban [jogador]` | Banir outro jogador da proteção |
@@ -123,13 +119,13 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/restrictsubclaim` | Restrinja a subdivisão para que ela não herde as permissões da proteção principal | 
 | `/basicclaims` | Altere a pá de ouro para o modo básico de proteção |
 
-### Compra ou Venda de Blocos de Proteção
+### Loja de Blocos de Proteção
 | Comando | Descrição |
 | ----- | ------- |
 | `/buyclaimblocks [quantia]` | Compre blocos de proteção com dinheiro virtual |
 | `/sellclaimblocks [quantia]` | Venda seus blocos de proteção para o servidor | 
 
-### Outros Comandos de Proteção
+### Outros Comandos
 | Comando | Descrição |
 | ----- | ------- |
 | `/claimexplosions` | Alterna a proteção contra explosões nos terrenos protegidos | 
@@ -144,7 +140,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/arena` | Teleporte para a arena | \(mcMMO ativado\) |
 | `/camarote` | Teleporte para o camarote de eventos | 
 
-### Definir Casa no Mapa
+### Definir Casa
 | Comando | Descrição |
 | ----- | ------- |
 | `/sethome [nome-da-home]` | Defina uma home |
@@ -182,7 +178,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ## Economia
 
-### Comandos para Gerenciar Saldo
+### Gerenciar Saldo
 | Comando | Descrição |
 | ----- | ------- |
 | `/pay [jogador] [valor]` | Transfira dinheiro para outro jogador |
@@ -191,7 +187,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/saldo (jogador)` | Visualize seu saldo ou de outro jogador no banco |
 | `/topsaldo (página)` | Liste os jogadores mais ricos do server |
 
-### Comandos para Acessar Lojas
+### Lojas
 | Comando | Descrição |
 | ----- | ------- |
 | `/loja` ou `/shop`| Abra o menu de lojas do servidor |
@@ -200,7 +196,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/sloja` ou `/sshop` | Abra o menu da loja do servidor |
 | `/sell all` | Venda todos os itens do seu inventário |
 
-### Comandos para Gerenciar a Loteria
+### Loteria
 | Comando | Descrição |
 | ----- | ------- |
 | `/lot` ou `/loteria` | Abra o menu da loteria para realizar apostas |
@@ -211,7 +207,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 
 ## mcMMO
 
-### Comandos de Habilidades
+### Informação
 | Comando | Descrição |
 | ----- | ------- |
 | `/[habilidade]` | Lista as estatísticas de uma habilidade especifica |
@@ -219,7 +215,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/[habilidade] ? (página)` | Abre o guia uma habilidade especifica |
 | `/acrobacia ? 1` | Abre o guia para a habilidade de acrobacia | 
 
-### Configuração de Habilidades
+### Configuração
 | Comando | Descrição |
 | ----- | ------- |
 | `/mcability` | Ativa ou desativa a super habilidade \(ativada com botão direito\) |
@@ -230,7 +226,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/mmoxpbar show [habilidade]` | Visualizar a barra de XP de uma habilidade |
 | `/mmoxpbar reset` | Limpa todas as configurações anteriores | 
 
-### Informação de Habilidades
+### Informação
 | Comando | Descrição |
 | ----- | ------- |
 | `/topmcmmo` ou `/mctop` | Lista os top jogadores gerais das habilidades do mcMMO |
@@ -240,7 +236,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/mctop [habilitade]` | Lista os top jogadores numa habilidade especifica |
 | `/mctop acrobacia` | Lista os top jogadores na habilidade acrobacia | 
 
-### Comandos de Equipe
+### Equipe
 | Comando | Descrição |
 | ----- | ------- |
 | `/p [on/off]` | Ativa ou desativa o chat da equipe |
@@ -262,6 +258,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 ## VIP
 | Comando | Descrição |
 | ----- | ------- |
+| `/afk` | Ativar ou desativar o modo offline |
 | `/auto baus` | Ativar ou desativar o recolhimento automatico de itens ao quebrar baús |
 | `/auto blocos` | Ativar ou desativar o recolhimento automatico de itens ao quebrar blocos |
 | `/auto mobs` | Ativar ou desativar o recolhimento automatico de itens ao matar mobs  |
