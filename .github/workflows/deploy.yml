@@ -21,7 +21,7 @@ jobs:
       - name: Intalando dependencias
         run: yarn install --frozen-lockfile
       - name: Construindo website
-        run: yarn run build -- --locale pt-BR
+        run: yarn run build --locale pt-BR
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus

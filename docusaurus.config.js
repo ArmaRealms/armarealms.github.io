@@ -75,22 +75,4 @@ const config = {
     }),
 };
 
-module.exports = {
-  i18n: {
-    "defaultLocale": "pt-BR",
-    "locales": [
-      "pt-BR"
-    ],
-    "currentLocale": "pt-BR",
-    "localeConfigs": {
-      "pt-BR": {
-        "label": "Português do Brasil",
-        "direction": "ltr",
-        "htmlLang": "pt-BR",
-        "calendar": "gregory"
-      }
-    }
-  },
-};
-
 module.exports = config;
