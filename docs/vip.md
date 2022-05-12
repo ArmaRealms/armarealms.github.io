@@ -59,7 +59,7 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | **ECONOMIA**                                                 | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :----------------------------------------------------------: | :---------: | :--------: | :----------: |
 | RECEBIMENTO DE COINS NO JOGO                                 | $50.000     | $100.000   | $200.000     |
-| DESCONTO NA /SLOJA                                           | 10%         | 15%        | 20%          |
+| DESCONTO NA LOJA DO SERVIDOR - `/sloja`                      | 10%         | 15%        | 20%          |
 | QUANTIDADE DE LOJAS - Membros possui 20 lojas                | 50 lojas    | 100 lojas  | 200 lojas    |
 | QUANTIDADE DE LEILÕES - Membros possui 02 itens              | 05 itens    | 10 itens   | 15 itens     |
 | TEMPO DOS LEILÕES - Membros possui 02 dias                   | 04 dias     | 07 dias    | 10 dias      |
@@ -123,6 +123,6 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | **DIVERSOS**                                                      | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :---------------------------------------------------------------: | :---------: | :--------: | :----------: |
 | BLOCOS DE PROTEÇÃO                                                | 5.000       | 10.000     | 20.000       |
-| CHANCE DE QUEBRAR SPAWNER - `Apenas no servidor Gênesis`          | 30%         | 40%        | 50%          |
+| CHANCE DE QUEBRAR SPAWNER<br>`Apenas no servidor Gênesis`         | 30%         | 40%        | 50%          |
 | BÔNUS DE COINS AO MATAR MOB                                       | 10%         | 15%        | 20%          |
 | PRIORIDADE NA LISTA DE ESPERA                                     | ✔️          | ✔️        | ✔️           |
