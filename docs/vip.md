@@ -13,17 +13,17 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 ## Kit Ativação
 | **KIT DE ATIVAÇÃO**                                          | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :----------------------------------------------------------: | :---------: | :--------: | :----------: |
-| CAPACETE ARMAGEDDON <p>Todos os encamentamentos<p>           | ✔️         | ✔️         | ✔️           |
-| PEITORAL ARAMGEDDON <p>Todos os encamentamentos<p>           | ✔️         | ✔️         | ✔️           |
-| CALÇA ARMAGEDDON <p>Todos os encamentamentos<p>              | ✔️         | ✔️         | ✔️           |
-| BOTAS ARMAGEDDON <p>Todos os encamentamentos<p>              | ✔️         | ✔️         | ✔️           |
-| PICARETA ARMAGEDDON <p>Todos os encamentamentos<p>           | ✔️         | ✔️         | ✔️           |
+| CAPACETE ARMAGEDDON <p>Todos os encamentamentos</p>          | ✔️         | ✔️         | ✔️           |
+| PEITORAL ARAMGEDDON <p>Todos os encamentamentos</p>          | ✔️         | ✔️         | ✔️           |
+| CALÇA ARMAGEDDON <p>Todos os encamentamentos</p>             | ✔️         | ✔️         | ✔️           |
+| BOTAS ARMAGEDDON <p>Todos os encamentamentos</p>             | ✔️         | ✔️         | ✔️           |
+| PICARETA ARMAGEDDON <p>Todos os encamentamentos</p>          | ✔️         | ✔️         | ✔️           |
 | SPAWNER DE ZUMBI  <p>`Apenas no servidor Gênesis`</p>        | ✔️         | ✔️         | ✔️           |
-| MACHADO ARMAGEDDON <p>Todos os encamentamentos<p>            | ❌         | ✔️         | ✔️           |
-| PÁ ARMAGEDDON <p>Todos os encamentamentos<p>                 | ❌         | ✔️         | ✔️           |
+| MACHADO ARMAGEDDON <p>Todos os encamentamentos</p>           | ❌         | ✔️         | ✔️           |
+| PÁ ARMAGEDDON <p>Todos os encamentamentos</p>                | ❌         | ✔️         | ✔️           |
 | SPAWNER DE ESQUELETO  <p>`Apenas no servidor Gênesis`</p>    | ❌         | ✔️         | ✔️           |
-| TRIDENTE ARMAGEDDON <p>Todos os encamentamentos<p>           | ❌         | ❌         | ✔️           |
-| ÉLITROS ARMAGEDDON <p>Todos os encamentamentos<p>            | ❌         | ❌         | ✔️           |
+| TRIDENTE ARMAGEDDON <p>Todos os encamentamentos</p>          | ❌         | ❌         | ✔️           |
+| ÉLITROS ARMAGEDDON <p>Todos os encamentamentos</p>           | ❌         | ❌         | ✔️           |
 | SINALIZADOR (BEACON)                                         | ❌         | ❌         | ✔️           |
 | MAÇÃ ENCANTADA                                               | 16         | 24          | 48            |
 
