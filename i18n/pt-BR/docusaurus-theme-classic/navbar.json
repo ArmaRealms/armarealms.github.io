@@ -1,0 +1,14 @@
+{
+  "title": {
+    "message": "Wiki Armageddon",
+    "description": "The title in the navbar"
+  },
+  "item.label.Loja": {
+    "message": "Loja",
+    "description": "Navbar item with label Loja"
+  },
+  "item.label.Discord": {
+    "message": "Discord",
+    "description": "Navbar item with label Discord"
+  }
+}
