@@ -6,7 +6,7 @@ sidebar_position: 20
 
 # Sistema de VIP
 
-:::info Duração do VIP!
+:::info [Clique aqui para comprar VIP na loja oficial](https://loja.armamc.com)
 VIP Premium, Master e Ultimate possui a duração de 30 dias.
 :::
 
