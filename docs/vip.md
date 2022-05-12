@@ -123,6 +123,6 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | **DIVERSOS**                                                      | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :---------------------------------------------------------------: | :---------: | :--------: | :----------: |
 | BLOCOS DE PROTEÇÃO                                                | 5.000       | 10.000     | 20.000       |
-| CHANCE DE QUEBRAR SPAWNER<br>`Apenas no servidor Gênesis`         | 30%         | 40%        | 50%          |
+| CHANCE DE QUEBRAR SPAWNER<p>`Apenas no servidor Gênesis`</p>      | 30%         | 40%        | 50%          |
 | BÔNUS DE COINS AO MATAR MOB                                       | 10%         | 15%        | 20%          |
 | PRIORIDADE NA LISTA DE ESPERA                                     | ✔️          | ✔️        | ✔️           |
