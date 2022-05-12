@@ -191,10 +191,16 @@ Use a barra de pesquisa da página para encontrar comandos.
 | Comando | Descrição |
 | ----- | ------- |
 | `/loja` ou `/shop`| Abra o menu de lojas do servidor |
-| `/sell hand [quantia]` | Vender a quantidade definida do item na mão |
-| `/sell handall` | Vender todos os itens do inventário igual ao item na mão | 
 | `/sloja` ou `/sshop` | Abra o menu da loja do servidor |
-| `/sell all` | Venda todos os itens do seu inventário |
+| `/sellgui` | Abrir o menu onde você pode colocar itens que deseja vender, ao fechar o menu os itens serão vendidos |
+| `/sellall` | Vende todos os itens do inventário de qualquer categoria |
+| `/sellhand ` | Vender o item que estiver segunrando |
+| `/sellhand (quantia)` | Vender a quantidade especificada do item que estiver segurando |
+| `/sellhandall` | Vender todos os itens do inventário que seja igual ao que estiver segurando |
+| `/sellall (categoria)` | Vende todos os itens do inventário que sejam da categoria blocos |
+| `/sellall blocos` | Vender todos os itens da categoria blocos que estiver no inventário |
+
+
 
 ### Loteria
 | Comando | Descrição |
