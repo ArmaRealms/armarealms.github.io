@@ -45,14 +45,6 @@ Jogador poderá dar permissões que ele possui para outros jogadores. Exemplo: O
 * `/permissiontrust [jogador]`  
   * `/permissiontrust ThiagoROX`
 
-## Permissão Trust
-
-> **Permissão para construir na sua proteção.**
-
-Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, fornalhas, animais e aldeões **e construir** na sua proteção ou sub-proteção.
-* `/trust [jogador]`  
-  * `/trust ThiagoROX`
-
 ## Permissão TrustNear
 
 > **Permissão para que outro jogador possa criar proteções perto da sua.**
@@ -64,6 +56,14 @@ Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, forn
 
 * `/untrustnear [jogador]`  
   * `/untrustnear ThiagoROX`
+
+## Permissão Trust
+
+> **Permissão para construir na sua proteção.**
+
+Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, fornalhas, animais e aldeões **e construir** na sua proteção ou sub-proteção.
+* `/trust [jogador]`  
+  * `/trust ThiagoROX`
 
 ## Listar Jogadores com Permissão
 

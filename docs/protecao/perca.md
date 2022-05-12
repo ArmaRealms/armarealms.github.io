@@ -1,7 +1,7 @@
 ---
 title: Perca da Proteção
 description: Tempo necessário para proteções serem excluidas pelo server.
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Perca da Proteção
