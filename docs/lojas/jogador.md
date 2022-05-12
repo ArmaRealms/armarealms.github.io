@@ -10,10 +10,10 @@ sidebar_position: 2
 
 |   Rank   | Quantidade de Lojas |
 | :------: | :-----------------: |
-|  Membro  |       20            |
-|  Premium |       50            |
-|  Master  |      100            |
-| Ultimate |      200            |
+| Membro   |       20 lojas      |
+| Premium  |       50 lojas      |
+| Master   |      100 lojas      |
+| Ultimate |      200 lojas      |
 
 ## Criar uma Loja
 
@@ -30,7 +30,7 @@ sidebar_position: 2
 
 ## Painel de Controle da Loja
 
-Para acessar o painel de controle da loja basta clicar com o botão esquerdo na placa da loja.
+Para acessar o painel de controle da loja basta clicar com o **botão direito** na placa da loja.
 
 ## Alterar o Item da Loja
 
