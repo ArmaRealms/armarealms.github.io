@@ -46,6 +46,8 @@ const config = {
         logo: {
           alt: 'armamc icon',
           src: 'img/logo.png',
+          width: 32,
+          height: 32,
         },
         items: [
           {
