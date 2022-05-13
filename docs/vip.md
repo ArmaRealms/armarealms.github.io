@@ -1,5 +1,5 @@
 ---
-title: Vantagens do VIP
+title: Vantagens VIP
 description: Lista de benefícios ao ser VIP.
 sidebar_position: 11
 ---

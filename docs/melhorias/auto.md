@@ -4,7 +4,7 @@ description: Tudo sobre o sistema recolhimento automático de intes
 sidebar_position: 2
 ---
 
-# Recolhimento Automático de Intes
+# Recolhimento Automático
 
 Recolhimento Automático de Intes foi adicionado para facilitar o na hora de colher plantações.
 

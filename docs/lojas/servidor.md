@@ -16,7 +16,7 @@ sidebar_position: 1
 * `/sellall` - Vende todos os itens do inventário de qualquer categoria.
 * `/sellall (categoria)` - Vende todos os itens do inventário que sejam da categoria blocos.
   * `/sellall blocos` - Vender todos os itens da categoria blocos que estiver no inventário.
-* `/sell hand ` - Vender o item que estiver segunrando;
-* `/sell hand (quantia)` - Vender a quantidade especificada do item que estiver segurando;
-  * `/sell hand 32` - Vende 32 itens que estiverem na sua mão.
-* `/sell handall` - Vender todos os itens do inventário que seja igual ao que estiver segurando;
+* `/sellhand ` - Vender o item que estiver segunrando;
+* `/sellhand (quantia)` - Vender a quantidade especificada do item que estiver segurando;
+  * `/sellhand 32` - Vende 32 itens que estiverem na sua mão.
+* `/sellhandall` - Vender todos os itens do inventário que seja igual ao que estiver segurando;
