@@ -27,10 +27,13 @@ Use a barra de pesquisa da página para encontrar comandos.
 ### Melhorias
 | Comando | Descrição |
 | ----- | ------- |
-| `/auto` | Ativar e desativar o recolhimento de itens direto para o inventário |
-| `/gps` | Lista jogadores próximos |
+| `/auto` | Ativar ou desativar o recolhimento de itens direto para o inventário |
+| `/auto aviso` | Ativar ou desativar o aviso de inventário cheio |
+| `/sentar` ou `/chairs` | Ativar ou desativar o sistema de caideiras |
+| `/gps` | Lista jogadores próximos (até 200 blocos de distância) |
 | `/lixo` | Abrir a lixeira para descartar itens |
-| `/original` | Ative o login automático se você tiver minecraft original | 
+| `/original` | Ative o login automático se você tiver minecraft original |
+| `/sort` | Ativar ou desativar o arganizador de baús automático | 
 
 ### Kits
 | Comando | Descrição |
@@ -139,6 +142,9 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/fps` | Teleporte para a arena FPS | \(mcMMO desativado\) |
 | `/arena` | Teleporte para a arena | \(mcMMO ativado\) |
 | `/camarote` | Teleporte para o camarote de eventos | 
+| `/rtp mundo` | Teleporte aleatório pelo overworld. |
+| `/rtp nether` | Teleporte aleatório pela dimensão Nether. (Custa 5 mil coins) |
+| `/rtp end` | Teleporte aleatório pela dimensão do End. (Custa 5 mil coins) |
 
 ### Definir Casa
 | Comando | Descrição |
@@ -206,8 +212,8 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/lot` ou `/loteria` | Abra o menu da loteria para realizar apostas |
 | `/lot buy [quantia]` | Comprar bilhetes da loteria |
 | `/lot status` | Visualizar status do sorteio atual |
-| `/loteria togglebuymsg` | Alterar notificações de compras na loteria |
-| `/loteria toggleremindmsg` | Alterar notificações de sorteios da loteria |
+| `/lot togglebuymsg` | Alterar notificações de compras na loteria |
+| `/lot toggleremindmsg` | Alterar notificações de sorteios da loteria |
 
 ## mcMMO
 
