@@ -1,7 +1,7 @@
 ---
 title: Liga de Clãs
 description: Tudo sobre o sistema de liga do servidor.
-sidebar_position: 8
+sidebar_position: 10
 ---
 
 # Liga de Clãs Mensal
