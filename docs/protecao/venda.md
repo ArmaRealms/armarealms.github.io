@@ -57,7 +57,7 @@ Caso não seja preenchido o tempo será de 7 dias.
 ![Exemplo2](https://i.imgur.com/TclXF7E.png "Exemplo de como criar uma placa de aluguel com permissão de construir")
 
 **Como preencher a placa de aluguel com pemissão apenas a baús na proteção:**
-"[Exemplo3](https://i.imgur.com/sgdW7zJ.png "Exemplo de como criar uma placa de aluguel com acesso apenas a baús)
+[Exemplo3](https://i.imgur.com/sgdW7zJ.png "Exemplo de como criar uma placa de aluguel com acesso apenas a baús")
 
 ## Alugar uma Sub-Proteção
 
@@ -80,4 +80,4 @@ Caso não seja preenchido o tempo será de 7 dias.
 ![Exemplo4](https://i.imgur.com/TclXF7E.png "Exemplo de como criar uma placa de aluguel com permissão de construir")
 
 **Como preencher a placa de aluguel com pemissão apenas a baús na sub-proteção:**
-"[Exemplo5](https://i.imgur.com/sgdW7zJ.png "Exemplo de como criar uma placa de aluguel com acesso apenas a baús)
+[Exemplo5](https://i.imgur.com/sgdW7zJ.png "Exemplo de como criar uma placa de aluguel com acesso apenas a baús")
