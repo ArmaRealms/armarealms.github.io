@@ -31,6 +31,9 @@ Uma placa deve ser colocada dentro da proteção que você deseja vender.
 2° linha da placa deve ser colocado o valor de venda da proteção:  
 Exemplos: `50000` ou `1000` (nunca usar ponto ou vírgula)
 
+Como Preencher a Placa:  
+![Exemplo 1](https://i.imgur.com/6KLSuqH.png "Exemplo de como criar uma placa")
+
 ## Alugar uma Proteção
 
 Uma placa deve ser colocada dentro da proteção que você deseja alugar.
