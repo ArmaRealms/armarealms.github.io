@@ -75,4 +75,11 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = {
+  config,
+  i18n: {
+    defaultLocale: 'pt-BR',
+    locales: ['pt-BR'],
+  },
+};
+
