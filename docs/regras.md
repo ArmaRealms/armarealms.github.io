@@ -1,5 +1,5 @@
 ---
-title: Regras
+title: Regras Básicas
 description: Regras básicas para que você se divirta o máximo possível!
 sidebar_position: 2
 ---
@@ -86,6 +86,7 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 ### Regra 3.1 - Destruir o Mapa ou Construções! (Griefing) {#3-1}
 
 > Não é permitido quebrar construções de outros jogadores, colocar ou remover blocos aleatórios pelo mapa, colocar lava ou água pelo mapa de forma aleatória com o objetivo de destruir o mapa.  
+
 > Ao encontrar terrenos sem proteção é permitido pegar itens de baús, fornalhas, shulkerbox's e etc, é permitido quebrar blocos de alto valor como sinalizador, shulkerbox's, blocos de minérios, spawners e etc..
 
 #### Lista de Punições
@@ -133,8 +134,9 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 
 ## Regra 5 - Proibido Construir Próximo a outro Jogador! {#5}
 
-> **Não construa próximo a outro jogador sem permissão.**  
+> **Não construa próximo a outro jogador sem permissão!**  
 > Para evitar problemas futuros como por exemplo não conseguir expandir construções ou desentendimento entre jogadores, não construa perto de outro jogador sem permissão, sempre mantenha uma distância de uma construção a outra de 20 blocos ou assuma o risco de que se o jogador que construiu primeiro no local abrir ticket você terá sua proteção removida.  
+
 > Use `/trustnear <jogador>` para permitir que seu amigo crie proteções próximas da sua.
 
 :::info Info!
