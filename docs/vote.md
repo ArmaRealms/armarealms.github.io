@@ -16,7 +16,7 @@ A cada **`80 votos`** você recebe uma chave **`lendária`**.
 Votos são válidos apenas se o jogador estiver online no servidor.
 :::
 
-<img src="../static/img/numero-1.png" href= "https://minecraft-mp.com/server/225174/vote" alt="Site de Voto n° 1" width="250" height="250"></img>
+<img src="/img/numero-1.png" href= "https://minecraft-mp.com/server/225174/vote" alt="Site 1" width="250" height="250"></img>
 
 [![imagem](../static/img/numero-2.png)](https://www.planetminecraft.com/server/armageddon-server/vote)
 [![imagem](../static/img/numero-3.png)](https://minecraft-server-list.com/server/441552/vote)
