@@ -23,9 +23,9 @@ sidebar_position: 4
 
 ## Vender uma Proteção
 
-> Ao vender uma proteção, os blocos de proteção serão transferidos para o jogador que comprar a proteção.
+> Atenção! Ao vender uma proteção, os blocos de proteção serão transferidos para o jogador que comprar a proteção.
 
-Uma placa deve ser colocada dentro da proteção que você deseja vender.
+> Uma placa deve ser colocada dentro da proteção que você deseja vender.
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[vende]` ou `[venda]` ou `[vendese]` ou `[vende-se]`
@@ -33,20 +33,18 @@ Uma placa deve ser colocada dentro da proteção que você deseja vender.
 2° linha da placa deve ser colocado o valor de venda da proteção:  
 Exemplos: `50000` ou `1000` (nunca usar ponto ou vírgula)
 
-**Como preencher a placa:**  
+**Exemplo da placa para vender uma proteção:**
+
 ![Exemplo1](https://i.imgur.com/6KLSuqH.png "Exemplo de como criar uma placa de venda")
 
-## Alugar uma Proteção
+## Alugar uma Proteção ou Sub-Proteção
 
-### Alugar Proteção com Permissão para Construir
+### Alugar com Permissão para Construir
 
-Uma placa deve ser colocada dentro da proteção que você deseja alugar.
+> Uma placa deve ser colocada dentro da proteção que você deseja alugar.
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[aluga]` ou `[aluguel]` ou `[alugase]` ou `[aluga-se]`
-
-**Para permitir acesso apenas a baús na proteção use:**  
-`[alugabau]` ou `[aluga-bau]` ou `[aluguel-bau]`
 
 2° linha da placa deve ser colocado o valor do aluguel.  
 Exemplos: `50000` ou `1000` (nunca usar ponto ou vírgula)  
@@ -55,12 +53,13 @@ Exemplos: `50000` ou `1000` (nunca usar ponto ou vírgula)
 Exemplos: `30d` ou `30 dias` ou `1 semana` ou `2 semanas`  
 Caso não seja preenchido o tempo será de 7 dias.
 
-**Como preencher a placa de alugel com permissão de construir na proteção:**  
+**Exemplo da placa para alugar com permissão de construir:**
+
 ![Exemplo2](https://i.imgur.com/TclXF7E.png "Exemplo de como criar uma placa de aluguel com permissão de construir")
 
 ### Alugar com Permissão para Acessar Baús
 
-#### Uma placa deve ser colocada dentro da proteção que você deseja alugar:
+> Uma placa deve ser colocada dentro da proteção que você deseja alugar.
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[alugabau]` ou `[aluga-bau]` ou `[aluguel-bau]`
@@ -72,40 +71,6 @@ Exemplos: `50000` ou `1000` (nunca usar ponto ou vírgula)
 Exemplos: `30d` ou `30 dias` ou `1 semana` ou `2 semanas`  
 Caso não seja preenchido o tempo será de 7 dias.
 
-#### Como preencher a placa de aluguel com pemissão apenas a baús na proteção:
+**Exemplo da placa para alugar com permissão apenas a baús:**
+
 ![Exemplo3](https://i.imgur.com/sgdW7zJ.png "Exemplo de como criar uma placa de aluguel com acesso apenas a baús")
-
-## Alugar uma Sub-Proteção
-
-### Alugar Sub-Proteção com Permissão para Construir
-
-Uma placa deve ser colocada dentro da sub-proteção que você deseja alugar.
-
-1° linha da placa deve ser colocado qualquer palavra abaixo:  
-`[aluga]` ou `[aluguel]` ou `[alugase]` ou `[aluga-se]`
-
-2° linha da placa deve ser colocado o valor do aluguel.  
-Exemplos: `50000` ou `1000` (nunca usar ponto ou vírgula)
-
-3° linha da placa deve ser colocado o período do aluguel.  
-Exemplos: `30d` ou `30 dias` ou `1 semana` ou `2 semanas`  
-Caso não seja preenchido o tempo será de 7 dias.
-
-**Como preencher a placa de alugel com permissão de construir na sub-proteção:**  
-![Exemplo4](https://i.imgur.com/TclXF7E.png "Exemplo de como criar uma placa de aluguel com permissão de construir")
-
-### Alugar com Permissão para Acessar Baús
-Uma placa deve ser colocada dentro da sub-proteção que você deseja alugar.
-
-1° linha da placa deve ser colocado qualquer palavra abaixo:  
-`[alugabau]` ou `[aluga-bau]` ou `[aluguel-bau]`
-
-2° linha da placa deve ser colocado o valor do aluguel.  
-Exemplos: `50000` ou `1000` (nunca usar ponto ou vírgula)
-
-3° linha da placa deve ser colocado o período do aluguel.  
-Exemplos: `30d` ou `30 dias` ou `1 semana` ou `2 semanas`  
-Caso não seja preenchido o tempo será de 7 dias.
-
-**Como preencher a placa de aluguel com pemissão apenas a baús na sub-proteção:**
-![Exemplo5](https://i.imgur.com/sgdW7zJ.png "Exemplo de como criar uma placa de aluguel com acesso apenas a baús")
