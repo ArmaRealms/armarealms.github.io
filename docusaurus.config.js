@@ -17,7 +17,11 @@ const config = {
   projectName: 'armageddonmc.github.io', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
-
+  i18n: {
+    defaultLocale: 'pt-BR',
+    locales: ['pt-BR'],
+  },
+  
   presets: [
     [
       'classic',
@@ -75,11 +79,4 @@ const config = {
     }),
 };
 
-module.exports = {
-  config,
-  i18n: {
-    defaultLocale: 'pt-BR',
-    locales: ['pt-BR'],
-  },
-};
-
+module.exports = config;

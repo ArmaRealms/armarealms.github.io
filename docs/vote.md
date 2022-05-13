@@ -36,6 +36,11 @@ Votos são válidos apenas se o jogador estiver online no servidor.
   <img src="/img/numero-5.png" alt="Site 5" width="75" height="75" style={{ marginWidth: 20, marginRight: 10 }}></img>
   </a>
   
+  <br>
+  </br>
+  <br>
+  </br>
+
   <a href="https://topminecraftservers.org/vote/6030">
   <img src="/img/numero-6.png" alt="Site 6" width="75" height="75" style={{ marginWidth: 20, marginRight: 10 }}></img>
   </a>
