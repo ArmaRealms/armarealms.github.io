@@ -18,7 +18,7 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | CALÇA ARMAGEDDON <p>Todos os encamentamentos</p>             | ✔️         | ✔️         | ✔️           |
 | BOTAS ARMAGEDDON <p>Todos os encamentamentos</p>             | ✔️         | ✔️         | ✔️           |
 | PICARETA ARMAGEDDON <p>Todos os encamentamentos</p>          | ✔️         | ✔️         | ✔️           |
-| SPAWNER DE ZUMBI  <p>`Apenas no servidor Gênesis`</p>        | ✔️         | ✔️         | ✔️           |
+| SPAWNER DE ZUMBI <p>`Apenas no servidor Gênesis`</p>         | ✔️         | ✔️         | ✔️           |
 | MACHADO ARMAGEDDON <p>Todos os encamentamentos</p>           | ❌         | ✔️         | ✔️           |
 | PÁ ARMAGEDDON <p>Todos os encamentamentos</p>                | ❌         | ✔️         | ✔️           |
 | SPAWNER DE ESQUELETO  <p>`Apenas no servidor Gênesis`</p>    | ❌         | ✔️         | ✔️           |
@@ -60,9 +60,9 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | :----------------------------------------------------------: | :---------: | :--------: | :----------: |
 | RECEBIMENTO DE COINS NO JOGO                                 | $50.000     | $100.000   | $200.000     |
 | DESCONTO NA LOJA DO SERVIDOR - `/sloja`                      | 10%         | 15%        | 20%          |
-| QUANTIDADE DE LOJAS - Membros possui 20 lojas                | 50 lojas    | 100 lojas  | 200 lojas    |
-| QUANTIDADE DE LEILÕES - Membros possui 02 itens              | 05 itens    | 10 itens   | 15 itens     |
-| TEMPO DOS LEILÕES - Membros possui 02 dias                   | 04 dias     | 07 dias    | 10 dias      |
+| QUANTIDADE DE LOJAS <p>Membro possui 20 lojas</p>            | 50 lojas    | 100 lojas  | 200 lojas    |
+| QUANTIDADE DE LEILÕES <p>Membro possui 02 itens</p>          | 05 itens    | 10 itens   | 15 itens     |
+| TEMPO DOS LEILÕES <p>Membro possui 02 dias</p>               | 04 dias     | 07 dias    | 10 dias      |
 
 ## Teleporte
 

@@ -6,14 +6,14 @@ sidebar_position: 2
 
 # Loja Física do Jogador
 
-**Quantidade de Lojas por Rank:**
+**Quantidade de lojas por VIP:**
 
 |   Rank   | Quantidade de Lojas |
 | :------: | :-----------------: |
-| Membro   |       20 lojas      |
-| Premium  |       50 lojas      |
-| Master   |      100 lojas      |
-| Ultimate |      200 lojas      |
+| Membro | 20 lojas |
+| Premium | 50 lojas |
+| Master | 100 lojas |
+| Ultimate | 200 lojas |
 
 ## Criar uma Loja
 

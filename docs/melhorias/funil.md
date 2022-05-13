@@ -8,9 +8,9 @@ sidebar_position: 1
 
 Funil inteligênte foi adicionado para facilitar a separação de itens sem o uso de complexos sistemas de redstone.
 
-## Funil que Transfere Item da Moldura
+## Funil que Transfere Item
 
-> Funil que `transfere apenas o item` que estiver na moldura.
+> Funil que **transfere apenas o item** que estiver na moldura.
 
 1. Colocar moldura no funil que acessa o baú.
 2. Colocar o item que você deseja separar na moldura.
@@ -19,9 +19,9 @@ Funil inteligênte foi adicionado para facilitar a separação de itens sem o us
 
 ![Exemplo1](https://i.imgur.com/XqHI8oE.png "Exemplo de como criar um funil inteligente")
 
-## Funil que Não Transfere Item da Moldura
+## Funil que não Transfere Item
 
-> Funil que `não transfere o item` que estiver na moldura.
+> Funil que **não transfere o item** que estiver na moldura.
 
 1. Colocar moldura no funil que acessa o baú.
 2. Colocar o item que você deseja separar na moldura.
