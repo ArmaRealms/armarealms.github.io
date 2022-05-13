@@ -9,7 +9,7 @@ sidebar_position: 2
 O sistema de skins customizadas é para que o jogador que não tenha Minecraft Original possa usar skins dentro do servidor.
 
 :::info Atenção ao usar Tlauncher!
-Caso você utilize o cliente Tlauncher e quer utilizar skins no server, desative o sistema de skins do próprio Tlauncher.
+Caso você utilize o cliente Tlauncher e quer utilizar skins no server, desative o sistema de skins do próprio Tlauncher.  
 ![Exemplo](https://cdn.discordapp.com/attachments/730263790377107477/739543620226515016/unknown.png)
 :::
 
