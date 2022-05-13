@@ -3,6 +3,7 @@ title: Vote
 description: Vote e receba chaves para abrir caixas na warp /caixa.
 sidebar_position: 3
 ---
+<center>
 
 # Vote no Servidor
 
@@ -15,16 +16,45 @@ A cada **`80 votos`** você recebe uma chave **`lendária`**.
 
 Votos são válidos apenas se o jogador estiver online no servidor.
 :::
+  
+  <a href="https://minecraft-mp.com/server/225174/vote">
+  <img src="/img/numero-1.png" alt="Site 1" width="75" height="75" style="margin: 1px 20px 1px 1px;"></img>
+  </a>
 
-<a href="https://minecraft-mp.com/server/225174/vote"><img src="/img/numero-1.png" alt="Site 1" width="75" height="75"></img></a>
+  <a href="https://www.planetminecraft.com/server/armageddon-server/vote">
+  <img src="/img/numero-2.png" alt="Site 2" width="75" height="75" style="margin: 1px 20px 1px 1px;"></img>
+  </a>
+  
+  <a href="https://minecraft-server-list.com/server/441552/vote">
+  <img src="/img/numero-3.png" alt="Site 3" width="75" height="75" style="margin: 1px 20px 1px 1px;"></img>
+  </a>
+  
+  <a href="https://topg.org/Minecraft/in-515193">
+  <img src="/img/numero-4.png" alt="Site 4" width="75" height="75" style="margin: 1px 20px 1px 1px;"></img>
+  </a>
 
-[![imagem](../static/img/numero-2.png)](https://www.planetminecraft.com/server/armageddon-server/vote)
-[![imagem](../static/img/numero-3.png)](https://minecraft-server-list.com/server/441552/vote)
-[![imagem](../static/img/numero-4.png)](https://topg.org/Minecraft/in-515193)
-[![imagem](../static/img/numero-5.png)](https://minecraftservers.org/vote/554608)
+  <a href="https://minecraftservers.org/vote/554608">
+  <img src="/img/numero-5.png" alt="Site 5" width="75" height="75" style="margin: 1px 20px 1px 1px;"></img>
+  </a>
 
-[![imagem](../static/img/numero-6.png)](https://topminecraftservers.org/vote/6030)
-[![imagem](../static/img/numero-7.png)](https://mccommunity.net/server/127-Armageddon+Server/vote)
-[![imagem](../static/img/numero-8.png)](https://minecraft-server.net/vote/ArmaMC)
-[![imagem](../static/img/numero-9.png)](https://best-minecraft-servers.co/server-armageddon-server.4190/vote)
-[![imagem](../static/img/numero-10.png)](https://servers-minecraft.net/server-armageddon-server.1115/vote)
+  <a href="https://topminecraftservers.org/vote/6030">
+  <img src="/img/numero-6.png" alt="Site 6" width="75" height="75" style="margin: 1px 20px 1px 1px;"></img>
+  </a>
+
+  <a href="https://mccommunity.net/server/127-Armageddon+Server/vote">
+  <img src="/img/numero-7.png" alt="Site 7" width="75" height="75" style="margin: 1px 20px 1px 1px;"></img>
+  </a>
+
+  <a href="https://minecraft-server.net/vote/ArmaMC">
+  <img src="/img/numero-8.png" alt="Site 8" width="75" height="75" style="margin: 1px 20px 1px 1px;"></img>
+  </a>
+
+  <a href="https://best-minecraft-servers.co/server-armageddon-server.4190/vote">
+  <img src="/img/numero-9.png" alt="Site 9" width="75" height="75" style="margin: 1px 20px 1px 1px;"></img>
+  </a>
+
+  <a href="https://servers-minecraft.net/server-armageddon-server.1115/vote">
+  <img src="/img/numero-10.png" alt="Site 10" width="75" height="75" style="margin: 1px 20px 1px 1px;"></img>
+  </a>
+
+</center>
