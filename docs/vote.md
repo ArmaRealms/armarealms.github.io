@@ -3,7 +3,6 @@ title: Vote
 description: Vote e receba chaves para abrir caixas na warp /caixa.
 sidebar_position: 3
 ---
-<center>
 
 # Vote no Servidor
 
@@ -36,6 +35,9 @@ Votos são válidos apenas se o jogador estiver online no servidor.
   <a href="https://minecraftservers.org/vote/554608">
   <img src="/img/numero-5.png" alt="Site 5" width="75" height="75" style="margin: 1px 20px 1px 1px;"></img>
   </a>
+  
+  <br>
+  </br>
 
   <a href="https://topminecraftservers.org/vote/6030">
   <img src="/img/numero-6.png" alt="Site 6" width="75" height="75" style="margin: 1px 20px 1px 1px;"></img>
@@ -56,5 +58,3 @@ Votos são válidos apenas se o jogador estiver online no servidor.
   <a href="https://servers-minecraft.net/server-armageddon-server.1115/vote">
   <img src="/img/numero-10.png" alt="Site 10" width="75" height="75" style="margin: 1px 20px 1px 1px;"></img>
   </a>
-
-</center>
