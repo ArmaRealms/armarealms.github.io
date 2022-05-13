@@ -7,6 +7,7 @@ sidebar_position: 3
 # Leilão Virtual de Jogadores
 
 **Quantidade de itens no leião:**
+
 | Cargo    | Quantidade de Itens no Leilão |
 | :------: | :---------------------------: |
 | Membro | 02 itens |
@@ -15,6 +16,7 @@ sidebar_position: 3
 | Ultimate | 15 itens |
 
 **Tempo do item em leilão:**
+
 | Cargo    | Tempo do Item no Leilão |
 | :------: | :---------------------: |
 | Membro | 02 dias |
@@ -22,7 +24,7 @@ sidebar_position: 3
 | Master | 07 dias |
 | Ultimate | 10 dias |
 
-## Comandos do Leilão
+## Comandos do Leilão  
 | Comando | Descrição |
 | ------- | --------- |
 | `/ah` ou `/leilao` | Abrir o menu principal de leilão |

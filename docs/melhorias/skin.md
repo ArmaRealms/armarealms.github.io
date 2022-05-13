@@ -32,7 +32,8 @@ Procure contas originais com a skin que deseja usar.
 Site indicado: [https://pt.namemc.com/](https://pt.namemc.com)
 
 * `/skin set [nick]` - Adicionar a mesma skin da conta orginal.  
-Exemplo: `/skin viniccius13`  
+Exemplo: `/skin viniccius13`
+
 Observação: Quando o dono da conta altera a skin, sua skin também será alterada.
 
 ## Atualizar sua Skin
