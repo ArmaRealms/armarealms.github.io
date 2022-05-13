@@ -6,7 +6,9 @@ sidebar_position: 4
 
 # Vender ou Alugar Proteção
 
-> Para **comprar** ou **alugar** uma proteção de outro jogador basta clicar com o **botão direito** na placa onde contém as informações da venda ou do aluguel.
+> Para **comprar** ou **alugar** uma proteção de outro jogador basta clicar com o **botão direito** na placa onde contém as informações da venda ou aluguel da proteção.
+
+> Ao vender uma proteção, os blocos de proteção serão transferidos para o jogador que comprar a proteção.
 
 ## Comandos Imobiliários
 
@@ -14,18 +16,16 @@ sidebar_position: 4
 | ----- | ------- |
 | `/imob` ou `imobiliaria` | Comando principal do sistema de imobiliária |
 | `/imob ajuda` | Listar todos os comandos do sistema de imobiliária |
-| `/imob listar todos (página)` | Listar todas as proteções que estão à venda ou alugando |
-| `/imob listar venda (página)` | Listar todas as proteções que estão à venda |
-| `/imob listar aluguel (página)` | Listar todas as proteções que estão alugando |
+| `/imob listar todos` | Listar todas as proteções que estão à venda ou alugando |
+| `/imob listar venda` | Listar todas as proteções que estão à venda |
+| `/imob listar aluguel` | Listar todas as proteções que estão alugando |
 | `/imob autorenovar ativar` | Ativar a renovação automática de aluguel |
 | `/imob autorenovar desativar` | Desativar a renovação automática de aluguel |
-| `/imob info` | Exibir informações imobiliárias da proteção que você estiver dentro |
+| `/imob info` | Exibir informações da proteção que você estiver dentro |
 
 ## Vender uma Proteção
 
-> Atenção! Ao vender uma proteção, os blocos de proteção serão transferidos para o jogador que comprar a proteção.
-
-> Uma placa deve ser colocada dentro da proteção que você deseja vender.
+**Uma placa deve ser colocada dentro da proteção que você deseja vender.**
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[vende]` ou `[venda]` ou `[vendese]` ou `[vende-se]`
@@ -39,9 +39,11 @@ Exemplos: `50000` ou `1000` (nunca usar ponto ou vírgula)
 
 ## Alugar uma Proteção ou Sub-Proteção
 
+É possível alugar uma proteção ou suas sub-proteções porém após alugar uma sub-proteção, não será possível alterar a proteção principal.
+
 ### Alugar com Permissão para Construir
 
-> Uma placa deve ser colocada dentro da proteção que você deseja alugar.
+**Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[aluga]` ou `[aluguel]` ou `[alugase]` ou `[aluga-se]`
@@ -59,7 +61,7 @@ Caso não seja preenchido o tempo será de 7 dias.
 
 ### Alugar com Permissão para Acessar Baús
 
-> Uma placa deve ser colocada dentro da proteção que você deseja alugar.
+**Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[alugabau]` ou `[aluga-bau]` ou `[aluguel-bau]`
