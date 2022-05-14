@@ -15,8 +15,8 @@ Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês.
 ## Comandos
 | Comando | Descrição |
 | ------- | --------- |
-|`/topliga` <p>`/liga top`</p> | Listar os TOP 10 clãs com maior pontuação. |
-|`/liga status [tag-do-clã]` | Listar informações sobre o clã selecionado. |
+| `/topliga` <p>`/liga top`</p> | Listar os TOP 10 clãs com maior pontuação. |
+| `/liga status [tag-do-clã]` | Listar informações sobre o clã selecionado. |
 
 ## Pontuação Positiva
 

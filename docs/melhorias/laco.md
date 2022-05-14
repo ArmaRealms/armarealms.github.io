@@ -1,7 +1,7 @@
 ---
 title: Laço
 description: Tudo sobre o sistema de laço inteligente.
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Laço
