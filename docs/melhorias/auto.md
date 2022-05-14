@@ -8,7 +8,7 @@ sidebar_position: 2
 
 Recolhimento Automático de Intes foi adicionado para facilitar o na hora de colher plantações.
 
-Quando ativado o sistema envia itens ao quebrar blocos, baús, matar mobs e pescar direto para o inventário.
+Ao quebrar blocos, baús, matar mobs e pescar, os itens vão direto para o inventário.
 
 ## Comandos para Membros
 | Comando | Descrição |
@@ -20,8 +20,8 @@ Quando ativado o sistema envia itens ao quebrar blocos, baús, matar mobs e pesc
 ## Comandos para VIP
 | Comando | Descrição |
 | ----- | ------- |
-| `/auto baus` | Ativar ou desativar o recolhimento automatico de itens ao quebrar baús |
-| `/auto blocos` | Ativar ou desativar o recolhimento automatico de itens ao quebrar blocos |
-| `/auto mobs` | Ativar ou desativar o recolhimento automatico de itens ao matar mobs  |
-| `/auto pesca` | Ativar ou desativar o recolhimento automatico ao pescar |
+| `/auto baus` | Ativar ou desativar o recolhimento de itens ao quebrar baús |
+| `/auto blocos` | Ativar ou desativar o recolhimento de itens ao quebrar blocos |
+| `/auto mobs` | Ativar ou desativar o recolhimento de itens ao matar mobs  |
+| `/auto pesca` | Ativar ou desativar o recolhimento de itens ao pescar |
 
