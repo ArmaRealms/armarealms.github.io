@@ -1,14 +1,14 @@
 ---
 title: Funil Inteligente
-description: Tudo sobre o sistema de funil inteligente de itens.
+description: Tudo sobre o sistema de funil inteligente.
 sidebar_position: 1
 ---
 
-# Funil inteligente
+# Funil Inteligente
 
-Funil inteligênte foi adicionado para facilitar a separação de itens sem o uso de complexos sistemas de redstone.
+Funil inteligente serve para facilitar a separação de itens sem o uso de redstone.
 
-## Funil que Transfere Item
+## Permitir Item no Funil
 
 > Funil que **transfere apenas o item** que estiver na moldura.
 
@@ -19,7 +19,7 @@ Funil inteligênte foi adicionado para facilitar a separação de itens sem o us
 
 ![Exemplo1](https://i.imgur.com/XqHI8oE.png "Exemplo de como criar um funil inteligente")
 
-## Funil que não Transfere Item
+## Bloquear Item do Funil
 
 > Funil que **não transfere o item** que estiver na moldura.
 
