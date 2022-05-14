@@ -13,7 +13,7 @@ Funil inteligente serve para facilitar a separação de itens sem o uso de redst
 > Funil que **transfere apenas o item** que estiver na moldura.
 
 1. Colocar moldura no funil que acessa o baú.
-2. Colocar o item que você deseja separar na moldura.
+2. Colocar o item que você deseja filtrar na moldura.
 
 **Exemplo de como criar um funil inteligente:**
 
@@ -24,8 +24,8 @@ Funil inteligente serve para facilitar a separação de itens sem o uso de redst
 > Funil que **não transfere o item** que estiver na moldura.
 
 1. Colocar moldura no funil que acessa o baú.
-2. Colocar o item que você deseja separar na moldura.
-3. Clique com o botão direito no item da moldura.
+2. Colocar o item que você deseja bloquear na moldura.
+3. Clique com o **botão direito** no item da moldura.
 
 **Exemplo de como criar um funil inteligente:**
 

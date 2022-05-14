@@ -6,27 +6,25 @@ sidebar_position: 5
 
 # Perca da Proteção
 
+> A remoção das proteções é automática e pode demorar horas para remover a proteção após o tempo offline para perca da proteção ser atingido. **Não abra ticket solicitando remoção de proteção abandonada.**
+
 ## Resumo
-* **Proteção com até 999 blocos de proteção:**
-  * ↳ Jogador offline a 30 dias diretos;  
 
-* **Proteção entre 1.000 a 9.999 mil blocos de proteção:**
-  * ↳ Jogador offline a 60 dias diretos;  
+**Perca de proteção por tempo offline:**  
 
-* **Proteção entre 10.000 a 22.499 mil blocos de proteção:**
-  * ↳ Jogador offline a 90 dias diretos;  
+| Quantidade de Blocos de Proteção | Tempo Offline para Perca da Proteção |
+| :------------------------------: | :----------------------------------: |
+| Abaixo de 999 blocos             | 30 dias (1 mês)                      |
+| Entre 1.000 a 9.999 mil blocos   | 60 dias (2 meses)                    |
+| entre 10.000 a 22.499 mil blocos | 90 dias (3 meses)                    |
+| Entre 22.500 a 62.499 mil blocos | 120 dias (4 meses)                   |
+| Acima de 65.500 mil blocos       | 150 dias (5 meses)                   |
 
-* **Proteção entre 22.500 a 62.499 mil blocos de proteção:**
-  * ↳ Jogador offline a 120 dias diretos;  
+**Proteção próxima a sua:**
+* Dentro de 7 dias após abertura de ticket com `/ticket` dentro do jogo.  
 
-* **Proteção com mais de 62.500 mil blocos de proteção:**
-  * ↳ Jogador offline a 150 dias diretos;  
-
-* **Proteção próxima a sua:**
-  * ↳ Dentro de 7 dias após abertura de ticket;  
-
-* **Proteções de jogador banido:**
-  * ↳ Segue as regras acima.
+**Proteções de jogador banido:**
+* Segue as regras acima.
 
 ## Proteções Abandonadas
 

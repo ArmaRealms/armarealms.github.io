@@ -24,6 +24,7 @@ Site indicado: [https://imgur.com/](https://imgur.com)
 
 1. Copie o link direto da imagem (link com final .png).
 2. Envie dentro do server `/skin url link.com/final.png`  
+
 Exemplo: `/skin url https://i.imgur.com/CN2PHw3.png`
 
 ### Adicionar Através de Conta Original
@@ -32,7 +33,8 @@ Procure contas originais com a skin que deseja usar.
 Site indicado: [https://pt.namemc.com/](https://pt.namemc.com)
 
 * `/skin set [nick]` - Adicionar a mesma skin da conta orginal.  
-Exemplo: `/skin viniccius13`
+
+Exemplo: `/skin set viniccius13`
 
 Observação: Quando o dono da conta altera a skin, sua skin também será alterada.
 

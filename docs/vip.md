@@ -59,7 +59,7 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | **ECONOMIA**                                                 | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :----------------------------------------------------------: | :---------: | :--------: | :----------: |
 | RECEBIMENTO DE COINS NO JOGO                                 | $50.000     | $100.000   | $200.000     |
-| DESCONTO NA LOJA DO SERVIDOR - `/sloja`                      | 10%         | 15%        | 20%          |
+| DESCONTO NA LOJA DO SERVIDOR                                 | 10%         | 15%        | 20%          |
 | QUANTIDADE DE LOJAS <p>Membro possui 20 lojas</p>            | 50 lojas    | 100 lojas  | 200 lojas    |
 | QUANTIDADE DE LEILÕES <p>Membro possui 02 itens</p>          | 05 itens    | 10 itens   | 15 itens     |
 | TEMPO DOS LEILÕES <p>Membro possui 02 dias</p>               | 04 dias     | 07 dias    | 10 dias      |
