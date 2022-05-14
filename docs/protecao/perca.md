@@ -10,7 +10,7 @@ sidebar_position: 5
 
 ## Resumo
 
-## Perca de Proteção por Tempo Offline
+### Perca por Tempo Offline
 
 | Quantidade de Blocos de Proteção | Tempo Offline para Perca da Proteção |
 | :------------------------------: | :----------------------------------: |
@@ -20,11 +20,12 @@ sidebar_position: 5
 | Entre 22.500 a 62.499 mil blocos | 120 dias (4 meses)                   |
 | Acima de 65.500 mil blocos       | 150 dias (5 meses)                   |
 
-## Proteção Próximas sem Permissão
+### Proteção Próximas sem Permissão
 
 > Dentro de 7 dias após abertura de ticket com `/ticket` dentro do jogo.  
-> Motivo: [Regra 5 - Proibido Construir Próximo a outro Jogador!](../regras.md#regra-5---proibido-construir-próximo-a-outro-jogador-5)
-## Proteções de Jogador Banido
+> Motivo: [Regra 5 - Proibido Construir Próximo a outro Jogador!](../regras.md#5)
+
+### Proteções de Jogador Banido
 
 > Segue as regras acima.
 

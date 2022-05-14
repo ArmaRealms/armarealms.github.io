@@ -1,10 +1,10 @@
 ---
-title: Skins Customizadas
+title: Skins
 description: Tudo sobre o sistema de skins customizadas.
 sidebar_position: 3
 ---
 
-# Skins Customizadas
+# Skins
 
 O sistema de skins serve para que o jogador que não tenha Minecraft Original possa usar skins dentro do servidor.
 

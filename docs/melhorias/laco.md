@@ -1,10 +1,10 @@
 ---
-title: Laço inteligente
+title: Laço
 description: Tudo sobre o sistema de laço inteligente.
 sidebar_position: 4
 ---
 
-# Laço Inteligente
+# Laço
 
 Laço inteligente serve para melhorar as funcionalidades do laço.
 

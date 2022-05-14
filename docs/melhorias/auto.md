@@ -1,7 +1,7 @@
 ---
 title: Recolhimento Automático
 description: Tudo sobre o sistema recolhimento automático de intes.
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Recolhimento Automático

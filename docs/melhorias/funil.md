@@ -1,7 +1,7 @@
 ---
 title: Funil Inteligente
 description: Tudo sobre o sistema de funil inteligente.
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Funil Inteligente
