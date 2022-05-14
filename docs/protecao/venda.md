@@ -13,19 +13,19 @@ sidebar_position: 4
 ## Comandos Imobiliários
 
 | Comando | Descrição |
-| ----- | ------- |
-| `/imob` ou `imobiliaria` | Comando principal do sistema de imobiliária |
-| `/imob ajuda` | Listar todos os comandos do sistema de imobiliária |
-| `/imob listar todos` | Listar todas as proteções que estão à venda ou alugando |
-| `/imob listar venda` | Listar todas as proteções que estão à venda |
-| `/imob listar aluguel` | Listar todas as proteções que estão alugando |
-| `/imob autorenovar ativar` | Ativar a renovação automática de aluguel |
+| ------- | --------- |
+| `/imob` ou `imobiliaria`      | Comando principal do sistema de imobiliária |
+| `/imob ajuda`                 | Listar todos os comandos do sistema de imobiliária |
+| `/imob listar todos`          | Listar todas as proteções que estão à venda ou alugando |
+| `/imob listar venda`          | Listar todas as proteções que estão à venda |
+| `/imob listar aluguel`        | Listar todas as proteções que estão alugando |
+| `/imob autorenovar ativar`    | Ativar a renovação automática de aluguel |
 | `/imob autorenovar desativar` | Desativar a renovação automática de aluguel |
-| `/imob info` | Exibir informações da proteção que você estiver dentro |
+| `/imob info`                  | Exibir informações da proteção que você estiver dentro |
 
 ## Vender uma Proteção
 
-**Uma placa deve ser colocada dentro da proteção que você deseja vender.**
+> **Uma placa deve ser colocada dentro da proteção que você deseja vender.**
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[vende]` ou `[venda]` ou `[vendese]` ou `[vende-se]`
@@ -39,11 +39,11 @@ Exemplos: `50000` ou `1000` (nunca usar ponto ou vírgula)
 
 ## Alugar uma Proteção ou Sub-Proteção
 
-> Não será possível alterar a proteção principal caso vocÊ algue uma sub-proteção.
+> Não é possível alterar uma proteção enquando uma sub-proteção esta alugada.
 
 ### Alugar com Acesso a Construir
 
-1. **Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
+> **Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[aluga]` ou `[aluguel]` ou `[alugase]` ou `[aluga-se]`
@@ -61,7 +61,7 @@ Caso não seja preenchido o tempo será de 7 dias.
 
 ### Alugar com Acesso a Baús
 
-1. **Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
+> **Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[alugabau]` ou `[aluga-bau]` ou `[aluguel-bau]`

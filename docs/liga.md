@@ -13,8 +13,10 @@ Toda pontuação ganhada ou perdida pelos jogadores é somada e no final de cada
 Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês. No final da temporada a pontuação é resetada.
 
 ## Comandos
-* `/liga top` ou `/topliga` - Listar os TOP 10 clãs com maior pontuação.
-* `/liga status [tag-do-clã]` - Listar informações sobre o clã selecionado.
+| Comando | Descrição |
+| ------- | --------- |
+|`/topliga` <p>`/liga top`</p> | Listar os TOP 10 clãs com maior pontuação. |
+|`/liga status [tag-do-clã]` | Listar informações sobre o clã selecionado. |
 
 ## Pontuação Positiva
 
@@ -22,8 +24,9 @@ Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês.
 
 | Eventos Mensais       | Pontuação                                                                            |
 | --------------------- | ------------------------------------------------------------------------------------ |
-| Construção Mensal     | <p>1° lugar = 500 pontos</p><p>2° lugar = 400 pontos</p><p>3° lugar = 300 pontos</p> |
 | Guerra Mensal         | 500 pontos                                                                           |
+| Construção Mensal     | <p>1° lugar = 500 pontos</p><p>2° lugar = 400 pontos</p><p>3° lugar = 300 pontos</p> |
+
 
 ### Eventos Semanais
 

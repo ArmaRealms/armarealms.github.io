@@ -1,12 +1,12 @@
 ---
 title: Recolhimento Automático
-description: Tudo sobre o sistema recolhimento automático de intes
+description: Tudo sobre o sistema recolhimento automático de intes.
 sidebar_position: 2
 ---
 
 # Recolhimento Automático
 
-Recolhimento Automático de Intes foi adicionado para facilitar o na hora de colher plantações.
+Recolhimento automático de intes serve para facilitar a colheita plantações.
 
 Ao quebrar blocos, baús, matar mobs e pescar, os itens vão direto para o inventário.
 

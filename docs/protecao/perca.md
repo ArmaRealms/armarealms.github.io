@@ -1,6 +1,6 @@
 ---
 title: Perca da Proteção
-description: Tempo necessário para proteções serem excluidas pelo server.
+description: Tempo necessário para proteções serem excluidas do server.
 sidebar_position: 5
 ---
 
@@ -10,7 +10,7 @@ sidebar_position: 5
 
 ## Resumo
 
-**Perca de proteção por tempo offline:**  
+## Perca de Proteção por Tempo Offline
 
 | Quantidade de Blocos de Proteção | Tempo Offline para Perca da Proteção |
 | :------------------------------: | :----------------------------------: |
@@ -20,11 +20,13 @@ sidebar_position: 5
 | Entre 22.500 a 62.499 mil blocos | 120 dias (4 meses)                   |
 | Acima de 65.500 mil blocos       | 150 dias (5 meses)                   |
 
-**Proteção próxima a sua:**
-* Dentro de 7 dias após abertura de ticket com `/ticket` dentro do jogo.  
+## Proteção Próximas sem Permissão
 
-**Proteções de jogador banido:**
-* Segue as regras acima.
+> Dentro de 7 dias após abertura de ticket com `/ticket` dentro do jogo.  
+> Motivo: [Regra 5 - Proibido Construir Próximo a outro Jogador!](../regras.md#regra-5---proibido-construir-próximo-a-outro-jogador-5)
+## Proteções de Jogador Banido
+
+> Segue as regras acima.
 
 ## Proteções Abandonadas
 
@@ -59,6 +61,6 @@ sidebar_position: 5
   * O tempo pode variar por motivos de força maior.
 
 ### Motivo
-:::danger [Regra 5 - Proibido Construir Próximo a outro Jogador!](../regras.md)
+:::danger [Regra 5 - Proibido Construir Próximo a outro Jogador!](../regras.md#regra-5---proibido-construir-próximo-a-outro-jogador-5)
 Não construa próximo a outro jogador. Para evitar problemas futuros como por exemplo expansões da proteção ou desentendimento entre jogadores, não construa perto de outro jogador sem permissão. Você poderá ter seu terreno ou construções apagadas a qualquer momento.
 :::

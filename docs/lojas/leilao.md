@@ -6,8 +6,9 @@ sidebar_position: 3
 
 # Leilão Virtual de Jogadores
 
-**Quantidade de itens no leião:**
+Leilão serve para venda de itens de forma virtual, onde o jogador pode comprar e vender estando em qualquer lugar do mapa utilizando seu saldo em coin.
 
+## Quantidade de Itens
 | Cargo    | Quantidade de Itens no Leilão |
 | :------: | :---------------------------: |
 | Membro   | 02 itens |
@@ -15,8 +16,7 @@ sidebar_position: 3
 | Master   | 10 itens |
 | Ultimate | 15 itens |
 
-**Tempo do item em leilão:**
-
+## Tempo do Item em Leilão
 | Cargo    | Tempo do Item no Leilão |
 | :------: | :---------------------: |
 | Membro   | 02 dias |
@@ -27,4 +27,4 @@ sidebar_position: 3
 ## Comandos do Leilão  
 | Comando | Descrição |
 | ------- | --------- |
-| `/ah` ou `/leilao` | Abrir o menu principal de leilão |
+| `/ah` <p>`/leilao`</p> | Abrir o menu principal de leilão |
