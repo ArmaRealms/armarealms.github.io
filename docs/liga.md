@@ -1,5 +1,5 @@
 ---
-title: Liga de Clãs
+title: Liga
 description: Tudo sobre o sistema de liga do servidor.
 sidebar_position: 10
 ---

@@ -1,10 +1,10 @@
 ---
-title: Vantagens VIP
+title: VIP
 description: Lista de benefícios ao ser VIP.
 sidebar_position: 11
 ---
 
-# Sistema de VIP
+# Vantagens ao ser VIP
 
 :::info [Clique aqui para comprar VIP na loja oficial](https://loja.armamc.com)
 VIP Premium, Master e Ultimate possui a duração de 30 dias.

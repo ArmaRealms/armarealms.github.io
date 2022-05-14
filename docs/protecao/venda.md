@@ -39,11 +39,11 @@ Exemplos: `50000` ou `1000` (nunca usar ponto ou vírgula)
 
 ## Alugar uma Proteção ou Sub-Proteção
 
-É possível alugar uma proteção ou suas sub-proteções porém após alugar uma sub-proteção, não será possível alterar a proteção principal.
+> Não será possível alterar a proteção principal caso vocÊ algue uma sub-proteção.
 
-### Alugar com Permissão para Construir
+### Alugar com Acesso a Construir
 
-**Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
+1. **Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[aluga]` ou `[aluguel]` ou `[alugase]` ou `[aluga-se]`
@@ -59,9 +59,9 @@ Caso não seja preenchido o tempo será de 7 dias.
 
 ![Exemplo2](https://i.imgur.com/TclXF7E.png "Exemplo de como criar uma placa de aluguel com permissão de construir")
 
-### Alugar com Permissão para Acessar Baús
+### Alugar com Acesso a Baús
 
-**Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
+1. **Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[alugabau]` ou `[aluga-bau]` ou `[aluguel-bau]`

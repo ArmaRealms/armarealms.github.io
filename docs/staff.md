@@ -1,5 +1,5 @@
 ---
-title: Cargos da Staff
+title: Staff
 description: Lista com cargos e funções da staff do servidor.
 sidebar_position: 5
 ---

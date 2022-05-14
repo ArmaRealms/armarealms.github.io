@@ -1,5 +1,5 @@
 ---
-title: Lista de Comandos
+title: Comandos
 description: Todos os comandos disponíveis no servidor.
 sidebar_position: 4
 ---
