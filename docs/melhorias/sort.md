@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # Organizador Automático
 
-Organizador automático de intes serve para organizar os itens de baús, inventário e hotbar.
+Organizador automático de itens serve para organizar os itens de baús, inventário e hotbar.
 
 ## Organizar Baús
 
