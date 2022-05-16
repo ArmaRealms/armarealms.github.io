@@ -1,12 +1,12 @@
 ---
-title: Skins Customizadas
+title: Skin Customizada
 description: Tudo sobre o sistema de skins customizadas.
 sidebar_position: 4
 ---
 
-# Skins Customizadas
+# Skin Customizada
 
-O sistema de skins serve para que o jogador que não tenha Minecraft Original possa usar skins dentro do servidor.
+Skin customizada serve para que o jogador que não tenha Minecraft Original possa usar skins dentro do servidor.
 
 :::info Atenção ao usar Tlauncher!
 Caso você utilize o cliente Tlauncher e quer utilizar skins no server, desative o sistema de skins do próprio Tlauncher.  

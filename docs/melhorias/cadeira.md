@@ -1,12 +1,12 @@
 ---
-title: Cadeiras Customizadas
+title: Cadeira Customizada
 description: Tudo sobre o sistema cadeiras com escadas e lajes.
 sidebar_position: 5
 ---
 
-# Cadeiras Customizadas
+# Cadeira Customizada
 
-Cadeiras servem para que jogadores possam sentar enquanto conversam com os amigos tomando café.
+Cadeira Customizada serve para que jogadores possa sentar enquanto conversa com os amigos tomando café.
 
 ## Comandos
 | Comando | Descrição |

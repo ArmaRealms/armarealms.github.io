@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Recolhimento Automático
 
-Recolhimento automático de intes serve para facilitar a colheita plantações.
+Recolhimento automático de itens serve para facilitar a colheita plantações.
 
 Ao quebrar blocos, baús, matar mobs e pescar, os itens vão direto para o inventário.
 
