@@ -1,7 +1,7 @@
 ---
 title: VIP
 description: Lista de benefícios ao ser VIP.
-sidebar_position: 11
+sidebar_position: 20
 ---
 
 # Vantagens ao ser VIP
@@ -73,6 +73,28 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | QUANTIDADE DE WARPS - Membro possui 1 warp.     | 2 warps     | 3 warps    | 5​ warps      |
 | SEM TEMPO DE ESPERA - Membro espera 3 segundos. | ✔️          | ✔️        | ✔️           |
 
+## Chat e TAB
+
+- Adicione cores no seu nick com `/nick` e envie mensagens coloridas!
+- [Clique aqui para abrir o site de formtação de cores!](https://rgb.armamc.com)
+
+|   **CHAT e TAB**  | **PREMIUM** | **MASTER** | **ULTIMATE** |
+| :---------------: | :---------: | :--------: | :----------: |
+| TAG NO CHAT       |  \[PREMIUM] |  \[MASTER] |  \[ULTIMATE] |
+| TAG NO TAB        |  \[PREMIUM] |  \[MASTER] |  \[ULTIMATE] |
+| TAG NO DISCORD    |  \[PREMIUM] |  \[MASTER] |  \[ULTIMATE] |
+| NICK COLORIDO     | ✔️          | ✔️        | ✔️          |
+| MENSAGEM COLORIDA | ✔️          | ✔️        | ✔️          |
+
+## Diversos
+
+| **DIVERSOS**                                                      | **PREMIUM** | **MASTER** | **ULTIMATE** |
+| :---------------------------------------------------------------: | :---------: | :--------: | :----------: |
+| BLOCOS DE PROTEÇÃO                                                | 5.000       | 10.000     | 20.000       |
+| CHANCE DE QUEBRAR SPAWNER <p>`Apenas no servidor Gênesis`</p>     | 30%         | 40%        | 50%          |
+| BÔNUS DE COINS AO MATAR MOB                                       | 10%         | 15%        | 20%          |
+| PRIORIDADE NA LISTA DE ESPERA                                     | ✔️          | ✔️        | ✔️           |
+
 ## Comandos
 
 | **COMANDOS**   | **DESCRIÇÃO DO COMANDO**                  | **PREMIUM** | **MASTER** | **ULTIMATE** |
@@ -109,25 +131,3 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | `/kit prem`    | [Descrição do comando](./comandos.md#vip) | ✔️          | ❌        | ❌           |
 | `/kit mast`    | [Descrição do comando](./comandos.md#vip) | ❌          | ✔️        | ❌           |
 | `/kit ulti `   | [Descrição do comando](./comandos.md#vip) | ❌          | ❌        | ✔️           |
-
-## Chat e TAB
-
-- Adicione cores no seu nick com `/nick` e envie mensagens coloridas!
-- [Clique aqui para abrir o site de formtação de cores!](https://rgb.armamc.com)
-
-|   **CHAT e TAB**  | **PREMIUM** | **MASTER** | **ULTIMATE** |
-| :---------------: | :---------: | :--------: | :----------: |
-| TAG NO CHAT       |  \[PREMIUM] |  \[MASTER] |  \[ULTIMATE] |
-| TAG NO TAB        |  \[PREMIUM] |  \[MASTER] |  \[ULTIMATE] |
-| TAG NO DISCORD    |  \[PREMIUM] |  \[MASTER] |  \[ULTIMATE] |
-| NICK COLORIDO     | ✔️          | ✔️        | ✔️          |
-| MENSAGEM COLORIDA | ✔️          | ✔️        | ✔️          |
-
-## Diversos
-
-| **DIVERSOS**                                                      | **PREMIUM** | **MASTER** | **ULTIMATE** |
-| :---------------------------------------------------------------: | :---------: | :--------: | :----------: |
-| BLOCOS DE PROTEÇÃO                                                | 5.000       | 10.000     | 20.000       |
-| CHANCE DE QUEBRAR SPAWNER <p>`Apenas no servidor Gênesis`</p>     | 30%         | 40%        | 50%          |
-| BÔNUS DE COINS AO MATAR MOB                                       | 10%         | 15%        | 20%          |
-| PRIORIDADE NA LISTA DE ESPERA                                     | ✔️          | ✔️        | ✔️           |
