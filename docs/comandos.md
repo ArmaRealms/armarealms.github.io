@@ -297,7 +297,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/kit prem` | Receber o KIT semanal Premium |
 | `/kit ulti` | Receber o KIT semanal Ultimate |
 | `/luz` | Ativar oud esativar visão noturna |
-| `/nick [novo-nick]` | Altere seu nickname <p>Só é possível adicionar código de cores no nickname</p> |
+| `/nick [novo-nick]` | Adicione cores ao seu nickname <p>[Site com formatação de cores!](https://rgb.armamc.com)</p> |
 | `/nick off` | Remover o nick alterado anteriormente | 
 | `/rebolo` | Abrir bancada do rebolo virtual |
 | `/tear` | Abrir bancada do tear virtual |

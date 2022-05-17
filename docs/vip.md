@@ -11,6 +11,7 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 :::
 
 ## Kit Ativação
+
 | **KIT DE ATIVAÇÃO**                                          | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :----------------------------------------------------------: | :---------: | :--------: | :----------: |
 | CAPACETE ARMAGEDDON <p>Todos os encamentamentos</p>          | ✔️         | ✔️         | ✔️           |
@@ -110,6 +111,9 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | `/kit ulti `   | [Descrição do comando](./comandos.md#vip) | ❌          | ❌        | ✔️           |
 
 ## Chat e TAB
+
+- Adicione cores no seu nick com `/nick` e envie mensagens coloridas!
+- [Clique aqui para abrir o site de formtação de cores!](https://rgb.armamc.com)
 
 |   **CHAT e TAB**  | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :---------------: | :---------: | :--------: | :----------: |
