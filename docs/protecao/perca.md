@@ -10,7 +10,7 @@ sidebar_position: 5
 
 ## Proteções Abandonadas
 
-* Proteções são consideradas abandonadas quando o dono da proteção fica sem entrar no servidor por muito tempo.
+* Proteções são abandonadas quando o dono da proteção fica offline por muito tempo.
 * Quanto maior a proteção, mais tempo leva para a proteção ser considerada abandonada.
 * Remoção automática realizada pelo sistema. **Não precisa abrir ticket!**
 * **A proteção será removida dentro de algumas horas após tempo necessário.**

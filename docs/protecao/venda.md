@@ -8,9 +8,7 @@ sidebar_position: 4
 
 > Para **comprar** ou **alugar** uma proteção de outro jogador basta clicar com o **botão direito** na placa onde contém as informações da venda ou aluguel da proteção.
 
-> Ao vender uma proteção, os blocos de proteção serão transferidos para o jogador que comprar a proteção.
-
-## Comandos Imobiliários
+## Comandos
 
 | Comando | Descrição |
 | ------- | --------- |
@@ -25,7 +23,10 @@ sidebar_position: 4
 
 ## Vender uma Proteção
 
-> **Uma placa deve ser colocada dentro da proteção que você deseja vender.**
+> Na venda de uma proteção os blocos são transferidos entre o vendedor e o comprador.  
+> Não é possível vender uma sub-proteção.
+
+**Uma placa deve ser colocada dentro da proteção que você deseja vender.**
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[vende]` ou `[venda]` ou `[vendese]` ou `[vende-se]`
@@ -37,13 +38,14 @@ Exemplos: `50000` ou `1000` (nunca usar ponto ou vírgula)
 
 ![Exemplo1](https://i.imgur.com/6KLSuqH.png "Exemplo de como criar uma placa de venda")
 
-## Alugar uma Proteção ou Sub-Proteção
-
-> Não é possível alterar uma proteção enquando uma sub-proteção esta alugada.
+## Alugar uma Proteção
 
 ### Alugar com Acesso a Construir
 
-> **Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
+> Não é possível alterar uma proteção quando uma sub-proteção estiver alugada.  
+> O jogador que colocar para alugar perde todas as permissões na proteção.
+
+**Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[aluga]` ou `[aluguel]` ou `[alugase]` ou `[aluga-se]`
@@ -61,7 +63,10 @@ Caso não seja preenchido o tempo será de 7 dias.
 
 ### Alugar com Acesso a Baús
 
-> **Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
+> Não é possível alterar uma proteção quando uma sub-proteção estiver alugada.  
+> O jogador que colocar para alugar perde todas as permissões na proteção.
+
+**Uma placa deve ser colocada dentro da proteção que você deseja alugar.**
 
 1° linha da placa deve ser colocado qualquer palavra abaixo:  
 `[alugabau]` ou `[aluga-bau]` ou `[aluguel-bau]`
