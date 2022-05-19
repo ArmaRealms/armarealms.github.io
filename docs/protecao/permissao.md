@@ -27,7 +27,8 @@ Exemplo: **/accesstrust public** ou **/containertrust public**
 
 Permissão para usar botões, alavancas, camas e definir `/home` na sua proteção ou sub-proteção.
 * `/accesstrust [jogador]`  
-  * `/accesstrust ThiagoROX`
+
+Exemplo: `/accesstrust ThiagoROX`
 
 ## Permissão ContainerTrust
 
@@ -35,7 +36,8 @@ Permissão para usar botões, alavancas, camas e definir `/home` na sua proteç�
 
 Permissão para usar botões, alavancas, camas, mesa de trabalho, **baús**, fornalhas, animais e aldeões na sua proteção ou sub-proteção.  
 * `/containertrust [jogador]`  
-  * `/containertrust ThiagoROX`
+
+Exemplo: `/containertrust ThiagoROX`
 
 ## Permissão PermissionTrust
 
@@ -43,19 +45,22 @@ Permissão para usar botões, alavancas, camas, mesa de trabalho, **baús**, for
 
 Jogador poderá dar permissões que ele possui para outros jogadores. Exemplo: O jogador que tenha a permissão `PermissionTrust` e `Trust` poderá dar ou remover a permissão `Trust` a outros jogadores. Ele não poderá dar a permissão `PermissionTrust` para outros jogadores.
 * `/permissiontrust [jogador]`  
-  * `/permissiontrust ThiagoROX`
+
+Exemplo: `/permissiontrust ThiagoROX`
 
 ## Permissão TrustNear
 
 > **Permissão para que outro jogador possa criar proteções perto da sua.**
 
 * `/trustnear [jogador]`  
-  * `/trustnear ThiagoROX`
+
+Exemplo: `/trustnear ThiagoROX`
 
 > **Remover permissão para que outro jogador possa criar proteções perto da sua.**
 
 * `/untrustnear [jogador]`  
-  * `/untrustnear ThiagoROX`
+
+Exemplo: `/untrustnear ThiagoROX`
 
 ## Permissão Trust
 
@@ -63,7 +68,8 @@ Jogador poderá dar permissões que ele possui para outros jogadores. Exemplo: O
 
 Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, fornalhas, animais e aldeões **e construir** na sua proteção ou sub-proteção.
 * `/trust [jogador]`  
-  * `/trust ThiagoROX`
+
+Exemplo: `/trust ThiagoROX`
 
 ## Listar Jogadores com Permissão
 
@@ -76,4 +82,5 @@ Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, forn
 > **Comando para remover permissões de um jogador na sua proteção.**  
 
 * `/untrust [jogador]`  
-  * `/untrust ThiagoROX`
+
+Exemplo: `/untrust ThiagoROX`
