@@ -37,7 +37,7 @@ Receba o dobro de experiência ao matar matar mobs e outras atividades que
 
 ### Teleporte Instantâneo
 
-> Teleporte instantâneo entre casal
+> Teleporte instantâneo entre casal  
 > Custo: 10 coins
 
 1. Envie `/marry tp` para teleportar até seu parceiro.
@@ -46,7 +46,7 @@ Não é necessário aceitar pedidos de teleporte entre o casal.
 
 ### Enviar Presentes
 
-> Enviar presente para o parceiro
+> Enviar presente para o parceiro  
 > Custo: 10 coins
 
 1. Coloque o item que deseja presentear na mão
@@ -55,12 +55,12 @@ Não é necessário aceitar pedidos de teleporte entre o casal.
 
 ### Definir Base do Casal
 
-> Definir base do casal 
+> Definir base do casal  
 > Custo: 10 coins
 
 ### Chat Privado do Casal
 
-> Chat privado entre o casal
+> Chat privado entre o casal  
 > entre no chat do casal com `/mca`.
 
 1. Envie `/mc [mensagem]` para conversar com seu parceiro
