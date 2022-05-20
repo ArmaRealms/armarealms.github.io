@@ -33,7 +33,7 @@ sidebar_position: 13
 
 > Bônus ao receber experiência
 
-Receba o dobro de experiência ao matar matar mobs e outras atividades que 
+Receba o dobro de experiência ao matar matar mobs e outras ações que dropa XP.
 
 ### Teleporte Instantâneo
 
@@ -61,7 +61,7 @@ Não é necessário aceitar pedidos de teleporte entre o casal.
 ### Chat Privado do Casal
 
 > Chat privado entre o casal  
-> entre no chat do casal com `/mca`.
+> Entre no chat do casal com `/mca`.
 
 1. Envie `/mc [mensagem]` para conversar com seu parceiro
 

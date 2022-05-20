@@ -20,7 +20,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/site` | Listar todos os sites do servidor |
 | `/topvotos` | Listar os jogadores que mais votaram no server |
 | `/vip` | Site da loja onde vende VIP, chave e outros produtos |
-| `/vote` | Listar o site para votar no server |
+| `/vote` <p>`/votar`</p> | Listar o site para votar no server |
 | `/votos` | Listar a quantidades de votos que você possui |
 | `/wiki` | Listar a Wiki do servidor |
 
