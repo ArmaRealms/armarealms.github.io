@@ -52,6 +52,24 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/skin clear` | Remove sua skin |
 | `/skin update` | Atualiza sua skin | 
 
+### Casamento
+| Comando | Descrição |
+| ------- | --------- |
+| `/marry` | Listar todos os comandos do marry |
+| `/marry listar` | Listar todos os jogadores casados |
+| `/marry [jogador]` <p>`/marry casar [jogador]`</p> | Enviar pedido de casamento |
+| `/marry divorciar` | Divorciar do seu atual parceiro(a) |
+| `/mc [mensagem]` <p>`/marry chat [mensagem]`</p> | Enviarm mensagem para o parceiro |
+| `/mca` <p>`/marry chat alternar`</p> | Entrar ou sair do chat do casal |
+| `/marry tp` | Teleportar para o seu parceiro(a) |
+| `/marry home` | Teleportar para a home do casal |
+| `/marry sethome` | Definir home do casal |
+| `/marry delhome` | Apagar home do casal |
+| `/marry presentear` | Presentear o seu parceiro(a) |
+| `/marry beijar` | Beijar seu parceiro(a) |
+| `/marry abraçar` | Abraçar seu parceiro(a) |
+| `/marry seen` | Exibir o último login do seu parceiro(a) |
+
 ## Chat
 
 ### Mensagem Privada
