@@ -1,5 +1,5 @@
 ---
-title: Casamento
+title: Marry
 description: Tudo sobre o sistema de casamento entre jogadores.
 sidebar_position: 13
 ---
@@ -29,9 +29,42 @@ sidebar_position: 13
 
 ## Beneficios
 
-1. Bônus ao receber experiência
-2. Teleporte instântaneo entre casal
-3. Enviar presente para o parceiro
-4. Definir base do casal
-5. Chat privado entre o casal
-6. Ícone de casado no chat e TAB
+### Bônus de Experiência
+
+> Bônus ao receber experiência
+
+Receba o dobro de experiência ao matar matar mobs e outras atividades que 
+
+### Teleporte Instantâneo
+
+> Teleporte instantâneo entre casal
+> Custo: 10 coins
+
+1. Envie `/marry tp` para teleportar até seu parceiro.
+
+Não é necessário aceitar pedidos de teleporte entre o casal.
+
+### Enviar Presentes
+
+> Enviar presente para o parceiro
+> Custo: 10 coins
+
+1. Coloque o item que deseja presentear na mão
+2. Envie `/marry presentear` para enviar o presente
+
+
+### Definir Base do Casal
+
+> Definir base do casal 
+> Custo: 10 coins
+
+### Chat Privado do Casal
+
+> Chat privado entre o casal
+> entre no chat do casal com `/mca`.
+
+1. Envie `/mc [mensagem]` para conversar com seu parceiro
+
+### Ícone no Chat e TAB
+
+> Ícone de casado no chat e TAB
