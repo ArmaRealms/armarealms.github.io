@@ -12,13 +12,13 @@ Para adicionar ou remover permissões em **todas** as suas proteções com um ú
 
 :::info Permissão para membros do clã!
 Use **group.\[tag-do-clã\]** para adicionar ou remover permissões de todos os membros do clã.  
-Exemplo: **/accesstrust group.cdl** ou **/containertrust group.cdl**  
+Exemplo: **`/accesstrust group.cdl`** ou **`/containertrust group.cdl`**  
 Permissão para todos os membros do clã com TAG **CDL**.
 :::
 
 :::info Permissão para todos os jogadores
 Use **public** para dar permissão a todos os jogadores.  
-Exemplo: **/accesstrust public** ou **/containertrust public**
+Exemplo: **`/accesstrust public`** ou **`/containertrust public`**
 :::
 
 ## Permissão AccessTrust
@@ -45,7 +45,8 @@ Exemplo: `/containertrust ThiagoROX`
 
 > **Permissão para gerenciar permissões na sua proteção.**
 
-Jogador poderá dar permissões que ele possui para outros jogadores. Exemplo: O jogador que tenha a permissão `PermissionTrust` e `Trust` poderá dar ou remover a permissão `Trust` a outros jogadores. Ele não poderá dar a permissão `PermissionTrust` para outros jogadores.
+Jogador poderá dar permissões que ele possui para outros jogadores.  
+Exemplo: O jogador que tenha a permissão `PermissionTrust` e `Trust` poderá dar ou remover a permissão `Trust` a outros jogadores. Ele não poderá dar a permissão `PermissionTrust` para outros jogadores.
 
 1. Digite `/permissiontrust [jogador]`
 

@@ -71,13 +71,13 @@ const config = {
             position: 'left',
           },
           {
-            to: 'docs/vote',
+            to: 'vote',
             label: 'Vote',
             position: 'left',
             target: '_blank',
           },
           {
-            to: 'docs/regras',
+            to: 'regras',
             label: 'Regras',
             position: 'left',
             target: '_blank',
