@@ -51,9 +51,9 @@ const config = {
         },
         items: [
           {
-            href: 'https://loja.armamc.com/',
-            label: 'Loja',
+            type: 'html',
             position: 'left',
+            value: '<a href=https://discord.gg/yEUhqn8">Discord</a>',
           },
           {
             href: 'https://discord.gg/yEUhqn8',
@@ -74,13 +74,11 @@ const config = {
             to: 'vote',
             label: 'Vote',
             position: 'left',
-            target: '_blank',
           },
           {
             to: 'regras',
             label: 'Regras',
             position: 'left',
-            target: '_blank',
           },
         ],
       },

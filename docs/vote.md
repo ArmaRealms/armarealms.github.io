@@ -16,42 +16,34 @@ A cada **`80 votos`** você recebe uma chave **`lendária`**.
 Votos são válidos apenas se o jogador estiver online no servidor.
 :::
 
+<div>
   <a href="https://minecraft-mp.com/server/225174/vote">
-  <img src="/img/numero-1.png" alt="Site 01" width="70" height="70" style={{  marginRight: 10 }}></img>
-  </a>
-
+  <button class="button button--lg button--primary" style={{{marginRight: "5", marginHeight:"10"}}>Site 01</button></a>
+  
   <a href="https://www.planetminecraft.com/server/armageddon-server/vote">
-  <img src="/img/numero-2.png" alt="Site 02" width="70" height="70" style={{  marginRight: 10 }}></img>
-  </a>
+  <button class="button button--lg button--primary" style={{marginRight: "5", marginHeight:"10"}}>Site 02</button></a>
   
   <a href="https://minecraft-server-list.com/server/441552/vote">
-  <img src="/img/numero-3.png" alt="Site 03" width="70" height="70" style={{  marginRight: 10 }}></img>
-  </a>
+  <button class="button button--lg button--primary" style={{marginRight: "5", marginHeight:"10"}}>Site 03</button></a>
   
   <a href="https://topg.org/Minecraft/in-515193">
-  <img src="/img/numero-4.png" alt="Site 04" width="70" height="70" style={{  marginRight: 10 }}></img>
-  </a>
-
+  <button class="button button--lg button--primary" style={{marginRight: "5", marginHeight:"10"}}>Site 04</button></a>
+  
   <a href="https://minecraftservers.org/vote/554608">
-  <img src="/img/numero-5.png" alt="Site 05" width="70" height="70" style={{  marginRight: 10 }}></img>
-  </a>
+  <button class="button button--lg button--primary" style={{marginRight: "5", marginHeight:"10"}}>Site 05</button></a>
 
   <a href="https://topminecraftservers.org/vote/6030">
-  <img src="/img/numero-6.png" alt="Site 06" width="70" height="70" style={{  marginRight: 10 }}></img>
-  </a>
+  <button class="button button--lg button--primary" style={{marginRight: "5", marginHeight:"10"}}>Site 06</button></a>
 
   <a href="https://mccommunity.net/server/127-Armageddon+Server/vote">
-  <img src="/img/numero-7.png" alt="Site 07" width="70" height="70" style={{  marginRight: 10 }}></img>
-  </a>
+  <button class="button button--lg button--primary" style={{marginRight: "5", marginHeight:"10"}}>Site 07</button></a>
 
   <a href="https://minecraft-server.net/vote/ArmaMC">
-  <img src="/img/numero-8.png" alt="Site 08" width="70" height="70" style={{  marginRight: 10 }}></img>
-  </a>
+  <button class="button button--lg button--primary" style={{marginRight: "5", marginHeight:"10"}} >Site 08</button></a>
 
   <a href="https://best-minecraft-servers.co/server-armageddon-server.4190/vote">
-  <img src="/img/numero-9.png" alt="Site 09" width="70" height="70" style={{  marginRight: 10 }}></img>
-  </a>
+  <button class="button button--lg button--primary" style={{marginRight: "5", marginHeight:"10"}} >Site 09</button></a>
 
-  <a href="https://servers-minecraft.net/server-armageddon-server.1115/vote">
-  <img src="/img/numero-10.png" alt="Site 10" width="70" height="70" style={{  marginRight: 10 }}></img>
-  </a>
+  <a href="https://servers-minecraft.net/server-armageddon-server.1115/">
+  <button class="button button--lg button--primary" style={{marginRight: "5", marginHeight:"10"}}>Site 10</button></a>
+</div>

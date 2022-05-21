@@ -1,6 +1,6 @@
 ---
 title: Inicio
-description: Bem vindo a Wiki do Armageddon MC!
+description: Wiki dos Servidores Armageddon!
 slug: /
 sidebar_position: 1
 ---
@@ -18,7 +18,8 @@ Abaixo temos o passo-a-passo de como iniciar sua jornada no Armageddon.
 
 Aceitamos apenas Minecraft Java Edition!
 - [Minecraft Original (Pago)](https://www.minecraft.net/pt-pt/store/minecraft-java-edition)
-- [Minecraft Alternativo (Grátis)](https://tlauncher.org/installer)
+- [Minecraft Alternativo Salwyrr (Grátis)](https://www.salwyrr.com/)
+- [Minecraft Alternativo Tlauncher (Grátis)](https://tlauncher.org/installer)
 
 1. Clique na opção `Multijogador`
 
