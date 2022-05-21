@@ -33,32 +33,32 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
 
 ## Alterar o Item da Loja
 
-Olhando para a loja que deseja alterar e com o novo item na mão, envie o comando:
-* `/ploja item`
+1. Digite `/ploja item` olhando para a loja que deseja alterar e com o novo item na mão.
 
 ## Alterar o Modo da Loja
 
 > Toda loja será aberta no modo de venda.
 
-Olhando para a loja que deseja alterar o modo, envie o comando:
-* `/ploja buy` - Comando para **COMPRAR** itens na loja.
-* `/ploja sell` - Comando para **VENDER** itens na loja.
+Comando para **COMPRAR** itens na loja:
+1. Digite `/ploja buy` olhando para a loja que deseja alterar o modo.
+
+Comando para **VENDER** itens na loja:
+1. Digite `/ploja sell` olhando para a loja que deseja alterar o modo.
 
 ## Alterar o Valor da Loja
 
 > Alterar o valor de uma loja custa $50 coins. 
 
-Olhando para a loja que deseja alterar o valor, envie o comando:
-* `/ploja price [novo-preço]`
-  * `/ploja price 200`
+1. Digite `/ploja price [novo-preço]` olhando para a loja que deseja alterar o valor.
+
+Exemplo: `/ploja price 200`
 
 ## Alterar o Stack da loja
 
-Olhando para a loja que deseja alterar a quantidade do stack, envie o comando:
-* `/ploja size [quantidade]`
-  * `/ploja size 64`
+1. Digite `/ploja size [quantidade]` olhando para a loja que deseja alterar a quantidade do stack.
+
+Exemplo: `/ploja size 64`
 
 ## Remover uma Loja
 
-Olhando para a loja que deseja remover, envie o comando:
-* `/ploja remove`
+1. Digite `/ploja remove` olhando para a loja que deseja remover

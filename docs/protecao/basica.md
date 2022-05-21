@@ -22,8 +22,8 @@ Exemplo 2: `/claimexpand -5` - Diminui em 5 blocos a proteção na direção que
 
 ## Excluir Proteção
 
-Digite `/abandonclaim` dentro da proteção que você deseja excluir.
+1. Digite `/abandonclaim` dentro da proteção que você deseja excluir.
 
 ## Listar Proteção
 
-Digite `/claimlist` para listar todas as suas proteções.
+1. Digite `/claimlist` para listar todas as suas proteções.

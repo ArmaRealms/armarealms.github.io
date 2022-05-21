@@ -6,7 +6,7 @@ sidebar_position: 4
 
 # Lista de Comandos
 
-Use a barra de pesquisa da página para encontrar comandos.
+> Use a barra de pesquisa da página para encontrar comandos.
 
 ## Diversos
 
@@ -108,7 +108,7 @@ Use a barra de pesquisa da página para encontrar comandos.
 | `/extendclaim 10` | Expande a proteção 10 blocos na sua direção | 
 | `/claimlist` | Liste as informações das proteções | 
 
-### Permissões
+### Permissões da Proteção
 | Comando | Descrição |
 | ------- | --------- |
 | `/trust [jogador]` | Permitir acesso a construir na sua proteção |
@@ -184,22 +184,22 @@ Use a barra de pesquisa da página para encontrar comandos.
 | Comando | Descrição |
 | ------- | --------- |
 | `/go` <p>`/pwarp`</p> | Abrir o menu principal de Warps de jogadores |
-| `go [warp]` | Teleportar para a warp de um jogador |
-| `go abrir [categoria]` | Abrir as warps da categoria |
-| `go ajuda` | Listar comandos do sistema de warp |
-| `go avaliar [warp] [valor]` | Avaliar uma warp |
-| `go categoria [warp] [categoria]` | Definir a categoria da warp | 
-| `go definir [warp]` | Definir uma warp Na localização atual |
-| `go descricao definir [warp] [desc]` | Definir descrição de uma warp |
-| `go descricao remover [warp]` | Remvoer descrição de uma warp |
-| `go listar` | Listar todas warps disponíveis |
-| `go quantia` | Visualizar quantas warps você possui |
-| `go redefinir [warp]` | Redefinir a localização de uma warp |
-| `go remover [warp]` | Remover uma warp | 
-| `go renomear [warp] [nome]` | Renomear uma warp | 
-| `go senha definir [warp] [senha]` | Definir senha de uma warp |
-| `go senha remover [warp]` | Remover senha de uma warp |
-| `go travar [warp]` | Travar ou Destravar uma warp |
+| `/go [warp]` | Teleportar para a warp de um jogador |
+| `/go abrir [categoria]` | Abrir as warps da categoria |
+| `/go ajuda` | Listar comandos do sistema de warp |
+| `/go avaliar [warp] [valor]` | Avaliar uma warp |
+| `/go categoria [warp] [categoria]` | Definir a categoria da warp | 
+| `/go definir [warp]` | Definir uma warp Na localização atual |
+| `/go descricao definir [warp] [desc]` | Definir descrição de uma warp |
+| `/go descricao remover [warp]` | Remvoer descrição de uma warp |
+| `/go listar` | Listar todas warps disponíveis |
+| `/go quantia` | Visualizar quantas warps você possui |
+| `/go redefinir [warp]` | Redefinir a localização de uma warp |
+| `/go remover [warp]` | Remover uma warp | 
+| `/go renomear [warp] [nome]` | Renomear uma warp | 
+| `/go senha definir [warp] [senha]` | Definir senha de uma warp |
+| `/go senha remover [warp]` | Remover senha de uma warp |
+| `/go travar [warp]` | Travar ou Destravar uma warp |
 
 ## Economia
 
@@ -215,15 +215,14 @@ Use a barra de pesquisa da página para encontrar comandos.
 ### Loja do Servidor
 | Comando | Descrição |
 | ------- | --------- |
-| `/loja` <p>`/shop`</p> | Abra o menu de lojas do servidor |
-| `/sloja` <p>`/sshop`</p> | Abra o menu da loja do servidor |
+| `/loja` <p>`/shop`</p> | Abrir o menu de lojas do servidor |
+| `/sloja` <p>`/sshop`</p> | Abrir o menu da loja do servidor |
 | `/sellgui` | Abrir o menu onde você pode colocar itens que deseja vender <p>Ao fechar o menu os itens serão vendidos</p> |
-| `/sellall` | Vende todos os itens do inventário de qualquer categoria |
-| `/sellhand ` | Vender o item que estiver segunrando |
+| `/sellall` | Vender todos os itens do inventário de qualquer categoria |
+| `/sellhand ` | Vender o item que estiver segurando |
 | `/sellhand (quantia)` | Vender a quantidade especificada do item que estiver segurando |
 | `/sellhandall` | Vender todos os itens do inventário que seja igual ao que estiver segurando |
-| `/sellall (categoria)` | Vende todos os itens do inventário que sejam da categoria blocos |
-| `/sellall blocos` | Vender todos os itens da categoria blocos que estiver no inventário |
+| `/sellall (categoria)` | Vender todos os itens do inventário que sejam da categoria blocos |
 
 ### Loteria
 | Comando | Descrição |

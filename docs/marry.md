@@ -14,7 +14,7 @@ sidebar_position: 13
 | ------- | --------- |
 | `/marry` <p>`/marry ajuda`</p> | Listar todos os comandos do marry |
 | `/marry listar` | Listar todos os jogadores casados |
-| `/marry [jogador]` <p>`/marry casar [jogador]`</p> | Enviar pedido de casamento a outro jogador.<p>Custa 100.000 coins para cada jogador</p> |
+| `/marry [jogador]` <p>`/marry casar [jogador]`</p> | Enviar pedido de casamento a outro jogador. <p>Custa 100.000 coins para cada jogador</p> |
 | `/marry divorciar` | Divorciar do seu atual parceiro(a) |
 | `/mc [mensagem]` <p>`/marry chat [mensagem]`</p> | Enviar mensagem para o parceiro(a) |
 | `/mca` <p>`/marry chat alternar`</p> | Entrar ou sair do chat do casal |
@@ -38,7 +38,7 @@ Receba o dobro de experiência ao matar matar mobs e outras ações que dropa XP
 ### Teleporte Instantâneo
 
 > Teleporte instantâneo entre casal  
-> Custo: 10 coins
+> Custo: $10 coins
 
 1. Envie `/marry tp` para teleportar até seu parceiro.
 
@@ -47,7 +47,7 @@ Não é necessário aceitar pedidos de teleporte entre o casal.
 ### Enviar Presentes
 
 > Enviar presente para o parceiro  
-> Custo: 10 coins
+> Custo: $10 coins
 
 1. Coloque o item que deseja presentear na mão
 2. Envie `/marry presentear` para enviar o presente
@@ -56,7 +56,7 @@ Não é necessário aceitar pedidos de teleporte entre o casal.
 ### Definir Base do Casal
 
 > Definir base do casal  
-> Custo: 10 coins
+> Custo: $10 coins
 
 ### Chat Privado do Casal
 

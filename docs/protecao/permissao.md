@@ -26,7 +26,8 @@ Exemplo: **/accesstrust public** ou **/containertrust public**
 > **Permissão para acessar sua proteção.**
 
 Permissão para usar botões, alavancas, camas e definir `/home` na sua proteção ou sub-proteção.
-* `/accesstrust [jogador]`  
+
+1. Digite `/accesstrust [jogador]`
 
 Exemplo: `/accesstrust ThiagoROX`
 
@@ -35,7 +36,8 @@ Exemplo: `/accesstrust ThiagoROX`
 > **Permissão para acessar baús na sua proteção.**
 
 Permissão para usar botões, alavancas, camas, mesa de trabalho, **baús**, fornalhas, animais e aldeões na sua proteção ou sub-proteção.  
-* `/containertrust [jogador]`  
+
+1. Digite `/containertrust [jogador]`
 
 Exemplo: `/containertrust ThiagoROX`
 
@@ -44,7 +46,8 @@ Exemplo: `/containertrust ThiagoROX`
 > **Permissão para gerenciar permissões na sua proteção.**
 
 Jogador poderá dar permissões que ele possui para outros jogadores. Exemplo: O jogador que tenha a permissão `PermissionTrust` e `Trust` poderá dar ou remover a permissão `Trust` a outros jogadores. Ele não poderá dar a permissão `PermissionTrust` para outros jogadores.
-* `/permissiontrust [jogador]`  
+
+1. Digite `/permissiontrust [jogador]`
 
 Exemplo: `/permissiontrust ThiagoROX`
 
@@ -52,13 +55,13 @@ Exemplo: `/permissiontrust ThiagoROX`
 
 > **Permissão para que outro jogador possa criar proteções perto da sua.**
 
-* `/trustnear [jogador]`  
+1. Digite `/trustnear [jogador]`
 
 Exemplo: `/trustnear ThiagoROX`
 
 > **Remover permissão para que outro jogador possa criar proteções perto da sua.**
 
-* `/untrustnear [jogador]`  
+1. Digite `/untrustnear [jogador]`
 
 Exemplo: `/untrustnear ThiagoROX`
 
@@ -67,7 +70,8 @@ Exemplo: `/untrustnear ThiagoROX`
 > **Permissão para construir na sua proteção.**
 
 Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, fornalhas, animais e aldeões **e construir** na sua proteção ou sub-proteção.
-* `/trust [jogador]`  
+
+1. Digite `/trust [jogador]`
 
 Exemplo: `/trust ThiagoROX`
 
@@ -75,12 +79,12 @@ Exemplo: `/trust ThiagoROX`
 
 > **Comando para listar jogadores com permissão na proteção.**  
 
-* `/trustlist`
+1. Digite `/trustlist`
 
 ## Remover Permissão de Jogadores
 
 > **Comando para remover permissões de um jogador na sua proteção.**  
 
-* `/untrust [jogador]`  
+1. Digite `/untrust [jogador]`
 
 Exemplo: `/untrust ThiagoROX`

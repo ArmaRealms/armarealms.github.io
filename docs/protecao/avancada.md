@@ -10,7 +10,7 @@ sidebar_position: 3
 
 1. Digite `/kit prot` e coloque a `pá de ouro` na mão.
 2. Digite `/subdivideclaim` para entrar no modo de sub-proteção.
-3. Segurando a `pá de ouro` e dentro da sua proteção, clique em duas quinas para criar a sub-proteção.
+3. Segure a `pá de ouro` e dentro da sua proteção, clique em duas quinas para criar a sub-proteção.
 4. Digite `/restrictsubclaim` para que a sub-proteção não herde permissões da proteção principal.
 
 ## Expandir Sub-Proteção
