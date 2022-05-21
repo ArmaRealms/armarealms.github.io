@@ -46,8 +46,8 @@ const config = {
         logo: {
           alt: 'armamc icon',
           src: 'img/logo.png',
-          width: 32,
-          height: 32,
+          width: 50,
+          height: 50,
         },
         items: [
           {
@@ -59,6 +59,28 @@ const config = {
             href: 'https://discord.gg/yEUhqn8',
             label: 'Discord',
             position: 'left',
+          },
+          {
+            href: 'https://forum.armamc.com/',
+            label: 'Fórum',
+            position: 'left',
+          },
+          {
+            href: 'https://rgb.armamc.com/',
+            label: 'Criador RGB',
+            position: 'left',
+          },
+          {
+            to: 'docs/vote',
+            label: 'Vote',
+            position: 'left',
+            target: '_blank',
+          },
+          {
+            to: 'docs/regras',
+            label: 'Regras',
+            position: 'left',
+            target: '_blank',
           },
         ],
       },
