@@ -1,6 +1,6 @@
 ---
 title: Organizador Automático
-description: Tudo sobre o organizador automático de itens.
+description: Sistema de organizador automático de itens.
 sidebar_position: 2
 ---
 

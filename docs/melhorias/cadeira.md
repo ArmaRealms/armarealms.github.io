@@ -1,6 +1,6 @@
 ---
 title: Cadeira Customizada
-description: Tudo sobre o sistema cadeiras com escadas e lajes.
+description: Sistema cadeiras com escadas e lajes.
 sidebar_position: 5
 ---
 

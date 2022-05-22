@@ -1,6 +1,6 @@
 ---
 title: Laço Inteligente
-description: Tudo sobre o sistema de laço inteligente.
+description: Sistema de laço inteligente.
 sidebar_position: 5
 ---
 

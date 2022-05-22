@@ -1,6 +1,6 @@
 ---
 title: Skin Customizada
-description: Tudo sobre o sistema de skins customizadas.
+description: Sistema de skins customizadas.
 sidebar_position: 4
 ---
 
