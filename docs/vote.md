@@ -18,7 +18,7 @@ Votos são válidos apenas se o jogador estiver online no servidor.
 
 <div>
   <a href="https://minecraft-mp.com/server/225174/vote">
-  <button class="button button--lg button--primary" style={{{marginRight: "5", marginHeight:"10"}}>Site 01</button></a>
+  <button class="button button--lg button--primary" style={{marginRight: "5", marginHeight:"10"}}>Site 01</button></a>
   
   <a href="https://www.planetminecraft.com/server/armageddon-server/vote">
   <button class="button button--lg button--primary" style={{marginRight: "5", marginHeight:"10"}}>Site 02</button></a>
