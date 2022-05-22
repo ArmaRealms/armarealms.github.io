@@ -1,10 +1,18 @@
 ---
 title: Proteção Avançada
 description: Como criar, expandir, abandonar sub-proteções.
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Proteção Avançada
+
+## Comandos
+| Comando | Descrição |
+| ------- | --------- |
+| `/subdivideclaims` | Altere a pá de ouro para o modo de subdivisão de proteções |
+| `/restrictsubclaim` | Restrinja a subdivisão para que ela não herde as permissões da proteção principal | 
+| `/basicclaims` | Altere a pá de ouro para o modo básico de proteção |
+| `/abandontoplevelclaim` | Apague uma proteção e todas suas sub-proteções |
 
 ## Criar uma Sub-Proteção
 
@@ -12,6 +20,8 @@ sidebar_position: 3
 2. Envie `/subdivideclaim` para entrar no modo de sub-proteção.
 3. Segure a `pá de ouro` e dentro da sua proteção, clique em duas quinas para criar a sub-proteção.
 4. Envie `/restrictsubclaim` para que a sub-proteção não herde permissões da proteção principal.
+
+Envie `/basicclaims` para voltar ao modo de proteção normal.
 
 ## Expandir Sub-Proteção
 
@@ -22,4 +32,6 @@ Exemplo 2: `/claimexpand -5` - Diminui em 5 blocos a proteção na direção que
 
 ## Excluir Sub-Proteção
 
-1. Envie `/abandonclaim` dentro da proteção que você deseja excluir.
+1. Envie `/abandonclaim` dentro da sub-proteção que você deseja excluir.
+
+Envie `/abandontoplevelclaim` para excluir a proteção principal e todas as sua sub-proteções.

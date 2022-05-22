@@ -21,6 +21,19 @@ Use **public** para dar permissão a todos os jogadores.
 Exemplo: **`/accesstrust public`** ou **`/containertrust public`**
 :::
 
+## Comandos
+
+| Comando | Descrição |
+| ------- | --------- |
+| `/trust [jogador]` | Permitir acesso a construir na sua proteção |
+| `/accesstrust [jogador]` | Permitir acesso a cama, portas e etc.. na sua proteção |
+| `/containertrust [jogador]` | Permitir acesso a baús na sua proteção |
+| `/permissiontrust [jogador]` | Permitir gerenciamento de permissões na sua proteção |
+| `/trustnear [jogador]` | Permitir que jogador proteja perto de você |
+| `/untrustnear [jogador]` | Remover permissão TrustNear do jogador |
+| `/untrust [jogador]` | Remover a permissão do jogador na sua proteção | 
+| `/trustlist` | Listar as permissões da proteção que você está |
+
 ## Permissão AccessTrust
 
 > **Permissão para acessar sua proteção.**

@@ -113,7 +113,7 @@ sidebar_position: 4
 | `/trust [jogador]` | Permitir acesso a construir na sua proteção |
 | `/accesstrust [jogador]` | Permitir acesso a cama, portas e etc.. na sua proteção |
 | `/containertrust [jogador]` | Permitir acesso a baús na sua proteção |
-| `/permissiontrust [jogador]` | Permitir gerenciamento de permissões na sua proteção |]
+| `/permissiontrust [jogador]` | Permitir gerenciamento de permissões na sua proteção |
 | `/trustnear [jogador]` | Permitir que jogador proteja perto de você |
 | `/untrustnear [jogador]` | Remover permissão TrustNear do jogador |
 | `/untrust [jogador]` | Remover a permissão do jogador na sua proteção | 
@@ -124,7 +124,7 @@ sidebar_position: 4
 | ------- | --------- |
 | `/abandonallclaims` | Apague todas as suas proteções no server | 
 | `/abandonclaim` | Apague a proteção em que você está localizado |
-| `/abandontoplevelclaim` | Apague uma proteção e todas suas subdivisões |
+| `/abandontoplevelclaim` | Apague uma proteção e todas suas sub-proteções |
 
 ### Banimento da Proteção
 | Comando | Descrição |
@@ -137,15 +137,15 @@ sidebar_position: 4
 ### Criar Sub-Proteção
 | Comando | Descrição |
 | ------- | --------- |
-| `/subdivideclaims` | Altere a pá de ouro para o modo de subdivisão de proteções, usado para dividir suas proteções |
-| `/restrictsubclaim` | Restrinja a subdivisão para que ela não herde as permissões da proteção principal | 
+| `/subdivideclaims` | Altere a pá de ouro para o modo de subdivisão de proteções |
+| `/restrictsubclaim` | Restrinja a sub-proteção para que ela não herde as permissões da proteção principal | 
 | `/basicclaims` | Altere a pá de ouro para o modo básico de proteção |
 
 ### Loja de Blocos de Proteção
 | Comando | Descrição |
 | ------- | --------- |
-| `/buyclaimblocks [quantia]` | Compre blocos de proteção com dinheiro virtual |
-| `/sellclaimblocks [quantia]` | Venda seus blocos de proteção para o servidor | 
+| `/buyclaimblocks [quantia]` | Compre blocos de proteção |
+| `/sellclaimblocks [quantia]` | Venda seus blocos de proteção | 
 
 ### Outros Comandos
 | Comando | Descrição |

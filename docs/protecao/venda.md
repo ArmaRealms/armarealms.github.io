@@ -1,7 +1,7 @@
 ---
 title: Venda da Proteção
 description: Como vender ou alugar uma proteção ou sub-proteção.
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 # Vender ou Alugar Proteção
