@@ -53,7 +53,7 @@ const config = {
           {
             type: 'html',
             position: 'left',
-            value: '<a href=https://discord.gg/yEUhqn8">Discord</a>',
+            value: '<a href=https://discord.gg/yEUhqn8"><p>Discord</p></a>',
           },
           {
             href: 'https://discord.gg/yEUhqn8',
