@@ -53,6 +53,19 @@ sidebar_position: 4
 | `/skin clear` | Remover sua skin |
 | `/skin update` | Atualizar sua skin | 
 
+### Duelo
+| Comando | Descrição |
+| ------- | --------- |
+| `/x1` | Listar comandos do sistema de duelo |
+| `/x1 [jogador]` | Enviar pedido de duelo para outro jogador |
+| `/x1 [jogador] [valor]` | Enviar pedido de duelo com aposta para outro jogador |
+| `/x1 accept [jogador]` | Aceitar pedido de duelo do jogador |
+| `/x1 deny [jogador]` | Negar pedido de duelo do jogador |
+| `/x1 stats` | Listar o seu status de duelos |
+| `/x1 stats [jogador]` | Listar status de duelos do jogador |
+| `/x1 toggle` | Ativar ou desativar pedidos de duelo |
+| `/topduelos` | Listar melhores duelistas |
+
 ### Casamento
 | Comando | Descrição |
 | ------- | --------- |
@@ -76,7 +89,7 @@ sidebar_position: 4
 ### Mensagem Privada
 | Comando | Descrição |
 | ------- | --------- |
-| `/m [jogador] [sua mensagem]` | Envie mensagens privadas para outro jogador |
+| `/m [jogador] [mensagem]` | Envie mensagens privadas para outro jogador |
 | `/m [jogador]` | Travar ou destravar mensagens privadas com outro jogador |
 | `/r [mensagem]` | Responda a última mensagem privada recebida |
 | `/ignore [jogador]` | Ignora/Designora um jogador |

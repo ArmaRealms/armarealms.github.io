@@ -16,7 +16,18 @@ sidebar_position: 5
 * Aprovar, reprovar e implementar sugestões de jogadores.
 
 ### Lista de Admin
-* ThiagoROX
+
+<div class="avatar">
+  <img
+    class="avatar__photo avatar__photo--xl"
+    src="http://cravatar.eu/head/ThiagoROX/128.png" />
+  <div class="avatar__intro">
+    <div class="avatar__name">ThiagoROX</div>
+    <small class="avatar__subtitle">
+      Administrador do armamc desde 2019.
+    </small>
+  </div>
+</div>
 
 ## Moderador
 
@@ -26,10 +37,39 @@ sidebar_position: 5
 * Reportar bugs ou erros ao admin;
 
 ### Lista de Moderadores
-* Ddougras
-* FreiraDaNight
-* ZzThiagoZz
-
+<div class="avatar">
+  <img
+    class="avatar__photo avatar__photo--xl"
+    src="http://cravatar.eu/head/Ddougras/128.png" />
+  <div class="avatar__intro">
+    <div class="avatar__name">Ddougras</div>
+    <small class="avatar__subtitle">
+      Moderador carioca.
+    </small>
+  </div>
+</div>
+<div class="avatar">
+  <img
+    class="avatar__photo avatar__photo--xl"
+    src="http://cravatar.eu/head/FreiraDaNight/128.png" />
+  <div class="avatar__intro">
+    <div class="avatar__name">FreiraDaNight</div>
+    <small class="avatar__subtitle">
+      Moderadora artista.
+    </small>
+  </div>
+</div>
+<div class="avatar">
+  <img
+    class="avatar__photo avatar__photo--xl"
+    src="http://cravatar.eu/head/ZzThiagoZz/128.png" />
+  <div class="avatar__intro">
+    <div class="avatar__name">ZzThiagoZz</div>
+    <small class="avatar__subtitle">
+      Moderador baiano.
+    </small>
+  </div>
+</div>
 ## Mod-GC
 
 ### Função do Mod-GC
@@ -58,3 +98,14 @@ sidebar_position: 5
 
 ### Lista de Ajudantes
 * BlackBirdx1
+<div class="avatar">
+  <img
+    class="avatar__photo avatar__photo--xl"
+    src="http://cravatar.eu/head/BlackBirdx1/128.png" />
+  <div class="avatar__intro">
+    <div class="avatar__name">BlackBirdx1</div>
+    <small class="avatar__subtitle">
+      Nosso único ajudante.
+    </small>
+  </div>
+</div>
