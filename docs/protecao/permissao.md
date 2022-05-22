@@ -27,7 +27,7 @@ Exemplo: **`/accesstrust public`** ou **`/containertrust public`**
 
 Permissão para usar botões, alavancas, camas e definir `/home` na sua proteção ou sub-proteção.
 
-1. Digite `/accesstrust [jogador]`
+1. Envie `/accesstrust [jogador]`
 
 Exemplo: `/accesstrust ThiagoROX`
 
@@ -37,7 +37,7 @@ Exemplo: `/accesstrust ThiagoROX`
 
 Permissão para usar botões, alavancas, camas, mesa de trabalho, **baús**, fornalhas, animais e aldeões na sua proteção ou sub-proteção.  
 
-1. Digite `/containertrust [jogador]`
+1. Envie `/containertrust [jogador]`
 
 Exemplo: `/containertrust ThiagoROX`
 
@@ -48,7 +48,7 @@ Exemplo: `/containertrust ThiagoROX`
 Jogador poderá dar permissões que ele possui para outros jogadores.  
 Exemplo: O jogador que tenha a permissão `PermissionTrust` e `Trust` poderá dar ou remover a permissão `Trust` a outros jogadores. Ele não poderá dar a permissão `PermissionTrust` para outros jogadores.
 
-1. Digite `/permissiontrust [jogador]`
+1. Envie `/permissiontrust [jogador]`
 
 Exemplo: `/permissiontrust ThiagoROX`
 
@@ -56,13 +56,13 @@ Exemplo: `/permissiontrust ThiagoROX`
 
 > **Permissão para que outro jogador possa criar proteções perto da sua.**
 
-1. Digite `/trustnear [jogador]`
+1. Envie `/trustnear [jogador]`
 
 Exemplo: `/trustnear ThiagoROX`
 
 > **Remover permissão para que outro jogador possa criar proteções perto da sua.**
 
-1. Digite `/untrustnear [jogador]`
+1. Envie `/untrustnear [jogador]`
 
 Exemplo: `/untrustnear ThiagoROX`
 
@@ -72,7 +72,7 @@ Exemplo: `/untrustnear ThiagoROX`
 
 Permissão para usar botões, alavancas, camas, mesa de trabalho **baús**, fornalhas, animais e aldeões **e construir** na sua proteção ou sub-proteção.
 
-1. Digite `/trust [jogador]`
+1. Envie `/trust [jogador]`
 
 Exemplo: `/trust ThiagoROX`
 
@@ -80,12 +80,12 @@ Exemplo: `/trust ThiagoROX`
 
 > **Comando para listar jogadores com permissão na proteção.**  
 
-1. Digite `/trustlist`
+1. Envie `/trustlist`
 
 ## Remover Permissão de Jogadores
 
 > **Comando para remover permissões de um jogador na sua proteção.**  
 
-1. Digite `/untrust [jogador]`
+1. Envie `/untrust [jogador]`
 
 Exemplo: `/untrust ThiagoROX`

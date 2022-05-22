@@ -8,22 +8,22 @@ sidebar_position: 1
 
 ## Criar Proteção
 
-1. Digite `/kit prot` e coloque a `pá de ouro` na mão.
-2. Digite `/claim <tamanho>` para proteger o local onde você estiver.  
+1. Envie `/kit prot` e coloque a `pá de ouro` na mão.
+2. Envie `/claim <tamanho>` para proteger o local onde você estiver.  
 
 Exemplo: `/claim 10` - Protegerá 10 blocos para cada lado onde você estiver.
 
 ## Expandir Proteção
 
-1. Digite `/claimexpand <tamanho>` virado para a direção que deseja expandir.  
+1. Envie `/claimexpand <tamanho>` virado para a direção que deseja expandir.  
 
 Exemplo 1: `/claimexpand 10` - Expande em 10 blocos para a direção que você estiver olhando.  
 Exemplo 2: `/claimexpand -5` - Diminui em 5 blocos a proteção na direção que você estiver olhando.
 
 ## Excluir Proteção
 
-1. Digite `/abandonclaim` dentro da proteção que você deseja excluir.
+1. Envie `/abandonclaim` dentro da proteção que você deseja excluir.
 
 ## Listar Proteção
 
-1. Digite `/claimlist` para listar todas as suas proteções.
+1. Envie `/claimlist` para listar todas as suas proteções.
