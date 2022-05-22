@@ -38,7 +38,7 @@ const sidebars = {
         keywords: ['protecao'],
         image: '/img/logo.png',
       },
-      items: ['basica', 'permissao', 'gerenciar', 'avancada', 'venda', 'perda'],
+      items: ['protecao/basica', 'protecao/permissao', 'protecao/gerenciar', 'protecao/avancada', 'protecao/venda', 'protecao/perda'],
     },
   ],
 };
