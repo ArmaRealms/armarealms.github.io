@@ -1,6 +1,6 @@
 ---
 title: Gerenciar Proteção
-description: Como expulsar, banir, desbanir e listar jogadores banidos da sua proteção.
+description: Como expulsar ou banir jogadores da proteção.
 sidebar_position: 3
 ---
 
@@ -10,16 +10,18 @@ sidebar_position: 3
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/claimban [jogador]` | Banir outro jogador da proteção |
-| `/claimbanlist` | Listar jogadores banidos da sua proteção |
 | `/claimkick [jogador]` | Expulsar jogador da proteção |
+| `/claimban [jogador]` | Banir outro jogador da proteção |
 | `/claimunban [jogador]` | Desbanir outro jogador da proteção |
-| `/claimexplosions` | Alterna a proteção contra explosões nos terrenos protegidos | 
+| `/claimbanlist` | Listar jogadores banidos da sua proteção |
+| `/claimexplosions` | Alterna a proteção contra explosões da proteção | 
 | `/givepet [jogador]` | Doe seu animal de estimação para outro jogador |
 
 ## Expulsar Jogador
 
 1. Envie `/claimkick [jogador]` dentro da sua proteção para expulsar o jogador especificado.
+
+Exemplo: `/claimkick ThiagoROX`
 
 ## Banir jogador
 
@@ -39,4 +41,4 @@ Exemplo: `/claimunban ThiagoROX`
 
 ## Gerenciar Explosões
 
-1. Envie `/claimexplosions` dentro da sua proteção para ativar ou desativar a proteção contra explosões da sua proteção.
+1. Envie `/claimexplosions` dentro da proteção para alternar a proteção contra explosões.

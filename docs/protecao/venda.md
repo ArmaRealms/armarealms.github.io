@@ -1,6 +1,6 @@
 ---
 title: Venda da Proteção
-description: Como vender ou alugar uma proteção ou sub-proteção.
+description: Como comprar, vender ou alugar uma proteção.
 sidebar_position: 5
 ---
 

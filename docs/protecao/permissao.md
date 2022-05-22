@@ -1,6 +1,6 @@
 ---
 title: Permissões da Proteção
-description: Como dar permissão para outros jogadores na sua proteção.
+description: Como adicionar um amigo na proteção.
 sidebar_position: 2
 ---
 

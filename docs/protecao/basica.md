@@ -1,6 +1,6 @@
 ---
 title: Proteção Básica
-description: Como criar, expandir, abandonar e listar uma proteção.
+description: Como criar, expandir, excluir e listar uma proteção.
 sidebar_position: 1
 ---
 

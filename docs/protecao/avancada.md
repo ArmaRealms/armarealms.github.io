@@ -1,6 +1,6 @@
 ---
 title: Proteção Avançada
-description: Como criar, expandir, abandonar sub-proteções.
+description: Como criar, expandir ou excluir sub-proteções.
 sidebar_position: 4
 ---
 

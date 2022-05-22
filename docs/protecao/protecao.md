@@ -1,6 +1,6 @@
 import DocCardList from '@theme/DocCardList';
 import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 
-In this section, we will introduce the following concepts:
+# Proteção de Construções
 
 <DocCardList items={useCurrentSidebarCategory().items}/>
