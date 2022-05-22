@@ -17,6 +17,20 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 | Master   | 100 lojas           |
 | Ultimate | 200 lojas           |
 
+## Comandos
+
+| Comando | Descrição |
+| ------- | --------- |
+| `/ploja help` | Listar comandos da loja de jogador |
+| `/ploja amount` | Definir a quantidade de itens da loja |
+| `/ploja buy` | Alterar a loja para o modo de compra |
+| `/ploja sell` | Alterar a loja para o modo de venda |
+| `/ploja price` | Alterar o preço de compra ou venda da loja |
+| `/ploja remove` | Remover a loja que você estiver olhando |
+| `/ploja size` | Alterar a quantidade do pack da loja |
+| `/ploja item` | Alterar o item da loja |
+| `/ploja list` | Listar todas as suas lojas no server |
+
 ## Criar uma Loja
 
 > [Lojas são protegidas pelo sistema de proteção de terrenos!](../protecao/basica.md)

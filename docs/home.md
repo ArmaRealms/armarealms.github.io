@@ -77,7 +77,7 @@ Exemplo: **`/sethome base`** para definir e **`/home base`** para voltar ao loca
 
 Se comunique com outros jogadores:
 
-* Use **`/g mensagem`** para falar no chat global.
+* Use **`/g <mensagem>`** para falar no chat global.
 * Use **`/m <jogador> <mensagem>`** e envie mensagens privadas para outro jogador.
 * Use **`/mail send <nick> <mensagem>`** para enviar um e-mail para jogadores offline.
 

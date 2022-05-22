@@ -217,12 +217,37 @@ sidebar_position: 4
 | ------- | --------- |
 | `/loja` <p>`/shop`</p> | Abrir o menu de lojas do servidor |
 | `/sloja` <p>`/sshop`</p> | Abrir o menu da loja do servidor |
+| `/sloja (categoria)`  | Abrir a categoria da loja do servidor especificada |
 | `/sellgui` | Abrir o menu onde você pode colocar itens que deseja vender <p>Ao fechar o menu os itens serão vendidos</p> |
 | `/sellall` | Vender todos os itens do inventário de qualquer categoria |
+| `/sellall (categoria)` | Vender todos os itens do inventário que sejam da categoria blocos |
 | `/sellhand ` | Vender o item que estiver segurando |
 | `/sellhand (quantia)` | Vender a quantidade especificada do item que estiver segurando |
 | `/sellhandall` | Vender todos os itens do inventário que seja igual ao que estiver segurando |
-| `/sellall (categoria)` | Vender todos os itens do inventário que sejam da categoria blocos |
+
+### Loja do Jogador
+| Comando | Descrição |
+| ------- | --------- |
+| `/ploja help` | Listar comandos da loja de jogador |
+| `/ploja amount` | Definir a quantidade de itens da loja |
+| `/ploja buy` | Alterar a loja para o modo de compra |
+| `/ploja sell` | Alterar a loja para o modo de venda |
+| `/ploja price` | Alterar o preço de compra ou venda da loja |
+| `/ploja remove` | Remvover a loja que você estiver olhando |
+| `/ploja size` | Alterar a quantidade do pack da loja |
+| `/ploja item` | Alterar o item da loja |
+| `/ploja list` | Listar todas as suas lojas no server |
+
+### Leilão Virtual
+| Comando | Descrição |
+| ------- | --------- |
+| `/ah` <p>`/leilao`</p> | Abrir o menu principal de leilão |
+| `/ah ajuda` | Listar todos os comandos do leilão |
+| `/ah vender [preço]` | Vender um item no leilão |
+| `/ah leiloar [preço]` | Leiloar um item no leilão |
+| `/ah cancel [id-do-item]` | Cancelar a venda de um item no leilão |
+| `/ah coletar` | Coletar itens cancelados ou expirados do leilão |
+| `/ah abrir [categoria]` | Abrir o menu da categoria especificada |
 
 ### Loteria
 | Comando | Descrição |
