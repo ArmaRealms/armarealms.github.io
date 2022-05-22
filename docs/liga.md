@@ -13,9 +13,10 @@ Toda pontuação ganhada ou perdida pelos jogadores é somada e no final de cada
 Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês. No final da temporada a pontuação é resetada.
 
 ## Comandos
+
 | Comando | Descrição |
 | ------- | --------- |
-| `/topliga` <p>`/liga top`</p> | Listar os TOP 10 clãs com maior pontuação. |
+| `/topliga` ou `/liga top` | Listar os TOP 10 clãs com maior pontuação. |
 | `/liga status [tag-do-clã]` | Listar informações sobre o clã selecionado. |
 
 ## Pontuação Positiva

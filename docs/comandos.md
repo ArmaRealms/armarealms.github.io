@@ -20,7 +20,7 @@ sidebar_position: 4
 | `/site` | Listar todos os sites do servidor |
 | `/topvotos` | Listar os jogadores que mais votaram no server |
 | `/vip` | Site da loja onde vende VIP, chave e outros produtos |
-| `/vote` <p>`/votar`</p> | Listar o site para votar no server |
+| `/vote` ou `/votar` | Listar o site para votar no server |
 | `/votos` | Listar a quantidades de votos que você possui |
 | `/wiki` | Listar a Wiki do servidor |
 
@@ -29,11 +29,12 @@ sidebar_position: 4
 | ------- | --------- |
 | `/auto` | Ativar ou desativar o recolhimento de itens direto para o inventário |
 | `/auto aviso` | Ativar ou desativar o aviso de inventário cheio |
-| `/sentar` <p>`/chairs`</p> | Ativar ou desativar o sistema de caideiras |
-| `/gps` | Lista jogadores próximos (até 200 blocos de distância) |
+| `/sentar` ou `/chairs` | Ativar ou desativar o sistema de caideiras |
+| `/gps` | Listar quem estiver a 200 blocos de distância |
 | `/lixo` | Abrir a lixeira para descartar itens |
 | `/original` | Ative o login automático se você tiver minecraft original |
 | `/sort` | Ativar ou desativar o arganizador de baús automático | 
+| `/tags` | Abrir o menu de seleção de tags |
 
 ### Kits
 | Comando | Descrição |
@@ -47,20 +48,20 @@ sidebar_position: 4
 ### Skins
 | Comando | Descrição |
 | ------- | --------- |
-| `/skin set [nick]` | Altere sua skin usando uma conta original |
-| `/skin set [https://site.com/final.png]` | Altere sua skin usando uma imagem |
-| `/skin clear` | Remove sua skin |
-| `/skin update` | Atualiza sua skin | 
+| `/skin set [nick]` | Alterar sua skin usando uma conta original |
+| `/skin set [https://site.com/final.png]` | Alterar sua skin usando uma imagem |
+| `/skin clear` | Remover sua skin |
+| `/skin update` | Atualizar sua skin | 
 
 ### Casamento
 | Comando | Descrição |
 | ------- | --------- |
 | `/marry` | Listar todos os comandos do marry |
 | `/marry listar` | Listar todos os jogadores casados |
-| `/marry [jogador]` <p>`/marry casar [jogador]`</p> | Enviar pedido de casamento |
-| `/marry divorciar` | Divorciar do seu atual parceiro(a) |
-| `/mc [mensagem]` <p>`/marry chat [mensagem]`</p> | Enviarm mensagem para o parceiro |
-| `/mca` <p>`/marry chat alternar`</p> | Entrar ou sair do chat do casal |
+| `/marry casar [jogador]` | Enviar pedido de casamento |
+| `/marry divorciar` | Divorciar do seu parceiro(a) |
+| `/mc [mensagem]` | Enviarm mensagem para o parceiro |
+| `/mca` | Entrar ou sair do chat do casal |
 | `/marry tp` | Teleportar para o seu parceiro(a) |
 | `/marry home` | Teleportar para a home do casal |
 | `/marry sethome` | Definir home do casal |
@@ -87,25 +88,23 @@ sidebar_position: 4
 | Comando | Descrição |
 | ------- | --------- |
 | `/g [mensagem]` | Enviar mensagem no chat global |
-| `/g` <p>`/global`</p> | Entrar no chat global |
+| `/g` ou `/global` | Entrar no chat global |
 | `/leave global` | Sair do chat global |
 
 ### Mensagem Local
 | Comando | Descrição |
 | ------- | --------- |
 | `/l [mensagem]` | Envie mensagem no chat local <p>Aparecerá para quem estiver a 200 blocos de distância</p> |
-| `/l` <p>`/local`</p> | Entrar no chat local |
+| `/l` ou `/local` | Entrar no chat local |
 
 ## Proteção
 
 ### Criar Proteções
 | Comando | Descrição |
 | ------- | --------- |
-| `/prot` <p>`/plot`</p> | Comandos para abrir o menu de proteção | 
+| `/prot` ou `/plot` | Comandos para abrir o menu de proteção | 
 | `/claim (tamanho)` | Criar uma proteção no local que você estiver |
-| `/claim 10` | Protege 10 blocos para cada lado, tamanho de 21x21 | 
 | `/extendclaim [tamanho]` | Aumentar o tamanho da proteção |
-| `/extendclaim 10` | Expande a proteção 10 blocos na sua direção | 
 | `/claimlist` | Liste as informações das proteções | 
 
 ### Permissões da Proteção
@@ -114,7 +113,9 @@ sidebar_position: 4
 | `/trust [jogador]` | Permitir acesso a construir na sua proteção |
 | `/accesstrust [jogador]` | Permitir acesso a cama, portas e etc.. na sua proteção |
 | `/containertrust [jogador]` | Permitir acesso a baús na sua proteção |
-| `/permissiontrust [jogador]` | Permitir gerenciamento de permissões na sua proteção |
+| `/permissiontrust [jogador]` | Permitir gerenciamento de permissões na sua proteção |]
+| `/trustnear [jogador]` | Permitir que jogador proteja perto de você |
+| `/untrustnear [jogador]` | Remover permissão TrustNear do jogador |
 | `/untrust [jogador]` | Remover a permissão do jogador na sua proteção | 
 | `/trustlist` | Listar as permissões da proteção que você está |
 
@@ -128,9 +129,9 @@ sidebar_position: 4
 ### Banimento da Proteção
 | Comando | Descrição |
 | ------- | --------- |
+| `/claimkick [jogador]` | Expulsar jogador da proteção |
 | `/claimban [jogador]` | Banir outro jogador da proteção |
 | `/claimunban [jogador]` | Desbanir outro jogador da proteção |
-| `/claimbanall` | Banir todos os jogadoresjogador da proteção |
 | `/claimbanlist` | Listar jogadores banidos da sua proteção |
 
 ### Criar Sub-Proteção
@@ -183,20 +184,23 @@ sidebar_position: 4
 ### Warps de Jogadores
 | Comando | Descrição |
 | ------- | --------- |
-| `/go` <p>`/pwarp`</p> | Abrir o menu principal de Warps de jogadores |
+| `/go` ou `/pwarp` | Abrir o menu principal de Warps de jogadores |
 | `/go [warp]` | Teleportar para a warp de um jogador |
 | `/go abrir [categoria]` | Abrir as warps da categoria |
 | `/go ajuda` | Listar comandos do sistema de warp |
-| `/go avaliar [warp] [valor]` | Avaliar uma warp |
+| `/go avaliar [warp] [valor]` | Avaliar uma warp de 1 a 5 |
+| `/go ban definir [warp] [jogador]` | Banir jogador da warp |
+| `/go ban definir [warp] [jogador]` | Desbanir jogador da warp |
+| `/go ban listar [warp]` | Listar jogadores banidos da warp |
 | `/go categoria [warp] [categoria]` | Definir a categoria da warp | 
 | `/go definir [warp]` | Definir uma warp Na localização atual |
-| `/go descricao definir [warp] [desc]` | Definir descrição de uma warp |
+| `/go descricao definir [warp] [descrição]` | Definir descrição de uma warp |
 | `/go descricao remover [warp]` | Remvoer descrição de uma warp |
 | `/go listar` | Listar todas warps disponíveis |
 | `/go quantia` | Visualizar quantas warps você possui |
 | `/go redefinir [warp]` | Redefinir a localização de uma warp |
 | `/go remover [warp]` | Remover uma warp | 
-| `/go renomear [warp] [nome]` | Renomear uma warp | 
+| `/go renomear [warp] [novo-nome]` | Renomear uma warp | 
 | `/go senha definir [warp] [senha]` | Definir senha de uma warp |
 | `/go senha remover [warp]` | Remover senha de uma warp |
 | `/go travar [warp]` | Travar ou Destravar uma warp |
@@ -215,8 +219,8 @@ sidebar_position: 4
 ### Loja do Servidor
 | Comando | Descrição |
 | ------- | --------- |
-| `/loja` <p>`/shop`</p> | Abrir o menu de lojas do servidor |
-| `/sloja` <p>`/sshop`</p> | Abrir o menu da loja do servidor |
+| `/loja` ou `/shop` | Abrir o menu de lojas do servidor |
+| `/sloja` ou `/sshop` | Abrir o menu da loja do servidor |
 | `/sloja (categoria)`  | Abrir a categoria da loja do servidor especificada |
 | `/sellgui` | Abrir o menu onde você pode colocar itens que deseja vender <p>Ao fechar o menu os itens serão vendidos</p> |
 | `/sellall` | Vender todos os itens do inventário de qualquer categoria |
@@ -241,7 +245,7 @@ sidebar_position: 4
 ### Leilão Virtual
 | Comando | Descrição |
 | ------- | --------- |
-| `/ah` <p>`/leilao`</p> | Abrir o menu principal de leilão |
+| `/ah` ou `/leilao` | Abrir o menu principal de leilão |
 | `/ah ajuda` | Listar todos os comandos do leilão |
 | `/ah vender [preço]` | Vender um item no leilão |
 | `/ah leiloar [preço]` | Leiloar um item no leilão |
@@ -252,7 +256,7 @@ sidebar_position: 4
 ### Loteria
 | Comando | Descrição |
 | ------- | --------- |
-| `/lot` <p>`/loteria`</p> | Abra o menu da loteria para realizar apostas |
+| `/lot` ou `/loteria` | Abra o menu da loteria para realizar apostas |
 | `/lot buy [quantia]` | Comprar bilhetes da loteria |
 | `/lot status` | Visualizar status do sorteio atual |
 | `/lot togglebuymsg` | Alterar notificações de compras na loteria |
@@ -282,7 +286,7 @@ sidebar_position: 4
 ### Informação
 | Comando | Descrição |
 | ------- | --------- |
-| `/topmcmmo` <p>`/mctop`</p> | Lista os top jogadores gerais das habilidades do mcMMO |
+| `/topmcmmo` ou `/mctop` | Lista os top jogadores gerais das habilidades do mcMMO |
 | `/inspect [jogador]` | Inspecione o nível de habilidade de outro jogador |
 | `/mcrank` | Lista seu ranking em cada habilidade |
 | `/mcstats` | Lista estatísticas de todas as habilidades | 

@@ -12,12 +12,12 @@ sidebar_position: 13
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/marry` <p>`/marry ajuda`</p> | Listar todos os comandos do marry |
+| `/marry` | Listar todos os comandos do marry |
 | `/marry listar` | Listar todos os jogadores casados |
-| `/marry [jogador]` <p>`/marry casar [jogador]`</p> | Enviar pedido de casamento a outro jogador. <p>Custa 100.000 coins para cada jogador</p> |
-| `/marry divorciar` | Divorciar do seu atual parceiro(a) |
-| `/mc [mensagem]` <p>`/marry chat [mensagem]`</p> | Enviar mensagem para o parceiro(a) |
-| `/mca` <p>`/marry chat alternar`</p> | Entrar ou sair do chat do casal |
+| `/marry [jogador]` | Enviar pedido de casamento a outro jogador. <p>Custa 100.000 coins para cada jogador</p> |
+| `/marry divorciar` | Divorciar do seu parceiro(a) |
+| `/mc [mensagem]` | Enviar mensagem para o parceiro(a) |
+| `/mca` | Entrar ou sair do chat do casal |
 | `/marry tp` | Teleportar para o seu parceiro(a) <p>Custa 10 coins</p> |
 | `/marry home` | Teleportar para a home do casal <p>Custa 10 coins</p> |
 | `/marry sethome` | Definir home do casal <p>Custa 1.000 coins</p> |
