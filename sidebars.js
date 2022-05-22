@@ -26,6 +26,21 @@ const sidebars = {
     },
   ],
    */
+  docs: [
+    {
+      type: 'category',
+      label: 'Proteção',
+      link: {
+        type: 'generated-index',
+        title: 'Proteção de Cosntruções',
+        description: 'Tudo sobre o sistema de proteção do servidor.',
+        slug: '/protecao',
+        keywords: ['protecao'],
+        image: '/img/logo.png',
+      },
+      items: ['basica', 'permissao', 'gerenciar', 'avancada', 'venda', 'perda'],
+    },
+  ],
 };
 
 module.exports = sidebars;
