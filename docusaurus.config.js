@@ -51,11 +51,6 @@ const config = {
         },
         items: [
           {
-            type: 'html',
-            position: 'left',
-            value: '<a href=https://discord.gg/yEUhqn8"><p>Discord</p></a>',
-          },
-          {
             href: 'https://discord.gg/yEUhqn8',
             label: 'Discord',
             position: 'left',
