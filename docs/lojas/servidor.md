@@ -10,7 +10,7 @@ sidebar_position: 1
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/sloja` <p>`/sshop`</p> | Abrir o menu da loja do servidor |
+| `/sloja` ou `/sshop` | Abrir o menu da loja do servidor |
 | `/sloja (categoria)`  | Abrir a categoria da loja do servidor especificada |
 | `/sellgui` | Abrir o menu onde você pode colocar itens que deseja vender <p>Ao fechar o menu os itens serão vendidos</p> |
 | `/sellall` | Vender todos os itens do inventário de qualquer categoria |

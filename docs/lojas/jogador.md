@@ -21,7 +21,7 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/ploja help` | Listar comandos da loja de jogador |
+| `/ploja` | Listar comandos da loja de jogador |
 | `/ploja amount` | Definir a quantidade de itens da loja |
 | `/ploja buy` | Alterar a loja para o modo de compra |
 | `/ploja sell` | Alterar a loja para o modo de venda |

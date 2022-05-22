@@ -30,7 +30,7 @@ Leilão serve para venda de itens de forma virtual, onde o jogador pode comprar 
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/ah` <p>`/leilao`</p> | Abrir o menu principal de leilão |
+| `/ah` ou `/leilao` | Abrir o menu principal de leilão |
 | `/ah ajuda` | Listar todos os comandos do leilão |
 | `/ah vender [preço]` | Vender um item no leilão |
 | `/ah leiloar [preço]` | Leiloar um item no leilão |

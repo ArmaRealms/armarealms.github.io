@@ -12,7 +12,7 @@ Cadeira Customizada serve para que jogadores possa sentar enquanto conversa com 
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/sentar` <p>`/chairs`</p> | Ativar ou desativar o sistema de cadeiras |
+| `/sentar` ou `/chairs` | Ativar ou desativar o sistema de cadeiras |
 | `/sentar on` | Ativar o sistema de caideras |
 | `/sentar off` | Desativar o sistema de cadeiras |
 
