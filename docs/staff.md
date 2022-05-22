@@ -17,10 +17,10 @@ sidebar_position: 5
 
 ### Lista de Admin
 
-<div class="avatar">
+<div class="avatar" style={{margin: 10}}>
   <img
     class="avatar__photo avatar__photo--xl"
-    src="http://cravatar.eu/head/ThiagoROX/128.png" />
+    src="http://cravatar.eu/avatar/ThiagoROX/128.png" />
   <div class="avatar__intro">
     <div class="avatar__name">ThiagoROX</div>
     <small class="avatar__subtitle">
@@ -37,10 +37,11 @@ sidebar_position: 5
 * Reportar bugs ou erros ao admin;
 
 ### Lista de Moderadores
-<div class="avatar">
+
+<div class="avatar" style={{margin: 10}}>
   <img
     class="avatar__photo avatar__photo--xl"
-    src="http://cravatar.eu/head/Ddougras/128.png" />
+    src="http://cravatar.eu/avatar/Ddougras/128.png" />
   <div class="avatar__intro">
     <div class="avatar__name">Ddougras</div>
     <small class="avatar__subtitle">
@@ -48,10 +49,10 @@ sidebar_position: 5
     </small>
   </div>
 </div>
-<div class="avatar">
+<div class="avatar" style={{margin: 10}}>
   <img
     class="avatar__photo avatar__photo--xl"
-    src="http://cravatar.eu/head/FreiraDaNight/128.png" />
+    src="http://cravatar.eu/avatar/FreiraDaNight/128.png" />
   <div class="avatar__intro">
     <div class="avatar__name">FreiraDaNight</div>
     <small class="avatar__subtitle">
@@ -59,7 +60,7 @@ sidebar_position: 5
     </small>
   </div>
 </div>
-<div class="avatar">
+<div class="avatar" style={{margin: 10}}>
   <img
     class="avatar__photo avatar__photo--xl"
     src="http://cravatar.eu/head/ZzThiagoZz/128.png" />
@@ -70,6 +71,7 @@ sidebar_position: 5
     </small>
   </div>
 </div>
+
 ## Mod-GC
 
 ### Função do Mod-GC
@@ -97,15 +99,15 @@ sidebar_position: 5
 * Reportar bugs ou erros ao Admin;
 
 ### Lista de Ajudantes
-* BlackBirdx1
-<div class="avatar">
+
+<div class="avatar" style={{margin: 10}}>
   <img
     class="avatar__photo avatar__photo--xl"
-    src="http://cravatar.eu/head/BlackBirdx1/128.png" />
+    src="http://cravatar.eu/avatar/BlackBirdx1/128.png" />
   <div class="avatar__intro">
     <div class="avatar__name">BlackBirdx1</div>
     <small class="avatar__subtitle">
-      Nosso único ajudante.
+      Único ajudante do server.
     </small>
   </div>
 </div>
