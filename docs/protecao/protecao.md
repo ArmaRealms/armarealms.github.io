@@ -8,4 +8,6 @@ import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 
 # Proteção
 
+Tutorial do sistema de proteção.
+
 <DocCardList items={useCurrentSidebarCategory().items}/>

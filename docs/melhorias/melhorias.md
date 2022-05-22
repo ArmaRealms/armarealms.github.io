@@ -8,4 +8,6 @@ import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 
 # Melhorias
 
+Tutorial dos sistemas de melhorias do servidor.
+
 <DocCardList items={useCurrentSidebarCategory().items}/>
