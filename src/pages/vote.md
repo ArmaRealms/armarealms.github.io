@@ -1,7 +1,6 @@
 ---
 title: Vote
 description: Vote e receba chaves para abrir caixas na warp /caixa.
-sidebar_position: 3
 ---
 
 # Vote no Servidor
