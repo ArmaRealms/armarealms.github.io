@@ -41,7 +41,7 @@ Aceitamos apenas Minecraft Java Edition!
 
 ## 🏴‍☠️ Leia as Regras!
 
-- [Clique aqui para acessar a lista de regras!](regras.md)
+- [Clique aqui para acessar a lista de regras!](/src/pages/regras.md)
 
 ## 🧭 Escolha o Servidor!
 

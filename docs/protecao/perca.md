@@ -29,7 +29,7 @@ sidebar_position: 6
 * Será levado em consideração também o jogador que construiu no local primeiro.
 
 > Dentro de 7 dias após abertura de ticket com `/ticket` dentro do jogo.  
-> Motivo: [Regra 5 - Proibido Construir Próximo a outro Jogador!](../regras.md#5)
+> Motivo: [Regra 5 - Proibido Construir Próximo a outro Jogador!](/src/pages/regras.md#5)
 
 ## Proteções de Jogador Banido
 
