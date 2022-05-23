@@ -66,12 +66,12 @@ const config = {
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://wiki.armamc.com/vote" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Vote</button></a>',
+            value: '<a href="https://wiki.armamc.com/vote"><button class="button button--outline button--info">Vote</button></a>',
           },
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://wiki.armamc.com/regras" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Regras</button></a>',
+            value: '<a href="https://wiki.armamc.com/regras"><button class="button button--outline button--info">Regras</button></a>',
           },
           {
             type: 'html',
@@ -82,7 +82,7 @@ const config = {
       },
       docs: {
         sidebar: {
-          hideable: true,
+          hideable: false,
         },
       },
       prism: {
