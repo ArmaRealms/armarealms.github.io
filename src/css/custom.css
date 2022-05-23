@@ -38,11 +38,7 @@
 }
 
 .div-form{
-  text-align: center;
-}
-
-.iframe-form{
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
 }
