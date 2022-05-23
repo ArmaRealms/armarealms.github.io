@@ -41,7 +41,7 @@ Aceitamos apenas Minecraft Java Edition!
 
 ## 🏴‍☠️ Leia as Regras!
 
-- [Clique aqui para acessar a lista de regras!](/src/pages/regras.md)
+- [Clique aqui para acessar a lista de regras!](https://wiki.armamc.com/regras)
 
 ## 🧭 Escolha o Servidor!
 
