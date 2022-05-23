@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'ArmageddonMC', // Usually your GitHub org/user name.
+  organizationName: 'ArmaRealms', // Usually your GitHub org/user name.
   projectName: 'armageddonmc.github.io', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
