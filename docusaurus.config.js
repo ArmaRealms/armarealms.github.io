@@ -51,32 +51,32 @@ const config = {
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://discord.gg/yEUhqn8"><button class="button button--outline button--info">Discord</button></a>',
+            value: '<a href="https://discord.gg/yEUhqn8" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Discord</button></a>',
           },
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://forum.armamc.com/"><button class="button button--outline button--info">Fórum</button></a>',
+            value: '<a href="https://forum.armamc.com/" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Fórum</button></a>',
           },
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://rgb.armamc.com/"><button class="button button--outline button--info">Criador RGB</button></a>',
+            value: '<a href="https://rgb.armamc.com/" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Criador RGB</button></a>',
           },
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://wiki.armamc.com/vote"><button class="button button--outline button--info">Vote</button></a>',
+            value: '<a href="https://wiki.armamc.com/vote" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Vote</button></a>',
           },
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://wiki.armamc.com/regras"><button class="button button--outline button--info">Regras</button></a>',
+            value: '<a href="https://wiki.armamc.com/regras" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Regras</button></a>',
           },
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://wiki.armamc.com/formulario"><button class="button button--outline button--info">Seja Ajudante!</button></a>',
+            value: '<a href="https://wiki.armamc.com/formulario" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Seja Ajudante!</button></a>',
           },
         ],
       },
