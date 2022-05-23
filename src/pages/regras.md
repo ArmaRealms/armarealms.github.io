@@ -79,7 +79,7 @@ A Staff se reserva ao direito de julgar o que será tratado como xingamento, bul
 Não será considerado "griefing" caso o jogador possua permissão na proteção.  
 :::
 
-:::danger [Saiba o tempo offline para perca da proteção clicando aqui!](/protecao/perca.md)
+:::danger [Saiba o tempo offline para perca da proteção clicando aqui!](https://wiki.armamc.com/protecao/perca)
 
 :::
 
