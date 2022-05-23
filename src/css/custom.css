@@ -37,12 +37,9 @@
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-.center {
+.div-form {
   display: flex;
   justify-content: center;
-  }
-
-.formulario{
-  width: auto;
-  height: "auto";
-  }
+  text-align: center;
+  width: 100%;
+}
