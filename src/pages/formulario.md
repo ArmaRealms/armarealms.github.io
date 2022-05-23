@@ -5,9 +5,7 @@ description: Página de formulário para ajudante.
 
 <head>
 <script>
-  function resizeIframe(obj) {
-    obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-  }
+  function resizeIframe(obj) {obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';}
 </script>
 </head>
 
