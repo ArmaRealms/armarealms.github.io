@@ -4,13 +4,6 @@ description: Tudo sobre o sistema de warp de jogadores.
 sidebar_position: 11
 ---
 
-import TOCInline from '@theme/TOCInline';
-
-<TOCInline
-  // Only show h2 and h4 headings
-  toc={toc.filter((node) => node.level === 2)}
-/>
-
 # Warp de Jogadores
 
 ## Comandos
@@ -51,29 +44,26 @@ import TOCInline from '@theme/TOCInline';
 Slot VIP são locais especiais para que sua warp tenha maior visibilidade.  
 Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.  
 
-### Comprar Slot VIP
-
 > ⚠️ Custo: $10.000 coins  
-> ⚠️ Duração: 7 dias
+> ⏲️ Duração: 7 dias
 
 1. Acesse o menu com `/go` ou `/pwarp`.
 2. Clique na `Estrela do Nether`.
 3. Envie no chat o nome da sua Go.
 
-![imagem1](https://i.imgur.com/GdzqfKg.png)
-![imagem2](https://i.imgur.com/h2ZT97X.png)
+![imagem](https://i.imgur.com/h2ZT97X.png)
 
 ## Categorias da Go
 
-### Definir uma Categoria
-
 > ⚠️ Toda loja ao ser criada é adicionada a categoria `Outras`.
+
+### Definir uma Categoria
 
 1. Envie `/go categoria [warp] [categoria]` para definir uma categoria da warp.
 
 🎯 Exemplo: `/go categoria Livrum loja` - Definir a warp na categoria `Loja`
 
-#### Categorias Disponíveis:**
+#### Lista de Categorias:
 - Cidade (Warp de cidade ou vila)
 - Farm (Warp que tenha locais para obter XP)
 - Loja (Warp que tenha [lojas físicas](./lojas/jogador.md))
@@ -85,12 +75,15 @@ Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.
 
 🎯 Exemplo: `/go abrir mywarps` - Abrir menu com todas as suas warps definidas.
 
-#### Categorias Disponíveis:**
-- all (Warps de todas as [categorias](warp.md#categorias-disponíveis))
+#### Lista de Categorias:
+- all (Todas as Warps disponíveis)
 - favourite (Suas warps favoritas)
 - mywarps (Suas warps definidas)
 - visitedwarps (Warps que você visitou)
-- [Todas as categorias listadas aqui!](warp.md#categorias-disponíveis)
+- cidade (Warp de cidade ou vila)
+- farm (Warp que tenha locais para obter XP)
+- loja (Warp que tenha lojas físicas)
+- outras (Warp sem categoria definida)
 
 ## Descrição da Go
 
