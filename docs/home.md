@@ -5,15 +5,6 @@ slug: /
 sidebar_position: 1
 ---
 
-# Introdução
-
-Aqui você aprenderá sobre todas as mecânicas do Armageddon.  
-Das mecânicas de sistemas mais simples até as mais complexas.  
-Lista com todos os comandos que ajudam na gameplay!
-
-Passo-a-passo com informações valiosas para tornar sua experiência no Armageddon ainda melhor.  
-Abaixo temos o passo-a-passo de como iniciar sua jornada no Armageddon.
-
 ## 🚀 Acesse o servidor!
 
 Aceitamos apenas Minecraft Java Edition!
@@ -21,6 +12,9 @@ Aceitamos apenas Minecraft Java Edition!
 - [Minecraft Alternativo Salwyrr (Grátis)](https://www.salwyrr.com/)
 - [Minecraft Alternativo Tlauncher (Grátis)](https://tlauncher.org/installer)
 
+<details>
+  <summary>Passo-a-passo de como entrar no serivodor</summary>
+    <div>
 1. Clique na opção `Multijogador`
 
 ![imagem1](https://i.imgur.com/GrM6K7u.png)
@@ -38,7 +32,8 @@ Aceitamos apenas Minecraft Java Edition!
 ![imagem4](https://i.imgur.com/OjbuN7Q.png)
 
 5. Use **`/register Sua-Senha Sua-Senha`** para se registrar
-
+  </div>
+</details>
 ## 🏴‍☠️ Leia as Regras!
 
 - [Clique aqui para acessar a lista de regras!](https://wiki.armamc.com/regras)
