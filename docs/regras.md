@@ -19,14 +19,16 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 > **Desrespeitos entre membros** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para outros jogadores (mesmo que sendo seu "amigo").
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Silenciamento temporário de 2 horas;
 2. Silenciamento temporário de 2 dias;
 3. Silenciamento temporário de 5 dias;
 4. Silenciamento temporário de 7 dias;
 5. Banimento temporário de 15 dias;
 6. Banimento permanente.
+
 </div>
 </details>
 
@@ -35,20 +37,24 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 > **Desrespeitos com a Staff** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para a Staff.
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Silenciamento temporário de 7 dias;
 2. Banimento temporário de 30 dias;
 3. Banimento permanente.
+
 </div>
 </details>
 
 ### Regra 1.3 - Racismo, Homofobia, Apologia a Crimes! {#1-3}
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Banimento permanente. **(Sem direito a compra de UNBAN)**
+
 </div>
 </details>
 
@@ -67,9 +73,11 @@ A Staff se reserva ao direito de julgar o que será tratado como xingamento, bul
 > Programas ou mods para voar, correr mirar ou atacar mais rápido do que o normal, texturas para encontrar minérios e outros blocos e etc..
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Banimento permanente.
+
 </div>
 </details>
 
@@ -78,10 +86,12 @@ A Staff se reserva ao direito de julgar o que será tratado como xingamento, bul
 > Programas ou qualquer meio para aumentar habilidades de forma automática, geralmente utilizando sistema ant-afk e macro/auto-clicker.
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Resete da habilidade + Banimento temporário de 7 dias;
 2. Resete da habilidade + Banimento permanente.
+
 </div>
 </details>
 
@@ -90,10 +100,12 @@ A Staff se reserva ao direito de julgar o que será tratado como xingamento, bul
 > Programas ou qualquer meio para ganhar dinheiro ou itens de forma automática, geralmente utilizando sistema ant-afk e macro/auto-clicker.
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Resete do saldo + Banimento temporário de 7 dias;
 2. Resete do saldo + Banimento permanente.
+
 </div>
 </details>
 
@@ -114,10 +126,12 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 > Ao encontrar terrenos sem proteção é permitido pegar itens de baús, fornalhas, shulkerbox's e etc, é permitido quebrar blocos de alto valor como sinalizador, shulkerbox's, blocos de minérios, spawners e etc..
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Banimento temporário de 7 dias;
 2. Banimento permanente.
+
 </div>
 </details>
 
@@ -126,9 +140,11 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 > Não é permitido fazer mapas ou construções obscenas.
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Banimento permanente.
+
 </div>
 </details>
 
@@ -143,12 +159,14 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 > Exemplo: Primeiro jogador que enviar X no chat ganha Y de prêmio.
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Silenciamento temporário de 30 minutos;
 2. Silenciamento temporário de 2 horas;
 3. Silenciamento temporário de 2 dias;
 4. Banimento temporário de 7 dias;
+
 </div>
 </details>
 
@@ -158,21 +176,25 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 > Exemplo: Envio de coins de baixo valor, pedidos de teleporte e diversos outros comandos.
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Silenciamento temporário de 30 minutos;
 2. Silenciamento temporário de 2 horas;
 3. Silenciamento temporário de 2 dias;
 4. Banimento temporário de 7 dias;
+
 </div>
 </details>
 
 ### Regra 4.3 - Divulgar outros servidores! {#4-3}
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Banimento Permanente
+
 </div>
 </details>
 
@@ -189,11 +211,13 @@ Será levado em consideração na hora da avaliação do ticket a construção e
 :::
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Aviso permanente + Proteção e construção apagada;
 2. Banimento temporário de 7 dias + Proteção e construções apagadas;
 3. Banimento permanente + Proteção e construções apagadas;
+
 </div>
 </details>
 
@@ -203,8 +227,9 @@ Será levado em consideração na hora da avaliação do ticket a construção e
 > Use o bom senso e tenha a menor quantidade de animais possível!
 
 <details>
-<summary>Lista de Limites</summary>
+<summary>⚰️ **Lista de Limites**</summary>
 <div>
+
 **Limite de Aldeões**
 * Qualquer profissão e nível de troca = 10 a cada 30 blocos de distância
 * A distância de 30 blocos é ignorada na camada Y, ou seja, não é possível colocar 10 aldeões na camada 0 e 10 aldeões na camada 30.
@@ -227,18 +252,21 @@ Será levado em consideração na hora da avaliação do ticket a construção e
 
 **Lista de Monstros**
 * Monstros como Zumbi, Esqueleto e etc = 10 a cada 10 blocos de distância
+
+
 </div>
 </details>
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
 
-Exclusão de entidades a cada dois minutos de forma automática.
+1. Exclusão de entidades a cada dois minutos de forma automática.
 
 :::info Info!
 A remoção de animais, monstros e aldeões e geradores listados acima é realizada de forma automática e removerá também animais ou monstros renomeados e/ou domesticados. O sistema escolhe de forma aleatória qual entidade (animais, monstros e aldeões) em locais com excesso será removida.
 :::
+
 </div>
 </details>
 
@@ -248,13 +276,15 @@ A remoção de animais, monstros e aldeões e geradores listados acima é realiz
 > Não utilize circuitos que abusam de bugs do minecraft para duplicar itens e etc.
 
 <details>
-<summary>Lista de Limites</summary>
+<summary>⚰️ **Lista de Limites**</summary>
 <div>
+
 * Pistão e Pistão Grudento (20 por chunk);
 * Funil (20 por chunk);
 * Observador (20 por chunk);
 * Ejetor e Liberador (20 por chunk);
 * Repetidor e Comparador (20 por chunk).
+
 </div>
 </details>
 
@@ -263,11 +293,13 @@ Faça sistemas em locais separados para não carregar vários sistemas simultane
 :::
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Aviso permanente + Construção apagada;
 2. Banimento temporário de 15 dias + Construção apagada;
 3. Banimento permanente.
+
 </div>
 </details>
 
@@ -280,10 +312,12 @@ Faça sistemas em locais separados para não carregar vários sistemas simultane
 > Armadilha ou _trap_ é todo sistema que não dê chance de defesa ao oponente.
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Banimento temporário de 7 dias;
 2. Banimento permanente.
+
 </div>
 </details>
 
@@ -293,10 +327,12 @@ Faça sistemas em locais separados para não carregar vários sistemas simultane
 > Também é considerado chat falso qualquer mensagem que prejudique outro jogador onde ocorre perca de itens ou coins.
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Banimento temporário de 7 dias;
 2. Banimento permanente.
+
 </div>
 </details>
 
@@ -311,10 +347,12 @@ O servidor não se responsabiliza por compra ou venda de VIP, Chaves, TAG's e ou
 :::
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Silenciamento temporário de 2 dias;
 2. Banimento permanente de ambas as contas.
+
 </div>
 </details>
 
@@ -329,9 +367,11 @@ Exemplos: Utilizar conta secundária durante tempo de punição, escrever em pla
 > Utilizar conta secundária para burlar uma punição ou quebrar a regra de forma intencional não é permitido.
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Banimento permanente de ambas as contas.
+
 </div>
 </details>
 
@@ -340,10 +380,12 @@ Exemplos: Utilizar conta secundária durante tempo de punição, escrever em pla
 > Utilizar nickname inapropriado não é permitido.
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Expulsão com aviso sobre nickname inapropriado.
 2. Banimento permanente.
+
 </div>
 </details>
 
@@ -352,10 +394,12 @@ Exemplos: Utilizar conta secundária durante tempo de punição, escrever em pla
 > Utilizar skins com conteúdo pornográfico ou pertubador não é permitido.
 
 <details>
-<summary>Lista de Punições</summary>
+<summary>💀 **Lista de Punições**</summary>
 <div>
+
 1. Expulsão com aviso sobre skin inapropriada.
 2. Banimento permanente.
+
 </div>
 </details>
 
