@@ -3,6 +3,7 @@ title: Inicio
 description: Wiki dos Servidores Armageddon!
 slug: /
 sidebar_position: 1
+hide_title: true
 ---
 
 ## 🚀 Acesse o servidor!
@@ -13,7 +14,7 @@ Aceitamos apenas Minecraft Java Edition!
 - [Minecraft Alternativo Tlauncher (Grátis)](https://tlauncher.org/installer)
 
 <details>
-<summary>Passo-a-passo de como entrar no servidor ⤵️</summary>
+<summary>Passo a passo de como entrar no servidor</summary>
 <div>
 
 1. Clique na opção `Multijogador`
