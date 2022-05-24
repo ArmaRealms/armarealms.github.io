@@ -4,6 +4,13 @@ description: Tudo sobre o sistema de warp de jogadores.
 sidebar_position: 11
 ---
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline
+  // Only show h2 and h4 headings
+  toc={toc.filter((node) => node.level === 2)}
+/>
+
 # Warp de Jogadores
 
 ## Comandos
@@ -44,7 +51,7 @@ sidebar_position: 11
 Slot VIP são locais especiais para que sua warp tenha maior visibilidade.  
 Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.  
 
-#### Comprar Slot VIP
+### Comprar Slot VIP
 
 > ⚠️ Custo: $10.000 coins  
 > ⚠️ Duração: 7 dias
@@ -58,7 +65,7 @@ Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.
 
 ## Categorias da Go
 
-#### Definir uma Categoria
+### Definir uma Categoria
 
 > ⚠️ Toda loja ao ser criada é adicionada a categoria `Outras`.
 
@@ -66,27 +73,28 @@ Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.
 
 🎯 Exemplo: `/go categoria Livrum loja` - Definir a warp na categoria `Loja`
 
-**Categorias Disponíveis:**
+#### Categorias Disponíveis:**
 - Cidade (Warp de cidade ou vila)
 - Farm (Warp que tenha locais para obter XP)
 - Loja (Warp que tenha [lojas físicas](./lojas/jogador.md))
 - Outras (Warp sem categoria definida)
 
-#### Abrir Categoria Especifica
+### Abrir Categoria Especifica
 
 1. Envie `/go abrir [categoria]` para abrir menu da categoria especifica.
 
 🎯 Exemplo: `/go abrir mywarps` - Abrir menu com todas as suas warps definidas.
 
-**Categorias Disponíveis:**
-- all (Warps de todas as categorias)
+#### Categorias Disponíveis:**
+- all (Warps de todas as [categorias](warp.md#categorias-disponíveis))
 - favourite (Suas warps favoritas)
 - mywarps (Suas warps definidas)
 - visitedwarps (Warps que você visitou)
+- [Todas as categorias listadas aqui!](warp.md#categorias-disponíveis)
 
 ## Descrição da Go
 
-#### Definir uma Descrição
+### Definir uma Descrição
 
 > ⚠️ A descrição pode conter no máximo 30 caracteres.
 
@@ -94,7 +102,7 @@ Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.
 
 🎯 Exemplo: `/go descricao definir Livrum Loja TOP!` - Definir a descrição `Loja TOP!` para a warp.
 
-#### Remover uma Descrição
+### Remover uma Descrição
 
 1. Envie `/go descricao remover [warp]` para remover a descrição da warp.
 
@@ -118,19 +126,19 @@ Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.
 
 ## Banimento da Go
 
-#### Banir um Jogador
+### Banir um Jogador
 
 1. Envie `/go ban definir [warp] [jogador]` para banir jogador da warp.
 
 🎯 Exemplo: `/go ban definir Livrum ThiagoROX` - Banir o jogador ThiagoROX da warp.
 
-#### Desbanir um Jogador
+### Desbanir um Jogador
 
 1. Envie `/go ban remover [warp] [jogador]` para desbanir um jogador da warp.
 
 🎯 Exemplo: `/go ban remover Livrum ThiagoROX` - Desbanir o jogador ThiagoROX da warp.
 
-#### Listar Jogadores Banidos
+### Listar Jogadores Banidos
 
 1. Envie `/go ban listar [warp]` para listar jogadores banidos da warp.
 
@@ -146,11 +154,11 @@ Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.
 
 ## Senha da Go
 
-#### Adicionar Senha
+### Adicionar Senha
 
 1. Envie `/go senha definir [warp] [senha]` para definir a senha da warp.
 
-#### Remover Senha
+### Remover Senha
 
 1. Envie `/go senha remover [warp]` para remover a senha da warp.
 
