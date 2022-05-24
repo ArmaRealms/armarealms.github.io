@@ -33,13 +33,13 @@ sidebar_position: 1
 1. Envie `/sellall` para vender todos os itens que estiver no seu inventário.
 
 Você pode vender itens do inventário de uma categoria especifica.  
-Exemplo: `/sellall blocos` - Vender todos os itens da **categoria blocos** que estiver no inventário.
+🎯 Exemplo: `/sellall blocos` - Vender todos os itens da **categoria blocos** que estiver no inventário.
 
 ### Vender Itens da Mão
 1. Envie `/sellhand ` para vender o item que estiver segunrando.
 
 Você pode vender apenas a quantidade especificada no comando.  
-Exemplo: `/sellhand 32` - Vender 32 itens que você estiver segurando.
+🎯 Exemplo: `/sellhand 32` - Vender 32 itens que você estiver segurando.
 
 ### Vender Itens da Mão e Inventário
 1. Envie `/sellhandall` para vender todos os itens do inventário que seja igual ao que estiver segurando.

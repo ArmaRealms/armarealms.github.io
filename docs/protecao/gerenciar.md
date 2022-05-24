@@ -21,19 +21,19 @@ sidebar_position: 3
 
 1. Envie `/claimkick [jogador]` dentro da sua proteção para expulsar o jogador especificado.
 
-Exemplo: `/claimkick ThiagoROX`
+🎯 Exemplo: `/claimkick ThiagoROX`
 
 ## Banir jogador
 
 1. Envie `/claimban [jogador]` dentro da sua proteção para banir o jogador especificado.
 
-Exemplo: `/claimban ThiagoROX`
+🎯 Exemplo: `/claimban ThiagoROX`
 
 ## Desbanir jogador
 
 1. Envie `/claimunban [jogador]` dentro da sua proteção para desbanir o jogador especificado.
 
-Exemplo: `/claimunban ThiagoROX`
+🎯 Exemplo: `/claimunban ThiagoROX`
 
 ## Listar Jogadores Banidos
 

@@ -62,7 +62,7 @@ Você também pode sair andando, o **Spawn** possui uma área de 500x500.
 * Use **`/home [nome]`** para voltar a sua base.
 * Use **`/delhome [nome]`** para apagar a sua base.
 
-Exemplo: **`/sethome base`** para definir e **`/home base`** para voltar ao local.
+🎯 Exemplo: **`/sethome base`** para definir e **`/home base`** para voltar ao local.
 
 ## 💂 Proteja sua Base!
 

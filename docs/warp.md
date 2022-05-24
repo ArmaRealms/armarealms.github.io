@@ -35,21 +35,21 @@ sidebar_position: 11
 
 1. Envie `/go definir [nome-da-warp]` no local onde deseja criar uma warp.
 
-Exemplo: `/go definir LojaDeLivros` - Criar uma warp com nome `LojaDeLivros`
+🎯 Exemplo: `/go definir LojaDeLivros` - Criar uma warp com nome `LojaDeLivros`
 
 ## Categorias da Go
 
 1. Envie `/go categoria [warp] [categoria]` para definir uma categoria da warp.
 
-Exemplo: `/go categoria LojaDeLivros loja` - Definir a warp na categoria `Loja`
+🎯 Exemplo: `/go categoria LojaDeLivros loja` - Definir a warp na categoria `Loja`
 
-## Categorias Disponíveis
+### Categorias Disponíveis
 
 - Cidade (Listar warp de uma cidade ou vila)
 - Farm (Listar warp que tenha locais para obter XP)
 - Loja (Listar warp que tenha [lojas físicas](./lojas/jogador.md))
 
-Toda loja ao ser criada é adicionada a categoria `Outras`.
+⚠️ Toda loja ao ser criada é adicionada a categoria `Outras`.
 
 ## Descrição de uma Go
 
@@ -57,12 +57,12 @@ Toda loja ao ser criada é adicionada a categoria `Outras`.
 
 1. Envie `/go descricao definir [warp] [descrição]` para definir a descrição da warp.
 
-Exemplo: `/go descricao definir LojaDeLivros Loja TOP!` - Definir a descrição `Loja TOP!` para a warp.
+🎯 Exemplo: `/go descricao definir LojaDeLivros Loja TOP!` - Definir a descrição `Loja TOP!` para a warp.
 
-A descrição pode conter no máximo 30 caracteres.
+⚠️ A descrição pode conter no máximo 30 caracteres.
 
 ### Remover uma Descrição
 
 1. Envie `/go descricao remover [warp]` para remover a descrição da warp.
 
-Exemplo: `/go descricao remover LojaDeLivros` - Remover a descrição da warp.
+🎯 Exemplo: `/go descricao remover LojaDeLivros` - Remover a descrição da warp.

@@ -24,7 +24,7 @@ sidebar_position: 1
 1. Envie `/kit prot` e coloque a `pá de ouro` na mão.
 2. Envie `/claim <tamanho>` para proteger o local onde você estiver.  
 
-Exemplo: `/claim 10` - Protegerá 10 blocos para cada lado onde você estiver.
+🎯 Exemplo: `/claim 10` - Protegerá 10 blocos para cada lado onde você estiver.
 
 ## Expandir Proteção
 
@@ -49,7 +49,7 @@ Você pode usar `/abandonallclaims` para excluir todas as suas proteções do se
 
 1. Envie `/buyclaimblocks [quantia]` para comprar blocos de proteção.
 
-Exemplo: `/buyclaimblocks 100` - Comprará 100 blocos de proteção por 1.000 coins
+🎯 Exemplo: `/buyclaimblocks 100` - Comprará 100 blocos de proteção por 1.000 coins
 
 ## Vender Blocos de Proteção
 
@@ -57,4 +57,4 @@ Exemplo: `/buyclaimblocks 100` - Comprará 100 blocos de proteção por 1.000 co
 
 1. Envie `/sellclaimblocks [quantia]` para comprar blocos de proteção.
 
-Exemplo: `/sellclaimblocks 100` - Venderá 100 blocos de proteção por 800 coins
+🎯 Exemplo: `/sellclaimblocks 100` - Venderá 100 blocos de proteção por 800 coins

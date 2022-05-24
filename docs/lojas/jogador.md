@@ -65,13 +65,13 @@ Comando para **VENDER** itens na loja:
 
 1. Envie `/ploja price [novo-preço]` olhando para a loja que deseja alterar o valor.
 
-Exemplo: `/ploja price 200`
+🎯 Exemplo: `/ploja price 200`
 
 ## Alterar o Stack da loja
 
 1. Envie `/ploja size [quantidade]` olhando para a loja que deseja alterar a quantidade do stack.
 
-Exemplo: `/ploja size 64`
+🎯 Exemplo: `/ploja size 64`
 
 ## Remover uma Loja
 
