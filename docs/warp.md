@@ -16,7 +16,7 @@ sidebar_position: 11
 | `/go ajuda` | Listar comandos do sistema de warp |
 | `/go avaliar [warp] [valor]` | Avaliar uma warp de 1 a 5 |
 | `/go ban definir [warp] [jogador]` | Banir jogador da warp |
-| `/go ban definir [warp] [jogador]` | Desbanir jogador da warp |
+| `/go ban remover [warp] [jogador]` | Desbanir jogador da warp |
 | `/go ban listar [warp]` | Listar jogadores banidos da warp |
 | `/go categoria [warp] [categoria]` | Definir a categoria da warp | 
 | `/go definir [warp]` | Definir uma warp Na localização atual |
@@ -30,3 +30,39 @@ sidebar_position: 11
 | `/go senha definir [warp] [senha]` | Definir senha de uma warp |
 | `/go senha remover [warp]` | Remover senha de uma warp |
 | `/go travar [warp]` | Travar ou Destravar uma warp |
+
+## Como Criar uma Go
+
+1. Envie `/go definir [nome-da-warp]` no local onde deseja criar uma warp.
+
+Exemplo: `/go definir LojaDeLivros` - Criar uma warp com nome `LojaDeLivros`
+
+## Categorias da Go
+
+1. Envie `/go categoria [warp] [categoria]` para definir uma categoria da warp.
+
+Exemplo: `/go categoria LojaDeLivros loja` - Definir a warp na categoria `Loja`
+
+## Categorias Disponíveis
+
+- Cidade (Listar warp de uma cidade ou vila)
+- Farm (Listar warp que tenha locais para obter XP)
+- Loja (Listar warp que tenha [lojas físicas](./lojas/jogador.md))
+
+Toda loja ao ser criada é adicionada a categoria `Outras`.
+
+## Descrição de uma Go
+
+### Definir uma Descrição
+
+1. Envie `/go descricao definir [warp] [descrição]` para definir a descrição da warp.
+
+Exemplo: `/go descricao definir LojaDeLivros Loja TOP!` - Definir a descrição `Loja TOP!` para a warp.
+
+A descrição pode conter no máximo 30 caracteres.
+
+### Remover uma Descrição
+
+1. Envie `/go descricao remover [warp]` para remover a descrição da warp.
+
+Exemplo: `/go descricao remover LojaDeLivros` - Remover a descrição da warp.
