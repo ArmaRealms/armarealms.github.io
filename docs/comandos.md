@@ -43,7 +43,7 @@ sidebar_position: 4
 | `/kit [nome-do-kit]` | Receba o kit solicitado |
 | `/kit fome` | Receba o kit com pães |
 | `/kit prot` | Receba o kit de proteção |
-| `/kit pvp` | Receba o kit de PVP (custa $500) | 
+| `/kit pvp` | Receba o kit de PVP (Custo: $500 coins) | 
 
 ### Skins
 | Comando | Descrição |
@@ -175,8 +175,8 @@ sidebar_position: 4
 | `/arena` | Teleporte para a arena (mcMMO ativado) |
 | `/camarote` | Teleporte para o camarote de eventos de batalha | 
 | `/rtp mundo` | Teleporte aleatório pelo mundo. |
-| `/rtp nether` | Teleporte aleatório pela dimensão Nether. (Custa 5 mil coins) |
-| `/rtp end` | Teleporte aleatório pela dimensão do End. (Custa 5 mil coins) |
+| `/rtp nether` | Teleporte aleatório pela dimensão Nether. (Custo: $5.000 coins) |
+| `/rtp end` | Teleporte aleatório pela dimensão do End. (Custo: $5.000 coins) |
 
 ### Definir Casa
 | Comando | Descrição |

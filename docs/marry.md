@@ -6,7 +6,7 @@ sidebar_position: 13
 
 # Casamento entre Jogadores
 
-> Custo para se casar é de 100 mil coins para cada jogador.
+> ⚠️ Custo para se casar é de $100.000 coins para cada jogador.
 
 ## Comandos
 
@@ -14,15 +14,15 @@ sidebar_position: 13
 | ------- | --------- |
 | `/marry` | Listar todos os comandos do marry |
 | `/marry listar` | Listar todos os jogadores casados |
-| `/marry [jogador]` | Enviar pedido de casamento a outro jogador. <p>Custa 100.000 coins para cada jogador</p> |
+| `/marry [jogador]` | Enviar pedido de casamento a outro jogador. <p>Custo: $100.000 coins para cada jogador</p> |
 | `/marry divorciar` | Divorciar do seu parceiro(a) |
 | `/mc [mensagem]` | Enviar mensagem para o parceiro(a) |
 | `/mca` | Entrar ou sair do chat do casal |
-| `/marry tp` | Teleportar para o seu parceiro(a) <p>Custa 10 coins</p> |
-| `/marry home` | Teleportar para a home do casal <p>Custa 10 coins</p> |
-| `/marry sethome` | Definir home do casal <p>Custa 1.000 coins</p> |
+| `/marry tp` | Teleportar para o seu parceiro(a) <p>Custo: $10 coins</p> |
+| `/marry home` | Teleportar para a home do casal <p>Custo: $10 coins</p> |
+| `/marry sethome` | Definir home do casal <p>Custo: $1.000 coins</p> |
 | `/marry delhome` | Apagar home do casal |
-| `/marry presentear` | Presentear o seu parceiro(a) <p>Custa 10 coins</p> |
+| `/marry presentear` | Presentear o seu parceiro(a) <p>Custo: $10 coins</p> |
 | `/marry beijar` | Beijar seu parceiro(a) |
 | `/marry abraçar` | Abraçar seu parceiro(a) |
 | `/marry seen` | Exibir o último login do seu parceiro(a) |
@@ -38,7 +38,7 @@ Receba o dobro de experiência ao matar matar mobs e outras ações que dropa XP
 ### Teleporte Instantâneo
 
 > Teleporte instantâneo entre casal  
-> Custo: $10 coins
+> ⚠️ Custo: $10 coins
 
 1. Envie `/marry tp` para teleportar até seu parceiro.
 
@@ -47,7 +47,7 @@ Não é necessário aceitar pedidos de teleporte entre o casal.
 ### Enviar Presentes
 
 > Enviar presente para o parceiro  
-> Custo: $10 coins
+> ⚠️ Custo: $10 coins
 
 1. Coloque o item que deseja presentear na mão
 2. Envie `/marry presentear` para enviar o presente
@@ -56,7 +56,7 @@ Não é necessário aceitar pedidos de teleporte entre o casal.
 ### Definir Base do Casal
 
 > Definir base do casal  
-> Custo: $10 coins
+> ⚠️ Custo: $10 coins
 
 ### Chat Privado do Casal
 

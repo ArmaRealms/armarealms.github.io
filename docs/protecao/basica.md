@@ -24,7 +24,7 @@ sidebar_position: 1
 1. Envie `/kit prot` e coloque a `pá de ouro` na mão.
 2. Envie `/claim <tamanho>` para proteger o local onde você estiver.  
 
-🎯 Exemplo: `/claim 10` - Protegerá 10 blocos para cada lado onde você estiver.
+🎯 Exemplo: `/claim 10` - Proteger 10 blocos para cada lado onde você estiver.
 
 ## Expandir Proteção
 

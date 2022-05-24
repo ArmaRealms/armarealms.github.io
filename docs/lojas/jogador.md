@@ -33,9 +33,8 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 
 ## Criar uma Loja
 
-> [Lojas são protegidas pelo sistema de proteção de terrenos!](../protecao/basica.md)
-
-> Criar uma loja custa $100 coins. 
+> [Lojas são protegidas pelo sistema de proteção de terrenos!](../protecao/basica.md)  
+> ⚠️ Custo: $100 coins.
 
 1. Coloque o item e a quantidade que deseja comprar ou vender na mão
 2. Segure **shift** e clique com o **botão esquerdo** no baú.
@@ -61,7 +60,7 @@ Comando para **VENDER** itens na loja:
 
 ## Alterar o Valor da Loja
 
-> Alterar o valor de uma loja custa $50 coins. 
+> ⚠️ Custo: $50 coins
 
 1. Envie `/ploja price [novo-preço]` olhando para a loja que deseja alterar o valor.
 

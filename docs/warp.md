@@ -31,7 +31,9 @@ sidebar_position: 11
 | `/go senha remover [warp]` | Remover senha de uma warp |
 | `/go travar [warp]` | Travar ou Destravar uma warp |
 
-## Como Criar uma Go
+## Criar uma Go
+
+> ⚠️ Custo: $5.000 coins
 
 1. Envie `/go definir [nome-da-warp]` no local onde deseja criar uma warp.
 
@@ -43,6 +45,10 @@ Slot VIP são locais especiais para que sua warp tenha maior visibilidade.
 Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.  
 
 ### Como Comprar Slot VIP
+
+> ⚠️ Custo: $10.000 coins  
+> ⚠️ Tempo: 7 dias
+
 1. Acesse o menu com `/go` ou `/pwarp`.
 2. Clique na `Estrela do Nether`.
 3. Envie no chat o nome da sua Go.
@@ -58,9 +64,10 @@ Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.
 
 ### Categorias Disponíveis
 
-- Cidade (Listar warp de uma cidade ou vila)
-- Farm (Listar warp que tenha locais para obter XP)
-- Loja (Listar warp que tenha [lojas físicas](./lojas/jogador.md))
+- Cidade (Warp de cidade ou vila)
+- Farm (Warp que tenha locais para obter XP)
+- Loja (Warp que tenha [lojas físicas](./lojas/jogador.md))
+- Outras (Warp sem categoria definida)
 
 ⚠️ Toda loja ao ser criada é adicionada a categoria `Outras`.
 
