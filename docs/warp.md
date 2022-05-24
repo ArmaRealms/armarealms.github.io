@@ -37,6 +37,19 @@ sidebar_position: 11
 
 🎯 Exemplo: `/go definir LojaDeLivros` - Criar uma warp com nome `LojaDeLivros`
 
+## Slot VIP da Go
+
+Slot VIP são locais especiais para que sua warp tenha maior visibilidade.  
+Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.  
+
+### Como Comprar Slot VIP
+1. Acesse o menu com `/go` ou `/pwarp`.
+2. Clique na `Estrela do Nether`.
+3. Envie no chat o nome da sua Go.
+
+![imagem1](https://i.imgur.com/GdzqfKg.png)
+![imagem2](https://i.imgur.com/h2ZT97X.png)
+
 ## Categorias da Go
 
 1. Envie `/go categoria [warp] [categoria]` para definir uma categoria da warp.
