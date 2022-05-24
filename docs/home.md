@@ -13,8 +13,9 @@ Aceitamos apenas Minecraft Java Edition!
 - [Minecraft Alternativo Tlauncher (Grátis)](https://tlauncher.org/installer)
 
 <details>
-  <summary>Passo-a-passo de como entrar no serivodor</summary>
-    <div>
+<summary>Passo-a-passo de como entrar no servidor ⤵️</summary>
+<div>
+
 1. Clique na opção `Multijogador`
 
 ![imagem1](https://i.imgur.com/GrM6K7u.png)
@@ -32,8 +33,10 @@ Aceitamos apenas Minecraft Java Edition!
 ![imagem4](https://i.imgur.com/OjbuN7Q.png)
 
 5. Use **`/register Sua-Senha Sua-Senha`** para se registrar
-  </div>
+
+</div>
 </details>
+
 ## 🏴‍☠️ Leia as Regras!
 
 - [Clique aqui para acessar a lista de regras!](https://wiki.armamc.com/regras)
