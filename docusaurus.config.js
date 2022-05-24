@@ -76,7 +76,7 @@ const config = {
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://wiki.armamc.com/formulario" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Seja Ajudante!</button></a>',
+            value: '<a href="https://forms.gle/ksQJkVtA6WMXHkpZ9" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Seja Ajudante</button></a>',
           },
         ],
       },
