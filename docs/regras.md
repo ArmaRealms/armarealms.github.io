@@ -18,27 +18,39 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 
 > **Desrespeitos entre membros** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para outros jogadores (mesmo que sendo seu "amigo").
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Silenciamento temporário de 2 horas;
 2. Silenciamento temporário de 2 dias;
 3. Silenciamento temporário de 5 dias;
 4. Silenciamento temporário de 7 dias;
 5. Banimento temporário de 15 dias;
 6. Banimento permanente.
+</div>
+</details>
 
 ### Regra 1.2 - Enviar Xingamentos e Desrespeito a Staff! {#1-2}
 
 > **Desrespeitos com a Staff** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para a Staff.
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Silenciamento temporário de 7 dias;
 2. Banimento temporário de 30 dias;
 3. Banimento permanente.
+</div>
+</details>
 
 ### Regra 1.3 - Racismo, Homofobia, Apologia a Crimes! {#1-3}
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Banimento permanente. **(Sem direito a compra de UNBAN)**
+</div>
+</details>
 
 :::danger Atenção!
 A Staff se reserva ao direito de julgar o que será tratado como xingamento, bullying, racismo, homofobia, apologia a crimes e desrespeito a staff.
@@ -54,24 +66,36 @@ A Staff se reserva ao direito de julgar o que será tratado como xingamento, bul
 
 > Programas ou mods para voar, correr mirar ou atacar mais rápido do que o normal, texturas para encontrar minérios e outros blocos e etc..
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Banimento permanente.
+</div>
+</details>
 
 ### Regra 2.2 - Usar Métodos Ilegais para Aumentar Habilidades! {#2-2}
 
 > Programas ou qualquer meio para aumentar habilidades de forma automática, geralmente utilizando sistema ant-afk e macro/auto-clicker.
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Resete da habilidade + Banimento temporário de 7 dias;
 2. Resete da habilidade + Banimento permanente.
+</div>
+</details>
 
 ### Regra 2.3 - Usar Métodos Ilegais para Ganhar Dinheiro ou Itens! {#2-3}
 
 > Programas ou qualquer meio para ganhar dinheiro ou itens de forma automática, geralmente utilizando sistema ant-afk e macro/auto-clicker.
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Resete do saldo + Banimento temporário de 7 dias;
 2. Resete do saldo + Banimento permanente.
+</div>
+</details>
 
 ## Regra 3 - Proibido Destruir Construções! {#3}
 
@@ -89,16 +113,24 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 
 > Ao encontrar terrenos sem proteção é permitido pegar itens de baús, fornalhas, shulkerbox's e etc, é permitido quebrar blocos de alto valor como sinalizador, shulkerbox's, blocos de minérios, spawners e etc..
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Banimento temporário de 7 dias;
 2. Banimento permanente.
+</div>
+</details>
 
 ### Regra 3.2 - Construir MapArts ou Construções Obscenas! {#3-2}
 
 > Não é permitido fazer mapas ou construções obscenas.
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Banimento permanente.
+</div>
+</details>
 
 ## Regra 4 - Proibido Fazer Spam ou Flood! {#4}
 
@@ -110,27 +142,39 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 > Qualquer método para incitar flood em massa por todos os jogadores é passivo de punição!  
 > Exemplo: Primeiro jogador que enviar X no chat ganha Y de prêmio.
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Silenciamento temporário de 30 minutos;
 2. Silenciamento temporário de 2 horas;
 3. Silenciamento temporário de 2 dias;
 4. Banimento temporário de 7 dias;
+</div>
+</details>
 
 ### Regra 4.2 - Fazer Flood ou Spam por Comando! {#4-2}
 
 > Enviar comandos com objetivo de floodar o chat de outro jogador é contra as regras.  
 > Exemplo: Envio de coins de baixo valor, pedidos de teleporte e diversos outros comandos.
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Silenciamento temporário de 30 minutos;
 2. Silenciamento temporário de 2 horas;
 3. Silenciamento temporário de 2 dias;
 4. Banimento temporário de 7 dias;
+</div>
+</details>
 
 ### Regra 4.3 - Divulgar outros servidores! {#4-3}
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Banimento Permanente
+</div>
+</details>
 
 ## Regra 5 - Proibido Construir Próximo a outro Jogador! {#5}
 
@@ -144,16 +188,23 @@ Qualquer proteção a 20 blocos de distância de outra proteção será consider
 Será levado em consideração na hora da avaliação do ticket a construção e não a proteção mais antiga no local.
 :::
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Aviso permanente + Proteção e construção apagada;
 2. Banimento temporário de 7 dias + Proteção e construções apagadas;
 3. Banimento permanente + Proteção e construções apagadas;
+</div>
+</details>
 
 ## Regra 6 - Proibido Acumular Entidades em Excesso! {#6}
 
 > Devido a vários problemas com performance das versões atuais, não é possível acumular animais, mobs e aldeões em excesso na proteção!  
 > Use o bom senso e tenha a menor quantidade de animais possível!
 
+<details>
+<summary>Lista de Limites</summary>
+<div>
 **Limite de Aldeões**
 * Qualquer profissão e nível de troca = 10 a cada 30 blocos de distância
 * A distância de 30 blocos é ignorada na camada Y, ou seja, não é possível colocar 10 aldeões na camada 0 e 10 aldeões na camada 30.
@@ -176,35 +227,49 @@ Será levado em consideração na hora da avaliação do ticket a construção e
 
 **Lista de Monstros**
 * Monstros como Zumbi, Esqueleto e etc = 10 a cada 10 blocos de distância
+</div>
+</details>
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 
 Exclusão de entidades a cada dois minutos de forma automática.
 
 :::info Info!
 A remoção de animais, monstros e aldeões e geradores listados acima é realizada de forma automática e removerá também animais ou monstros renomeados e/ou domesticados. O sistema escolhe de forma aleatória qual entidade (animais, monstros e aldeões) em locais com excesso será removida.
 :::
+</div>
+</details>
 
 ## Regra 7 - Proibido Abusar de Circuitos de Redstone! {#7}
 
 > Não faça circuitos de redstone que utilizem grande quantidade de redstone, pistões, observadores e funis para que não atrapalhe o desempenho do servidor.  
 > Não utilize circuitos que abusam de bugs do minecraft para duplicar itens e etc.
 
-#### Lista de Limites
+<details>
+<summary>Lista de Limites</summary>
+<div>
 * Pistão e Pistão Grudento (20 por chunk);
 * Funil (20 por chunk);
 * Observador (20 por chunk);
 * Ejetor e Liberador (20 por chunk);
 * Repetidor e Comparador (20 por chunk).
+</div>
+</details>
 
 :::info Para visualizar 1 chunk use F3+G (Tamanho de 16x16 blocos)
 Faça sistemas em locais separados para não carregar vários sistemas simultaneamente e lagar o servidor.  
 :::
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Aviso permanente + Construção apagada;
 2. Banimento temporário de 15 dias + Construção apagada;
 3. Banimento permanente.
+</div>
+</details>
 
 ## Regra 8 - Proibido Fazer Armadilha ou Chat Falso! {#8}
 
@@ -214,18 +279,26 @@ Faça sistemas em locais separados para não carregar vários sistemas simultane
 
 > Armadilha ou _trap_ é todo sistema que não dê chance de defesa ao oponente.
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Banimento temporário de 7 dias;
 2. Banimento permanente.
+</div>
+</details>
 
 ### Regra 8.2 - Enviar Chat Falso para Prejudicar Jogadores! {#8-2}
 
 > Chat falso ou _fake chat_ é toda ação para enganar ou persuadir um jogador a aceitar ou enviar um pedido de teleporte e em seguida matá-lo.  
 > Também é considerado chat falso qualquer mensagem que prejudique outro jogador onde ocorre perca de itens ou coins.
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Banimento temporário de 7 dias;
 2. Banimento permanente.
+</div>
+</details>
 
 ### Regra 8.3 - Divulgação e ou Venda de Contas ou Itens por Dinheiro Real! {#8-3}
 
@@ -237,9 +310,13 @@ Faça sistemas em locais separados para não carregar vários sistemas simultane
 O servidor não se responsabiliza por compra ou venda de VIP, Chaves, TAG's e outros por coins realizadas entre jogadores fora da loja oficial.  
 :::
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Silenciamento temporário de 2 dias;
 2. Banimento permanente de ambas as contas.
+</div>
+</details>
 
 ## Regra 9 - Burlar Punição, Utilizar Nickname ou Skin Inapropriada! {#9}
 
@@ -251,24 +328,36 @@ Exemplos: Utilizar conta secundária durante tempo de punição, escrever em pla
 
 > Utilizar conta secundária para burlar uma punição ou quebrar a regra de forma intencional não é permitido.
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Banimento permanente de ambas as contas.
+</div>
+</details>
 
 ### Regra 9.2 - Utilizar Nickname Inapropriado! {#9-2}
 
 > Utilizar nickname inapropriado não é permitido.
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Expulsão com aviso sobre nickname inapropriado.
 2. Banimento permanente.
+</div>
+</details>
 
 ### Regra 9.3 - Utilizar Skin  Inapropriada! {#9-3}
 
 > Utilizar skins com conteúdo pornográfico ou pertubador não é permitido.
 
-#### Lista de Punições
+<details>
+<summary>Lista de Punições</summary>
+<div>
 1. Expulsão com aviso sobre skin inapropriada.
 2. Banimento permanente.
+</div>
+</details>
 
 :::info Todas as punições temporárias terão prazo de 90 dias.
 Exemplo: Jogador silenciado por 2 horas ao realizar flood, caso não sofra nenhuma punição dentro dos próximos 90 dias, essa punição não será levada em conta nas próximas aplicações de punições.
