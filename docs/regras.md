@@ -115,15 +115,11 @@ A Staff se reserva ao direito de julgar o que será tratado como xingamento, bul
 Não será considerado "griefing" caso o jogador possua permissão na proteção.  
 :::
 
-:::danger [Saiba o tempo offline para perca da proteção clicando aqui!](https://wiki.armamc.com/protecao/perca)
-
-:::
-
 ### Regra 3.1 - Destruir o Mapa ou Construções! (Griefing) {#3-1}
 
 > Não é permitido quebrar construções de outros jogadores, colocar ou remover blocos aleatórios pelo mapa, colocar lava ou água pelo mapa de forma aleatória com o objetivo de destruir o mapa.  
 
-> Ao encontrar terrenos sem proteção é permitido pegar itens de baús, fornalhas, shulkerbox's e etc, é permitido quebrar blocos de alto valor como sinalizador, shulkerbox's, blocos de minérios, spawners e etc..
+> Ao encontrar terrenos sem proteção é permitido pegar itens de baús, fornalhas, shulkerbox's e etc, é permitido quebrar blocos de alto valor como sinalizador, shulkerbox's, blocos de minérios, spawners e etc. [Saiba o tempo offline para perca da proteção clicando aqui!](https://wiki.armamc.com/protecao/perca)
 
 <details>
 <summary>💀 <b>Lista de Punições</b></summary>

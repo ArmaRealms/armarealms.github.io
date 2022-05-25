@@ -6,6 +6,8 @@ sidebar_position: 11
 
 # Warp de Jogadores
 
+Warp de jogadores (Go) serve para que os jogadores tenham um ponto de teleporte público pelo mapa.
+
 ## Comandos
 
 | Comando | Descrição |
