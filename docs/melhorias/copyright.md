@@ -6,7 +6,8 @@ sidebar_position: 6
 
 # Bloqueio de Mapas
 
-Bloqueio de mapas (copyright) serve para impedir a cópia de mapas bloqueados.
+Bloqueio de mapas (copyright) serve para impedir a cópia de mapas bloqueados.  
+Utilizado principalmente para proteger MapArts!
 
 ## Comando
 

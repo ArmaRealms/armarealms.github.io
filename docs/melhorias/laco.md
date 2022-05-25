@@ -56,6 +56,7 @@ Laço inteligente serve para melhorar as funcionalidades do laço.
 - Vaca
 
 <div>
+</details>
 
 ## Receita de Fabricação
 

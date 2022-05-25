@@ -6,7 +6,7 @@ sidebar_position: 4
 
 # Skin Customizada
 
-Skin customizada serve para que o jogador que não tenha Minecraft Original possa usar skins dentro do servidor.
+Skin customizada serve para que o jogadorsem Minecraft Original possa usar skins no Armageddon.
 
 ## Comandos
 
