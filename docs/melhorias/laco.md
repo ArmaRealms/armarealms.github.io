@@ -17,7 +17,7 @@ Laço inteligente serve para melhorar as funcionalidades do laço.
 ## Lista de Mobs
 
 <details>
-<summary><b>Clique para listar mobs!</b><summary>
+<summary><b>Clique para listar mobs!</b></summary>
 <div>
 
 - Abelha
