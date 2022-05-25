@@ -55,7 +55,7 @@ Laço inteligente serve para melhorar as funcionalidades do laço.
 - Urso polar
 - Vaca
 
-<div>
+</div>
 </details>
 
 ## Receita de Fabricação
