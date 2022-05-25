@@ -1,5 +1,5 @@
 ---
-title: Esquipe
+title: Equipe
 description: Lista com cargos e funções da equipe do servidor.
 sidebar_position: 5
 ---
