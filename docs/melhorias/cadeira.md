@@ -19,7 +19,7 @@ Cadeira Customizada serve para que jogadores possa sentar enquanto conversa com 
 ## Cadeiras
 
 <details>
-<summary><b>Todos os tipos de escadas e lajes podem ser cadeiras!<b></summary>
+<summary><b>Todos os tipos de escadas e lajes podem ser cadeiras!</b></summary>
 <div>
 
 ![cadeira1](https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a0/Oak_Stairs_%28N%29_JE7_BE6.png)
