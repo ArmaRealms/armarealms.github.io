@@ -14,7 +14,7 @@ Aceitamos apenas Minecraft Java Edition!
 - [Minecraft Alternativo Tlauncher (Grátis)](https://tlauncher.org/installer)
 
 <details>
-<summary>Passo a passo de como entrar no servidor</summary>
+<summary><b>Passo a passo de como entrar no servidor!</b></summary>
 <div>
 
 1. Clique na opção `Multijogador`

@@ -105,14 +105,14 @@ Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.
 
 ## Redefinir uma Go
 
-> ✅ Não perde dados de visitação e avaliações ao renomear uma warp.
+> ✅ Não perde dados de visitação e avaliações ao renomear uma warp.  
 > ⚠️ Custo: $5.000 coins
 
 1. Envie `/go redefinir [warp]` para redefinir a warp no local onde você estiver.
 
 ## Renomear uma Go
 
-> ✅ Não perde dados de visitação e avaliações ao renomear uma warp.
+> ✅ Não perde dados de visitação e avaliações ao renomear uma warp.  
 > ⚠️ Custo: $5.000 coins
 
 1. Envie `/go renomear [warp] [nome-novo]` para renomear a warp.

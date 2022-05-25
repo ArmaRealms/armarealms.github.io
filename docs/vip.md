@@ -57,21 +57,21 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 
 ## Economia
 
-| **ECONOMIA**                                                 | **PREMIUM** | **MASTER** | **ULTIMATE** |
-| :----------------------------------------------------------: | :---------: | :--------: | :----------: |
-| RECEBIMENTO DE COINS NO JOGO                                 | $50.000     | $100.000   | $200.000     |
-| DESCONTO NA LOJA DO SERVIDOR                                 | 10%         | 15%        | 20%          |
-| QUANTIDADE DE LOJAS <p>Membro possui 20 lojas</p>            | 50 lojas    | 100 lojas  | 200 lojas    |
-| QUANTIDADE DE LEILÕES <p>Membro possui 02 itens</p>          | 05 itens    | 10 itens   | 15 itens     |
-| TEMPO DOS LEILÕES <p>Membro possui 02 dias</p>               | 04 dias     | 07 dias    | 10 dias      |
+| **ECONOMIA**                                    | **MEMBRO** | **PREMIUM** | **MASTER** | **ULTIMATE** |
+| :---------------------------------------------: | :--------: | :---------: | :--------: | :----------: |
+| RECEBIMENTO DE COINS NO JOGO                    | ❌         | $50.000     | $100.000   | $200.000     |
+| DESCONTO NA LOJA DO SERVIDOR                    | ❌         | 10%         | 15%        | 20%          |
+| QUANTIDADE DE LOJAS                             | 20 lojas   | 50 lojas    | 100 lojas  | 200 lojas    |
+| QUANTIDADE DE LEILÕES                           | 02 itens   | 05 itens    | 10 itens   | 15 itens     |
+| TEMPO DOS LEILÕES                               | 02 dias    | 04 dias     | 07 dias    | 10 dias      |
 
 ## Teleporte
 
-| **TELEPORTE**                                   | **PREMIUM** | **MASTER** | **ULTIMATE** |
-| :---------------------------------------------: | :---------: | :--------: | :----------: |
-| QUANTIDADE DE HOMES - Membro possui 5 homes.    | 20 homes    | 50 homes   | 150 homes    |
-| QUANTIDADE DE WARPS - Membro possui 1 warp.     | 2 warps     | 3 warps    | 5​ warps      |
-| SEM TEMPO DE ESPERA - Membro espera 3 segundos. | ✔️          | ✔️        | ✔️           |
+| **TELEPORTE**                   | **MEMBRO** | **PREMIUM** | **MASTER** | **ULTIMATE** |
+| :-----------------------------: | :--------: | :---------: | :--------: | :----------: |
+| QUANTIDADE DE HOMES             | 5 homes    | 20 homes    | 50 homes   | 150 homes    |
+| QUANTIDADE DE WARPS             | 1 warp     | 2 warps     | 3 warps    | 5​ warps      |
+| SEM TEMPO DE ESPERA             | ❌         | ✔️          | ✔️        | ✔️           |
 
 ## Chat e TAB
 
@@ -88,12 +88,12 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 
 ## Diversos
 
-| **DIVERSOS**                                                      | **PREMIUM** | **MASTER** | **ULTIMATE** |
-| :---------------------------------------------------------------: | :---------: | :--------: | :----------: |
-| BLOCOS DE PROTEÇÃO                                                | 5.000       | 10.000     | 20.000       |
-| CHANCE DE QUEBRAR SPAWNER <p>`Apenas no servidor Gênesis`</p>     | 30%         | 40%        | 50%          |
-| BÔNUS DE COINS AO MATAR MOB                                       | 10%         | 15%        | 20%          |
-| PRIORIDADE NA LISTA DE ESPERA                                     | ✔️          | ✔️        | ✔️           |
+| **DIVERSOS**                                                  | **MEMBRO** | **PREMIUM** | **MASTER** | **ULTIMATE** |
+| :-----------------------------------------------------------: |:----------:| :---------: | :--------: | :----------: |
+| BLOCOS DE PROTEÇÃO                                            | ❌         | 5.000       | 10.000     | 20.000       |
+| CHANCE DE QUEBRAR SPAWNER <p>`Apenas no servidor Gênesis`</p> | 10%        | 30%         | 40%        | 50%          |
+| BÔNUS DE COINS AO MATAR MOB                                   | ❌         | 10%         | 15%        | 20%          |
+| PRIORIDADE NA LISTA DE ESPERA                                 | ❌         | ✔️          | ✔️        | ✔️           |
 
 ## Comandos
 

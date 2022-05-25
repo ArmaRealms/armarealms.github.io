@@ -27,12 +27,13 @@ sidebar_position: 4
 ### Melhorias
 | Comando | Descrição |
 | ------- | --------- |
-| `/auto` | Ativar ou desativar o recolhimento de itens direto para o inventário |
 | `/auto aviso` | Ativar ou desativar o aviso de inventário cheio |
-| `/sentar` ou `/chairs` | Ativar ou desativar o sistema de caideiras |
+| `/auto` | Ativar ou desativar o recolhimento de itens direto para o inventário |
+| `/copyright` | Bloquear cópia de mapas (Custo: $5.000 coins) |
 | `/gps` | Listar quem estiver a 200 blocos de distância |
 | `/lixo` | Abrir a lixeira para descartar itens |
 | `/original` | Ative o login automático se você tiver minecraft original |
+| `/sentar` ou `/chairs` | Ativar ou desativar o sistema de caideiras |
 | `/sort` | Ativar ou desativar o arganizador de baús automático | 
 | `/tags` | Abrir o menu de seleção de tags |
 
