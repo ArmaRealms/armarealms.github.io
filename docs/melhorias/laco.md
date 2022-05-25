@@ -13,7 +13,12 @@ Laço inteligente serve para melhorar as funcionalidades do laço.
 1. [É possível laçar diversos tipos de mobs como aldeões.](laco.md#lista-de-mobs)
 2. **Mobs que estiverem laçados são teleportados junto com o jogador.**
 
+
 ## Lista de Mobs
+
+<details>
+<summary><br>Clique para listar mobs!</b><summary>
+<div>
 
 - Abelha
 - **Aldeão**
@@ -49,6 +54,8 @@ Laço inteligente serve para melhorar as funcionalidades do laço.
 - Tartaruga
 - Urso polar
 - Vaca
+
+<div>
 
 ## Receita de Fabricação
 
