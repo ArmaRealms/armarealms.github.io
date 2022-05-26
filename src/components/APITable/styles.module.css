@@ -8,7 +8,7 @@
  .apiTable {
     font-size: medium;
     width: 100%;
-    
+    table-layout: fixed;
   }
   
   .apiTable tbody tr {
