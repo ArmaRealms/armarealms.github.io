@@ -4,11 +4,15 @@ description: Tudo sobre o sistema de casamento entre jogadores.
 sidebar_position: 13
 ---
 
+import APITable from '/src/components/APITable';
+
 # Casamento entre Jogadores
 
 > ⚠️ Custo para se casar é de $100.000 coins para cada jogador.
 
 ## Comandos
+
+<APITable>
 
 | Comando | Descrição |
 | ------- | --------- |
@@ -26,6 +30,8 @@ sidebar_position: 13
 | `/marry beijar` | Beijar seu parceiro(a) |
 | `/marry abraçar` | Abraçar seu parceiro(a) |
 | `/marry seen` | Exibir o último login do seu parceiro(a) |
+
+</APITable>
 
 ## Beneficios
 

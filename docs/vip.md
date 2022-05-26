@@ -4,6 +4,8 @@ description: Lista de benefícios ao ser VIP.
 sidebar_position: 20
 ---
 
+import APITable from '/src/components/APITable';
+
 # Vantagens ao ser VIP
 
 :::info [Clique aqui para comprar VIP na loja oficial](https://loja.armamc.com)
@@ -11,6 +13,8 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 :::
 
 ## Kit Ativação
+
+<APITable>
 
 | **KIT DE ATIVAÇÃO**                                          | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :----------------------------------------------------------: | :---------: | :--------: | :----------: |
@@ -28,10 +32,14 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | SINALIZADOR (BEACON)                                         | ❌         | ❌         | ✔️           |
 | MAÇÃ ENCANTADA                                               | 16         | 24          | 48            |
 
+</APITable>
+
 ## Kit Semanal
 - VIP Premium = `/kit prem` - Receber o Kit Premium Semanal
 - VIP Master = `/kit mast` - Receber o Kit Master Semanal
 - VIP Ultimate = `/kit ulti` - Receber o Kit Ultimate Semanal
+
+<APITable>
 
 | **KIT SEMANAL**      | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :------------------: | :---------: | :--------: | :----------: |
@@ -46,7 +54,11 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | NETHERITE            | 01           | 02        | 03            |
 | MAÇA ENCANTADA       | 04           | 08        | 32            |
 
+</APITable>
+
 ## Boost mcMMO
+
+<APITable>
 
 |        **BOOST MCMMO**        | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :---------------------------: | :---------: | :--------: | :----------: |
@@ -55,7 +67,11 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | BOOST DE EXPERIÊNCIA          | ❌          | 10%        | 25%          |
 | BOOST DE SORTE NA ATIVAÇÃO    | ❌          | ❌        | 33%          |
 
+</APITable>
+
 ## Economia
+
+<APITable>
 
 | **ECONOMIA**                                    | **MEMBRO** | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :---------------------------------------------: | :--------: | :---------: | :--------: | :----------: |
@@ -65,7 +81,11 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | QUANTIDADE DE LEILÕES                           | 02 itens   | 05 itens    | 10 itens   | 15 itens     |
 | TEMPO DOS LEILÕES                               | 02 dias    | 04 dias     | 07 dias    | 10 dias      |
 
+</APITable>
+
 ## Teleporte
+
+<APITable>
 
 | **TELEPORTE**                   | **MEMBRO** | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :-----------------------------: | :--------: | :---------: | :--------: | :----------: |
@@ -73,10 +93,14 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | QUANTIDADE DE WARPS             | 1 warp     | 2 warps     | 3 warps    | 5​ warps      |
 | SEM TEMPO DE ESPERA             | ❌         | ✔️          | ✔️        | ✔️           |
 
+</APITable>
+
 ## Chat e TAB
 
 - Adicione cores no seu nick com `/nick` e envie mensagens coloridas!
 - [Clique aqui para abrir o site de formtação de cores!](https://rgb.armamc.com)
+
+<APITable>
 
 |   **CHAT e TAB**  | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :---------------: | :---------: | :--------: | :----------: |
@@ -86,7 +110,11 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | NICK COLORIDO     | ✔️          | ✔️        | ✔️          |
 | MENSAGEM COLORIDA | ✔️          | ✔️        | ✔️          |
 
+</APITable>
+
 ## Diversos
+
+<APITable>
 
 | **DIVERSOS**                                                  | **MEMBRO** | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :-----------------------------------------------------------: |:----------:| :---------: | :--------: | :----------: |
@@ -95,7 +123,11 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | BÔNUS DE COINS AO MATAR MOB                                   | ❌         | 10%         | 15%        | 20%          |
 | PRIORIDADE NA LISTA DE ESPERA                                 | ❌         | ✔️          | ✔️        | ✔️           |
 
+</APITable>
+
 ## Comandos
+
+<APITable>
 
 | **COMANDOS**   | **DESCRIÇÃO DO COMANDO**                  | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :------------: | :---------------------------------------: | :---------: | :--------: | :----------: |
@@ -131,3 +163,5 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | `/kit prem`    | [Descrição do comando](./comandos.md#vip) | ✔️          | ❌        | ❌           |
 | `/kit mast`    | [Descrição do comando](./comandos.md#vip) | ❌          | ✔️        | ❌           |
 | `/kit ulti `   | [Descrição do comando](./comandos.md#vip) | ❌          | ❌        | ✔️           |
+
+</APITable>

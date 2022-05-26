@@ -4,9 +4,13 @@ description: Tudo sobre o sistema de duelo entre jogadores.
 sidebar_position: 12
 ---
 
+import APITable from '/src/components/APITable';
+
 # Duelo entre Jogadores
 
 ## Comandos
+
+<APITable>
 
 | Comando | Descrição |
 | ------- | --------- |
@@ -19,3 +23,5 @@ sidebar_position: 12
 | `/x1 stats [jogador]` | Listar status de duelos do jogador |
 | `/x1 toggle` | Ativar ou desativar pedidos de duelo |
 | `/topduelos` | Listar melhores duelistas |
+
+</APITable>

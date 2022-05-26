@@ -4,6 +4,8 @@ description: Tudo sobre o sistema de liga do servidor.
 sidebar_position: 10
 ---
 
+import APITable from '/src/components/APITable';
+
 # Liga de Clãs Mensal
 
 Liga é um sistema de pontuação dos clãs de acordo com as atividades de cada jogador no servidor.
@@ -14,10 +16,14 @@ Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês.
 
 ## Comandos
 
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/topliga` ou `/liga top` | Listar os TOP 10 clãs com maior pontuação. |
 | `/liga status [tag-do-clã]` | Listar informações sobre o clã selecionado. |
+
+</APITable>
 
 ## Pontuação Positiva
 

@@ -4,11 +4,15 @@ description: Tudo sobre o sistema de warp de jogadores.
 sidebar_position: 11
 ---
 
+import APITable from '/src/components/APITable';
+
 # Warp de Jogadores
 
 Warp de jogadores (Go) serve para que os jogadores tenham um ponto de teleporte público pelo mapa.
 
 ## Comandos
+
+<APITable>
 
 | Comando | Descrição |
 | ------- | --------- |
@@ -32,6 +36,8 @@ Warp de jogadores (Go) serve para que os jogadores tenham um ponto de teleporte 
 | `/go senha definir [warp] [senha]` | Definir senha de uma warp |
 | `/go senha remover [warp]` | Remover senha de uma warp |
 | `/go travar [warp]` | Travar ou destravar uma warp |
+
+</APITable>
 
 ## Criar uma Go
 
