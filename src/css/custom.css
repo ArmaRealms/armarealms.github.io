@@ -42,9 +42,3 @@ table, th, td {
   border-collapse: collapse;
   width: 100%;
 }
-
-table{
-    width: 100%;
-    table-layout: fixed;
-    overflow-wrap: break-word;
-}

@@ -55,11 +55,11 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/kits` | Abra o menu de kits |
-| `/kit [nome-do-kit]` | Receba o kit solicitado |
-| `/kit fome` | Receba o kit com pães |
-| `/kit prot` | Receba o kit de proteção |
-| `/kit pvp` | Receba o kit de PVP (Custo: $500 coins) | 
+| `/kits` | Abrir o menu de kits |
+| `/kit [nome-do-kit]` | Receber o kit solicitado |
+| `/kit fome` | Receber o kit com pães |
+| `/kit prot` | Receber o kit de proteção |
+| `/kit pvp` | Receber o kit de PVP (Custo: $500 coins) | 
 
 </APITable>
 
@@ -125,13 +125,13 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/m [jogador] [mensagem]` | Envie mensagens privadas para outro jogador |
+| `/m [jogador] [mensagem]` | Enviar mensagens privadas para outro jogador |
 | `/m [jogador]` | Travar ou destravar mensagens privadas com outro jogador |
-| `/r [mensagem]` | Responda a última mensagem privada recebida |
-| `/ignore [jogador]` | Ignora/Designora um jogador |
+| `/r [mensagem]` | Responder a última mensagem privada recebida |
+| `/ignore [jogador]` | Ignorar ou designorar um jogador |
 | `/ignore list` | Listar jogadores ignorados |
-| `/msgnotify` | Ativa ou desativa notificações ao receber mensagens |
-| `/msgtoggle` | Ativa ou desativa o recebimento de mensagens privadas |
+| `/msgnotify` | Ativar ou desativar notificações ao receber mensagens |
+| `/msgtoggle` | Ativar ou desativar recebimento de mensagens privadas |
 
 </APITable>
 
