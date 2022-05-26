@@ -29,13 +29,18 @@ Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês.
 
 ### Eventos Mensais
 
+<APITable>
+
 | Eventos Mensais       | Pontuação                                                                            |
 | --------------------- | ------------------------------------------------------------------------------------ |
 | Guerra Mensal         | 500 pontos                                                                           |
 | Construção Mensal     | <p>1° lugar = 500 pontos</p><p>2° lugar = 400 pontos</p><p>3° lugar = 300 pontos</p> |
 
+</APITable>
 
 ### Eventos Semanais
+
+<APITable>
 
 | Eventos Semanais      | Pontuação                                                                            |
 | --------------------- | ------------------------------------------------------------------------------------ |
@@ -46,7 +51,11 @@ Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês.
 | Pré Guerra Semanal    | 100 pontos                                                                           |
 | Torneio Semanal       | <p>1° lugar = 100 pontos</p><p>2° lugar = 75 pontos</p><p>3° lugar = 50 pontos</p>   |
 
+</APITable>
+
 ### Eventos Diários
+
+<APITable>
 
 | Eventos Diários       | Pontuação                                                                            |
 | --------------------- | ------------------------------------------------------------------------------------ |
@@ -64,15 +73,21 @@ Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês.
 | Spleef                | 10 pontos                                                                            |
 | Sumô                  | 10 pontos                                                                            |
 
+</APITable>
+
 ## Pontuação Negativa
 
 ### Punições
+
+<APITable>
 
 | Tipo de punição          | Pontuação                                  |
 | ------------------------ | ------------------------------------------ |
 | Silenciamento Temporário | -50 pontos e -10 pontos por dia silenciado |
 | Banimento Temporário     | -100 pontos e -50 pontos por dia banido    |
 | Banimento Permanente     | -500 pontos                                |
+
+</APITable>
 
 #### Exemplo de pontuação negativa:
 

@@ -36,3 +36,14 @@
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+table, th, td {
+  border: 1px solid red;
+  border-collapse: collapse;
+}
+
+table{
+    width: 100%;
+    table-layout: fixed;
+    overflow-wrap: break-word;
+}

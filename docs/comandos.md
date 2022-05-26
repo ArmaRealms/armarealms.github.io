@@ -1,8 +1,10 @@
 ---
 title: Comandos
-description: Todos os comandos disponíveis no servidor.
+description: Lista de comandos disponíveis no servidor.
 sidebar_position: 4
 ---
+
+import APITable from '/src/components/APITable';
 
 # Lista de Comandos
 
@@ -11,6 +13,9 @@ sidebar_position: 4
 ## Diversos
 
 ### Informações
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/ajuda` | Listar comandos do servidor |
@@ -24,7 +29,12 @@ sidebar_position: 4
 | `/votos` | Listar a quantidades de votos que você possui |
 | `/wiki` | Listar a Wiki do servidor |
 
+</APITable>
+
 ### Melhorias
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/auto aviso` | Ativar ou desativar o aviso de inventário cheio |
@@ -37,7 +47,12 @@ sidebar_position: 4
 | `/sort` | Ativar ou desativar o arganizador de baús automático | 
 | `/tags` | Abrir o menu de seleção de tags |
 
+</APITable>
+
 ### Kits
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/kits` | Abra o menu de kits |
@@ -46,7 +61,12 @@ sidebar_position: 4
 | `/kit prot` | Receba o kit de proteção |
 | `/kit pvp` | Receba o kit de PVP (Custo: $500 coins) | 
 
+</APITable>
+
 ### Skins
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/skin set [nick]` | Alterar sua skin usando uma conta original |
@@ -54,7 +74,12 @@ sidebar_position: 4
 | `/skin clear` | Remover sua skin |
 | `/skin update` | Atualizar sua skin | 
 
+</APITable>
+
 ### Duelo
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/x1` | Listar comandos do sistema de duelo |
@@ -67,7 +92,12 @@ sidebar_position: 4
 | `/x1 toggle` | Ativar ou desativar pedidos de duelo |
 | `/topduelos` | Listar melhores duelistas |
 
+</APITable>
+
 ### Casamento
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/marry` | Listar todos os comandos do marry |
@@ -85,9 +115,14 @@ sidebar_position: 4
 | `/marry abraçar` | Abraçar seu parceiro(a) |
 | `/marry seen` | Exibir o último login do seu parceiro(a) |
 
+</APITable>
+
 ## Chat
 
 ### Mensagem Privada
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/m [jogador] [mensagem]` | Envie mensagens privadas para outro jogador |
@@ -98,22 +133,37 @@ sidebar_position: 4
 | `/msgnotify` | Ativa ou desativa notificações ao receber mensagens |
 | `/msgtoggle` | Ativa ou desativa o recebimento de mensagens privadas |
 
+</APITable>
+
 ### Mensagem Global
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/g [mensagem]` | Enviar mensagem no chat global |
 | `/g` ou `/global` | Entrar no chat global |
 | `/leave global` | Sair do chat global |
 
+</APITable>
+
 ### Mensagem Local
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/l [mensagem]` | Envie mensagem no chat local <p>Aparecerá para quem estiver a 200 blocos de distância</p> |
 | `/l` ou `/local` | Entrar no chat local |
 
+</APITable>
+
 ## Proteção
 
 ### Criar Proteções
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/prot` ou `/plot` | Comandos para abrir o menu de proteção | 
@@ -121,7 +171,12 @@ sidebar_position: 4
 | `/extendclaim [tamanho]` | Aumentar o tamanho da proteção |
 | `/claimlist` | Liste as informações das proteções | 
 
+</APITable>
+
 ### Permissões da Proteção
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/trust [jogador]` | Permitir acesso a construir na sua proteção |
@@ -133,14 +188,24 @@ sidebar_position: 4
 | `/untrust [jogador]` | Remover a permissão do jogador na sua proteção | 
 | `/trustlist` | Listar as permissões da proteção que você está |
 
+</APITable>
+
 ### Excluir Proteção
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/abandonallclaims` | Apague todas as suas proteções no server | 
 | `/abandonclaim` | Apague a proteção em que você está localizado |
 | `/abandontoplevelclaim` | Apague uma proteção e todas suas sub-proteções |
 
+</APITable>
+
 ### Banimento da Proteção
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/claimkick [jogador]` | Expulsar jogador da proteção |
@@ -148,26 +213,46 @@ sidebar_position: 4
 | `/claimunban [jogador]` | Desbanir outro jogador da proteção |
 | `/claimbanlist` | Listar jogadores banidos da sua proteção |
 
+</APITable>
+
 ### Criar Sub-Proteção
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/subdivideclaims` | Altere a pá de ouro para o modo de subdivisão de proteções |
 | `/restrictsubclaim` | Restrinja a sub-proteção para que ela não herde as permissões da proteção principal | 
 | `/basicclaims` | Altere a pá de ouro para o modo básico de proteção |
 
+</APITable>
+
 ### Loja de Blocos de Proteção
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/buyclaimblocks [quantia]` | Compre blocos de proteção |
 | `/sellclaimblocks [quantia]` | Venda seus blocos de proteção | 
 
+</APITable>
+
 ### Outros Comandos
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/claimexplosions` | Alterna a proteção contra explosões nos terrenos protegidos | 
 | `/givepet [jogador]` | Doe seu animal de estimação para outro jogador |
 
+</APITable>
+
 ## Teleporte
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/spawn` | Teleporte para o inicio do server |
@@ -179,14 +264,24 @@ sidebar_position: 4
 | `/rtp nether` | Teleporte aleatório pela dimensão Nether. (Custo: $5.000 coins) |
 | `/rtp end` | Teleporte aleatório pela dimensão do End. (Custo: $5.000 coins) |
 
+</APITable>
+
 ### Definir Casa
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/sethome [nome-da-home]` | Defina uma home |
 | `/home [nome-da-home]` | Teleporte para a home definida |
 | `/delhome [nome-da-home]` | Apague sua home | 
 
+</APITable>
+
 ### Teleporte entre Jogadores
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/tpa [jogador]` | Solicite a outro jogador teleporte até ele |
@@ -195,7 +290,12 @@ sidebar_position: 4
 | `/tpdeny` | Negue solicitação de teleporte até você | 
 | `/tptoggle` | Ative ou desative solicitações de teleporte até você |
 
+</APITable>
+
 ### Warps de Jogadores
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/go` ou `/pwarp` | Abrir o menu principal de Warps de jogadores |
@@ -219,9 +319,14 @@ sidebar_position: 4
 | `/go senha remover [warp]` | Remover senha de uma warp |
 | `/go travar [warp]` | Travar ou Destravar uma warp |
 
+</APITable>
+
 ## Economia
 
 ### Gerenciar Saldo
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/pay [jogador] [valor]` | Transfira dinheiro para outro jogador |
@@ -230,7 +335,12 @@ sidebar_position: 4
 | `/saldo (jogador)` | Visualize seu saldo ou de outro jogador no banco |
 | `/topsaldo (página)` | Liste os jogadores mais ricos do server |
 
+</APITable>
+
 ### Loja do Servidor
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/loja` ou `/shop` | Abrir o menu de lojas do servidor |
@@ -243,7 +353,12 @@ sidebar_position: 4
 | `/sellhand (quantia)` | Vender a quantidade especificada do item que estiver segurando |
 | `/sellhandall` | Vender todos os itens do inventário que seja igual ao que estiver segurando |
 
+</APITable>
+
 ### Loja do Jogador
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/ploja help` | Listar comandos da loja de jogador |
@@ -256,7 +371,12 @@ sidebar_position: 4
 | `/ploja item` | Alterar o item da loja |
 | `/ploja list` | Listar todas as suas lojas no server |
 
+</APITable>
+
 ### Leilão Virtual
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/ah` ou `/leilao` | Abrir o menu principal de leilão |
@@ -267,7 +387,12 @@ sidebar_position: 4
 | `/ah coletar` | Coletar itens cancelados ou expirados do leilão |
 | `/ah abrir [categoria]` | Abrir o menu da categoria especificada |
 
+</APITable>
+
 ### Loteria
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/lot` ou `/loteria` | Abra o menu da loteria para realizar apostas |
@@ -276,9 +401,14 @@ sidebar_position: 4
 | `/lot togglebuymsg` | Alterar notificações de compras na loteria |
 | `/lot toggleremindmsg` | Alterar notificações de sorteios da loteria |
 
+</APITable>
+
 ## mcMMO
 
 ### Habilidades
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/[habilidade]` | Lista as estatísticas de uma habilidade especifica |
@@ -286,7 +416,12 @@ sidebar_position: 4
 | `/[habilidade] ? (página)` | Abre o guia uma habilidade especifica |
 | `/acrobacia ? 1` | Abre o guia para a habilidade de acrobacia | 
 
+</APITable>
+
 ### Configuração
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/mcability` | Ativa ou desativa a super habilidade (ativada com botão direito) |
@@ -297,7 +432,12 @@ sidebar_position: 4
 | `/mmoxpbar show [habilidade]` | Visualizar a barra de XP de uma habilidade |
 | `/mmoxpbar reset` | Limpa todas as configurações anteriores | 
 
+</APITable>
+
 ### Informação
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/topmcmmo` ou `/mctop` | Lista os top jogadores gerais das habilidades do mcMMO |
@@ -307,7 +447,12 @@ sidebar_position: 4
 | `/mctop [habilitade]` | Lista os top jogadores numa habilidade especifica |
 | `/mctop acrobacia` | Lista os top jogadores na habilidade acrobacia | 
 
+</APITable>
+
 ### Equipe
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/p [on/off]` | Ativa ou desativa o chat da equipe |
@@ -326,7 +471,12 @@ sidebar_position: 4
 | `/party unlock` | Para desbloquear uma equipe |
 | `/party xpshare` | Para compatilhar XP com membros da equipe | 
 
+</APITable>
+
 ## VIP
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/afk` | Ativar ou desativar o modo offline |
@@ -366,3 +516,5 @@ sidebar_position: 4
 | `/viploja` | Abrir loja VIP. |
 | `/vipmenu` | Abri o menu principal do VIP |
 | `/wb` | Abrir a bancada de trabalho virtual |
+
+</APITable>
