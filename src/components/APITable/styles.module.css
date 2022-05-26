@@ -6,7 +6,9 @@
  */
 
  .apiTable {
-    font-size: small;
+    font-size: medium;
+    width: 100%;
+    
   }
   
   .apiTable tbody tr {
