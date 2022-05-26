@@ -1,12 +1,12 @@
 ---
-title: Loja de Jogadores
+title: Loja dos Jogadores
 description: Tudo sobre a loja física dos jogadores.
 sidebar_position: 2
 ---
 
-# Loja Física do Jogador
+# Loja Física dos Jogadores
 
-Loja físca por baús serve para que jogadores possam comprar e vender grande quantidade de itens utilizando seu saldo em coins.
+Loja físca por baús serve para que jogadores possam comprar e vender grande quantidade de itens.
 
 ## Quantidade de Lojas
 
@@ -33,7 +33,8 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 
 ## Criar uma Loja
 
-> [Lojas são protegidas pelo sistema de proteção de terrenos!](../protecao/basica.md)  
+> ⚠️ [Lojas são protegidas pelo sistema de proteção de terrenos!](../protecao/basica.md)  
+> ⚠️ Lojas físicas serão removidas quando a proteção for excluida!  
 > ⚠️ Custo: $100 coins.
 
 1. Coloque o item e a quantidade que deseja comprar ou vender na mão

@@ -39,7 +39,7 @@ Exemplo 2: `/claimexpand -5` - Diminui em 5 blocos a proteção na direção que
 
 Você pode usar `/abandonallclaims` para excluir todas as suas proteções do servidor.
 
-## Listar Proteção
+⚠️ [Lojas físicas](../lojas/jogador.md) serão removidas quando a proteção for excluida!
 
 1. Envie `/claimlist` para listar todas as suas proteções.
 
