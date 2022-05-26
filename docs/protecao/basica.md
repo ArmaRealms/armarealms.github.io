@@ -41,6 +41,8 @@ Você pode usar `/abandonallclaims` para excluir todas as suas proteções do se
 
 ⚠️ [Lojas físicas](../lojas/jogador.md) serão removidas quando a proteção for excluida!
 
+## Listar Proteção
+
 1. Envie `/claimlist` para listar todas as suas proteções.
 
 ## Comprar Blocos de Proteção
