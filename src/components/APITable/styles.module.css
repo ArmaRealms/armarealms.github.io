@@ -9,13 +9,13 @@
     display: inline-table;
     font-size: small;
     overflow-wrap: break-word;
-    table-layout: auto;
+    table-layout: fixed;
   }
-  
+
   .apiTable tbody tr {
     transition: box-shadow 0.2s;
   }
-  
+
   .apiTable tbody tr:focus,
   .apiTable tbody tr:hover {
     outline: none;
