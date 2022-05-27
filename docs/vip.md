@@ -129,39 +129,39 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 
 <APITable>
 
-| **COMANDOS**   | **DESCRIÇÃO DO COMANDO**                  | **PREMIUM** | **MASTER** | **ULTIMATE** |
-| :------------: | :---------------------------------------: | :---------: | :--------: | :----------: |
-| `/afk`         | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/auto baus`   | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/auto blocos` | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/auto mobs`   | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/auto pesca`  | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/bancada`     | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/bigorna`     | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/bloco`       | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/cartografia` | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/cor`         | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/cortador`    | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/craft`       | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/crafttoggle` | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/ec`          | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/ferraria`    | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/hat`         | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/isort`       | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/isortall`    | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/isorthotbar` | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/isorttoggle` | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/luz`         | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/nick`        | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/rebolo`      | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/tear`        | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/v`           | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/vipconfig`   | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/viploja`     | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/vipmenu`     | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/wb`          | [Descrição do comando](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/kit prem`    | [Descrição do comando](./comandos.md#vip) | ✔️          | ❌        | ❌           |
-| `/kit mast`    | [Descrição do comando](./comandos.md#vip) | ❌          | ✔️        | ❌           |
-| `/kit ulti `   | [Descrição do comando](./comandos.md#vip) | ❌          | ❌        | ✔️           |
+| **COMANDOS**   | **DESCRIÇÃO**                  | **PREMIUM** | **MASTER** | **ULTIMATE** |
+| :------------: | :----------------------------: | :---------: | :--------: | :----------: |
+| `/afk`         | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/auto baus`   | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/auto blocos` | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/auto mobs`   | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/auto pesca`  | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/bancada`     | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/bigorna`     | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/bloco`       | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/cartografia` | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/cor`         | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/cortador`    | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/craft`       | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/crafttoggle` | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/ec`          | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/ferraria`    | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/hat`         | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/isort`       | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/isortall`    | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/isorthotbar` | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/isorttoggle` | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/luz`         | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/nick`        | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/rebolo`      | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/tear`        | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/v`           | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/vipconfig`   | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/viploja`     | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/vipmenu`     | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/wb`          | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/kit prem`    | [Descrição](./comandos.md#vip) | ✔️          | ❌        | ❌           |
+| `/kit mast`    | [Descrição](./comandos.md#vip) | ❌          | ✔️        | ❌           |
+| `/kit ulti `   | [Descrição](./comandos.md#vip) | ❌          | ❌        | ✔️           |
 
 </APITable>
