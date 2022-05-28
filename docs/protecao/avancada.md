@@ -24,9 +24,9 @@ import APITable from '/src/components/APITable';
 ## Criar uma Sub-Proteção
 
 1. Envie `/kit prot` e coloque a `pá de ouro` na mão.
-2. Envie `/subdivideclaim` para entrar no modo de sub-proteção.
+2. Envie `/claimsubdivide` para entrar no modo de sub-proteção.
 3. Segure a `pá de ouro` e dentro da sua proteção, clique em duas quinas para criar a sub-proteção.
-4. Envie `/restrictsubclaim` para que a sub-proteção não herde permissões da proteção principal.
+4. Envie `/claimrestrict` para que a sub-proteção não herde permissões da proteção principal.
 
 Envie `/basicclaims` para voltar ao modo de proteção normal.
 

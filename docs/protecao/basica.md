@@ -36,8 +36,8 @@ import APITable from '/src/components/APITable';
 
 1. Envie `/claimexpand <tamanho>` virado para a direção que deseja expandir.  
 
-Exemplo 1: `/claimexpand 10` - Expande em 10 blocos para a direção que você estiver olhando.  
-Exemplo 2: `/claimexpand -5` - Diminui em 5 blocos a proteção na direção que você estiver olhando.
+🎯 Exemplo 1: `/claimexpand 10` - Expande em 10 blocos para a direção que você estiver olhando.  
+🎯 Exemplo 2: `/claimexpand -5` - Diminui em 5 blocos a proteção na direção que você estiver olhando.
 
 ## Excluir Proteção
 
@@ -55,14 +55,14 @@ Você pode usar `/abandonallclaims` para excluir todas as suas proteções do se
 
 > Cada bloco de proteção custa $10 coins. 
 
-1. Envie `/buyclaimblocks [quantia]` para comprar blocos de proteção.
+1. Envie `/claimbuyblocks [quantia]` para comprar blocos de proteção.
 
-🎯 Exemplo: `/buyclaimblocks 100` - Comprará 100 blocos de proteção por 1.000 coins
+🎯 Exemplo: `/claimbuyblocks 100` - Comprará 100 blocos de proteção por 1.000 coins
 
 ## Vender Blocos de Proteção
 
 > Cada bloco de proteção vale $8 coins. 
 
-1. Envie `/sellclaimblocks [quantia]` para comprar blocos de proteção.
+1. Envie `/claimsellblocks [quantia]` para comprar blocos de proteção.
 
-🎯 Exemplo: `/sellclaimblocks 100` - Venderá 100 blocos de proteção por 800 coins
+🎯 Exemplo: `/claimsellblocks 100` - Venderá 100 blocos de proteção por 800 coins

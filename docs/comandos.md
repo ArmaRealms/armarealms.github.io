@@ -483,7 +483,7 @@ import APITable from '/src/components/APITable';
 | `/auto baus` | [Alternar o recolhimento itens ao quebrar baús](./melhorias/auto.md#comandos-para-vip) |
 | `/auto blocos` | [Alternar o recolhimento itens ao quebrar blocos](./melhorias/auto.md#comandos-para-vip) |
 | `/auto mobs` | [Alternar o recolhimento itens ao matar mobs](./melhorias/auto.md#comandos-para-vip)  |
-| `/auto pesca` | [Alternar o recolhimento ao pescar]((./melhorias/auto.md#comandos-para-vip)) |
+| `/auto pesca` | [Alternar o recolhimento ao pescar](./melhorias/auto.md#comandos-para-vip)) |
 | `/bancada` | Abrir o menu de bancadas virtual |
 | `/bigorna` | Abrir a bigorna virtual |
 | `/bloco (hand)`| Transforma o item que você estiver segundando em blocos |

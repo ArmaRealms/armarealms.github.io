@@ -30,9 +30,9 @@ Exemplo: **`/accesstrust public`** ou **`/containertrust public`**
 | Comando | Descrição |
 | ------- | --------- |
 | `/trust [jogador]` | Permitir acesso a construir na sua proteção |
-| `/trustaccess [jogador]` | Permitir acesso a cama, portas e etc.. na sua proteção |
+| `/trustaccess [jogador]` | Permitir acesso a cama, portas na sua proteção |
 | `/trustcontainer [jogador]` | Permitir acesso a baús na sua proteção |
-| `/trustpermission [jogador]` | Permitir gerenciamento de permissões na sua proteção |
+| `/trustpermission [jogador]` | Permitir gerenciar permissões na sua proteção |
 | `/trustnear [jogador]` | Permitir que jogador proteja perto de você |
 | `/untrustnear [jogador]` | Remover permissão TrustNear do jogador |
 | `/untrust [jogador]` | Remover a permissão do jogador na sua proteção | 
@@ -46,9 +46,9 @@ Exemplo: **`/accesstrust public`** ou **`/containertrust public`**
 
 ⚠️ Permissão para usar botões, alavancas, camas e definir `/home` na sua proteção ou sub-proteção.
 
-1. Envie `/accesstrust [jogador]` para dar a permissão AcessTrust.
+1. Envie `/trustaccess [jogador]` para dar a permissão AcessTrust.
 
-🎯 Exemplo: `/accesstrust ThiagoROX`
+🎯 Exemplo: `/trustaccess ThiagoROX`
 
 ## Permissão ContainerTrust
 
@@ -56,9 +56,9 @@ Exemplo: **`/accesstrust public`** ou **`/containertrust public`**
 
 ⚠️ Permissão para usar botões, alavancas, camas, mesa de trabalho, **baús**, fornalhas, animais e aldeões na sua proteção ou sub-proteção.  
 
-1. Envie `/containertrust [jogador]` para dar a permissão ContainerTrust.
+1. Envie `/trustcontainer [jogador]` para dar a permissão ContainerTrust.
 
-🎯 Exemplo: `/containertrust ThiagoROX`
+🎯 Exemplo: `/trustcontainer ThiagoROX`
 
 ## Permissão PermissionTrust
 
@@ -67,9 +67,9 @@ Exemplo: **`/accesstrust public`** ou **`/containertrust public`**
 ⚠️ Jogador poderá dar permissões que ele possui para outros jogadores.  
 Como funciona: O jogador que tenha a permissão `PermissionTrust` e `Trust` poderá dar ou remover a permissão `Trust` a outros jogadores. Ele não poderá dar a permissão `PermissionTrust` para outros jogadores.
 
-1. Envie `/permissiontrust [jogador]` para dar a permissão PermissionTrust.
+1. Envie `/trustpermission [jogador]` para dar a permissão PermissionTrust.
 
-🎯 Exemplo: `/permissiontrust ThiagoROX`
+🎯 Exemplo: `/trustpermission ThiagoROX`
 
 ## Permissão TrustNear
 
