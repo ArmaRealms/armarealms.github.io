@@ -44,9 +44,10 @@ const config = {
       navbar: {
         title: 'Wiki Armageddon',
         logo: {
-          alt: 'armamc icon',
+          alt: 'armamc',
           src: 'img/logo.png',
         },
+        hideOnScroll: true,
         items: [
           {
             type: 'html',
