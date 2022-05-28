@@ -26,7 +26,8 @@ import APITable from '/src/components/APITable';
 | `/topvotos` | Listar os jogadores que mais votaram no server |
 | `/vip` | Site da loja onde vende VIP, chave e outros produtos |
 | `/vote` ou `/votar` | Listar o site para votar no server |
-| `/votos` | Listar a quantidades de votos que você possui |
+| `/votos` | Listar sua quantidade de votos |
+| `/votos [jogador]` | Listar a quantidade de votos do jogador especificado |
 | `/wiki` | Listar a Wiki do servidor |
 
 </APITable>
@@ -37,12 +38,16 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/auto aviso` | Alternar o aviso de inventário cheio |
 | `/auto` | Alternar o recolhimento de itens direto para o inventário |
+| `/auto aviso` | Alternar o aviso de inventário cheio |
 | `/copyright` | Bloquear cópia de mapas (Custo: $5.000 coins) |
 | `/gps` | Listar quem estiver a 200 blocos de distância |
 | `/lixo` | Abrir a lixeira para descartar itens |
 | `/original` | Ative o login automático se você tiver minecraft original |
+| `/perfil` | Visualizar seu perfil no server |
+| `/perfil [jogador]` | Visualizar o perfil do jogador especificado |
+| `/playtime` | Visualisar seu tempo de jogo no server |
+| `/playtime [jogador]` | Visualisar o tempo de jogo do jogador especificado |
 | `/sentar` ou `/chairs` | Alternar o sistema de caideiras |
 | `/sort` | Alternar o arganizador de baús automático | 
 | `/tags` | Abrir o menu de seleção de tags |
