@@ -132,25 +132,25 @@ VIP Premium, Master e Ultimate possui a duração de 30 dias.
 | **COMANDOS**   | **DESCRIÇÃO**                  | **PREMIUM** | **MASTER** | **ULTIMATE** |
 | :------------: | :----------------------------: | :---------: | :--------: | :----------: |
 | `/afk`         | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/auto baus`   | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/auto blocos` | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/auto mobs`   | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/auto pesca`  | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/auto baus`   | [Descrição](./melhorias/auto.md#comandos-para-vip) | ✔️          | ✔️        | ✔️           |
+| `/auto blocos` | [Descrição](./melhorias/auto.md#comandos-para-vip) | ✔️          | ✔️        | ✔️           |
+| `/auto mobs`   | [Descrição](./melhorias/auto.md#comandos-para-vip) | ✔️          | ✔️        | ✔️           |
+| `/auto pesca`  | [Descrição](./melhorias/auto.md#comandos-para-vip) | ✔️          | ✔️        | ✔️           |
 | `/bancada`     | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
 | `/bigorna`     | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
 | `/bloco`       | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
 | `/cartografia` | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
 | `/cor`         | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
 | `/cortador`    | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/craft`       | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/crafttoggle` | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/craft`       | [Descrição](./melhorias/craft.md) | ✔️          | ✔️        | ✔️           |
+| `/crafttoggle` | [Descrição](./melhorias/craft.md) | ✔️          | ✔️        | ✔️           |
 | `/ec`          | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
 | `/ferraria`    | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
 | `/hat`         | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/isort`       | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/isortall`    | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/isorthotbar` | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
-| `/isorttoggle` | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
+| `/isort`       | [Descrição](./melhorias/sort.md#organizar-inventário) | ✔️          | ✔️        | ✔️           |
+| `/isortall`    | [Descrição](./melhorias/sort.md#organizar-inventário) | ✔️          | ✔️        | ✔️           |
+| `/isorthotbar` | [Descrição](./melhorias/sort.md#organizar-inventário) | ✔️          | ✔️        | ✔️           |
+| `/isorttoggle` | [Descrição](./melhorias/sort.md#organizar-inventário) | ✔️          | ✔️        | ✔️           |
 | `/luz`         | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
 | `/nick`        | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |
 | `/rebolo`      | [Descrição](./comandos.md#vip) | ✔️          | ✔️        | ✔️           |

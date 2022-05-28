@@ -37,14 +37,14 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/auto aviso` | Ativar ou desativar o aviso de inventário cheio |
-| `/auto` | Ativar ou desativar o recolhimento de itens direto para o inventário |
+| `/auto aviso` | Alternar o aviso de inventário cheio |
+| `/auto` | Alternar o recolhimento de itens direto para o inventário |
 | `/copyright` | Bloquear cópia de mapas (Custo: $5.000 coins) |
 | `/gps` | Listar quem estiver a 200 blocos de distância |
 | `/lixo` | Abrir a lixeira para descartar itens |
 | `/original` | Ative o login automático se você tiver minecraft original |
-| `/sentar` ou `/chairs` | Ativar ou desativar o sistema de caideiras |
-| `/sort` | Ativar ou desativar o arganizador de baús automático | 
+| `/sentar` ou `/chairs` | Alternar o sistema de caideiras |
+| `/sort` | Alternar o arganizador de baús automático | 
 | `/tags` | Abrir o menu de seleção de tags |
 
 </APITable>
@@ -89,7 +89,7 @@ import APITable from '/src/components/APITable';
 | `/x1 deny [jogador]` | Negar pedido de duelo do jogador |
 | `/x1 stats` | Listar o seu status de duelos |
 | `/x1 stats [jogador]` | Listar status de duelos do jogador |
-| `/x1 toggle` | Ativar ou desativar pedidos de duelo |
+| `/x1 toggle` | Alternar pedidos de duelo |
 | `/topduelos` | Listar melhores duelistas |
 
 </APITable>
@@ -130,8 +130,8 @@ import APITable from '/src/components/APITable';
 | `/r [mensagem]` | Responder a última mensagem privada recebida |
 | `/ignore [jogador]` | Ignorar ou designorar um jogador |
 | `/ignore list` | Listar jogadores ignorados |
-| `/msgnotify` | Ativar ou desativar notificações ao receber mensagens |
-| `/msgtoggle` | Ativar ou desativar recebimento de mensagens privadas |
+| `/msgnotify` | Alternar notificações ao receber mensagens |
+| `/msgtoggle` | Alternar recebimento de mensagens privadas |
 
 </APITable>
 
@@ -221,9 +221,9 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/subdivideclaims` | Altere a pá de ouro para o modo de subdivisão de proteções |
-| `/restrictsubclaim` | Restrinja a sub-proteção para que ela não herde as permissões da proteção principal | 
-| `/basicclaims` | Altere a pá de ouro para o modo básico de proteção |
+| `/subdivideclaims` | Alterar a pá de ouro para o modo de subdivisão de proteções |
+| `/restrictsubclaim` | Restrinjir a sub-proteção para que ela não herde as permissões da proteção principal | 
+| `/basicclaims` | Alterar a pá de ouro para o modo básico de proteção |
 
 </APITable>
 
@@ -233,8 +233,8 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/buyclaimblocks [quantia]` | Compre blocos de proteção |
-| `/sellclaimblocks [quantia]` | Venda seus blocos de proteção | 
+| `/buyclaimblocks [quantia]` | Comprar blocos de proteção |
+| `/sellclaimblocks [quantia]` | Vender seus blocos de proteção | 
 
 </APITable>
 
@@ -244,8 +244,8 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/claimexplosions` | Alterna a proteção contra explosões nos terrenos protegidos | 
-| `/givepet [jogador]` | Doe seu animal de estimação para outro jogador |
+| `/claimexplosions` | Alternar a proteção contra explosões nos terrenos protegidos | 
+| `/givepet [jogador]` | Doar seu animal de estimação para outro jogador |
 
 </APITable>
 
@@ -255,14 +255,14 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/spawn` | Teleporte para o inicio do server |
-| `/wild` | Teleporte para um lugar aleatório do mapa que você estiver |
-| `/fps` | Teleporte para a arena FPS (mcMMO desativado) |
-| `/arena` | Teleporte para a arena (mcMMO ativado) |
-| `/camarote` | Teleporte para o camarote de eventos de batalha | 
-| `/rtp mundo` | Teleporte aleatório pelo mundo. |
-| `/rtp nether` | Teleporte aleatório pela dimensão Nether. (Custo: $5.000 coins) |
-| `/rtp end` | Teleporte aleatório pela dimensão do End. (Custo: $5.000 coins) |
+| `/spawn` | Teleportar para o inicio do server |
+| `/wild` | Teleportar para um lugar aleatório do mapa que você estiver |
+| `/fps` | Teleportar para a arena FPS (mcMMO desativado) |
+| `/arena` | Teleportar para a arena (mcMMO ativado) |
+| `/camarote` | Teleportar para o camarote de eventos de batalha | 
+| `/rtp mundo` | Teleportar aleatório pelo mundo. |
+| `/rtp nether` | Teleportar aleatório pela dimensão Nether. (Custo: $5.000 coins) |
+| `/rtp end` | Teleportar aleatório pela dimensão do End. (Custo: $5.000 coins) |
 
 </APITable>
 
@@ -272,9 +272,9 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/sethome [nome-da-home]` | Defina uma home |
-| `/home [nome-da-home]` | Teleporte para a home definida |
-| `/delhome [nome-da-home]` | Apague sua home | 
+| `/sethome [nome-da-home]` | Definir uma home |
+| `/home [nome-da-home]` | Teleportar para a home definida |
+| `/delhome [nome-da-home]` | Apagar sua home | 
 
 </APITable>
 
@@ -284,11 +284,11 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/tpa [jogador]` | Solicite a outro jogador teleporte até ele |
-| `/tpacancel` | Cancele a solicitação de teleporte enviada por você |
-| `/tpaccept` | Aceite solicitação de teleporte até você |
-| `/tpdeny` | Negue solicitação de teleporte até você | 
-| `/tptoggle` | Ative ou desative solicitações de teleporte até você |
+| `/tpa [jogador]` | Solicitar a outro jogador teleporte até ele |
+| `/tpacancel` | Cancelar a solicitação de teleporte enviada por você |
+| `/tpaccept` | Aceitar solicitação de teleporte até você |
+| `/tpdeny` | Negar solicitação de teleporte até você | 
+| `/tptoggle` | Alternar solicitações de teleporte até você |
 
 </APITable>
 
@@ -317,7 +317,7 @@ import APITable from '/src/components/APITable';
 | `/go renomear [warp] [novo-nome]` | Renomear uma warp | 
 | `/go senha definir [warp] [senha]` | Definir senha de uma warp |
 | `/go senha remover [warp]` | Remover senha de uma warp |
-| `/go travar [warp]` | Travar ou Destravar uma warp |
+| `/go travar [warp]` | Travar ou destravar uma warp |
 
 </APITable>
 
@@ -329,11 +329,11 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/pay [jogador] [valor]` | Transfira dinheiro para outro jogador |
-| `/payconfirmtoggle` | Ative e desative a confirmação de pagamento |
-| `/paytoggle` | Ative e desative o recebimento de dinheiro |
-| `/saldo (jogador)` | Visualize seu saldo ou de outro jogador no banco |
-| `/topsaldo (página)` | Liste os jogadores mais ricos do server |
+| `/pay [jogador] [valor]` | Transferir dinheiro para outro jogador |
+| `/payconfirmtoggle` | Alternar a confirmação de pagamento |
+| `/paytoggle` | Alternar o recebimento de dinheiro |
+| `/saldo (jogador)` | Visualizar seu saldo ou de outro jogador no banco |
+| `/topsaldo (página)` | Listar os jogadores mais ricos do server |
 
 </APITable>
 
@@ -424,9 +424,9 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/mcability` | Ativa ou desativa a super habilidade (ativada com botão direito) |
+| `/mcability` | Alternar a super habilidade (ativada com botão direito) |
 | `/mccooldown` | Exiba o placar de tempo de recarga de super habilidades |
-| `/mcnotify` | Ativa ou desativa notificações de habilidades |
+| `/mcnotify` | Alternar notificações de habilidades |
 | `/mmoxpbar` | Configurar a barra de XP do mcMMO |
 | `/mmoxpbar hide [habilidade]` |  Esconder a barra de XP de uma habilidade |
 | `/mmoxpbar show [habilidade]` | Visualizar a barra de XP de uma habilidade |
@@ -455,7 +455,7 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/p [on/off]` | Ativa ou desativa o chat da equipe |
+| `/p [on/off]` | Alternar o chat da equipe |
 | `/p` | Alterna entre on e off o chat da equipe |
 | `/p [msg]` | Envie mensagens no chat da equipe sem entrar no chat |
 | `/party create [nome] (senha)` | Para criar um equipe |
@@ -479,11 +479,11 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/afk` | Ativar ou desativar o modo offline |
-| `/auto baus` | Ativar ou desativar o recolhimento automatico de itens ao quebrar baús |
-| `/auto blocos` | Ativar ou desativar o recolhimento automatico de itens ao quebrar blocos |
-| `/auto mobs` | Ativar ou desativar o recolhimento automatico de itens ao matar mobs  |
-| `/auto pesca` | Ativar ou desativar o recolhimento automatico ao pescar |
+| `/afk` | Alternar o modo offline |
+| `/auto baus` | [Alternar o recolhimento itens ao quebrar baús](./melhorias/auto.md#comandos-para-vip) |
+| `/auto blocos` | [Alternar o recolhimento itens ao quebrar blocos](./melhorias/auto.md#comandos-para-vip) |
+| `/auto mobs` | [Alternar o recolhimento itens ao matar mobs](./melhorias/auto.md#comandos-para-vip)  |
+| `/auto pesca` | [Alternar o recolhimento ao pescar]((./melhorias/auto.md#comandos-para-vip)) |
 | `/bancada` | Abrir o menu de bancadas virtual |
 | `/bigorna` | Abrir a bigorna virtual |
 | `/bloco (hand)`| Transforma o item que você estiver segundando em blocos |
@@ -494,15 +494,15 @@ import APITable from '/src/components/APITable';
 | `/cor` | Abrir o menu de cores do chat |
 | `/cores` | Listar códigos de cores |
 | `/cortador` | Abrir o cartador virtual |
-| `/craft` | Abrir o Super Craft virtual |
-| `/crafttoggle` | Ativar ou Desativa o Super Craft |
+| `/craft` | [Abrir o Super Craft virtual](./melhorias/craft.md) |
+| `/crafttoggle` | [Ativar ou desativa o Super Craft](./melhorias/craft.md) |
 | `/ec` | Abrir o baú do fim virtual |
 | `/ferraria` | abrir a bancada de ferreiro virtual |
 | `/hat` | Colocar o bloco na mão no lugar do capacete | 
-| `/isort` | Organizar apenas os itens no seu inventário  |
-| `/isortall` | Organizar itens do seu inventário e da sua hotbar |
-| `/isorthotbar` | Organizar apenas os itens da sua hotbar |
-| `/isorttoggle` | Ativar ou desativar a organização de inventário automaticamente |
+| `/isort` | [Organizar apenas os itens no seu inventário](./melhorias/sort.md#organizar-inventário) |
+| `/isortall` | [Organizar itens do seu inventário e da sua hotbar](./melhorias/sort.md#organizar-inventário) |
+| `/isorthotbar` |[ Organizar apenas os itens da sua hotbar](./melhorias/sort.md#organizar-inventário) |
+| `/isorttoggle` | [Alternar a organização de inventário automaticamente](./melhorias/sort.md#organizar-inventário) |
 | `/kit mast` | Receber o KIT semanal Master |
 | `/kit prem` | Receber o KIT semanal Premium |
 | `/kit ulti` | Receber o KIT semanal Ultimate |
