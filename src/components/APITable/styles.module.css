@@ -10,6 +10,8 @@
     font-size: small;
     overflow-wrap: break-word;
     table-layout: fixed;
+    border-collapse: collapse;
+    width: 100%;
   }
 
   .apiTable tbody tr {
