@@ -4,6 +4,8 @@ description: Sistema de recolhimento automático de itens.
 sidebar_position: 1
 ---
 
+import APITable from '/src/components/APITable';
+
 # Recolhimento Automático
 
 Recolhimento automático de itens serve para facilitar a colheita plantações.  
@@ -11,15 +13,21 @@ Ao quebrar blocos, baús, matar mobs e pescar, os itens vão direto para o inven
 
 ## Comandos para Membros
 
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/auto` | Ativar ou desativar o recolhimento de itens direto para o inventário |
 | `/auto geral` | Ativar ou desativar o recolhimento de todos os modulos |
 | `/auto aviso` | Ativar ou desativar o aviso de inventário cheio |
 
+</APITable>
+
 ## Comandos para VIP
 
 > [Comandos exclusivos para os cargos VIP.](../vip.md)
+
+<APITable>
 
 | Comando | Descrição |
 | ------- | --------- |
@@ -28,3 +36,4 @@ Ao quebrar blocos, baús, matar mobs e pescar, os itens vão direto para o inven
 | `/auto mobs` | Ativar ou desativar o recolhimento de itens ao matar mobs  |
 | `/auto pesca` | Ativar ou desativar o recolhimento de itens ao pescar |
 
+</APITable>

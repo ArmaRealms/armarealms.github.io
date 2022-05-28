@@ -16,7 +16,7 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/imob` ou `imobiliaria`      | Comando principal do sistema de imobiliária |
+| `/imob` ou `/imobiliaria`      | Comando principal do sistema de imobiliária |
 | `/imob ajuda`                 | Listar todos os comandos do sistema de imobiliária |
 | `/imob listar todos`          | Listar todas as proteções que estão à venda ou alugando |
 | `/imob listar venda`          | Listar todas as proteções que estão à venda |

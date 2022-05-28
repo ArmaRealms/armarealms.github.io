@@ -29,13 +29,15 @@ Utilizado principalmente para proteger MapArts!
 1. Envie `/copyright` com o mapa que deseja bloquear na mão.
 2. Clique na mensagem que aparecerá no chat para confirmar.
 
-⚠️ Use `/copyright confirm` para bloquear o mapa sem precisar de clicar no chat.
+## Oberservações
 
-⚠️ Você pode bloquear vários mapas com apenas um comando, o valor será multiplicado pela quantidade de mapas que estiver na mão.
-
-⚠️ O autor do bloqueio pode copiar os mapas mesmo ele estando bloqueado.
+1. Use `/copyright confirm` para bloquear o mapa sem precisar de clicar no chat.
+2. O autor do bloqueio pode copiar os mapas mesmo ele estando bloqueado.
+3. É possível bloquear vários mapas na sua mão com apenas um comando.
 
 🎯 Exemplo: `/copyright confirm` segurando 10 mapas custará $50.000 coins.
+
+## Exemplos
 
 **Exemplo de mapa bloqueado:**
 

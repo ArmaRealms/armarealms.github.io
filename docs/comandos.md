@@ -153,7 +153,7 @@ import APITable from '/src/components/APITable';
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/l [mensagem]` | Envie mensagem no chat local <p>Aparecerá para quem estiver a 200 blocos de distância</p> |
+| `/l [mensagem]` | Envie mensagem no chat local<p>Aparecerá para quem estiver a 200 blocos de distância</p> |
 | `/l` ou `/local` | Entrar no chat local |
 
 </APITable>
@@ -346,7 +346,7 @@ import APITable from '/src/components/APITable';
 | `/loja` ou `/shop` | Abrir o menu de lojas do servidor |
 | `/sloja` ou `/sshop` | Abrir o menu da loja do servidor |
 | `/sloja (categoria)`  | Abrir a categoria da loja do servidor especificada |
-| `/sellgui` | Abrir o menu onde você pode colocar itens que deseja vender <p>Ao fechar o menu os itens serão vendidos</p> |
+| `/sellgui` | Abrir o menu onde você pode colocar itens que deseja vender<p>Ao fechar o menu os itens serão vendidos</p> |
 | `/sellall` | Vender todos os itens do inventário de qualquer categoria |
 | `/sellall (categoria)` | Vender todos os itens do inventário que sejam da categoria blocos |
 | `/sellhand ` | Vender o item que estiver segurando |
@@ -483,13 +483,13 @@ import APITable from '/src/components/APITable';
 | `/auto baus` | [Alternar o recolhimento itens ao quebrar baús](./melhorias/auto.md#comandos-para-vip) |
 | `/auto blocos` | [Alternar o recolhimento itens ao quebrar blocos](./melhorias/auto.md#comandos-para-vip) |
 | `/auto mobs` | [Alternar o recolhimento itens ao matar mobs](./melhorias/auto.md#comandos-para-vip)  |
-| `/auto pesca` | [Alternar o recolhimento ao pescar](./melhorias/auto.md#comandos-para-vip)) |
+| `/auto pesca` | [Alternar o recolhimento ao pescar](./melhorias/auto.md#comandos-para-vip) |
 | `/bancada` | Abrir o menu de bancadas virtual |
 | `/bigorna` | Abrir a bigorna virtual |
+| `/bloco` | Transformar itens em blocos<p>Apenas blocos que possam ser transformados em itens novamente</p> |
 | `/bloco (hand)`| Transforma o item que você estiver segundando em blocos |
 | `/bloco (inventory)` | Transforma todos os itens compatíveis do inventário em blocos |  
 | `/bloco (item ou id)` | Transforma o item especificado no comando em blocos |
-| `/bloco` | Transformar itens em blocos <p>Apenas blocos que possam ser transformados em itens novamente</p> |
 | `/cartografia` | Abrir a bancada de cartografia virtual |
 | `/cor` | Abrir o menu de cores do chat |
 | `/cores` | Listar códigos de cores |
@@ -507,7 +507,7 @@ import APITable from '/src/components/APITable';
 | `/kit prem` | Receber o KIT semanal Premium |
 | `/kit ulti` | Receber o KIT semanal Ultimate |
 | `/luz` | Ativar oud esativar visão noturna |
-| `/nick [novo-nick]` | Adicione cores ao seu nickname <p>[Site com formatação de cores!](https://rgb.armamc.com)</p> |
+| `/nick [novo-nick]` | Adicione cores ao seu nickname<p>[Site com formatação de cores!](https://rgb.armamc.com)</p> |
 | `/nick off` | Remover o nick alterado anteriormente | 
 | `/rebolo` | Abrir bancada do rebolo virtual |
 | `/tear` | Abrir bancada do tear virtual |

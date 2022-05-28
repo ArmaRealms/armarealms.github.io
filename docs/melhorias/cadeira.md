@@ -4,17 +4,23 @@ description: Sistema cadeiras com escadas e lajes.
 sidebar_position: 5
 ---
 
+import APITable from '/src/components/APITable';
+
 # Cadeira Customizada
 
 Cadeira Customizada serve para que jogadores possa sentar enquanto conversa com os amigos tomando café.
 
 ## Comandos
 
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/sentar` ou `/chairs` | Ativar ou desativar o sistema de cadeiras |
 | `/sentar on` | Ativar o sistema de caideras |
 | `/sentar off` | Desativar o sistema de cadeiras |
+
+</APITable>
 
 ## Cadeiras
 
