@@ -4,6 +4,8 @@ description: Como adicionar um amigo na proteção.
 sidebar_position: 2
 ---
 
+import APITable from '/src/components/APITable';
+
 # Permissões na Proteção
 
 :::info Permissão em todas as proteções!
@@ -23,16 +25,20 @@ Exemplo: **`/accesstrust public`** ou **`/containertrust public`**
 
 ## Comandos
 
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
 | `/trust [jogador]` | Permitir acesso a construir na sua proteção |
-| `/accesstrust [jogador]` | Permitir acesso a cama, portas e etc.. na sua proteção |
-| `/containertrust [jogador]` | Permitir acesso a baús na sua proteção |
-| `/permissiontrust [jogador]` | Permitir gerenciamento de permissões na sua proteção |
+| `/trustaccess [jogador]` | Permitir acesso a cama, portas e etc.. na sua proteção |
+| `/trustcontainer [jogador]` | Permitir acesso a baús na sua proteção |
+| `/trustpermission [jogador]` | Permitir gerenciamento de permissões na sua proteção |
 | `/trustnear [jogador]` | Permitir que jogador proteja perto de você |
 | `/untrustnear [jogador]` | Remover permissão TrustNear do jogador |
 | `/untrust [jogador]` | Remover a permissão do jogador na sua proteção | 
 | `/trustlist` | Listar as permissões da proteção que você está |
+
+</APITable>
 
 ## Permissão AccessTrust
 

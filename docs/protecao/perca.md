@@ -4,6 +4,8 @@ description: Tempo offline necessário para perca da proteção.
 sidebar_position: 6
 ---
 
+import APITable from '/src/components/APITable';
+
 # Perca da Proteção
 
 > A remoção das proteções é automática e **pode demorar horas** para remover a proteção após o tempo offline para perca da proteção ser atingido.
@@ -15,6 +17,8 @@ sidebar_position: 6
 * Remoção automática realizada pelo sistema. **Não precisa abrir ticket!**
 * **A proteção será removida dentro de algumas horas após tempo necessário.**
 
+<APITable>
+
 | Quantidade de Blocos de Proteção | Tempo Offline para Perca da Proteção |
 | :------------------------------: | :----------------------------------: |
 | Abaixo de 999 blocos             | 30 dias (1 mês)                      |
@@ -22,6 +26,8 @@ sidebar_position: 6
 | entre 10.000 a 22.499 mil blocos | 90 dias (3 meses)                    |
 | Entre 22.500 a 62.499 mil blocos | 120 dias (4 meses)                   |
 | Acima de 65.500 mil blocos       | 150 dias (5 meses)                   |
+
+</APITable>
 
 ## Proteção Próxima
 

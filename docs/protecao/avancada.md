@@ -4,15 +4,22 @@ description: Como criar, expandir ou excluir sub-proteções.
 sidebar_position: 4
 ---
 
+import APITable from '/src/components/APITable';
+
 # Proteção Avançada
 
 ## Comandos
+
+<APITable>
+
 | Comando | Descrição |
 | ------- | --------- |
-| `/subdivideclaims` | Altere a pá de ouro para o modo de subdivisão de proteções |
-| `/restrictsubclaim` | Restrinja a subdivisão para que ela não herde as permissões da proteção principal | 
+| `/claimsubdivide` | Altere a pá de ouro para o modo de subdivisão de proteções |
+| `/claimrestrict` | Restrinja a sub-proteção para que jogadores com permissão na proteção principal não tenha permissão na sub-proteção | 
 | `/basicclaims` | Altere a pá de ouro para o modo básico de proteção |
 | `/abandontoplevelclaim` | Apague uma proteção e todas suas sub-proteções |
+
+</APITable>
 
 ## Criar uma Sub-Proteção
 

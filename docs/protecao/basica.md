@@ -4,9 +4,13 @@ description: Como criar, expandir, excluir e listar uma proteção.
 sidebar_position: 1
 ---
 
+import APITable from '/src/components/APITable';
+
 # Proteção Básica
 
 ## Comandos
+
+<APITable>
 
 | Comando | Descrição |
 | ------- | --------- |
@@ -16,8 +20,10 @@ sidebar_position: 1
 | `/claimlist` | Liste as informações das proteções | 
 | `/abandonallclaims` | Apague todas as suas proteções no server | 
 | `/abandonclaim` | Apague a proteção em que você está localizado |
-| `/buyclaimblocks [quantia]` | Compre blocos de proteção |
-| `/sellclaimblocks [quantia]` | Venda seus blocos de proteção | 
+| `/claimbuyblocks [quantia]` | Compre blocos de proteção |
+| `/claimsellblocks [quantia]` | Venda seus blocos de proteção | 
+
+</APITable>
 
 ## Criar Proteção
 

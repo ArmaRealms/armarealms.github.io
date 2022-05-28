@@ -4,9 +4,13 @@ description: Como expulsar ou banir jogadores da proteção.
 sidebar_position: 3
 ---
 
+import APITable from '/src/components/APITable';
+
 # Gerenciar Proteção
 
 ## Comandos
+
+<APITable>
 
 | Comando | Descrição |
 | ------- | --------- |
@@ -16,6 +20,8 @@ sidebar_position: 3
 | `/claimbanlist` | Listar jogadores banidos da sua proteção |
 | `/claimexplosions` | Alterna a proteção contra explosões da proteção | 
 | `/givepet [jogador]` | Doe seu animal de estimação para outro jogador |
+
+</APITable>
 
 ## Expulsar Jogador
 

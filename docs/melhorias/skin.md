@@ -4,11 +4,15 @@ description: Sistema de skins customizadas.
 sidebar_position: 4
 ---
 
+import APITable from '/src/components/APITable';
+
 # Skin Customizada
 
 Skin customizada serve para que o jogadorsem Minecraft Original possa usar skins no Armageddon.
 
 ## Comandos
+
+<APITable>
 
 | Comando | Descrição |
 | ------- | --------- |
@@ -16,6 +20,8 @@ Skin customizada serve para que o jogadorsem Minecraft Original possa usar skins
 | `/skin url [https://site.com/final.png]` | Alterar sua skin usando uma imagem |
 | `/skin clear` | Remover sua skin |
 | `/skin update` | Atualizar sua skin | 
+
+</APITable>
 
 ## Adicionar Skin por Link
 

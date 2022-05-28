@@ -4,6 +4,8 @@ description: Sistema de remoção de geradores (spawners).
 sidebar_position: 7
 ---
 
+import APITable from '/src/components/APITable';
+
 # Remoção de Geradores
 
 Remoção de geradores (spawners) serve para que jogadores possam construir farms de XP.
@@ -12,12 +14,16 @@ Remoção de geradores (spawners) serve para que jogadores possam construir farm
 
 ## Chance de Remoção
 
+<APITable>
+
 | Cargo     | Chance de Remover Spawner |
 | :-------: | :-----------------------: |
 | Membro    | 10% de chance             |
 | Premium   | 30% de chance             |
 | Master    | 40% de chance             |
 | Ultimate  | 50% de chance             |
+
+</APITable>
 
 ## Ferramenta Necessária
 

@@ -4,11 +4,15 @@ description: Como comprar, vender ou alugar uma proteção.
 sidebar_position: 5
 ---
 
+import APITable from '/src/components/APITable';
+
 # Vender ou Alugar Proteção
 
 > Para **comprar** ou **alugar** uma proteção de outro jogador basta clicar com o **botão direito** na placa onde contém as informações da venda ou aluguel da proteção.
 
 ## Comandos
+
+<APITable>
 
 | Comando | Descrição |
 | ------- | --------- |
@@ -20,6 +24,8 @@ sidebar_position: 5
 | `/imob autorenovar ativar`    | Ativar a renovação automática de aluguel |
 | `/imob autorenovar desativar` | Desativar a renovação automática de aluguel |
 | `/imob info`                  | Exibir informações da proteção que você estiver dentro |
+
+</APITable>
 
 ## Vender uma Proteção
 
