@@ -1,7 +1,7 @@
 ---
 title: Duelo
 description: Tudo sobre o sistema de duelo entre jogadores.
-sidebar_position: 12
+sidebar_position: 13
 ---
 
 import APITable from '/src/components/APITable';

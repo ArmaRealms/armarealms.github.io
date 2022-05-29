@@ -1,7 +1,7 @@
 ---
 title: Warp
 description: Tudo sobre o sistema de warp de jogadores.
-sidebar_position: 11
+sidebar_position: 12
 ---
 
 import APITable from '/src/components/APITable';

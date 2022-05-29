@@ -1,7 +1,7 @@
 ---
 title: Marry
 description: Tudo sobre o sistema de casamento entre jogadores.
-sidebar_position: 13
+sidebar_position: 14
 ---
 
 import APITable from '/src/components/APITable';

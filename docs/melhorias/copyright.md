@@ -39,10 +39,8 @@ Utilizado principalmente para proteger MapArts!
 
 ## Exemplos
 
-**Exemplo de mapa bloqueado:**
-
+**Exemplo de mapa bloqueado:**  
 ![imagem](https://i.imgur.com/ilFyA0N.png)
 
-**Erro ao tentar duplicar mapa bloqueado:**
-
+**Erro ao tentar duplicar mapa bloqueado:**  
 ![imagem2](https://i.imgur.com/x4Zs4a4.png)

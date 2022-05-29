@@ -30,9 +30,9 @@ Remoção de geradores (spawners) serve para que jogadores possam construir farm
 - Picareta de diamante com encantamento toque suave.
 - Picareta de netherite com encantamento toque suave.
 
-### Alterar Gerador
+## Alterar Gerador
 
-É possível alterar o mob que spawna do gerador.
+> É possível alterar o mob que spawna do gerador.
 
 1. Coloque o ovo gerador do mob que deseja na mão
 2. Clique com o **botão direito** no gerador.
