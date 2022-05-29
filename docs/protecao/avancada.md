@@ -52,11 +52,12 @@ No local onde for selecionada a segunda quina aparecerá um bloco de ferro.
 
 7. Envie `/claimrestrict` dentro da sub-proteção:  
 ![imagem5](https://i.imgur.com/NORhMh5.png)
-Jogadores que tenham qualquer permissão na sua proteção não terão permissão na sub-proteção.
+Jogadores que tenham qualquer permissão na sua proteção principal não terão permissão na sub-proteção onde você enviou o comando.
 
 8. Envie `/basicclaims` para voltar ao modo de proteção normal.
 
-9. Com o graveto na mão e clique com o **botão direito** no local para visualizar sua sub-proteção.
+9. Com o graveto na mão, clique com o **botão direito** no local para visualizar sua sub-proteção.  
+![imagem6](https://i.imgur.com/oR7HDc4.png)
 
 </div>
 </details>

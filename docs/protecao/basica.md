@@ -27,7 +27,6 @@ import APITable from '/src/components/APITable';
 
 ## Criar Proteção
 
-
 ### Utilizando a Pá de Ouro
 
 > Método recomendado!
@@ -57,7 +56,8 @@ No local onde for selecionada a segunda quina aparecerá um bloco de ouro.
 
 7. **Pronto, proteção criada com sucesso!**
 
-8. Com o graveto na mão e clique com o **botão direito** no local para visualizar sua proteção.
+8. Com o graveto na mão, clique com o **botão direito** no local para visualizar sua proteção.
+![imagem5](https://i.imgur.com/kjbiJ4w.png)
 
 </div>
 </details>
