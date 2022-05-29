@@ -19,7 +19,7 @@ Aceitamos apenas Minecraft Java Edition!
 
 1. Clique na opção `Multijogador`:
 
-![imagem1](https://i.imgur.com/HGNDhUD.png)
+![imagem1](https://i.imgur.com/lJHY0gh.png)
 
 <br></br>
 

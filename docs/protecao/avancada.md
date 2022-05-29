@@ -43,11 +43,11 @@ Envie `/basicclaims` para voltar ao modo de proteção normal.
     <p>3. Envie <code>/claimsubdivide</code> para entrar no modo de sub-proteção.</p>
     <p></p>
     <br></br>
-    <p>4. Clique com o botão direito para selecionar a primeira quina:</p>
+    <p>4. Clique com o <b>botão direito</b> para selecionar a primeira quina:</p>
     <img src="https://i.imgur.com/fUBmp8J.png" alt="Quarto passo"></img>
     <p></p>
     <br></br>
-    <p>5. Clique com o botão direito para seleciona a segunda quina:</p>
+    <p>5. Clique com o <b>botão direito</b> para seleciona a segunda quina:</p>
     <img src="https://i.imgur.com/hgUJFEE.png" alt="Quinto passo"></img>
     <p>No local onde for selecionada a segunda quina aparecerá um bloco de ferro.</p>
     <p></p>
