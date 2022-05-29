@@ -34,32 +34,37 @@ Envie `/basicclaims` para voltar ao modo de proteção normal.
 <summary><b>Exemplo de como criar uma sub-proteção com imagens!</b></summary>
 <div>
 
-\1. Dentro da [proteção](basica.md#utilizando-a-pá-de-ouro), vamos criar uma sub-proteção no local do baú abaixo:  
+<p>1. Dentro da [proteção](basica.md#utilizando-a-pá-de-ouro), vamos criar uma sub-proteção no local do baú abaixo:</p>  
 ![imagem1](https://i.imgur.com/oyfX3qo.png)
 
-\2. Envie `/kit prot` e coloque a pá de ouro na mão.
+<p>2. Envie `/kit prot` e coloque a pá de ouro na mão.</p>
 
-\3. Envie `/claimsubdivide` para entrar no modo de sub-proteção.
+<p>3. Envie `/claimsubdivide` para entrar no modo de sub-proteção.</p>
 
-\4. Clique com o botão direito para selecionar a primeira quina:  
+<p>4. Clique com o botão direito para selecionar a primeira quina:</p>
+
 ![imagem3](https://i.imgur.com/fUBmp8J.png)
 
-\5. Clique com o botão direito para seleciona a segunda quina:  
+<p>5. Clique com o botão direito para seleciona a segunda quina:</p>
+
 ![imagem4](https://i.imgur.com/hgUJFEE.png)
 No local onde for selecionada a segunda quina aparecerá um bloco de ferro.
 
-\6. **Pronto, sub-proteção criada com sucesso!**
+<p>6. **Pronto, sub-proteção criada com sucesso!**</p>
 
-\7. Envie `/claimrestrict` dentro da sub-proteção:  
+<p>7. Envie `/claimrestrict` dentro da sub-proteção:</p>
+
 ![imagem5](https://i.imgur.com/NORhMh5.png)
 Jogadores que tenham qualquer permissão na sua proteção principal não terão permissão na sub-proteção onde você enviou o comando.
 
-\8. Envie `/basicclaims` para voltar ao modo de proteção normal.
+<p>8. Envie `/basicclaims` para voltar ao modo de proteção normal.</p>
 
-\9. Com o graveto na mão, clique com o **botão direito** no local para ver sua sub-proteção:  
+<p>9. Com o graveto na mão, clique com o **botão direito** no local para ver sua sub-proteção:</p>
+
 ![imagem6](https://i.imgur.com/zFqDCNz.png)
 
-\10. A sub-proteção será circulada por bloco de lã com bloco de ferro nas quinas:  
+<p>10. A sub-proteção será circulada por bloco de lã com bloco de ferro nas quinas:</p>
+
 ![imagem7](https://i.imgur.com/Jr9qO1H.png)
 
 </div>
