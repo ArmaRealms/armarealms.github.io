@@ -50,7 +50,7 @@ Envie `/basicclaims` para voltar ao modo de proteção normal.
     <p>9. Com o graveto na mão, clique com o <b>botão direito</b> no local para ver sua sub-proteção:</p>
     <img src="https://i.imgur.com/zFqDCNz.png" alt="Nono passo">
     <p>10. A sub-proteção será circulada por bloco de lã com bloco de ferro nas quinas:</p>
-    <img src="https://i.imgur.com/Jr9qO1H.png" alt="Quarto passo">
+    <img src="https://i.imgur.com/Jr9qO1H.png" alt="Décimo passo">
   </div>
 </details>
 
