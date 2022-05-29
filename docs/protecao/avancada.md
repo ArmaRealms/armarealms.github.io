@@ -34,7 +34,7 @@ Envie `/basicclaims` para voltar ao modo de proteção normal.
 <summary><b>Exemplo de como criar uma sub-proteção com imagens!</b></summary>
 <div>
 
-1. Dentro da proteção, vamos criar uma sub-proteção no local do baú abaixo:  
+1. Dentro da [proteção](basica.md#utilizando-a-pá-de-ouro), vamos criar uma sub-proteção no local do baú abaixo:  
 ![imagem1](https://i.imgur.com/oyfX3qo.png)
 
 2. Envie `/kit prot` e coloque a pá de ouro na mão.

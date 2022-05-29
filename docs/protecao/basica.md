@@ -52,7 +52,7 @@ No local onde for selecionada a primeira quina aparecerá um bloco de diamante.
 
 6. Clique com o botão direito para seleciona a segunda quina:  
 ![imagem4](https://i.imgur.com/DQO5LXB.png)
-No local onde for selecionada a segunda quina aparecerá um bloco de ouro.  
+No local onde for selecionada a segunda quina aparecerá uma pedra luminosa.  
 
 7. **Pronto, proteção criada com sucesso!**
 
