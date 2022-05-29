@@ -25,4 +25,4 @@ Super Craft serve para facilitar a fabricação de itens para os jogadores VIP.
 
 ## Menu do Super Craft
 
-![imagem](https://i.imgur.com/lQhHKci.png)
+![imagem](https://i.imgur.com/9yCh08d.png)
