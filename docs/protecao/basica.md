@@ -39,25 +39,25 @@ import APITable from '/src/components/APITable';
   <div>
     <p>1. Vamos proteger a casa da imagem abaixo:</p>
     <img src="https://i.imgur.com/V482iUY.png" alt="Primeiro passo"></img>
-    <br></br>
+    <p></p>
     <p>2. Envie `/kit prot` e coloque a pá de ouro na mão.</p>
-    <br></br>
+    <p></p>
     <p>3. Faça uma torre no meio do local onde deseja proteger e suba nela:</p>
     <img src="https://i.imgur.com/OdiCgWg.png" alt="Quarto passo"></img>
-    <br></br>
+    <p></p>
     <p>4. Clique com o botão direito para selecionar a primeira quina:</p>
     <img src="https://i.imgur.com/pi5wwS7.png" alt="Quinto passo"></img>
     <p>No local onde for selecionada a primeira quina aparecerá um bloco de diamante.</p>
-    <br></br>
+    <p></p>
     <p>5. Clique com o botão direito para seleciona a segunda quina:</p>
     <img src="https://i.imgur.com/DQO5LXB.png" alt="Sexto passo"></img>
     <p>No local onde for selecionada a segunda quina aparecerá uma pedra luminosa.</p>
-    <br></br>
+    <p></p>
     <p>6. <b>Pronto, proteção criada com sucesso!</b></p>
-    <br></br>
+    <p></p>
     <p>7. Com o graveto na mão, clique com o **botão direito** no local para ver sua proteção:</p>
     <img src="https://i.imgur.com/kjbiJ4w.png" alt="Oitavo passo"></img>
-    <br></br>
+    <p></p>
     <p>8. A proteção será circulada por bloco de ouro com pedra luminosa nas quinas:</p>
     <img src="https://i.imgur.com/3IuYIct.png" alt="Nono passo"></img>
   </div>
