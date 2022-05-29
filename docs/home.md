@@ -21,17 +21,25 @@ Aceitamos apenas Minecraft Java Edition!
 
 ![imagem1](https://i.imgur.com/GrM6K7u.png)
 
+<br></br>
+
 2. Clique na opção `Adicionar Servidor`
 
 ![imagem2](https://i.imgur.com/lWvf06W.png)
+
+<br></br>
 
 3. Preencha `armamc.com` na opção Endereço do servidor e clique em `Concluído`
 
 ![imagem3](https://i.imgur.com/Yj26mwk.png)
 
+<br></br>
+
 4. Clique na mensagem do servidor para entrar
 
 ![imagem4](https://i.imgur.com/OjbuN7Q.png)
+
+<br></br>
 
 5. Use **`/register Sua-Senha Sua-Senha`** para se registrar
 
