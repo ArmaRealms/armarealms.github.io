@@ -4,11 +4,15 @@ description: Tudo sobre a loja física dos jogadores.
 sidebar_position: 2
 ---
 
+import APITable from '/src/components/APITable';
+
 # Loja Física dos Jogadores
 
 Loja físca por baús serve para que jogadores possam comprar e vender grande quantidade de itens.
 
 ## Quantidade de Lojas
+
+<APITable>
 
 | Cargo    | Quantidade de Lojas |
 | :------: | :-----------------: |
@@ -17,7 +21,11 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 | Master   | 100 lojas           |
 | Ultimate | 200 lojas           |
 
+</APITable>
+
 ## Comandos
+
+<APITable>
 
 | Comando | Descrição |
 | ------- | --------- |
@@ -32,6 +40,8 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 | `/ploja item` | Alterar o item da loja |
 | `/ploja list` | Listar todas as suas lojas no server |
 
+</APITable>
+
 ## Criar uma Loja
 
 > ⚠️ [Lojas são protegidas pelo sistema de proteção de terrenos!](../protecao/basica.md)  
@@ -40,7 +50,7 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 
 > [Toda loja será criada no modo de venda de itens, para saber como alterar clique aqui!](#alterar-o-modo-da-loja)
 
-#### Sem Comando
+### Sem Comando
 
 > Método recomendado!
 
@@ -48,7 +58,7 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 2. Segure **shift** e clique com o **botão esquerdo** no baú.
 3. Em seguida envie o valor de venda ou compra no chat.
 
-#### Com Comando
+### Com Comando
 
 1. Coloque o item e a quantidade que deseja comprar ou vender na mão.
 2. Mire no baú que deseja transformar em loja.
@@ -60,7 +70,7 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
 
 ⚠️ É possível alterar várias configurações da loja pelo painel de controle!
 
-**Exemplo do Painel de Constrole da Loja:**
+**Exemplo do Painel de Constrole da Loja:**  
 ![imagem](https://i.imgur.com/mUsQCqZ.png)
 
 ## Alterar o Item da Loja
@@ -71,15 +81,13 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
 
 ## Alterar o Modo da Loja
 
-#### Alterar para Modo de Compra
+### Alterar para Modo de Compra
 
-Comando para **COMPRAR** itens na loja:
 1. Mire na placa da loja que deseja alterar.
 2. Envie `/ploja buy` para alterar a loja.
 
-#### Alterar para Modo de Venda
+### Alterar para Modo de Venda
 
-Comando para **VENDER** itens na loja:
 1. Mire na placa da loja que deseja alterar.
 1. Envie `/ploja sell` para alterar a loja.
 

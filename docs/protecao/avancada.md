@@ -30,6 +30,31 @@ import APITable from '/src/components/APITable';
 
 Envie `/basicclaims` para voltar ao modo de proteção normal.
 
+<details>
+<summary><b>Exemplo de como criar uma sub-proteção com imagens!</b><summary>
+<div>
+
+1. Dentro da proteção, vamos criar uma sub-proteção no local do baú abaixo:  
+![imagem1](https://i.imgur.com/oyfX3qo.png)
+
+2. Use `/kit prot` e coloque a pá de ouro na mão.
+
+3. Clique com o botão direito para selecionar a primeira quina:  
+![imagem3](https://i.imgur.com/fUBmp8J.png)
+
+6. Clique com o botão direito para seleciona a segunda quina:  
+![imagem4](https://i.imgur.com/hgUJFEE.png)
+No local onde for selecionada a segunda quina aparecerá um bloco de ferro.
+
+8. Pronto, sub-proteção criada com sucesso!
+
+9. Use `/claimrestrict` dentro da sub-proteção:  
+![imagem5](https://i.imgur.com/NORhMh5.png)
+Jogadores que tenham qualquer permissão na sua proteção não terão permissão na sub-proteção.
+
+</div>
+</details>
+
 ## Expandir Sub-Proteção
 
 1. Envie `/claimexpand <tamanho>` virado para a direção que deseja expandir.  

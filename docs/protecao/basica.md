@@ -27,6 +27,41 @@ import APITable from '/src/components/APITable';
 
 ## Criar Proteção
 
+
+### Utilizando a Pá de Ouro
+
+> Método recomendado!
+
+1. Envie `/kit prot` e coloque a `pá de ouro` na mão.
+2. Clique com botão direito nas quinas da proteção.
+
+<details>
+<summary><b>Exemplo de como criar uma proteção com imagens!</b><summary>
+<div>
+
+1. Vamos proteger a casa da imagem abaixo:  
+![imagem1](https://i.imgur.com/V482iUY.png)
+
+3. Use `/kit prot` e coloque a pá de ouro na mão.
+
+4. Faça uma torre no meio do local onde deseja proteger e suba nela:  
+![imagem2](https://i.imgur.com/OdiCgWg.png)
+
+5. Clique com o botão direito para selecionar a primeira quina:  
+![imagem3](https://i.imgur.com/pi5wwS7.png)
+No local onde for selecionada a primeira quina aparecerá um bloco de diamante.  
+
+6. Clique com o botão direito para seleciona a segunda quina:  
+![imagem4](https://i.imgur.com/DQO5LXB.png)
+No local onde for selecionada a segunda quina aparecerá um bloco de ouro.  
+
+7. Pronto, proteção criada com sucesso!
+
+</div>
+</details>
+
+### Utilizando Comandos
+
 1. Envie `/kit prot` e coloque a `pá de ouro` na mão.
 2. Envie `/claim <tamanho>` para proteger o local onde você estiver.  
 

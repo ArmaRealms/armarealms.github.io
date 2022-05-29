@@ -4,9 +4,13 @@ description: Tudo sobre a loja virtual do servidor.
 sidebar_position: 1
 ---
 
+import APITable from '/src/components/APITable';
+
 # Loja Virtual do Servidor
 
 ## Comandos
+
+<APITable>
 
 | Comando | Descrição |
 | ------- | --------- |
@@ -16,6 +20,8 @@ sidebar_position: 1
 | `/sellall` | Vender todos os itens do inventário de qualquer categoria |
 | `/sellhand ` | Vender o item que estiver segurando |
 | `/sellhandall` | Vender todos os itens do inventário que seja igual ao que estiver segurando |
+
+</APITable>
 
 ## Comprar Itens do Servidor
 
