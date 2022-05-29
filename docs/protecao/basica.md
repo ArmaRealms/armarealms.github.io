@@ -38,28 +38,28 @@ import APITable from '/src/components/APITable';
 <summary><b>Exemplo de como criar uma proteção com imagens!</b></summary>
 <div>
 
-1. Vamos proteger a casa da imagem abaixo:  
+\1. Vamos proteger a casa da imagem abaixo:  
 ![imagem1](https://i.imgur.com/V482iUY.png)
 
-3. Envie `/kit prot` e coloque a pá de ouro na mão.
+\3. Envie `/kit prot` e coloque a pá de ouro na mão.
 
-4. Faça uma torre no meio do local onde deseja proteger e suba nela:  
+\4. Faça uma torre no meio do local onde deseja proteger e suba nela:  
 ![imagem2](https://i.imgur.com/OdiCgWg.png)
 
-5. Clique com o botão direito para selecionar a primeira quina:  
+\5. Clique com o botão direito para selecionar a primeira quina:  
 ![imagem3](https://i.imgur.com/pi5wwS7.png)
 No local onde for selecionada a primeira quina aparecerá um bloco de diamante.  
 
-6. Clique com o botão direito para seleciona a segunda quina:  
+\6. Clique com o botão direito para seleciona a segunda quina:  
 ![imagem4](https://i.imgur.com/DQO5LXB.png)
 No local onde for selecionada a segunda quina aparecerá uma pedra luminosa.  
 
-7. **Pronto, proteção criada com sucesso!**
+\7. **Pronto, proteção criada com sucesso!**
 
-8. Com o graveto na mão, clique com o **botão direito** no local para ver sua proteção:  
+\8. Com o graveto na mão, clique com o **botão direito** no local para ver sua proteção:  
 ![imagem5](https://i.imgur.com/kjbiJ4w.png)
 
-A proteção será circulada por blocos de ouro com pedra luminosa nas quinas:  
+\9. A proteção será circulada por bloco de ouro com pedra luminosa nas quinas:  
 ![imagem6](https://i.imgur.com/3IuYIct.png)
 
 </div>

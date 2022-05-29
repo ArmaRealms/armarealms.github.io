@@ -34,32 +34,32 @@ Envie `/basicclaims` para voltar ao modo de proteção normal.
 <summary><b>Exemplo de como criar uma sub-proteção com imagens!</b></summary>
 <div>
 
-1. Dentro da [proteção](basica.md#utilizando-a-pá-de-ouro), vamos criar uma sub-proteção no local do baú abaixo:  
+\1. Dentro da [proteção](basica.md#utilizando-a-pá-de-ouro), vamos criar uma sub-proteção no local do baú abaixo:  
 ![imagem1](https://i.imgur.com/oyfX3qo.png)
 
-2. Envie `/kit prot` e coloque a pá de ouro na mão.
+\2. Envie `/kit prot` e coloque a pá de ouro na mão.
 
-3. Envie `/claimsubdivide` para entrar no modo de sub-proteção.
+\3. Envie `/claimsubdivide` para entrar no modo de sub-proteção.
 
-4. Clique com o botão direito para selecionar a primeira quina:  
+\4. Clique com o botão direito para selecionar a primeira quina:  
 ![imagem3](https://i.imgur.com/fUBmp8J.png)
 
-5. Clique com o botão direito para seleciona a segunda quina:  
+\5. Clique com o botão direito para seleciona a segunda quina:  
 ![imagem4](https://i.imgur.com/hgUJFEE.png)
 No local onde for selecionada a segunda quina aparecerá um bloco de ferro.
 
-6. **Pronto, sub-proteção criada com sucesso!**
+\6. **Pronto, sub-proteção criada com sucesso!**
 
-7. Envie `/claimrestrict` dentro da sub-proteção:  
+\7. Envie `/claimrestrict` dentro da sub-proteção:  
 ![imagem5](https://i.imgur.com/NORhMh5.png)
 Jogadores que tenham qualquer permissão na sua proteção principal não terão permissão na sub-proteção onde você enviou o comando.
 
-8. Envie `/basicclaims` para voltar ao modo de proteção normal.
+\8. Envie `/basicclaims` para voltar ao modo de proteção normal.
 
-9. Com o graveto na mão, clique com o **botão direito** no local para ver sua sub-proteção:  
+\9. Com o graveto na mão, clique com o **botão direito** no local para ver sua sub-proteção:  
 ![imagem6](https://i.imgur.com/zFqDCNz.png)
 
-A sub-proteção será circulada por blocos de lã branca com blocos de ferro nas quinas:  
+\10. A sub-proteção será circulada por bloco de lã com bloco de ferro nas quinas:  
 ![imagem7](https://i.imgur.com/Jr9qO1H.png)
 
 </div>
