@@ -56,8 +56,11 @@ Jogadores que tenham qualquer permissão na sua proteção principal não terão
 
 8. Envie `/basicclaims` para voltar ao modo de proteção normal.
 
-9. Com o graveto na mão, clique com o **botão direito** no local para visualizar sua sub-proteção.  
-![imagem6](https://i.imgur.com/oR7HDc4.png)
+9. Com o graveto na mão, clique com o **botão direito** no local para ver sua sub-proteção:  
+![imagem6](https://i.imgur.com/zFqDCNz.png)
+
+A sub-proteção será circulada por blocos de lã branca com blocos de ferro nas quinas:  
+![imagem7](https://i.imgur.com/Jr9qO1H.png)
 
 </div>
 </details>

@@ -56,8 +56,11 @@ No local onde for selecionada a segunda quina aparecerá uma pedra luminosa.
 
 7. **Pronto, proteção criada com sucesso!**
 
-8. Com o graveto na mão, clique com o **botão direito** no local para visualizar sua proteção.
+8. Com o graveto na mão, clique com o **botão direito** no local para ver sua proteção:  
 ![imagem5](https://i.imgur.com/kjbiJ4w.png)
+
+A proteção será circulada por blocos de ouro com pedra luminosa nas quinas:  
+![imagem6](https://i.imgur.com/3IuYIct.png)
 
 </div>
 </details>
