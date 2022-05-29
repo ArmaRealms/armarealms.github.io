@@ -19,25 +19,26 @@ Aceitamos apenas Minecraft Java Edition!
 
 1. Clique na opção `Multijogador`:
 
-![imagem1](https://i.imgur.com/lJHY0gh.png)
+![imagem1](https://i.imgur.com/ch91qRq.png)
 
 <br></br>
 
 2. Clique na opção `Adicionar Servidor`:
 
-![imagem2](https://i.imgur.com/SReswRs.png)
+![imagem2](https://i.imgur.com/dnS53OG.png)
 
 <br></br>
 
 3. Preencha `armamc.com` na opção `Endereço do servidor` e clique em `Concluído`:
 
-![imagem3](https://i.imgur.com/tSPVQdU.png)
+![imagem3](https://i.imgur.com/vZxXzEj.png)
 
 <br></br>
 
 4. Clique na mensagem do servidor e depois em `Entrar no servidor`:
 
-![imagem4](https://i.imgur.com/rKDwWBf.png)
+![imagem4](https://i.imgur.com/o3GUq2w.png)
+![imagem5](https://i.imgur.com/CDSOcH2.png)
 
 <br></br>
 
