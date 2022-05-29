@@ -32,7 +32,6 @@ Envie `/basicclaims` para voltar ao modo de proteção normal.
 
 <details>
   <summary><b>Exemplo de como criar uma sub-proteção com imagens!</b></summary>
-  
   <div>
     <p>1. Dentro da <a href="/protecao/basica#utilizando-a-pá-de-ouro" target="_blank">proteção</a>, vamos criar uma sub-proteção no local do baú abaixo:</p>
     <img src="https://i.imgur.com/oyfX3qo.png" alt="Primeiro passo"></img>
@@ -61,7 +60,6 @@ Envie `/basicclaims` para voltar ao modo de proteção normal.
     <br></br>
     <p>10. A sub-proteção será circulada por bloco de lã com bloco de ferro nas quinas:</p>
     <img src="https://i.imgur.com/Jr9qO1H.png" alt="Décimo passo"></img>
-  
   </div>
 </details>
 

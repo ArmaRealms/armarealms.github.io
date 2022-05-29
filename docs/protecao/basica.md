@@ -35,34 +35,32 @@ import APITable from '/src/components/APITable';
 2. Clique com botão direito nas quinas da proteção.
 
 <details>
-<summary><b>Exemplo de como criar uma proteção com imagens!</b></summary>
-<div>
-
-\1. Vamos proteger a casa da imagem abaixo:  
-![imagem1](https://i.imgur.com/V482iUY.png)
-
-\3. Envie `/kit prot` e coloque a pá de ouro na mão.
-
-\4. Faça uma torre no meio do local onde deseja proteger e suba nela:  
-![imagem2](https://i.imgur.com/OdiCgWg.png)
-
-\5. Clique com o botão direito para selecionar a primeira quina:  
-![imagem3](https://i.imgur.com/pi5wwS7.png)
-No local onde for selecionada a primeira quina aparecerá um bloco de diamante.  
-
-\6. Clique com o botão direito para seleciona a segunda quina:  
-![imagem4](https://i.imgur.com/DQO5LXB.png)
-No local onde for selecionada a segunda quina aparecerá uma pedra luminosa.  
-
-\7. **Pronto, proteção criada com sucesso!**
-
-\8. Com o graveto na mão, clique com o **botão direito** no local para ver sua proteção:  
-![imagem5](https://i.imgur.com/kjbiJ4w.png)
-
-\9. A proteção será circulada por bloco de ouro com pedra luminosa nas quinas:  
-![imagem6](https://i.imgur.com/3IuYIct.png)
-
-</div>
+  <summary><b>Exemplo de como criar uma proteção com imagens!</b></summary>
+  <div>
+    <p>1. Vamos proteger a casa da imagem abaixo:</p>
+    <img src="https://i.imgur.com/V482iUY.png" alt="Primeiro passo"></img>
+    <br></br>
+    <p>2. Envie `/kit prot` e coloque a pá de ouro na mão.</p>
+    <br></br>
+    <p>3. Faça uma torre no meio do local onde deseja proteger e suba nela:</p>
+    <img src="https://i.imgur.com/OdiCgWg.png" alt="Quarto passo"></img>
+    <br></br>
+    <p>4. Clique com o botão direito para selecionar a primeira quina:</p>
+    <img src="https://i.imgur.com/pi5wwS7.png" alt="Quinto passo"></img>
+    <p>No local onde for selecionada a primeira quina aparecerá um bloco de diamante.</p>
+    <br></br>
+    <p>5. Clique com o botão direito para seleciona a segunda quina:</p>
+    <img src="https://i.imgur.com/DQO5LXB.png" alt="Sexto passo"></img>
+    <p>No local onde for selecionada a segunda quina aparecerá uma pedra luminosa.</p>
+    <br></br>
+    <p>6. <b>Pronto, proteção criada com sucesso!</b></p>
+    <br></br>
+    <p>7. Com o graveto na mão, clique com o **botão direito** no local para ver sua proteção:</p>
+    <img src="https://i.imgur.com/kjbiJ4w.png" alt="Oitavo passo"></img>
+    <br></br>
+    <p>8. A proteção será circulada por bloco de ouro com pedra luminosa nas quinas:</p>
+    <img src="https://i.imgur.com/3IuYIct.png" alt="Nono passo"></img>
+  </div>
 </details>
 
 ### Utilizando Comandos
