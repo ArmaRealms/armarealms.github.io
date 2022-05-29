@@ -17,31 +17,31 @@ Aceitamos apenas Minecraft Java Edition!
 <summary><b>Passo a passo de como entrar no servidor!</b></summary>
 <div>
 
-1. Clique na opção `Multijogador`
+1. Clique na opção `Multijogador`:
 
-![imagem1](https://i.imgur.com/GrM6K7u.png)
-
-<br></br>
-
-2. Clique na opção `Adicionar Servidor`
-
-![imagem2](https://i.imgur.com/lWvf06W.png)
+![imagem1](https://i.imgur.com/HGNDhUD.png)
 
 <br></br>
 
-3. Preencha `armamc.com` na opção Endereço do servidor e clique em `Concluído`
+2. Clique na opção `Adicionar Servidor`:
 
-![imagem3](https://i.imgur.com/Yj26mwk.png)
-
-<br></br>
-
-4. Clique na mensagem do servidor para entrar
-
-![imagem4](https://i.imgur.com/OjbuN7Q.png)
+![imagem2](https://i.imgur.com/SReswRs.png)
 
 <br></br>
 
-5. Use **`/register Sua-Senha Sua-Senha`** para se registrar
+3. Preencha `armamc.com` na opção `Endereço do servidor` e clique em `Concluído`:
+
+![imagem3](https://i.imgur.com/tSPVQdU.png)
+
+<br></br>
+
+4. Clique na mensagem do servidor e depois em `Entrar no servidor`:
+
+![imagem4](https://i.imgur.com/rKDwWBf.png)
+
+<br></br>
+
+5. Use **`/register Sua-Senha Sua-Senha`** para se registrar!
 
 </div>
 </details>
