@@ -19,7 +19,7 @@ jobs:
           cache: yarn
 
       - name: Intalando dependencias
-        run: yarn install
+        run: yarn install --frozen-lockfile
       - name: Construindo website
         run: yarn run build
 

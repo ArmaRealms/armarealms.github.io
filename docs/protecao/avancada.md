@@ -36,28 +36,37 @@ Envie `/basicclaims` para voltar ao modo de proteção normal.
     <p>1. Dentro da <a href="/protecao/basica#utilizando-a-pá-de-ouro" target="_blank">proteção</a>, vamos criar uma sub-proteção no local do baú abaixo:</p>
     <img src="https://i.imgur.com/oyfX3qo.png" alt="Primeiro passo"></img>
     <p></p>
+    <br></br>
     <p>2. Envie <code>/kit prot</code> e coloque a pá de ouro na mão.</p>
     <p></p>
+    <br></br>
     <p>3. Envie <code>/claimsubdivide</code> para entrar no modo de sub-proteção.</p>
     <p></p>
+    <br></br>
     <p>4. Clique com o botão direito para selecionar a primeira quina:</p>
     <img src="https://i.imgur.com/fUBmp8J.png" alt="Quarto passo"></img>
     <p></p>
+    <br></br>
     <p>5. Clique com o botão direito para seleciona a segunda quina:</p>
     <img src="https://i.imgur.com/hgUJFEE.png" alt="Quinto passo"></img>
     <p>No local onde for selecionada a segunda quina aparecerá um bloco de ferro.</p>
     <p></p>
+    <br></br>
     <p>6. <b>Pronto, sub-proteção criada com sucesso!</b></p>
     <p></p>
+    <br></br>
     <p>7. Envie <code>/claimrestrict</code> dentro da sub-proteção:</p>
     <img src="https://i.imgur.com/NORhMh5.png" alt="Sétimo passo"></img>
     <p>Jogadores que tenham qualquer permissão na sua proteção principal não terão permissão na sub-proteção onde você enviou o comando.</p>
     <p></p>
+    <br></br>
     <p>8. Envie <code>/basicclaims</code> para voltar ao modo de proteção normal.</p>
     <p></p>
+    <br></br>
     <p>9. Com o graveto na mão, clique com o <b>botão direito</b> no local para ver sua sub-proteção:</p>
     <img src="https://i.imgur.com/zFqDCNz.png" alt="Nono passo"></img>
     <p></p>
+    <br></br>
     <p>10. A sub-proteção será circulada por bloco de lã com bloco de ferro nas quinas:</p>
     <img src="https://i.imgur.com/Jr9qO1H.png" alt="Décimo passo"></img>
   </div>
