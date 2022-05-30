@@ -6,7 +6,7 @@ sidebar_position: 20
 
 import APITable from '/src/components/APITable';
 
-# Vantagens ao ser VIP
+# Benefícios VIP
 
 :::info [Clique aqui para comprar VIP na loja oficial](https://loja.armamc.com)
 VIP Premium, Master e Ultimate possui a duração de 30 dias.
