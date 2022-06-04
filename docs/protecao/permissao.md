@@ -14,13 +14,13 @@ Para adicionar ou remover permissões em **todas** as suas proteções com um ú
 
 :::info Permissão para membros do clã!
 Use **group.\[tag-do-clã\]** para adicionar ou remover permissões de todos os membros do clã.  
-Exemplo: **`/accesstrust group.cdl`** ou **`/containertrust group.cdl`**  
+Exemplo: **`/trustaccess group.cdl`** ou **`/trustcontainer group.cdl`**  
 Permissão para todos os membros do clã com TAG **CDL**.
 :::
 
-:::info Permissão para todos os jogadores
-Use **public** para dar permissão a todos os jogadores.  
-Exemplo: **`/accesstrust public`** ou **`/containertrust public`**
+:::info Permissão para todos os jogadores!
+Use **public** ou **all** para dar permissão a todos os jogadores.  
+Exemplo: **`/trustaccess public`** ou **`/trustcontainer all`**
 :::
 
 ## Comandos

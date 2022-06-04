@@ -114,6 +114,6 @@ Você pode usar `/abandonallclaims` para excluir todas as suas proteções do se
 
 > Cada bloco de proteção vale $8 coins. 
 
-1. Envie `/claimsellblocks [quantia]` para comprar blocos de proteção.
+1. Envie `/claimsellblocks [quantia]` para vender blocos de proteção.
 
 🎯 Exemplo: `/claimsellblocks 100` - Venderá 100 blocos de proteção por 800 coins
