@@ -39,6 +39,7 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 | `/ploja size [quantidade]` | Alterar a quantidade do pack da loja |
 | `/ploja item` | Alterar o item da loja |
 | `/ploja list` | Listar todas as suas lojas no server |
+| `/ploja finditem [comprando|vendendo] [tipo de item|nome do item]` | Pesquisar lojas de outros jogadores |
 
 </APITable>
 
@@ -73,6 +74,24 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
 **Exemplo do Painel de Constrole da Loja:**  
 ![imagem](https://i.imgur.com/mUsQCqZ.png)
 
+## Pesquisar Lojas
+
+1. Envie `/ploja finditem [comprando|vendendo] [tipo de item|nome do item]` para encontrar lojas.
+
+⚠️ **Primeiro argumento do comando:**
+- comprando = Loja que estiver comprando o item pesquisado
+- vendendo = Loja que estiver vendendo o item pesquisado
+
+⚠️ **Segundo argumento do comando:**
+- tipo de item = pesquisa pelo tipo de item (independete do nome do item)
+  - Segure o item e envie `/iteminfo` para saber o tipo do item.
+- nome do item = pesquisa pelo nome do item (itens renomeados)
+
+🎯 Exemplo 1: `/ploja finditem comprando Voto` - Pesquisar lojas que estejam comprando chaves de voto.
+🎯 Exemplo 2: `/ploja finditem vendendo EXPERIENCE_BOTTLE` - Pesquisar lojas que estejam vendendo frasco de experiência.
+
+
+
 ## Alterar o Item da Loja
 
 1. Coloque o item que deseja comprar ou vender na mão.
@@ -99,9 +118,9 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
 
 🎯 Exemplo: `/ploja price 200`
 
-## Alterar o Stack da loja
+## Alterar o Pack da loja
 
-1. Envie `/ploja size [quantidade]` olhando para a loja que deseja alterar a quantidade do stack.
+1. Envie `/ploja size [quantidade]` olhando para a loja que deseja alterar a quantidade do pack.
 
 🎯 Exemplo: `/ploja size 64`
 

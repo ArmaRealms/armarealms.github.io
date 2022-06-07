@@ -6,7 +6,7 @@ sidebar_position: 1
 
 import APITable from '/src/components/APITable';
 
-# Loja Virtual do Servidor
+# Loja do Servidor
 
 ## Comandos
 
