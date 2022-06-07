@@ -1,7 +1,7 @@
 ---
 title: Leilão Virtual
 description: Tudo sobre o leilão virtual do jogador.
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 import APITable from '/src/components/APITable';

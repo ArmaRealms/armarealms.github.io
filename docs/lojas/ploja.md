@@ -1,7 +1,7 @@
 ---
 title: Loja dos Jogadores
 description: Tudo sobre a loja física dos jogadores.
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 import APITable from '/src/components/APITable';
@@ -39,7 +39,8 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 | `/ploja size [quantidade]` | Alterar a quantidade do pack da loja |
 | `/ploja item` | Alterar o item da loja |
 | `/ploja list` | Listar todas as suas lojas no server |
-| `/ploja finditem [comprando|vendendo] [tipo de item|nome do item]` | Pesquisar lojas de outros jogadores |
+| `/ploja finditem comprando [tipo de item ou nome do item]` | Pesquisar lojas de outros jogadores que esteja comprando o item pesquisado|
+| `/ploja finditem vendendo [tipo de item ou nome do item]` | Pesquisar lojas de outros jogadores que esteja vendendo o item pesquisado|
 
 </APITable>
 
@@ -78,18 +79,18 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
 
 1. Envie `/ploja finditem [comprando|vendendo] [tipo de item|nome do item]` para encontrar lojas.
 
-⚠️ Atalhos: `/plojabuscar` ou `/lojabuscar`
+Atalhos: `/plojabuscar` ou `/lojabuscar`
 
-⚠️ **Primeiro argumento do comando:**
-- comprando = Loja que estiver comprando o item pesquisado
-- vendendo = Loja que estiver vendendo o item pesquisado
+**Primeiro argumento:**
+- `comprando` = Loja que estiver comprando o item pesquisado
+- `vendendo` = Loja que estiver vendendo o item pesquisado
 
-⚠️ **Segundo argumento do comando:**
-- tipo de item = pesquisa pelo tipo de item (independete do nome do item)
+**Segundo argumento:**
+- `tipo de item` = pesquisa pelo tipo de item (independete do nome do item)
   - Segure o item e envie `/iteminfo` para saber o tipo do item.
-- nome do item = pesquisa pelo nome do item (itens renomeados)
+- `nome do item` = pesquisa pelo nome do item (itens renomeados)
 
-🎯 Exemplo 1: `/ploja finditem comprando Voto` - Pesquisar lojas que estejam comprando chaves de voto.
+🎯 Exemplo 1: `/ploja finditem comprando Voto` - Pesquisar lojas que estejam comprando chaves de voto.  
 🎯 Exemplo 2: `/ploja finditem vendendo EXPERIENCE_BOTTLE` - Pesquisar lojas que estejam vendendo frasco de experiência.
 
 ## Alterar o Item da Loja

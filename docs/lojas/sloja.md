@@ -1,7 +1,7 @@
 ---
 title: Loja do Servidor
 description: Tudo sobre a loja virtual do servidor.
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 import APITable from '/src/components/APITable';
