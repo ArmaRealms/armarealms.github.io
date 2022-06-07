@@ -96,7 +96,7 @@ import APITable from '/src/components/APITable';
 
 Você pode usar `/abandonallclaims` para excluir todas as suas proteções do servidor.
 
-⚠️ [Lojas físicas](../lojas/jogador.md) serão removidas quando a proteção for excluida!
+⚠️ [Lojas físicas](../lojas/ploja.md) serão removidas quando a proteção for excluida!
 
 ## Listar Proteção
 

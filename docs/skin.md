@@ -1,7 +1,7 @@
 ---
-title: Skin Customizada
+title: Skins
 description: Sistema de skins customizadas.
-sidebar_position: 4
+sidebar_position: 15
 ---
 
 import APITable from '/src/components/APITable';

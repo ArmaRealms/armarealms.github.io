@@ -78,6 +78,8 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
 
 1. Envie `/ploja finditem [comprando|vendendo] [tipo de item|nome do item]` para encontrar lojas.
 
+⚠️ Atalhos: `/plojabuscar` ou `/lojabuscar`
+
 ⚠️ **Primeiro argumento do comando:**
 - comprando = Loja que estiver comprando o item pesquisado
 - vendendo = Loja que estiver vendendo o item pesquisado
@@ -89,8 +91,6 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
 
 🎯 Exemplo 1: `/ploja finditem comprando Voto` - Pesquisar lojas que estejam comprando chaves de voto.
 🎯 Exemplo 2: `/ploja finditem vendendo EXPERIENCE_BOTTLE` - Pesquisar lojas que estejam vendendo frasco de experiência.
-
-
 
 ## Alterar o Item da Loja
 

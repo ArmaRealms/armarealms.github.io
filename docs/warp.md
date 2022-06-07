@@ -74,7 +74,7 @@ Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.
 #### Lista de Categorias:
 - Cidade (Warp de cidade ou vila)
 - Farm (Warp que tenha locais para obter XP)
-- Loja (Warp que tenha [lojas físicas](./lojas/jogador.md))
+- Loja (Warp que tenha [lojas físicas](./lojas/ploja.md))
 - Outras (Warp sem categoria definida)
 
 ### Abrir Categoria Especifica
