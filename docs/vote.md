@@ -41,7 +41,7 @@ Votos são válidos apenas se o jogador estiver online no servidor.
   <a href="https://minecraft-server.net/vote/ArmaMC">
     <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>Site 08</button>
   </a>
-  <a href="https://best-minecraft-servers.co/server-armageddon-server.4190/vote">
+  <a href="https://minecraft.buzz/vote/5241">
     <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>Site 09</button>
   </a>
   <a href="https://servers-minecraft.net/server-armageddon-server.1115/">
