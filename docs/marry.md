@@ -18,15 +18,15 @@ import APITable from '/src/components/APITable';
 | ------- | --------- |
 | `/marry` | Listar todos os comandos do marry |
 | `/marry listar` | Listar todos os jogadores casados |
-| `/marry [jogador]` | Enviar pedido de casamento a outro jogador. <p>Custo: $100.000 coins para cada jogador</p> |
+| `/marry [jogador]` | Enviar pedido de casamento a outro jogador |
 | `/marry divorciar` | Divorciar do seu parceiro(a) |
 | `/mc [mensagem]` | Enviar mensagem para o parceiro(a) |
 | `/mca` | Entrar ou sair do chat do casal |
-| `/marry tp` | Teleportar para o seu parceiro(a) <p>Custo: $10 coins</p> |
-| `/marry home` | Teleportar para a home do casal <p>Custo: $10 coins</p> |
-| `/marry sethome` | Definir home do casal <p>Custo: $1.000 coins</p> |
+| `/marry tp` | Teleportar para o seu parceiro(a) |
+| `/marry home` | Teleportar para a home do casal> |
+| `/marry sethome` | Definir home do casal |
 | `/marry delhome` | Apagar home do casal |
-| `/marry presentear` | Presentear o seu parceiro(a) <p>Custo: $10 coins</p> |
+| `/marry presentear` | Presentear o seu parceiro(a) |
 | `/marry beijar` | Beijar seu parceiro(a) |
 | `/marry abraçar` | Abraçar seu parceiro(a) |
 | `/marry seen` | Exibir o último login do seu parceiro(a) |
