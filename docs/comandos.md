@@ -342,6 +342,20 @@ import APITable from '/src/components/APITable';
 
 </APITable>
 
+### Loja de Cash
+
+<APITable>
+
+| Comando | Descrição |
+| ------- | --------- |
+| `/loja` ou `/shop` | Abrir o menu de lojas do servidor |
+| `/lojacash` ou `/cashloja` | Abrir o menu da loja de cash do servidor |
+| `/lojavip` ou `/viploja` | Abrir o menu da loja de VIP do servidor |
+| `/lojachave` ou `/chaveloja` | Abrir o menu da loja de chave do servidor |
+| `/lojatags` ou `/tagsloja` | Abrir o menu da loja de tag do servidor |
+
+</APITable>
+
 ### Loja do Servidor
 
 <APITable>
