@@ -261,13 +261,13 @@ import APITable from '/src/components/APITable';
 | Comando | Descrição |
 | ------- | --------- |
 | `/spawn` | Teleportar para o inicio do server |
-| `/wild` | Teleportar para um lugar aleatório do mapa que você estiver |
+| `/wild` ou `/rtp mundo` | Teleportar para um lugar aleatório no mundo principal |
+| `/recursos` ou `/minerar` | Teleportar para um lugar aleatório do mundo de recursos |
 | `/fps` | Teleportar para a arena FPS (mcMMO desativado) |
 | `/arena` | Teleportar para a arena (mcMMO ativado) |
 | `/camarote` | Teleportar para o camarote de eventos de batalha | 
-| `/rtp mundo` | Teleportar aleatório pelo mundo. |
-| `/rtp nether` | Teleportar aleatório pela dimensão Nether. (Custo: $5.000 coins) |
-| `/rtp end` | Teleportar aleatório pela dimensão do End. (Custo: $5.000 coins) |
+| `/nether` ou `/rtp nether` | Teleportar aleatório pela dimensão Nether. (Custo: $5.000 coins) |
+| `/end` ou `/rtp end` | Teleportar aleatório pela dimensão do End. (Custo: $5.000 coins) |
 
 </APITable>
 
@@ -328,19 +328,46 @@ import APITable from '/src/components/APITable';
 
 ## Economia
 
-### Gerenciar Saldo
+### Gerenciar Coins
 
 <APITable>
 
 | Comando | Descrição |
 | ------- | --------- |
-| `/pay [jogador] [valor]` | Transferir dinheiro para outro jogador |
-| `/payconfirmtoggle` | Alternar a confirmação de pagamento |
-| `/paytoggle` | Alternar o recebimento de dinheiro |
-| `/saldo (jogador)` | Visualizar seu saldo ou de outro jogador no banco |
-| `/topsaldo (página)` | Listar os jogadores mais ricos do server |
+| `/coins [jogador] [valor]` | Transferir coins para outro jogador |
+| `/coinsconfirmtoggle` | Alternar a confirmação de pagamento em coins |
+| `/coinstoggle` | Alternar o recebimento de coins |
+| `/coins` | Visualizar seu saldo em coins |
+| `/topcoins (página)` | Listar os jogadores mais ricos em coins do server |
 
 </APITable>
+
+### Gerenciar Cash
+
+<APITable>
+
+| Comando | Descrição |
+| ------- | --------- |
+| `/cash pagar [jogador] [valor]` | Transferir cash para outro jogador |
+| `/cash` | Visualizar seu saldo em cash |
+
+</APITable>
+
+### Loteria
+
+<APITable>
+
+| Comando | Descrição |
+| ------- | --------- |
+| `/lot` ou `/loteria` | Abra o menu da loteria para realizar apostas |
+| `/lot buy [quantia]` | Comprar bilhetes da loteria |
+| `/lot status` | Visualizar status do sorteio atual |
+| `/lot togglebuymsg` | Alterar notificações de compras na loteria |
+| `/lot toggleremindmsg` | Alterar notificações de sorteios da loteria |
+
+</APITable>
+
+## Lojas
 
 ### Loja de Cash
 
@@ -405,20 +432,6 @@ import APITable from '/src/components/APITable';
 | `/ah cancel [id-do-item]` | Cancelar a venda de um item no leilão |
 | `/ah coletar` | Coletar itens cancelados ou expirados do leilão |
 | `/ah abrir [categoria]` | Abrir o menu da categoria especificada |
-
-</APITable>
-
-### Loteria
-
-<APITable>
-
-| Comando | Descrição |
-| ------- | --------- |
-| `/lot` ou `/loteria` | Abra o menu da loteria para realizar apostas |
-| `/lot buy [quantia]` | Comprar bilhetes da loteria |
-| `/lot status` | Visualizar status do sorteio atual |
-| `/lot togglebuymsg` | Alterar notificações de compras na loteria |
-| `/lot toggleremindmsg` | Alterar notificações de sorteios da loteria |
 
 </APITable>
 

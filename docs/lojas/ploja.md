@@ -39,8 +39,8 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 | `/ploja size [quantidade]` | Alterar a quantidade do pack da loja |
 | `/ploja item` | Alterar o item da loja |
 | `/ploja list` | Listar todas as suas lojas no server |
-| `/ploja finditem comprando [tipo de item ou nome do item]` | Pesquisar lojas de outros jogadores que esteja comprando o item pesquisado|
-| `/ploja finditem vendendo [tipo de item ou nome do item]` | Pesquisar lojas de outros jogadores que esteja vendendo o item pesquisado|
+| `/plojabuscar comprando [item]` | Pesquisar lojas que compra o item pesquisado|
+| `/plojabuscar vendendo [item]` | Pesquisar lojas que vende o item pesquisado|
 
 </APITable>
 
@@ -52,19 +52,9 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 
 > [Toda loja será criada no modo de venda de itens, para saber como alterar clique aqui!](#alterar-o-modo-da-loja)
 
-### Sem Comando
-
-> Método recomendado!
-
 1. Coloque o item e a quantidade que deseja comprar ou vender na mão.
 2. Segure **shift** e clique com o **botão esquerdo** no baú.
 3. Em seguida envie o valor de venda ou compra no chat.
-
-### Com Comando
-
-1. Coloque o item e a quantidade que deseja comprar ou vender na mão.
-2. Mire no baú que deseja transformar em loja.
-3. Envie o comando `/ploja create [valor]` para criar uma loja
 
 ## Painel de Controle da Loja
 
@@ -77,21 +67,19 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
 
 ## Pesquisar Lojas
 
-1. Envie `/ploja finditem [comprando|vendendo] [tipo de item|nome do item]` para encontrar lojas.
-
-Atalhos: `/plojabuscar` ou `/lojabuscar`
+1. Envie `/plojabuscar [comprando|vendendo] [item]` para encontrar lojas.
 
 **Primeiro argumento:**
-- `comprando` = Loja que estiver comprando o item pesquisado
-- `vendendo` = Loja que estiver vendendo o item pesquisado
+- `comprando` = Loja que compra o item pesquisado
+- `vendendo` = Loja que vende o item pesquisado
 
 **Segundo argumento:**
 - `tipo de item` = pesquisa pelo tipo de item (independete do nome do item)
   - Segure o item e envie `/iteminfo` para saber o tipo do item.
 - `nome do item` = pesquisa pelo nome do item (itens renomeados)
 
-🎯 Exemplo 1: `/ploja finditem comprando Voto` - Pesquisar lojas que estejam comprando chaves de voto.  
-🎯 Exemplo 2: `/ploja finditem vendendo EXPERIENCE_BOTTLE` - Pesquisar lojas que estejam vendendo frasco de experiência.
+🎯 Exemplo 1: `/plojabuscar comprando Voto` - Pesquisar lojas que compra chaves de voto.  
+🎯 Exemplo 2: `/plojabuscar vendendo EXPERIENCE_BOTTLE` - Pesquisar lojas que vende frasco de experiência.
 
 ## Alterar o Item da Loja
 
