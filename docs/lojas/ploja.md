@@ -39,8 +39,8 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 | `/ploja size [quantidade]` | Alterar a quantidade do pack da loja |
 | `/ploja item` | Alterar o item da loja |
 | `/ploja list` | Listar todas as suas lojas no server |
-| `/plojabuscar comprando [item]` | Pesquisar lojas que compra o item pesquisado|
-| `/plojabuscar vendendo [item]` | Pesquisar lojas que vende o item pesquisado|
+| `/plojabuscar comprando [item]` | Pesquisar lojas que compram o item pesquisado |
+| `/plojabuscar vendendo [item]` | Pesquisar lojas que vendem o item pesquisado |
 
 </APITable>
 
@@ -78,8 +78,8 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
   - Segure o item e envie `/iteminfo` para saber o tipo do item.
 - `nome do item` = pesquisa pelo nome do item (itens renomeados)
 
-🎯 Exemplo 1: `/plojabuscar comprando Voto` - Pesquisar lojas que compra chaves de voto.  
-🎯 Exemplo 2: `/plojabuscar vendendo EXPERIENCE_BOTTLE` - Pesquisar lojas que vende frasco de experiência.
+🎯 Exemplo 1: `/plojabuscar comprando Voto` - Pesquisar lojas que compram chaves de voto.  
+🎯 Exemplo 2: `/plojabuscar vendendo EXPERIENCE_BOTTLE` - Pesquisar lojas que vendem frasco de experiência.
 
 ## Alterar o Item da Loja
 
