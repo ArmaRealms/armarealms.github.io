@@ -1,7 +1,7 @@
 ---
 title: Comandos de Membro
 description: Como aceitar ou negar convites, usar chat do clã.
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Comandos de Membro

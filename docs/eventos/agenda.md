@@ -4,6 +4,8 @@ description: Lista com horário de eventos diários, semanais e mensais.
 sidebar_position: 1
 ---
 
+import APITable from '/src/components/APITable';
+
 # Agenda de Eventos
 
 ## Servidor Gênesis
@@ -17,6 +19,8 @@ Eventos realizados no servidor Gênesis.
 
 ### Eventos Semanais
 
+<APITable>
+
 | Evento             | Dia da Semana | Horário |
 | ------------------ | ------------- | ------- |
 | Pré-Guerra Semanal | Quarta        | 18:00h  |
@@ -26,6 +30,8 @@ Eventos realizados no servidor Gênesis.
 | Pré-Guerra Semanal | Sábado        | 18:00h  |
 | Guerra Semanal     | Sábado        | 19:00h  |
 | Gladiador Semanal  | Domingo       | 19:00h  |
+
+</APITable>
 
 ## Servidor Apocalipse
 
@@ -38,6 +44,8 @@ Eventos realizados no servidor Apocalipse.
 
 ### Eventos Semanais
 
+<APITable>
+
 | Evento             | Dia da Semana | Horário |
 | ------------------ | ------------- | ------- |
 | Pré-Guerra Semanal | Sábado        | 17:00h  |
@@ -47,3 +55,5 @@ Eventos realizados no servidor Apocalipse.
 | Pré-Guerra Semanal | Sábado        | 17:00h  |
 | Guerra Semanal     | Sábado        | 18:00h  |
 | Gladiador Semanal  | Domingo       | 18:00h  |
+
+</APITable>
