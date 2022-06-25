@@ -79,7 +79,7 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
 - `nome do item` = pesquisa pelo nome do item (itens renomeados)
 
 🎯 Exemplo 1: `/plojabuscar comprando Voto` - Pesquisar lojas que compram chaves de voto.  
-🎯 Exemplo 2: `/plojabuscar vendendo EXPERIENCE_BOTTLE` - Pesquisar lojas que vendem frasco de experiência.
+🎯 Exemplo 2: `/plojabuscar vendendo  BEEF` - Pesquisar lojas que vendem filé.
 
 ## Alterar o Item da Loja
 

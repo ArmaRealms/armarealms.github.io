@@ -50,6 +50,13 @@ Observação: Quando o dono da conta altera a skin, sua skin também será alter
 
 :::info Atenção ao usar Tlauncher!
 Caso você utilize o cliente Tlauncher e quer utilizar skins no server, desative o sistema de skins do próprio Tlauncher. Clique para desmarcar a opção "Use peles Tlauncher".
-  
-![Exemplo](https://cdn.discordapp.com/attachments/730263790377107477/739543620226515016/unknown.png)
+
+\1. Clique na seta ao lado do seu nick:
+![Exemplo](https://i.imgur.com/0He5T4O.png)
+
+\2. Clique em "Configurar contas":
+![Exemplo2](https://i.imgur.com/JYp3RCI.png)
+
+\3. Desmarque a opção "Use peles Tlauncher":
+![Exemplo3](https://i.imgur.com/l7IGeAQ.png)
 :::
