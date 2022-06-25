@@ -155,7 +155,7 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 > Enviar a mesma mensagem várias vezes no chat dentro de um curto espaço de tempo não é permitido!  
 
 > Qualquer método para incitar flood em massa por todos os jogadores é passivo de punição!  
-> Exemplo: Primeiro jogador que enviar `X` no chat ganha `Y` de prêmio.
+> Exemplo: Primeiro jogador que enviar `oi` no chat ganha `100 coins` de prêmio.
 
 <details>
 <summary>💀 <b>Lista de Punições</b></summary>
@@ -330,14 +330,15 @@ Faça sistemas em locais separados para não carregar vários sistemas simultane
 > Também é considerado chat falso qualquer mensagem que prejudique outro jogador onde ocorre perca de itens ou coins.
 
 > Qualquer método de "evento" que faça o jogador perder coins é proibido.  
-> Exemplo: Primeiro jogador que enviar `X` coins ganha `Y` coins de volta.
+> Exemplo: Primeiro jogador que enviar `100 coins` ganha `200 coins` de volta.
 
 <details>
 <summary>💀 <b>Lista de Punições</b></summary>
 <div>
 
-1. Banimento temporário de 7 dias;
-2. Banimento permanente.
+1. Aviso permanente;
+2. Banimento temporário de 7 dias;
+3. Banimento permanente.
 
 </div>
 </details>
