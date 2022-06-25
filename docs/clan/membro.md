@@ -55,3 +55,16 @@ Use `/clan ajuda` para istar todos os comandos de clã disponíveis.
 
 1. `/clan redefinirkdr` - Redefinir seu próprio KDR.
 
+## Banco do Clã
+
+#### Verificar Saldo
+
+1. `/clan banco saldo`- Visualizar o saldo em coins do banco do clã. 
+
+#### Depositar Coins
+
+1. `/clan banco depositar [valor]` - Depositar coins no banco do clã.
+
+#### Sacar Coins
+
+1. `/clan banco sacar [valor]` - Sacar coins do banco do clã.

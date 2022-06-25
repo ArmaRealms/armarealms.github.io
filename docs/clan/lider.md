@@ -85,18 +85,6 @@ Membros do clã terão acesso a vários comandos como por exemplo `/a [mensagem]
 
 ## Gerenciar Banco
 
-#### Verificar Saldo
-
-1. `/clan banco saldo`- Visualizar o saldo em coins do banco do clã. 
-
-#### Depositar Coins
-
-1. `/clan banco depositar [valor]` - Depositar coins no banco do clã.
-
-#### Sacar Coins
-
-1. `/clan banco sacar [valor]` - Sacar coins do banco do clã.
-
 #### Alternar Depósito
 
 1. `/clan alternar depositar` - Ativa ou desativa depósitos de coins no banco do clã. 
