@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Comandos de Membro
 
-1. `/clan ajuda` - Listar todos os comandos de clã disponíveis.
+Use `/clan ajuda` para istar todos os comandos de clã disponíveis.
 
 ## Aceitar Convite
 
