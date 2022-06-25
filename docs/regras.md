@@ -16,7 +16,7 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 
 ### Regra 1.1 - Enviar Xingamentos e Bullyng entre Membros! {#1-1}
 
-> **Desrespeitos entre membros** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para outros jogadores (mesmo que sendo seu "amigo").
+> Não envie xingamentos e/ou brincadeiras de mal gosto para outros jogadores (mesmo que sendo seu "amigo").
 
 <details>
 <summary>💀 <b>Lista de Punições</b></summary>
@@ -34,7 +34,7 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 
 ### Regra 1.2 - Enviar Xingamentos e Desrespeito a Staff! {#1-2}
 
-> **Desrespeitos com a Staff** não serão tolerados, não envie xingamentos e/ou brincadeiras de mal gosto para a Staff.
+> Não envie xingamentos e/ou brincadeiras de mal gosto para a Staff.
 
 <details>
 <summary>💀 <b>Lista de Punições</b></summary>
@@ -155,7 +155,7 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 > Enviar a mesma mensagem várias vezes no chat dentro de um curto espaço de tempo não é permitido!  
 
 > Qualquer método para incitar flood em massa por todos os jogadores é passivo de punição!  
-> Exemplo: Primeiro jogador que enviar X no chat ganha Y de prêmio.
+> Exemplo: Primeiro jogador que enviar `X` no chat ganha `Y` de prêmio.
 
 <details>
 <summary>💀 <b>Lista de Punições</b></summary>
@@ -329,8 +329,8 @@ Faça sistemas em locais separados para não carregar vários sistemas simultane
 
 > Também é considerado chat falso qualquer mensagem que prejudique outro jogador onde ocorre perca de itens ou coins.
 
-> Qualquer método de "evento" que faça o jogador perder coins é proibido.
-> Exemplo: Primeiro jogador que enviar x coins ganha y coins de volta.
+> Qualquer método de "evento" que faça o jogador perder coins é proibido.  
+> Exemplo: Primeiro jogador que enviar `X` coins ganha `Y` coins de volta.
 
 <details>
 <summary>💀 <b>Lista de Punições</b></summary>
