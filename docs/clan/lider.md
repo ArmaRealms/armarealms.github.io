@@ -1,5 +1,5 @@
 ---
-title: Comandos de Líder
+title: Líder de Clã
 description: Como criar, convidar, sair e apagar clãs.
 sidebar_position: 1
 ---
