@@ -58,5 +58,5 @@ Caso você utilize o cliente Tlauncher e quer utilizar skins no server, desative
 ![Exemplo2](https://i.imgur.com/JYp3RCI.png)
 
 \3. Desmarque a opção "Use peles Tlauncher":
-![Exemplo3](https://i.imgur.com/l7IGeAQ.png)
+![Exemplo3](https://cdn.discordapp.com/attachments/730263790377107477/739543620226515016/unknown.png)
 :::
