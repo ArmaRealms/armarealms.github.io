@@ -7,7 +7,7 @@ sidebar_position: 2
 # Regras
 
 :::danger **Aceitamos Clientes Alternativos!** (TLauncher e Shiginima e etc..)  
-Se você possuir conta original e realizar a alteração do nome de perfil (nick) no site da mojang, você perderá todo o progresso realizado com o nick antigo nos servidores Armageddon, tome cuidado antes de alterar o seu nome de perfil!
+Se você possuir conta original e realizar a alteração do nome de perfil (nick) no site da mojang, você perderá todo o progresso realizado com o nick antigo nos servidores Armageddon, tome cuidado antes de alterar o seu nick no site da Mojang!
 :::
 
 ## Regra 1 - Proibido Desrespeitar a Staff ou outros Membros! {#1}
@@ -64,8 +64,10 @@ A Staff se reserva ao direito de julgar o que será tratado como xingamento, bul
 
 ## Regra 2 - Proibido Usar Métodos Ilegais para Vantagens Gerais! {#2}
 
-> Qualquer cliente, programa, modificação (mod) ou textura que dê vantagens desleais é proibido!  
-> O uso de clientes, programas, modificações (mods) ou texturas para voar, encontrar minérios e outros blocos, bater mais rápido, aumentar o dano de ataque, não receber dano, correr mais rápido do que o normal, visualizar informações de jogadores invisíveis e etc não são permitidos!  
+> Qualquer cliente, programa, modificação (mod) ou textura que dê vantagens desleais é proibido!
+
+> O uso de clientes, programas, modificações (mods) ou texturas para voar, encontrar minérios e outros blocos, bater mais rápido, aumentar o dano de ataque, não receber dano, correr mais rápido do que o normal, visualizar informações de jogadores invisíveis e etc não são permitidos!
+
 > Utilização de programas ou qualquer forma para realizar tarefas automáticas é proibido incluindo colocar ou remover blocos, burlar sistema ant-AFK, macro/auto-clicker em mouses sendo eles por software, hardware, elásticos, pesos, alteração de tecla para atacar e etc.
 
 ### Regra 2.1 - Usar Métodos Ilegais para Vantagens Gerais! {#2-1}
@@ -151,6 +153,7 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 ### Regra 4.1 - Fazer Flood ou Spam por Mensagem! {#4-1}
 
 > Enviar a mesma mensagem várias vezes no chat dentro de um curto espaço de tempo não é permitido!  
+
 > Qualquer método para incitar flood em massa por todos os jogadores é passivo de punição!  
 > Exemplo: Primeiro jogador que enviar X no chat ganha Y de prêmio.
 
@@ -169,7 +172,7 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 ### Regra 4.2 - Fazer Flood ou Spam por Comando! {#4-2}
 
 > Enviar comandos com objetivo de floodar o chat de outro jogador é contra as regras.  
-> Exemplo: Envio de coins de baixo valor, pedidos de teleporte e diversos outros comandos.
+> Exemplo: Envio de coins de baixo valor, pedidos de teleporte e mail e etc.
 
 <details>
 <summary>💀 <b>Lista de Punições</b></summary>
@@ -197,6 +200,7 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 ## Regra 5 - Proibido Construir Próximo a outro Jogador! {#5}
 
 > **Não construa próximo a outro jogador sem permissão!**  
+
 > Para evitar problemas futuros como por exemplo não conseguir expandir construções ou desentendimento entre jogadores, não construa perto de outro jogador sem permissão, sempre mantenha uma distância de uma construção a outra de 20 blocos ou assuma o risco de que se o jogador que construiu primeiro no local abrir ticket você terá sua proteção removida.  
 
 > Use `/trustnear <jogador>` para permitir que seu amigo crie proteções próximas da sua.
@@ -220,6 +224,7 @@ Será levado em consideração na hora da avaliação do ticket a construção e
 ## Regra 6 - Proibido Acumular Entidades em Excesso! {#6}
 
 > Devido a vários problemas com performance das versões atuais, não é possível acumular animais, mobs e aldeões em excesso na proteção!  
+
 > Use o bom senso e tenha a menor quantidade de animais possível!
 
 <details>
@@ -268,7 +273,8 @@ A remoção de animais, monstros e aldeões e geradores listados acima é realiz
 
 ## Regra 7 - Proibido Abusar de Circuitos de Redstone! {#7}
 
-> Não faça circuitos de redstone que utilizem grande quantidade de redstone, pistões, observadores e funis para que não atrapalhe o desempenho do servidor.  
+> Não faça circuitos de redstone que utilizem grande quantidade de redstone, pistões, observadores e funis para que não atrapalhe o desempenho do servidor.
+
 > Não utilize circuitos que abusam de bugs do minecraft para duplicar itens e etc.
 
 <details>
@@ -320,7 +326,11 @@ Faça sistemas em locais separados para não carregar vários sistemas simultane
 ### Regra 8.2 - Enviar Chat Falso para Prejudicar Jogadores! {#8-2}
 
 > Chat falso ou _fake chat_ é toda ação para enganar ou persuadir um jogador a aceitar ou enviar um pedido de teleporte e em seguida matá-lo.  
+
 > Também é considerado chat falso qualquer mensagem que prejudique outro jogador onde ocorre perca de itens ou coins.
+
+> Qualquer método de "evento" que faça o jogador perder coins é proibido.
+> Exemplo: Primeiro jogador que enviar x coins ganha y coins de volta.
 
 <details>
 <summary>💀 <b>Lista de Punições</b></summary>
@@ -334,8 +344,10 @@ Faça sistemas em locais separados para não carregar vários sistemas simultane
 
 ### Regra 8.3 - Divulgação e ou Venda de Contas ou Itens por Dinheiro Real! {#8-3}
 
-> Venda ou compra ou de conta, coins, itens vendidos pela loja ou itens dentro do jogo **por dinheiro real** é proibido e não deve ser realizado dentro do servidor em hipótese alguma.  
+> Venda ou compra ou de conta, coins, itens vendidos pela loja ou itens dentro do jogo **por dinheiro real** é proibido e não deve ser realizado dentro do servidor em nenhuma hipótese.  
+
 > Caso a Administração descubra que ocorreu venda de itens por dinheiro real dentro do servidor, ambas as contas envolvidas serão banidas permanentemente.  
+
 > A punição de silenciamento acima é aplicada apenas em casos de divulgação dentro dos servidores.
 
 :::danger Acesse a loja oficial em [https://loja.armamc.com](https://loja.armamc.com)
@@ -401,4 +413,7 @@ Exemplos: Utilizar conta secundária durante tempo de punição, escrever em pla
 
 :::info Todas as punições temporárias terão prazo de 90 dias.
 Exemplo: Jogador silenciado por 2 horas ao realizar flood, caso não sofra nenhuma punição dentro dos próximos 90 dias, essa punição não será levada em conta nas próximas aplicações de punições.
+:::
+
+:::note Regras atualizadas no dia 25/06/2022.
 :::

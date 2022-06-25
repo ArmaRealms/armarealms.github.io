@@ -24,7 +24,7 @@ Utilizado principalmente para proteger MapArts!
 
 ## Bloquear Mapa
 
-> ⚠️ Custo: $5.000 coins por mapa bloqueado
+> ⚠️ Custo: ¢5.000 coins por mapa bloqueado
 
 1. Envie `/copyright` com o mapa que deseja bloquear na mão.
 2. Clique na mensagem que aparecerá no chat para confirmar.

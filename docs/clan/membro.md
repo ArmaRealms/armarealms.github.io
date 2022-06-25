@@ -51,7 +51,7 @@ Use `/clan ajuda` para istar todos os comandos de clã disponíveis.
 
 ## Redefinir KDR
 
-> Custo para redefinir KDR: $300.000 coins
+> ⚠️ Custo: ¢150.000 coins por uso
 
 1. `/clan redefinirkdr` - Redefinir seu próprio KDR.
 

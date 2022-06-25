@@ -18,8 +18,8 @@ import APITable from '/src/components/APITable';
 | `/claimban [jogador]` | Banir outro jogador da proteção |
 | `/claimunban [jogador]` | Desbanir outro jogador da proteção |
 | `/claimbanlist` | Listar jogadores banidos da sua proteção |
-| `/claimexplosions` | Alterna a proteção contra explosões da proteção | 
-| `/givepet [jogador]` | Doe seu animal de estimação para outro jogador |
+| `/claimexplosions` | Alternar a proteção contra explosões da proteção | 
+| `/givepet [jogador]` | Doar seu animal de estimação para outro jogador |
 
 </APITable>
 

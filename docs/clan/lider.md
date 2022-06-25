@@ -10,7 +10,7 @@ Use `/clan ajuda` para istar todos os comandos de clã disponíveis.
 
 ## Criar Clã
 
-> Custo para criação do clã: $150.000  
+> ⚠️ Custo: ¢150.000 coins  
 > A TAG precisa ter apenas 3 caracteres.
 
 1. `/clan create [tag] [nome]` - Comando para criação de um clã.

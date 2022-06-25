@@ -48,7 +48,7 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 
 > ⚠️ [Lojas são protegidas pelo sistema de proteção de terrenos!](../protecao/basica.md)  
 > ⚠️ Lojas físicas serão removidas quando a proteção for excluida!  
-> ⚠️ Custo: $100 coins.
+> ⚠️ Custo: ¢100 coins por loja criada
 
 > [Toda loja será criada no modo de venda de itens, para saber como alterar clique aqui!](#alterar-o-modo-da-loja)
 
@@ -101,7 +101,7 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
 
 ## Alterar o Valor da Loja
 
-> ⚠️ Custo: $50 coins
+> ⚠️ Custo: ¢50 coins por loja alterada
 
 1. Envie `/ploja price [novo-preço]` olhando para a loja que deseja alterar o valor.
 

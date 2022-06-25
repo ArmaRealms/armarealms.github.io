@@ -8,7 +8,7 @@ import APITable from '/src/components/APITable';
 
 # Casamento entre Jogadores
 
-> ⚠️ Custo para se casar é de $100.000 coins para cada jogador.
+> ⚠️ Custo: ¢100.000 coins para cada jogador.
 
 ## Comandos
 
@@ -44,7 +44,7 @@ Receba o dobro de experiência ao matar matar mobs e outras ações que dropa XP
 ### Teleporte Instantâneo
 
 > Teleporte instantâneo entre casal  
-> ⚠️ Custo: $10 coins
+> ⚠️ Custo: ¢10 coins por uso
 
 1. Envie `/marry tp` para teleportar até seu parceiro.
 
@@ -53,7 +53,7 @@ Não é necessário aceitar pedidos de teleporte entre o casal.
 ### Enviar Presentes
 
 > Enviar presente para o parceiro  
-> ⚠️ Custo: $10 coins
+> ⚠️ Custo: ¢10 coins por uso
 
 1. Coloque o item que deseja presentear na mão
 2. Envie `/marry presentear` para enviar o presente
@@ -62,7 +62,7 @@ Não é necessário aceitar pedidos de teleporte entre o casal.
 ### Definir Base do Casal
 
 > Definir base do casal  
-> ⚠️ Custo: $10 coins
+> ⚠️ Custo: ¢10 coins por uso
 
 ### Chat Privado do Casal
 

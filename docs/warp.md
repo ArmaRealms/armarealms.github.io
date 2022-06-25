@@ -41,7 +41,7 @@ Warp de jogadores (Go) serve para que os jogadores tenham um ponto de teleporte 
 
 ## Criar uma Go
 
-> ⚠️ Custo: $5.000 coins
+> ⚠️ Custo: ¢5.000 coins por uso
 
 1. Envie `/go definir [nome-da-warp]` no local onde deseja criar uma warp.
 
@@ -52,7 +52,7 @@ Warp de jogadores (Go) serve para que os jogadores tenham um ponto de teleporte 
 Slot VIP são locais especiais para que sua warp tenha maior visibilidade.  
 Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.  
 
-> ⚠️ Custo: $10.000 coins  
+> ⚠️ Custo: ¢10.000 coins por uso  
 > ⏲️ Duração: 7 dias
 
 1. Acesse o menu com `/go` ou `/pwarp`.
@@ -112,14 +112,14 @@ Sua Go ficará disponível no menu ao usar `/go` ou `/pwarp`.
 ## Redefinir uma Go
 
 > ✅ Não perde dados de visitação e avaliações ao renomear uma warp.  
-> ⚠️ Custo: $5.000 coins
+> ⚠️ Custo: ¢5.000 coins por uso
 
 1. Envie `/go redefinir [warp]` para redefinir a warp no local onde você estiver.
 
 ## Renomear uma Go
 
 > ✅ Não perde dados de visitação e avaliações ao renomear uma warp.  
-> ⚠️ Custo: $5.000 coins
+> ⚠️ Custo: ¢5.000 coins por uso
 
 1. Envie `/go renomear [warp] [nome-novo]` para renomear a warp.
 

@@ -40,7 +40,7 @@ import APITable from '/src/components/APITable';
 | ------- | --------- |
 | `/auto` | Alternar o recolhimento de itens direto para o inventário |
 | `/auto aviso` | Alternar o aviso de inventário cheio |
-| `/copyright` | Bloquear cópia de mapas (Custo: $5.000 coins) |
+| `/copyright` | Bloquear cópia de mapas (Custo: ¢5.000 coins) |
 | `/gps` | Listar quem estiver a 200 blocos de distância |
 | `/lixo` | Abrir a lixeira para descartar itens |
 | `/original` | Ative o login automático se você tiver minecraft original |
@@ -64,7 +64,7 @@ import APITable from '/src/components/APITable';
 | `/kit [nome-do-kit]` | Receber o kit solicitado |
 | `/kit fome` | Receber o kit com pães |
 | `/kit prot` | Receber o kit de proteção |
-| `/kit pvp` | Receber o kit de PVP (Custo: $500 coins) | 
+| `/kit pvp` | Receber o kit de PVP (Custo: ¢500 coins) | 
 
 </APITable>
 
@@ -266,8 +266,8 @@ import APITable from '/src/components/APITable';
 | `/fps` | Teleportar para a arena FPS (mcMMO desativado) |
 | `/arena` | Teleportar para a arena (mcMMO ativado) |
 | `/camarote` | Teleportar para o camarote de eventos de batalha | 
-| `/nether` ou `/rtp nether` | Teleportar aleatório pela dimensão Nether. (Custo: $5.000 coins) |
-| `/end` ou `/rtp end` | Teleportar aleatório pela dimensão do End. (Custo: $5.000 coins) |
+| `/nether` ou `/rtp nether` | Teleportar aleatório pela dimensão Nether. (Custo: ¢5.000 coins) |
+| `/end` ou `/rtp end` | Teleportar aleatório pela dimensão do End. (Custo: ¢5.000 coins) |
 
 </APITable>
 
