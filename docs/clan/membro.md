@@ -1,19 +1,18 @@
 ---
 title: Comandos de Membro
-description: Como aceitar ou negar convites, sair e usar chat do clã.
+description: Como aceitar ou negar convites, usar chat do clã.
+sidebar_position: 1
 ---
 
 # Comandos de Membro
 
 1. `/clan ajuda` - Listar todos os comandos de clã disponíveis.
 
-## Gerenciar Convites
-
-### Aceitar Convite
+## Aceitar Convite
 
 1. `/clan aceitar` - Aceitar convite para entrar em um clã.
 
-### Negar Convite
+## Negar Convite
 
 1. `/clan negar` -  Negar convite para entrar em um clã.
 
@@ -21,16 +20,14 @@ description: Como aceitar ou negar convites, sair e usar chat do clã.
 
 * `/clan abandonar` - Sair do clã.
 
-## Mensagem no Clã
-
-### Chat do Clã
+## Chat do Clã
 
 1. `/c [mensagem]` - Enviar mensagem no chat do clã.
 
 * `/c entrar` - Entre no chat do clã. 
 * `/c sair` - Sair do chat do clã.
 
-### Chat de Aliados
+## Chat de Aliados
 
 1. `/a [mensagem]` - Enviar mensagem no chat de aliados.
 
@@ -52,7 +49,7 @@ description: Como aceitar ou negar convites, sair e usar chat do clã.
 
 1. `/clan avisos` - Visualizar o quadro de avisos do seu clã.
 
-## Redefinir KDR Pessoal
+## Redefinir KDR
 
 > Custo para redefinir KDR: $300.000 coins
 

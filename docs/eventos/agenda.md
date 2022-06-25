@@ -1,6 +1,7 @@
 ---
 title: Agenda
 description: Lista com horário de eventos diários, semanais e mensais.
+sidebar_position: 1
 ---
 
 # Agenda de Eventos
@@ -10,6 +11,9 @@ description: Lista com horário de eventos diários, semanais e mensais.
 Eventos realizados no servidor Gênesis.
 
 ### Eventos Mensais
+
+* Construção Mensal
+* Guerra Mensal
 
 ### Eventos Semanais
 
@@ -28,6 +32,9 @@ Eventos realizados no servidor Gênesis.
 Eventos realizados no servidor Apocalipse.
 
 ### Eventos Mensais
+
+* Construção Mensal
+* Guerra Mensal
 
 ### Eventos Semanais
 

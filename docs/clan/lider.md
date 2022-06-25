@@ -1,6 +1,7 @@
 ---
 title: Comandos de Líder
 description: Como criar, convidar, sair e apagar clãs.
+sidebar_position: 1
 ---
 
 # Comandos de Líder
@@ -84,23 +85,23 @@ Membros do clã terão acesso a vários comandos como por exemplo `/clan saude`,
 
 ## Gerenciar Banco
 
-### Verificar Saldo em Coins
+### Verificar Saldo
 
 1. `/clan banco saldo`- Visualizar o saldo do banco do clã. 
 
-### Depositar Coins no Banco
+### Depositar Coins
 
 1. `/clan banco depositar [valor]` - Depositar valor definido no banco do clã.
 
-### Sacar Coins do Banco
+### Sacar Coins
 
 1. `/clan banco sacar [valor]` - Sacar valor definido do banco do clã.
 
-#### Gerenciar Depósito
+#### Alternar Depósito
 
 1. `/clan alternar depositar` - Ativa ou desativa depósitos no banco do clã. 
 
-#### Gerenciar Saque
+#### Alternar Saque
 
 1. `/clan alternar sacar` - Ativa ou desativa saques no banco do clã.
 
@@ -109,6 +110,3 @@ Membros do clã terão acesso a vários comandos como por exemplo `/clan saude`,
 > Este comando é irreversível!
 
 1. `/clan debandar` - Abandonar o clã que você criou ou é líder.
-
-
-
