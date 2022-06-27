@@ -45,10 +45,11 @@ Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês.
 | Eventos Semanais      | Pontuação                                                                            |
 | --------------------- | ------------------------------------------------------------------------------------ |
 | Guerra Semanal        | 500 pontos                                                                           |
+| Clã x Clã Semanal     | 200 pontos                                                                           |
 | Arqueiro Semanal      | 100 pontos                                                                           |
 | Killer Semanal        | 100 pontos                                                                           |
 | Luta Semanal          | 100 pontos                                                                           |
-| Pré Guerra Semanal    | 100 pontos                                                                           |
+| Pré-Guerra Semanal    | 100 pontos                                                                           |
 | Torneio Semanal       | <p>1° lugar = 100 pontos</p><p>2° lugar = 75 pontos</p><p>3° lugar = 50 pontos</p>   |
 
 </APITable>

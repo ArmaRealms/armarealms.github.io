@@ -20,7 +20,7 @@ sidebar_position: 5
 <div class="avatar" style={{margin: 10}}>
   <img
     class="avatar__photo avatar__photo--lg"
-    src="http://cravatar.eu/head/ThiagoROX/32.png" />
+    src="http://cravatar.eu/head/ThiagoROX/64.png" />
   <div class="avatar__intro">
     <div class="avatar__name">ThiagoROX</div>
     <small class="avatar__subtitle">
@@ -41,7 +41,7 @@ sidebar_position: 5
 <div class="avatar" style={{margin: 10}}>
   <img
     class="avatar__photo avatar__photo--lg"
-    src="http://cravatar.eu/head/Ddougras/32.png" />
+    src="http://cravatar.eu/head/Ddougras/64.png" />
   <div class="avatar__intro">
     <div class="avatar__name">Ddougras</div>
     <small class="avatar__subtitle">
@@ -52,7 +52,7 @@ sidebar_position: 5
 <div class="avatar" style={{margin: 10}}>
   <img
     class="avatar__photo avatar__photo--lg"
-    src="http://cravatar.eu/head/FreiraDaNight/32.png" />
+    src="http://cravatar.eu/head/FreiraDaNight/64.png" />
   <div class="avatar__intro">
     <div class="avatar__name">FreiraDaNight</div>
     <small class="avatar__subtitle">
@@ -63,7 +63,7 @@ sidebar_position: 5
 <div class="avatar" style={{margin: 10}}>
   <img
     class="avatar__photo avatar__photo--lg"
-    src="http://cravatar.eu/head/ZzThiagoZz/32.png" />
+    src="http://cravatar.eu/head/ZzThiagoZz/64.png" />
   <div class="avatar__intro">
     <div class="avatar__name">ZzThiagoZz</div>
     <small class="avatar__subtitle">
@@ -103,7 +103,7 @@ sidebar_position: 5
 <div class="avatar" style={{margin: 10}}>
   <img
     class="avatar__photo avatar__photo--lg"
-    src="http://cravatar.eu/head/BlackBirdx1/32.png" />
+    src="http://cravatar.eu/head/BlackBirdx1/64.png" />
   <div class="avatar__intro">
     <div class="avatar__name">BlackBirdx1</div>
     <small class="avatar__subtitle">
