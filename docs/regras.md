@@ -337,6 +337,7 @@ Faça sistemas em locais separados para não carregar vários sistemas simultane
 <div>
 
 1. Aviso permanente;
+2. Silenciamento temporário de 2 dias;
 2. Banimento temporário de 7 dias;
 3. Banimento permanente.
 
@@ -416,5 +417,9 @@ Exemplos: Utilizar conta secundária durante tempo de punição, escrever em pla
 Exemplo: Jogador silenciado por 2 horas ao realizar flood, caso não sofra nenhuma punição dentro dos próximos 90 dias, essa punição não será levada em conta nas próximas aplicações de punições.
 :::
 
-:::note Regras atualizadas no dia 25/06/2022.
-:::
+
+<div style={{text-align: center}}>
+
+<p>`Regras atualizadas no dia 28/06/2022`<p>
+
+</div>
