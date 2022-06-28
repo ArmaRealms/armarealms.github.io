@@ -418,8 +418,8 @@ Exemplo: Jogador silenciado por 2 horas ao realizar flood, caso não sofra nenhu
 :::
 
 
-<div style={{text-align: center}}>
+<div>
 
-<p>`Regras atualizadas no dia 28/06/2022`<p>
+  <p style={{textAlign: "center"}}>`Regras atualizadas no dia 28/06/2022`<p>
 
 </div>
