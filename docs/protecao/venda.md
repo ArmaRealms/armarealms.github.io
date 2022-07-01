@@ -29,7 +29,7 @@ import APITable from '/src/components/APITable';
 
 ## Vender uma Proteção
 
-> Na venda de uma proteção os blocos são transferidos entre o vendedor e o comprador.  
+> Ao vender uma proteção os blocos de proteção utilizados são transferidos do vendedor para o comprador.  
 > Não é possível vender uma sub-proteção.
 
 **Uma placa deve ser colocada dentro da proteção que você deseja vender.**

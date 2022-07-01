@@ -44,10 +44,14 @@ Leilão serve para venda de itens de forma virtual, onde o jogador pode comprar 
 | ------- | --------- |
 | `/ah` ou `/leilao` | Abrir o menu principal de leilão |
 | `/ah ajuda` | Listar todos os comandos do leilão |
-| `/ah vender [preço]` | Vender um item no leilão |
-| `/ah leiloar [preço]` | Leiloar um item no leilão |
-| `/ah cancel [id-do-item]` | Cancelar a venda de um item no leilão |
+| `/ah vender [preço]` | Vender o item que estiver segurando por coins |
+| `/ah vender [preço] cash` | Vender o item que estiver segurando por cash |
+| `/ah leiloar [preço]` | Leiloar o item que estiver segurando por coins |
+| `/ah leiloar [preço] cash` | Leiloar o item que estiver segurando por cash |
+| `/ah cancel [id-do-leilão]` | Cancelar a venda de um item |
 | `/ah coletar` | Coletar itens cancelados ou expirados do leilão |
 | `/ah abrir [categoria]` | Abrir o menu da categoria especificada |
+| `/ah cash vender [quantia] [valor]` | Vender cash por coins. |
+| `/ah cash leiloar [quantia] [valor]` | Leiloar cash por coins. |
 
 </APITable>

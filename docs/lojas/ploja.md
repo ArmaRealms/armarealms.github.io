@@ -39,8 +39,8 @@ Loja físca por baús serve para que jogadores possam comprar e vender grande qu
 | `/ploja size [quantidade]` | Alterar a quantidade do pack da loja |
 | `/ploja item` | Alterar o item da loja |
 | `/ploja list` | Listar todas as suas lojas no server |
-| `/plojabuscar comprando [item]` | Pesquisar lojas que compram o item pesquisado |
-| `/plojabuscar vendendo [item]` | Pesquisar lojas que vendem o item pesquisado |
+| `/ploja buscar comprando [item]` | Pesquisar lojas que compram o item pesquisado |
+| `/ploja buscar vendendo [item]` | Pesquisar lojas que vendem o item pesquisado |
 
 </APITable>
 
@@ -67,7 +67,11 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
 
 ## Pesquisar Lojas
 
-1. Envie `/plojabuscar [comprando|vendendo] [item]` para encontrar lojas.
+1. Envie `/ploja buscar [comprando|vendendo] [item]` para encontrar lojas.
+
+**Atalhos do comando:**
+- `/plojabuscar [comprando|vendendo] [item]`
+- `/slojabuscar [comprando|vendendo] [item]`
 
 **Primeiro argumento:**
 - `comprando` = Loja que compra o item pesquisado
@@ -78,8 +82,8 @@ Para acessar o painel de controle da loja basta clicar com o **botão direito** 
   - Segure o item e envie `/iteminfo` para saber o tipo do item.
 - `nome do item` = pesquisa pelo nome do item (itens renomeados)
 
-🎯 Exemplo 1: `/plojabuscar comprando Voto` - Pesquisar lojas que compram chaves de voto.  
-🎯 Exemplo 2: `/plojabuscar vendendo  BEEF` - Pesquisar lojas que vendem filé.
+🎯 Exemplo 1: `/ploja buscar comprando Voto` - Pesquisar lojas que compram chaves de voto.  
+🎯 Exemplo 2: `/ploja buscar vendendo  BEEF` - Pesquisar lojas que vendem filé.
 
 ## Alterar o Item da Loja
 
