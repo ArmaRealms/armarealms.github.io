@@ -23,7 +23,7 @@ import APITable from '/src/components/APITable';
 | `/mc [mensagem]` | Enviar mensagem para o parceiro(a) |
 | `/mca` | Entrar ou sair do chat do casal |
 | `/marry tp` | Teleportar para o seu parceiro(a) |
-| `/marry home` | Teleportar para a home do casal> |
+| `/marry home` | Teleportar para a home do casal |
 | `/marry sethome` | Definir home do casal |
 | `/marry delhome` | Apagar home do casal |
 | `/marry presentear` | Presentear o seu parceiro(a) |
