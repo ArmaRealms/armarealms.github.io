@@ -45,29 +45,19 @@ const config = {
         title: 'Wiki Armageddon',
         logo: {
           alt: 'armamc',
-          src: 'img/logo.png',
+          src: 'img/logo.svg',
         },
         hideOnScroll: true,
         items: [
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://discord.gg/yEUhqn8" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Discord</button></a>',
+            value: '<a href="https://discord.gg/armamc" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Discord</button></a>',
           },
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://forum.armamc.com/" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Fórum</button></a>',
-          },
-          {
-            type: 'html',
-            position: 'left',
-            value: '<a href="https://rgb.armamc.com/" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Criador RGB</button></a>',
-          },
-          {
-            type: 'html',
-            position: 'left',
-            value: '<a href="https://wiki.armamc.com/vote"><button class="button button--outline button--info">Vote</button></a>',
+            value: '<a href="https://loja.armamc.com/" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Loja</button></a>',
           },
           {
             type: 'html',
@@ -77,7 +67,12 @@ const config = {
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://forms.gle/ksQJkVtA6WMXHkpZ9" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Seja Ajudante</button></a>',
+            value: '<a href="https://wiki.armamc.com/vote"><button class="button button--outline button--info">Vote</button></a>',
+          },
+          {
+            type: 'html',
+            position: 'left',
+            value: '<a href="https://rgb.armamc.com/" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Criador RGB</button></a>',
           },
         ],
       },
