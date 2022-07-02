@@ -45,19 +45,19 @@ const config = {
         title: 'Wiki Armageddon',
         logo: {
           alt: 'armamc',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         hideOnScroll: true,
         items: [
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://discord.gg/armamc" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Discord</button></a>',
+            value: '<a href="https://loja.armamc.com/" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Loja</button></a>',
           },
           {
             type: 'html',
             position: 'left',
-            value: '<a href="https://loja.armamc.com/" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Loja</button></a>',
+            value: '<a href="https://discord.gg/armamc" target="_blank" rel="noopener noreferrer"><button class="button button--outline button--info">Discord</button></a>',
           },
           {
             type: 'html',
