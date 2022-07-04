@@ -121,7 +121,7 @@ Não será considerado "griefing" caso o jogador possua permissão na proteção
 
 > Não é permitido quebrar construções de outros jogadores, colocar ou remover blocos aleatórios pelo mapa, colocar lava ou água pelo mapa de forma aleatória com o objetivo de destruir o mapa.  
 
-> Ao encontrar terrenos sem proteção é permitido pegar itens de baús, fornalhas, shulkerbox's e etc, é permitido quebrar blocos de alto valor como sinalizador, shulkerbox's, blocos de minérios, spawners e etc. [Saiba o tempo offline para perca da proteção clicando aqui!](https://wiki.armamc.com/protecao/perca)
+> Ao encontrar terrenos sem proteção é permitido pegar itens de baús, fornalhas, shulkerbox's e etc, é permitido quebrar blocos de alto valor como sinalizador, shulkerbox's, blocos de minérios, spawners e etc. [Saiba o tempo offline para perda da proteção clicando aqui!](https://wiki.armamc.com/protecao/perda)
 
 <details>
 <summary>💀 <b>Lista de Punições</b></summary>
@@ -327,7 +327,7 @@ Faça sistemas em locais separados para não carregar vários sistemas simultane
 
 > Chat falso ou _fake chat_ é toda ação para enganar ou persuadir um jogador a aceitar ou enviar um pedido de teleporte e em seguida matá-lo.  
 
-> Também é considerado chat falso qualquer mensagem que prejudique outro jogador onde ocorre perca de itens ou coins.
+> Também é considerado chat falso qualquer mensagem que prejudique outro jogador onde ocorre perda de itens ou coins.
 
 > Qualquer método de "evento" que faça o jogador perder coins é proibido.  
 > Exemplo: Primeiro jogador que enviar `100 coins` ganha `200 coins` de volta.
