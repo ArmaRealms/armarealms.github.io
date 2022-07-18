@@ -43,7 +43,7 @@ Aceitamos Minecraft Java e Bedrock Edition!
     </a>
   </summary>
   <div>
-  <p>1. Clique na opção `Multijogador`:
+  <p>1. Clique na opção `Multijogador`:</p>
   <p>![imagem1](https://i.imgur.com/ch91qRq.png)</p>
   <br></br>
   <p>2. Clique na opção `Adicionar Servidor`:</p>
@@ -56,7 +56,7 @@ Aceitamos Minecraft Java e Bedrock Edition!
   <p>![imagem4](https://i.imgur.com/o3GUq2w.png)</p>
   <p>![imagem5](https://i.imgur.com/CDSOcH2.png)</p>
   <br></br>
-  <p>5. Use **`/registrar Sua-Senha Sua-Senha`** para se registrar!
+  <p>5. Use **`/registrar Sua-Senha Sua-Senha`** para se registrar!</p>
   </div>
 </details>
 
