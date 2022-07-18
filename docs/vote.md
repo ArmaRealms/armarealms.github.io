@@ -6,14 +6,12 @@ sidebar_position: 3
 
 # Vote no Servidor
 
-:::info Vote e receba chaves para abrir caixas na warp /caixa.
-
+:::info
+Vote e receba chaves para abrir caixas na warp /caixa.
 Quanto mais você votar mais prêmios e chaves você pode ganhar:  
-A cada **`10 votos`** você recebe uma chave **`comum`**.  
-A cada **`20 votos`** você recebe uma chave **`rara`**.  
-A cada **`80 votos`** você recebe uma chave **`lendária`**.
-
-Votos são válidos apenas se o jogador estiver online no servidor.
+A cada **`10 votos`** você recebe uma Chave **`Comum`**.  
+A cada **`20 votos`** você recebe uma Chave **`Rara`**.  
+A cada **`80 votos`** você recebe uma Chave **`Lendária`**.
 :::
 
 <div>
@@ -48,3 +46,7 @@ Votos são válidos apenas se o jogador estiver online no servidor.
     <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>Site 10</button>
   </a>
 </div>
+
+:::info Votos offline!
+Caso você vote offline, os votos são salvos por até 7 dias, basta entrar no servidor durante esse tempo para receber suas recompensas.
+:::
