@@ -1,7 +1,7 @@
 ---
 title: VIP
 description: Lista de benefícios ao ser VIP.
-sidebar_position: 20
+sidebar_position: 17
 ---
 
 import APITable from '/src/components/APITable';

@@ -1,7 +1,7 @@
 ---
 title: Liga
 description: Tudo sobre o sistema de liga do servidor.
-sidebar_position: 11
+sidebar_position: 12
 ---
 
 import APITable from '/src/components/APITable';
