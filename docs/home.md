@@ -8,7 +8,10 @@ hide_title: true
 
 ## 🚀 Acesse o servidor!
 
-Aceitamos Minecraft Java e Bedrock Edition!
+Aceitamos Minecraft Versão Java e Bedrock Edition!
+
+🖥️ IP usando Java: `armamc.com` porta padrão `25565`
+🎮 IP usando Bedrock: `armamc.com` porta padrão `19132`
 
 ### 🖥️ Java Edition
 
