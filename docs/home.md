@@ -14,49 +14,43 @@ Aceitamos Minecraft Java e Bedrock Edition!
 
 <div>
   <a href="https://www.minecraft.net/pt-pt/store/minecraft-java-edition">
-    <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>
-      Minecraft Original (Pago)
+    <button class="button button--primary" style={{margin: 10}}>
+      Minecraft (Pago)
     </button>
   </a>
-</div>
-<div>
   <a href="https://www.salwyrr.com/">
-    <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>
-      Minecraft Alternativo Salwyrr (Grátis)
+    <button class="button button--primary" style={{margin: 10}}>
+      Salwyrr (Grátis)
     </button>
   </a>
-</div>
-<div>
   <a href="https://tlauncher.org/installer">
-    <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>
-      Minecraft Alternativo Tlauncher (Grátis)
+    <button class="button button--primary" style={{margin: 10}}>
+      Tlauncher (Grátis)
     </button>
   </a>
 </div>
 
 <details>
   <summary>
-    <a>
-      <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>
+    <p><b>
       Passo a passo de como entrar no servidor usando Java!
-      </button>
-    </a>
+    </b></p>
   </summary>
   <div>
-  <p>1. Clique na opção `Multijogador`:</p>
-  <p>![imagem1](https://i.imgur.com/ch91qRq.png)</p>
+  <p>1. Clique na opção <code>Multijogador</code>:</p>
+  <img src="https://i.imgur.com/ch91qRq.png">
   <br></br>
-  <p>2. Clique na opção `Adicionar Servidor`:</p>
-  <p>![imagem2](https://i.imgur.com/dnS53OG.png)</p>
+  <p>2. Clique na opção <code>Adicionar Servidor</code>:</p>
+  <img src="https://i.imgur.com/dnS53OG.png">
   <br></br>
-  <p>3. Preencha `armamc.com` na opção `Endereço do servidor` e clique em `Concluído`:</p>
-  <p>![imagem3](https://i.imgur.com/vZxXzEj.png)</p>
+  <p>3. Preencha <code>armamc.com</code> na opção <code>Endereço do servidor</code> e clique em <code>Concluído</code>:</p>
+  <img src="https://i.imgur.com/vZxXzEj.png">
   <br></br>
-  <p>4. Clique na mensagem do servidor e depois em `Entrar no servidor`:</p>
-  <p>![imagem4](https://i.imgur.com/o3GUq2w.png)</p>
-  <p>![imagem5](https://i.imgur.com/CDSOcH2.png)</p>
+  <p>4. Clique na mensagem do servidor e depois em <code>Entrar no servidor</code>:</p>
+  <img src="https://i.imgur.com/o3GUq2w.png">
+  <img src="https://i.imgur.com/CDSOcH2.png">
   <br></br>
-  <p>5. Use **`/registrar Sua-Senha Sua-Senha`** para se registrar!</p>
+  <p>5. Use <b><code>/registrar Sua-Senha Sua-Senha</code></b> para se registrar!</p>
   </div>
 </details>
 
