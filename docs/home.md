@@ -32,19 +32,19 @@ Aceitamos Minecraft Java e Bedrock Edition!
 
 <details style={{marginTop: 20}}>
   <summary><b>
-  Passo a passo de como entrar no servidor usando Java!
+  Passo a passo de como entrar no usando Java Edition!
   </b></summary>
   <div>
   <p>1. Clique na opção <code>Multijogador</code>:</p>
   <img src="https://i.imgur.com/ch91qRq.png"></img>
-  <p style={{marginTop: 10}}>2. Clique na opção <code>Adicionar Servidor</code>:</p>
+  <p style={{marginTop: 25}}>2. Clique na opção <code>Adicionar Servidor</code>:</p>
   <img src="https://i.imgur.com/dnS53OG.png"></img>
-  <p style={{marginTop: 10}}>3. Preencha <code>armamc.com</code> na opção <code>Endereço do servidor</code> e clique em <code>Concluído</code>:</p>
+  <p style={{marginTop: 25}}>3. Preencha <code>armamc.com</code> na opção <code>Endereço do servidor</code> e clique em <code>Concluído</code>:</p>
   <img src="https://i.imgur.com/vZxXzEj.png"></img>
-  <p style={{marginTop: 10}}>4. Clique na mensagem do servidor e depois em <code>Entrar no servidor</code>:</p>
+  <p style={{marginTop: 25}}>4. Clique na mensagem do servidor e depois em <code>Entrar no servidor</code>:</p>
   <img src="https://i.imgur.com/o3GUq2w.png"></img>
   <img src="https://i.imgur.com/CDSOcH2.png"></img>
-  <p style={{marginTop: 50}}>5. Use <b><code>/registrar Sua-Senha Sua-Senha</code></b> para se registrar!</p>
+  <p style={{marginTop: 25}}>5. Use <b><code>/registrar Sua-Senha Sua-Senha</code></b> para se registrar!</p>
   </div>
 </details>
 
@@ -72,6 +72,24 @@ Aceitamos Minecraft Java e Bedrock Edition!
     </button>
   </a>
 </div>
+
+<details style={{marginTop: 20}}>
+  <summary><b>
+  Passo a passo de como entrar usando Bedrock Edition!
+  </b></summary>
+  <div>
+  <p>1. Clique na opção <code>Multijogador</code>:</p>
+  <img src="https://i.imgur.com/ch91qRq.png"></img>
+  <p style={{marginTop: 25}}>2. Clique na opção <code>Adicionar Servidor</code>:</p>
+  <img src="https://i.imgur.com/dnS53OG.png"></img>
+  <p style={{marginTop: 25}}>3. Preencha <code>armamc.com</code> na opção <code>Endereço do servidor</code> e clique em <code>Concluído</code>:</p>
+  <img src="https://i.imgur.com/vZxXzEj.png"></img>
+  <p style={{marginTop: 25}}>4. Clique na mensagem do servidor e depois em <code>Entrar no servidor</code>:</p>
+  <img src="https://i.imgur.com/o3GUq2w.png"></img>
+  <img src="https://i.imgur.com/CDSOcH2.png"></img>
+  <p style={{marginTop: 25}}>5. Use <b><code>/registrar Sua-Senha Sua-Senha</code></b> para se registrar!</p>
+  </div>
+</details>
 
 ## 🏴‍☠️ Leia as Regras!
 
