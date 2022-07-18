@@ -10,10 +10,9 @@ hide_title: true
 
 Aceitamos Minecraft Versão Java e Bedrock Edition!
 
-🖥️ IP usando Java: `armamc.com` porta padrão `25565`
-🎮 IP usando Bedrock: `armamc.com` porta padrão `19132`
-
 ### 🖥️ Java Edition
+
+🖥️ IP usando Java: `armamc.com` porta padrão `25565`
 
 <div>
   <a href="https://www.minecraft.net/pt-pt/store/minecraft-java-bedrock-edition-pc">
@@ -52,6 +51,8 @@ Aceitamos Minecraft Versão Java e Bedrock Edition!
 </details>
 
 ### 🎮 Bedrock Edition
+
+🎮 IP usando Bedrock: `armamc.com` porta padrão `19132`
 
 <div>
   <a href="https://www.minecraft.net/pt-pt/store/minecraft-java-bedrock-edition-pc">
