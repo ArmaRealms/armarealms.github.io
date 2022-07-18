@@ -38,17 +38,17 @@ Aceitamos Minecraft Java e Bedrock Edition!
   </summary>
   <div>
   <p>1. Clique na opção <code>Multijogador</code>:</p>
-  <img src="https://i.imgur.com/ch91qRq.png">
+  <img src="https://i.imgur.com/ch91qRq.png"></img>
   <br></br>
   <p>2. Clique na opção <code>Adicionar Servidor</code>:</p>
-  <img src="https://i.imgur.com/dnS53OG.png">
+  <img src="https://i.imgur.com/dnS53OG.png"></img>
   <br></br>
   <p>3. Preencha <code>armamc.com</code> na opção <code>Endereço do servidor</code> e clique em <code>Concluído</code>:</p>
-  <img src="https://i.imgur.com/vZxXzEj.png">
+  <img src="https://i.imgur.com/vZxXzEj.png"></img>
   <br></br>
   <p>4. Clique na mensagem do servidor e depois em <code>Entrar no servidor</code>:</p>
-  <img src="https://i.imgur.com/o3GUq2w.png">
-  <img src="https://i.imgur.com/CDSOcH2.png">
+  <img src="https://i.imgur.com/o3GUq2w.png"></img>
+  <img src="https://i.imgur.com/CDSOcH2.png"></img>
   <br></br>
   <p>5. Use <b><code>/registrar Sua-Senha Sua-Senha</code></b> para se registrar!</p>
   </div>
