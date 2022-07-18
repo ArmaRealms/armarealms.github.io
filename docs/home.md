@@ -10,10 +10,10 @@ hide_title: true
 
 Aceitamos Minecraft Java e Bedrock Edition!
 
-### Java Edition
+### 🖥️ Java Edition
 
 <div>
-  <a href="https://www.minecraft.net/pt-pt/store/minecraft-java-edition">
+  <a href="https://www.minecraft.net/pt-pt/store/minecraft-java-bedrock-edition-pc">
     <button class="button button--primary" style={{margin: 10}}>
       Minecraft (Pago)
     </button>
@@ -30,31 +30,56 @@ Aceitamos Minecraft Java e Bedrock Edition!
   </a>
 </div>
 
-<details>
+<details style={{marginTop: 20}}>
   <summary><b>
   Passo a passo de como entrar no servidor usando Java!
   </b></summary>
   <div>
   <p>1. Clique na opção <code>Multijogador</code>:</p>
   <img src="https://i.imgur.com/ch91qRq.png"></img>
-  <br></br>
   <p style={{marginTop: 10}}>2. Clique na opção <code>Adicionar Servidor</code>:</p>
   <img src="https://i.imgur.com/dnS53OG.png"></img>
-  <br></br>
   <p style={{marginTop: 10}}>3. Preencha <code>armamc.com</code> na opção <code>Endereço do servidor</code> e clique em <code>Concluído</code>:</p>
   <img src="https://i.imgur.com/vZxXzEj.png"></img>
-  <br></br>
   <p style={{marginTop: 10}}>4. Clique na mensagem do servidor e depois em <code>Entrar no servidor</code>:</p>
   <img src="https://i.imgur.com/o3GUq2w.png"></img>
   <img src="https://i.imgur.com/CDSOcH2.png"></img>
-  <br></br>
-  <p style={{marginTop: 10}}>5. Use <b><code>/registrar Sua-Senha Sua-Senha</code></b> para se registrar!</p>
+  <p style={{marginTop: 50}}>5. Use <b><code>/registrar Sua-Senha Sua-Senha</code></b> para se registrar!</p>
   </div>
 </details>
 
+### 🎮 Bedrock Edition
+
+<div>
+  <a href="https://www.minecraft.net/pt-pt/store/minecraft-java-bedrock-edition-pc">
+    <button class="button button--primary" style={{margin: 5}}>
+      Minecraft (Pago)
+    </button>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=pt_BR&gl=US">
+    <button class="button button--primary" style={{margin: 5}}>
+      PlayStore (Pago)
+    </button>
+  </a>
+  <a href="https://www.xbox.com/pt-BR/games/store/minecraft/9NBLGGH537BL/0010">
+    <button class="button button--primary" style={{margin: 5}}>
+      Xbox One, S ou X (Pago)
+    </button>
+  </a>
+  <a href="https://www.playstation.com/pt-br/games/minecraft/">
+    <button class="button button--primary" style={{margin: 5}}>
+      PlayStation (Pago)
+    </button>
+  </a>
+</div>
+
 ## 🏴‍☠️ Leia as Regras!
 
-- [Clique aqui para acessar a lista de regras!](https://wiki.armamc.com/regras)
+<a href="https://wiki.armamc.com/regras">
+  <button class="button button--primary" style={{margin: 10}}>
+      Clique aqui para acessar a lista de regras!
+  </button>
+</a>
 
 ## 🧭 Escolha o Servidor!
 
