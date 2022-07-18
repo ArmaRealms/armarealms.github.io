@@ -8,43 +8,56 @@ hide_title: true
 
 ## 🚀 Acesse o servidor!
 
-Aceitamos apenas Minecraft Java Edition!
-- [Minecraft Original (Pago)](https://www.minecraft.net/pt-pt/store/minecraft-java-edition)
-- [Minecraft Alternativo Salwyrr (Grátis)](https://www.salwyrr.com/)
-- [Minecraft Alternativo Tlauncher (Grátis)](https://tlauncher.org/installer)
+Aceitamos Minecraft Java e Bedrock Edition!
+
+### Java Edition
+
+<div>
+  <a href="https://www.minecraft.net/pt-pt/store/minecraft-java-edition">
+    <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>
+      Minecraft Original (Pago)
+    </button>
+  </a>
+</div>
+<div>
+  <a href="https://www.salwyrr.com/">
+    <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>
+      Minecraft Alternativo Salwyrr (Grátis)
+    </button>
+  </a>
+</div>
+<div>
+  <a href="https://tlauncher.org/installer">
+    <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>
+      Minecraft Alternativo Tlauncher (Grátis)
+    </button>
+  </a>
+</div>
 
 <details>
-<summary><b>Passo a passo de como entrar no servidor!</b></summary>
-<div>
-
-1. Clique na opção `Multijogador`:
-
-![imagem1](https://i.imgur.com/ch91qRq.png)
-
-<br></br>
-
-2. Clique na opção `Adicionar Servidor`:
-
-![imagem2](https://i.imgur.com/dnS53OG.png)
-
-<br></br>
-
-3. Preencha `armamc.com` na opção `Endereço do servidor` e clique em `Concluído`:
-
-![imagem3](https://i.imgur.com/vZxXzEj.png)
-
-<br></br>
-
-4. Clique na mensagem do servidor e depois em `Entrar no servidor`:
-
-![imagem4](https://i.imgur.com/o3GUq2w.png)
-![imagem5](https://i.imgur.com/CDSOcH2.png)
-
-<br></br>
-
-5. Use **`/register Sua-Senha Sua-Senha`** para se registrar!
-
-</div>
+  <summary>
+    <a>
+      <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>
+      Passo a passo de como entrar no servidor usando Java!
+      </button>
+    </a>
+  </summary>
+  <div>
+  <p>1. Clique na opção `Multijogador`:
+  <p>![imagem1](https://i.imgur.com/ch91qRq.png)</p>
+  <br></br>
+  <p>2. Clique na opção `Adicionar Servidor`:</p>
+  <p>![imagem2](https://i.imgur.com/dnS53OG.png)</p>
+  <br></br>
+  <p>3. Preencha `armamc.com` na opção `Endereço do servidor` e clique em `Concluído`:</p>
+  <p>![imagem3](https://i.imgur.com/vZxXzEj.png)</p>
+  <br></br>
+  <p>4. Clique na mensagem do servidor e depois em `Entrar no servidor`:</p>
+  <p>![imagem4](https://i.imgur.com/o3GUq2w.png)</p>
+  <p>![imagem5](https://i.imgur.com/CDSOcH2.png)</p>
+  <br></br>
+  <p>5. Use **`/registrar Sua-Senha Sua-Senha`** para se registrar!
+  </div>
 </details>
 
 ## 🏴‍☠️ Leia as Regras!
