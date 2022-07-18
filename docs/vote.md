@@ -48,7 +48,7 @@ A cada **`80 votos`** você recebe uma Chave **`Lendária`**.
 
 <div style={{marginTop: 50}}>
 
-:::warn Votos offline!
+:::tip Votos offline!
 Caso você vote offline, os votos serão salvos por até 7 dias, basta entrar no servidor durante esse tempo para receber suas recompensas.
 :::
 
