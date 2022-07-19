@@ -89,7 +89,7 @@ Aceitamos Minecraft Versão Java e Bedrock Edition!
   <img src="https://i.imgur.com/opxYhcx.png"></img>
   <p style={{marginTop: 25}}>3. Preencha <code>Armageddon</code> na opção <b>Nome do servidor</b>.</p>
   <p>4. Preencha <code>armamc.com</code> na opção <b>Endereço do Servidor</b>.</p>
-  <p>5. Preencha <code>19132<code> na opção <b>Porta<b> e clique em <b>Jogar</b>:</p>
+  <p>5. Preencha <code>19132<code> na opção <b>Porta</b> e clique em <b>Jogar</b>:</p>
   <img src="https://i.imgur.com/RX5Xx8q.png"></img>
   <p style={{marginTop: 25}}>6. Use <code>/registrar Sua-Senha Sua-Senha</code> para se registrar!</p>
   </div>
