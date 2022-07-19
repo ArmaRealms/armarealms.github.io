@@ -95,6 +95,44 @@ Aceitamos Minecraft Versão Java e Bedrock Edition!
   </div>
 </details>
 
+### 🔀 Vincular Contas
+
+Saiba como vincular sua conta Java com a Bedrock Edition!
+
+#### Como Funciona
+
+Ao vincular sua conta Java com sua Conta Bedrock você entrará pelo Bedrock Edition mas carregará os dados da sua conta Java. Você poderá jogar no celular, Xbox, Playstation usando sua conta Java após vincular as contas.
+
+Exemplo: Minha conta no Java é `ThiagoROX` e minha conta no Bedrock é `ThiagoROX7173`, após vincular minha conta vou entrar no servidor pelo Bedrock (PC, console ou mobile) mas o servidor entenderá que eu entrei com a minha conta Java `ThiagoROX` e com isso vou possuir todo o progresso da conta Java na conta Bedrock.
+
+#### Como Vincular
+
+1. Entre com a sua conta Java e envie o comando `/linkaccount <gamertag>`
+2. Será gerado um comando com código para ser executado na conta Bedrock.
+3. Entre com a sua conta Bedrock e execute o comando que foi enviado na conta Java.
+4. Pronto, sua conta foi vinculada com sucesso!
+
+Exemplo utilizando a conta Java `ThiagoROX` e Bedrock `ThiagoROX7173`:
+
+1. Entro na conta Java `ThiagoROX` e envio o comando: `/linkaccount ThiagoROX7173`
+2. É enviado o comando e código no chat para ser executado na conta Bedrock:
+![imagem](https://i.imgur.com/DSzNxFi.png)
+3. Entro na conta Bedrock `ThiagoROX7173` e envio o comando: `/linkaccount ThiagoROX 0289`
+4. Pronto, conta vinculada com sucesso!
+Agora ao entrar na conta Bedrock ThiagoROX7173 o servidor carregará os dados da conta Java ThiagoROX.
+
+#### Como Desvincular
+
+1. Envie `/unlinkaccount` usando a conta na versão Java ou Bedrock Edition.
+
+#### Outras informações
+
+O código gerado através do comando expira em 10 minutos.
+
+Sua gamertag é seu nickname dentro do servidor sem o `*`
+Você também pode visualizar sua gamertag no launcher Bedrock:
+![imagem](https://i.imgur.com/oG1Q7x4.png)
+
 ## 🏴‍☠️ Leia as Regras!
 
 <a href="https://wiki.armamc.com/regras">
