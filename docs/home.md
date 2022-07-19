@@ -41,7 +41,7 @@ Aceitamos Minecraft Versão Java e Bedrock Edition!
   <img src="https://i.imgur.com/ch91qRq.png"></img>
   <p style={{marginTop: 25}}>2. Clique na opção <b>Adicionar Servidor</b>:</p>
   <img src="https://i.imgur.com/dnS53OG.png"></img>
-  <p style={{marginTop: 25}}>3. Preencha Armageddon na opção <b>Nome do servidor<b>.</p>
+  <p style={{marginTop: 25}}>3. Preencha <code>Armageddon</code> na opção <b>Nome do servidor</b>.</p>
   <p>4. Preencha <code>armamc.com</code> na opção <b>Endereço do servidor</b> e clique em <b>Concluído</b>:</p>
   <img src="https://i.imgur.com/vZxXzEj.png"></img>
   <p style={{marginTop: 25}}>5. Clique na mensagem do servidor e depois em <b>Entrar no servidor</b>:</p>
