@@ -6,11 +6,11 @@ sidebar_position: 1
 hide_title: true
 ---
 
-## 🚀 Acesse o servidor!
+## 🚀 Acesse o servidor! {#como-jogar}
 
 Aceitamos Minecraft Versão Java e Bedrock Edition!
 
-### 🖥️ Java Edition
+### 🖥️ Java Edition {#como-jogar-java}
 
 - IP: `armamc.com` Porta: `25565`
 
@@ -51,7 +51,7 @@ Aceitamos Minecraft Versão Java e Bedrock Edition!
   </div>
 </details>
 
-### 🎮 Bedrock Edition
+### 🎮 Bedrock Edition {#como-jogar-bedrock}
 
 - IP: `armamc.com` Porta: `19132`
 
@@ -95,9 +95,11 @@ Aceitamos Minecraft Versão Java e Bedrock Edition!
   </div>
 </details>
 
-### 🔀 Vincular Contas
+### 🔀 Vincular Contas {#como-vincular-contas}
 
-Saiba como vincular sua conta Java com a Bedrock Edition!
+<details>
+<summary><b>🔀 Saiba como vincular sua conta Java com a Bedrock Edition!</b></summary>
+<div>
 
 #### Como Funciona
 
@@ -112,14 +114,14 @@ Exemplo: Minha conta no Java é `ThiagoROX` e minha conta no Bedrock é `ThiagoR
 3. Entre com a sua conta Bedrock e execute o comando que foi enviado na conta Java.
 4. Pronto, sua conta foi vinculada com sucesso!
 
-Exemplo utilizando a conta Java `ThiagoROX` e Bedrock `ThiagoROX7173`:
+🎯 Exemplo utilizando a conta Java `ThiagoROX` e Bedrock `ThiagoROX7173`:
 
 1. Entro na conta Java `ThiagoROX` e envio o comando: `/linkaccount ThiagoROX7173`
 2. É enviado o comando e código no chat para ser executado na conta Bedrock:
 ![imagem](https://i.imgur.com/DSzNxFi.png)
 3. Entro na conta Bedrock `ThiagoROX7173` e envio o comando: `/linkaccount ThiagoROX 0289`
-4. Pronto, conta vinculada com sucesso!
-Agora ao entrar na conta Bedrock ThiagoROX7173 o servidor carregará os dados da conta Java ThiagoROX.
+4. Pronto, conta vinculada com sucesso!  
+Agora ao entrar na conta Bedrock o servidor carregará os dados da conta Java.
 
 #### Como Desvincular
 
@@ -129,11 +131,14 @@ Agora ao entrar na conta Bedrock ThiagoROX7173 o servidor carregará os dados da
 
 O código gerado através do comando expira em 10 minutos.
 
-Sua gamertag é seu nickname dentro do servidor sem o `*`
+Sua gamertag é seu nickname dentro do servidor sem o `*`  
 Você também pode visualizar sua gamertag no launcher Bedrock:
 ![imagem](https://i.imgur.com/oG1Q7x4.png)
 
-## 🏴‍☠️ Leia as Regras!
+</div>
+</details>
+
+## 🏴‍☠️ Leia as Regras! {#regras}
 
 <a href="https://wiki.armamc.com/regras">
   <button class="button button--primary" style={{margin: 10}}>
@@ -141,21 +146,21 @@ Você também pode visualizar sua gamertag no launcher Bedrock:
   </button>
 </a>
 
-## 🧭 Escolha o Servidor!
+## 🧭 Escolha o Servidor! {#servidores}
 
 Ao entrar no lobby do Armageddon, clique com a bússola na mão e escolha um dos dois servidores:
 
 * Survival Gênesis - Aberto em 23/06/2019
 * Survival Apocalipse - Aberto em 04/04/2020
 
-## 🗺️ Explore o Mapa!
+## 🗺️ Explore o Mapa! {#mapas}
 
 * Use **`/wild`** e clique em confirmar para ser teleportado para um local aleatório do mapa!
 * Cada teleporte aleatório possui um tempo de espera de 10 minutos para ser utilizado novamente.
 
 Você também pode sair andando, o **Spawn** possui uma área de 500x500.
 
-## 🏳️ Defina Sua Base!
+## 🏳️ Defina Sua Base! {#homes}
 
 * Use **`/sethome [nome]`** para definir sua base.
 * Use **`/home [nome]`** para voltar a sua base.
@@ -163,7 +168,7 @@ Você também pode sair andando, o **Spawn** possui uma área de 500x500.
 
 🎯 Exemplo: **`/sethome base`** para definir e **`/home base`** para voltar ao local.
 
-## 💂 Proteja sua Base!
+## 💂 Proteja sua Base! {#protecao}
 
 > Tutorial de como proteger suas construções:
 
@@ -171,18 +176,23 @@ Você também pode sair andando, o **Spawn** possui uma área de 500x500.
 * Use **`/prot`** para gerenciar sua proteção.
 * [Clique aqui para mais informações sobre proteção.](/protecao/basica.md)
 
-## 💬 Envie mensagens!
+## 💬 Envie mensagens! {#chat}
 
 Se comunique com outros jogadores:
 
 * Use **`/g <mensagem>`** para falar no chat global.
 * Use **`/m <jogador> <mensagem>`** e envie mensagens privadas para outro jogador.
-* Use **`/mail send <nick> <mensagem>`** para enviar um e-mail para jogadores offline.
+* Use **`/email enviar <nick> <mensagem>`** para enviar um e-mail para jogadores offline.
 
-## 💰 Compre e Venda!
+## 💰 Compre e Venda! {#lojas}
 
 * Use **`/loja`** para abrir o menu de lojas.
 * Você pode ganhar coins dentro do servidor de várias formas, vender itens é apenas uma delas.
 * Para ganhar conins construa fazendas de cenoura, cana de açucar, batata ou minere blocos valiosos como ferro e diamante e venda para o servidor com **`/sellall`**.
 
-## ⚔️ Entre para um Clã!
+## ⚔️ Entre para um Clã! {#clan}
+
+* Use **`/clan criar [tag] [nome]`** para criar um clã.
+* Use **`/clan convidar <jogador>`** para enviar convite de clã a um jogador.
+* Use **`/c <mensagem>`** para enviar mensagens no chat do clã.
+* Use **`/a <mensagem>`** para enviar mensagens no chat de aliados.
