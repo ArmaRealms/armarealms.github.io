@@ -13,6 +13,10 @@ A cada **`20 votos`** você recebe uma Chave **`Rara`**.
 A cada **`80 votos`** você recebe uma Chave **`Lendária`**.
 :::
 
+:::tip Votos offline!
+Caso você vote offline, os votos serão salvos por até 7 dias, basta entrar no servidor durante esse tempo para receber suas recompensas.
+:::
+
 <div>
   <a href="https://minecraft-mp.com/server/225174/vote">
     <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>Site 01</button>
@@ -46,10 +50,3 @@ A cada **`80 votos`** você recebe uma Chave **`Lendária`**.
   </a>
 </div>
 
-<div style={{marginTop: 50}}>
-
-:::tip Votos offline!
-Caso você vote offline, os votos serão salvos por até 7 dias, basta entrar no servidor durante esse tempo para receber suas recompensas.
-:::
-
-</div>

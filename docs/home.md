@@ -34,19 +34,20 @@ Aceitamos Minecraft Versão Java e Bedrock Edition!
 
 <details style={{marginTop: 20}}>
   <summary><b>
-  Passo a passo de como entrar no usando Java Edition!
+  Passo a passo de como entrar usando Bedrock Edition!
   </b></summary>
   <div>
   <p>1. Clique na opção <code>Multijogador</code>:</p>
   <img src="https://i.imgur.com/ch91qRq.png"></img>
-  <p style={{marginTop: 25}}>2. Clique na opção <code>Adicionar Servidor</code>:</p>
+  <p style={{marginTop: 25}}>2. Clique na opção <b>Adicionar Servidor</b>:</p>
   <img src="https://i.imgur.com/dnS53OG.png"></img>
-  <p style={{marginTop: 25}}>3. Preencha <code>armamc.com</code> na opção <code>Endereço do servidor</code> e clique em <code>Concluído</code>:</p>
+  <p style={{marginTop: 25}}>3. Preencha Armageddon na opção <b>Nome do servidor<b>.
+  4. Preencha <code>armamc.com</code> na opção <b>Endereço do servidor</b> e clique em <b>Concluído</b>:</p>
   <img src="https://i.imgur.com/vZxXzEj.png"></img>
-  <p style={{marginTop: 25}}>4. Clique na mensagem do servidor e depois em <code>Entrar no servidor</code>:</p>
+  <p style={{marginTop: 25}}>4. Clique na mensagem do servidor e depois em <b>Entrar no servidor</b>:</p>
   <img src="https://i.imgur.com/o3GUq2w.png"></img>
   <img src="https://i.imgur.com/CDSOcH2.png"></img>
-  <p style={{marginTop: 25}}>5. Use <b><code>/registrar Sua-Senha Sua-Senha</code></b> para se registrar!</p>
+  <p style={{marginTop: 25}}>5. Use <code>/registrar Sua-Senha Sua-Senha</code> para se registrar!</p>
   </div>
 </details>
 
@@ -79,19 +80,18 @@ Aceitamos Minecraft Versão Java e Bedrock Edition!
 
 <details style={{marginTop: 20}}>
   <summary><b>
-  Passo a passo de como entrar usando Bedrock Edition!
+  Passo a passo de como entrar no usando Java Edition!
   </b></summary>
   <div>
-  <p>1. Clique na opção <code>Multijogador</code>:</p>
-  <img src="https://i.imgur.com/ch91qRq.png"></img>
-  <p style={{marginTop: 25}}>2. Clique na opção <code>Adicionar Servidor</code>:</p>
-  <img src="https://i.imgur.com/dnS53OG.png"></img>
-  <p style={{marginTop: 25}}>3. Preencha <code>armamc.com</code> na opção <code>Endereço do servidor</code> e clique em <code>Concluído</code>:</p>
-  <img src="https://i.imgur.com/vZxXzEj.png"></img>
-  <p style={{marginTop: 25}}>4. Clique na mensagem do servidor e depois em <code>Entrar no servidor</code>:</p>
-  <img src="https://i.imgur.com/o3GUq2w.png"></img>
-  <img src="https://i.imgur.com/CDSOcH2.png"></img>
-  <p style={{marginTop: 25}}>5. Use <b><code>/registrar Sua-Senha Sua-Senha</code></b> para se registrar!</p>
+  <p>1. Clique na opção <b>Jogar</b>:</p>
+  <img src="https://i.imgur.com/ovEqfwN.png"></img>
+  <p style={{marginTop: 25}}>2. Clique na opção <b>Servidores</b> e depois em <b>Adicinar Servidor</b>:</p>
+  <img src="https://i.imgur.com/opxYhcx.png"></img>
+  <p style={{marginTop: 25}}>3. Preencha <code>Armageddon</code> na opção <b>Nome do servidor</b>.<br></br>
+  4. Preencha <code>armamc.com</code> na opção <b>Endereço do Servidor</b>.<br><br>
+  5. Preencha <code>19132<code> na opção <b>Porta<b> e clique em <b>Jogar</b>:</p>
+  <img src="https://i.imgur.com/RX5Xx8q.png"></img>
+  <p style={{marginTop: 25}}>5. Use <code>/registrar Sua-Senha Sua-Senha</code> para se registrar!</p>
   </div>
 </details>
 
