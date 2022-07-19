@@ -34,7 +34,7 @@ Aceitamos Minecraft Versão Java e Bedrock Edition!
 
 <details style={{marginTop: 20}}>
   <summary><b>
-  Passo a passo de como entrar usando Bedrock Edition!
+  🖥️ Passo a passo de como entrar usando Java Edition!
   </b></summary>
   <div>
   <p>1. Clique na opção <code>Multijogador</code>:</p>
@@ -80,7 +80,7 @@ Aceitamos Minecraft Versão Java e Bedrock Edition!
 
 <details style={{marginTop: 20}}>
   <summary><b>
-  Passo a passo de como entrar no usando Java Edition!
+  🎮 Passo a passo de como entrar usando Bedrock Edition!
   </b></summary>
   <div>
   <p>1. Clique na opção <b>Jogar</b>:</p>
