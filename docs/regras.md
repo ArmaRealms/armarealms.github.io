@@ -249,7 +249,7 @@ Será levado em consideração na hora da avaliação do ticket a construção e
 * Peixe Tropical, Salmão, Bacalhau e Baiacu = 10 a cada 10 blocos de distância
 * Raposa, Panda e Urso Polar = 6 a cada 10 blocos de distância
 * Abelhas = 4 a cada 5 blocos de distância
-* Golem de Ferro e Golem de Neve = 2 a cada 10 blocos de distância
+* Golem de ferro e Golem de neve = 4 a cada 10 blocos de distância
 
 **Lista de Monstros**
 * Monstros como Zumbi, Esqueleto e etc = 10 a cada 10 blocos de distância
@@ -420,6 +420,6 @@ Exemplo: Jogador silenciado por 2 horas ao realizar flood, caso não sofra nenhu
 
 <div>
 
-  <p style={{textAlign: "center"}}>`Regras atualizadas no dia 28/06/2022`</p>
+  <p style={{textAlign: "center"}}>`Regras atualizadas no dia 22/07/2022`</p>
 
 </div>
