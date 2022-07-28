@@ -6,7 +6,7 @@ sidebar_position: 3
 
 # Torneio Escavador
 
-Torneio de quem quebra mais blocos com a pá durante a semana.
+Torneio de quem quebra mais blocos com a pá durante a semanal.
 
 ## Pontuação
 

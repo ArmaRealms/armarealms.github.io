@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Torneio Britadeira
 
-Torneio de quem quebra mais blocos com a picareta durante a semana.
+Torneio de quem quebra mais blocos com a picareta durante a semanal.
 
 ## Pontuação
 

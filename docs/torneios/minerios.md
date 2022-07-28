@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # Torneio Minérios
 
-Torneio de quem quebra mais minérios durante a semana.
+Torneio de quem quebra mais minérios durante a semanal.
 
 ## Pontuação
 
