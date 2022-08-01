@@ -43,7 +43,7 @@ sidebar_position: 3
 
 :::info Vote e receba chaves para abrir caixas na warp /caixa
 Quanto mais você votar mais prêmios e chaves você pode ganhar:  
-A cada **`5 votos`** você recebe uma Chave **`Indígena`**. 
+A cada **`5 votos`** você recebe uma Chave **`Indígena`**.  
 A cada **`10 votos`** você recebe uma Chave **`Comum`**.  
 A cada **`20 votos`** você recebe uma Chave **`Rara`**.  
 A cada **`80 votos`** você recebe uma Chave **`Lendária`**.
