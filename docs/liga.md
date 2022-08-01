@@ -48,7 +48,7 @@ Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês.
 | Clã x Clã Semanal     | 200 pontos                                                                           |
 | Arqueiro Semanal      | 100 pontos                                                                           |
 | Killer Semanal        | 100 pontos                                                                           |
-| Luta Semanal          | 100 pontos                                                                           |
+| Gladiador Semanal     | 100 pontos                                                                           |
 | Pré-Guerra Semanal    | 100 pontos                                                                           |
 | Torneio Semanal       | <p>1° lugar = 100 pontos</p><p>2° lugar = 75 pontos</p><p>3° lugar = 50 pontos</p>   |
 
@@ -62,7 +62,7 @@ Cada temporada dura 1 mês completo, do dia 01 ao ultimo dia do respectivo mês.
 | --------------------- | ------------------------------------------------------------------------------------ |
 | Arqueiro              | 20 pontos                                                                            |
 | Killer                | 20 pontos                                                                            |
-| Luta                  | 20 pontos                                                                            |
+| Gladiador             | 20 pontos                                                                            |
 | Boxe                  | 10 pontos                                                                            |
 | Carregador de Gemas   | 10 pontos                                                                            |
 | Folha                 | 10 pontos                                                                            |
