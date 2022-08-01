@@ -37,5 +37,5 @@ Ao matar mobs no servidor você tem chance de receber itens.
 </APITable>
 
 ¹ Dividido entre todos os jogadores que causaram dano ao dragão.  
-² Pode dropar no chão de 1 a 8 cascos de shulker.
-³ Entregue ao jogador que matar o dragão.
+² Pode dropar no chão de 1 a 8 cascos de shulker.  
+³ Entregue direto ao inventário do jogador que matar o dragão.
