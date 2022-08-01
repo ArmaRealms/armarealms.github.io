@@ -6,7 +6,7 @@ sidebar_position: 3
 
 # Vote no Servidor
 
-<div>
+<div style={{margin: 10}}>
   <a href="https://minecraft-mp.com/server/225174/vote">
     <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>Site 01</button>
   </a>
@@ -39,13 +39,22 @@ sidebar_position: 3
   </a>
 </div>
 
+<div style={{margin: 10}}>
+
 :::info Vote e receba chaves para abrir caixas na warp /caixa
 Quanto mais você votar mais prêmios e chaves você pode ganhar:  
+A cada **`5 votos`** você recebe uma Chave **`Indígena`**. 
 A cada **`10 votos`** você recebe uma Chave **`Comum`**.  
 A cada **`20 votos`** você recebe uma Chave **`Rara`**.  
 A cada **`80 votos`** você recebe uma Chave **`Lendária`**.
 :::
 
+</div>
+
+<div style={{margin: 10}}>
+
 :::tip Votos offline!
 Caso você vote offline, os votos serão salvos por até 7 dias, basta entrar no servidor durante esse tempo para receber suas recompensas.
 :::
+
+</div>
