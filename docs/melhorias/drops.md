@@ -16,8 +16,8 @@ Ao matar mobs no servidor você tem chance de receber itens.
 
 | Mob     | Drop      | Chance  |
 | ------- | --------- | ------- |
-| Dragão do Ender | 0 a 8x Casco de shulker | 100% |
-| Dragão do Ender | 1x Élitros | 20% |
+| Dragão do Ender | Casco de shulker | 100% de 0 a 8 itens |
+| Dragão do Ender | Élitros | 20% |
 | Afogado | Ovo gerador de afogado | 1% |
 | Afogado | Tridente | 1% |
 | Aranha das cavernas | Ovo gerador de aranha das cavernas | 1% |

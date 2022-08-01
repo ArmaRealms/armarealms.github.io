@@ -6,7 +6,7 @@ sidebar_position: 3
 
 # Vote no Servidor
 
-<div style={{margin: 10}}>
+<div>
   <a href="https://minecraft-mp.com/server/225174/vote">
     <button class="button button--lg button--primary shadow--tl" style={{margin: 10}}>Site 01</button>
   </a>
