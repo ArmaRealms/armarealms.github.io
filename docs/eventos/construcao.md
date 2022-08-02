@@ -27,7 +27,7 @@ Prints, GIFs ou vídeo
 Data inicial para inscrições: Primeiro dia do mês.  
 Data final para inscrições: Último dia do mês.  
 Dia de avaliação das construções: Dia 05 do mês seguinte.  
-Entrega do prêmio: dia 10 do mês seguinte.
+Entrega do prêmio: Dia 10 do mês seguinte.
 
 ## Premiação
 
