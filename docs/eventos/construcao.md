@@ -8,12 +8,12 @@ sidebar_position: 2
 
 ## Como Participar
 1. Faça uma construção nos servidores, seguindo o tema do evento.
-2. Envie prints, GIFs ou videos da sua construção no [Discord](https://discord.gg/KekcmtyFR9) com:
-Nome da Construção:
-Participantes:
-Servidor: (Gênesis ou Apocalipse)
+2. Envie prints, GIFs ou videos da sua construção no [Discord](https://discord.gg/KekcmtyFR9) com:  
+Nome da Construção:  
+Participantes:  
+Servidor: (Gênesis ou Apocalipse)  
 Prints, GIFs ou vídeo
-3. Abra um ticket na construção dentro do servidor enviando:
+3. Abra um ticket na construção dentro do servidor enviando:  
 `/modreq Evento de construção, Nome da Construção.`
 4. Aguarde a data final para envio das construções para o evento.
 
