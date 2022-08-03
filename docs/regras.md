@@ -14,7 +14,7 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 
 > **Cyberbullying** é um tipo de **violência** praticada contra alguém **através da internet** ou de outras tecnologias relacionadas. Praticar _cyberbullying_ significa usar o espaço virtual para intimidar e hostilizar uma pessoa difamando, insultando ou atacando covardemente.
 
-### Regra 1.1 - Enviar Xingamentos e Bullyng entre Membros! {#1-1}
+### Regra 1.1 - Enviar Xingamentos ou Bullyng entre Membros! {#1-1}
 
 > Não envie xingamentos e/ou brincadeiras de mal gosto para outros jogadores (mesmo que sendo seu "amigo").
 
@@ -32,7 +32,7 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 </div>
 </details>
 
-### Regra 1.2 - Enviar Xingamentos e Desrespeito a Staff! {#1-2}
+### Regra 1.2 - Enviar Xingamentos ou Desrespeito a Staff! {#1-2}
 
 > Não envie xingamentos e/ou brincadeiras de mal gosto para a Staff.
 
@@ -47,7 +47,7 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 </div>
 </details>
 
-### Regra 1.3 - Racismo, Homofobia, Apologia a Crimes! {#1-3}
+### Regra 1.3 - Discurso de Ódio como Racismo, Assédio e etc! {#1-3}
 
 <details>
 <summary>💀 <b>Lista de Punições</b></summary>
@@ -59,7 +59,7 @@ Se você possuir conta original e realizar a alteração do nome de perfil (nick
 </details>
 
 :::danger Atenção!
-A Staff se reserva ao direito de julgar o que será tratado como xingamento, bullying, racismo, homofobia, apologia a crimes e desrespeito a staff.
+A Staff se reserva ao direito de julgar o que será tratado como xingamento, bullying, discurso de ódio, assédio e desrespeito a staff.
 :::
 
 ## Regra 2 - Proibido Usar Métodos Ilegais para Vantagens Gerais! {#2}
@@ -420,6 +420,6 @@ Exemplo: Jogador silenciado por 2 horas ao realizar flood, caso não sofra nenhu
 
 <div>
 
-  <p style={{textAlign: "center"}}>`Regras atualizadas no dia 22/07/2022`</p>
+  <p style={{textAlign: "center"}}><code>Regras atualizadas no dia 03/08/2022</code></p>
 
 </div>
